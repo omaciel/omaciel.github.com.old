@@ -3,6 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rbenv-version", "README.md", "Rakefile"]
+markdown: rdiscount
 auto: true
 pygments: true
 
