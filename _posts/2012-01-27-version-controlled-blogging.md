@@ -14,4 +14,6 @@ The second reason for doing this is actually based on a very bad experience I ha
 
 So here goes my very first post, the first of many I hope. So far, I'm really digging [Jekyll](http://jekyllbootstrap.com) and am looking forward to using it every day!
 
+<img src="/_images/jekyll-page-20120127.png" alt="First look" />
+
 **UPDATE:** Had to modify the indentation of my paragraphs, as well as add an empty line between them so that they would render correctly.
