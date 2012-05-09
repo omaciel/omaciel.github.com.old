@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20120413 11:45:27.361" generator="Robot 2.7.1 (Python 2.6.7 on linux2)">
+<suite source="/home/omaciel/hacking/robottelo/src/tests/another.tsv" id="s1" name="Another">
+<metadata>
+</metadata>
+<test id="s1-t1" timeout="" name="Admin User Valid Login">
+<kw type="kw" name="Start Browser" timeout="">
+<doc></doc>
+<arguments>
+<arg>${LOGIN_URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20120413 11:45:27.509" level="FAIL">No keyword with name 'Start Browser' found.</msg>
+<status status="FAIL" endtime="20120413 11:45:27.509" starttime="20120413 11:45:27.509"></status>
+</kw>
+<kw type="teardown" name="Selenium2Library.Close Browser" timeout="">
+<doc>Closes the current browser.</doc>
+<arguments>
+</arguments>
+<status status="PASS" endtime="20120413 11:45:27.510" starttime="20120413 11:45:27.510"></status>
+</kw>
+<doc></doc>
+<tags>
+</tags>
+<status status="FAIL" endtime="20120413 11:45:27.511" critical="yes" starttime="20120413 11:45:27.508">No keyword with name 'Start Browser' found.</status>
+</test>
+<doc>Suite using WebDriver API.</doc>
+<status status="FAIL" endtime="20120413 11:45:27.511" starttime="20120413 11:45:27.362"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="1" pass="0">Critical Tests</stat>
+<stat fail="1" pass="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="1" id="s1" name="Another" pass="0">Another</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20120413 11:45:27.507" level="WARN">Imported library '/home/omaciel/hacking/robottelo/src/tests/../lib/login.py' contains no keywords</msg>
+</errors>
+</robot>
