@@ -1,5 +1,4 @@
 name: Og Maciel
-baseurl: omaciel.github.io
 markdown: redcarpet
 pygments: true
 timezone: America/New_York
