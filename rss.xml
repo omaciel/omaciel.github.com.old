@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <description/>
+    <title>Journal of An Open Sourcee</title>
+    <generator>Jekyll Generated</generator>
+    <link>http://www.ogmaciel.com/</link>
+    <language>en-us</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <description type="html">{{ post.content | xml_escape }}</description>
+      <link>http://www.ogmaciel.com{{ post.url }}</link>
+      <guid>http://www.ogmaciel.com{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <author>omaciel@ogmaciel.com (Og Maciel)</author>
+      <id>http://www.ogmaciel.com{{ post.id }}</id>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>
