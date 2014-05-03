@@ -158,3 +158,5 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+li.category_list_item{line-height:1;list-style:none;margin:0;display:inline}
