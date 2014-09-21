@@ -1,5 +1,5 @@
 name: Og Maciel
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 timezone: America/New_York
 
