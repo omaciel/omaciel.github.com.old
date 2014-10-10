@@ -1,5 +1,14 @@
+title: Og Maciel
+
+baseurl: ""
+url: "https://omaciel.github.io"
+
 name: Og Maciel
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 timezone: America/New_York
 
+safe: true
+lsi: false
+
+github: "Journal of an Open Sourcee"
