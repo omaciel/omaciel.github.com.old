@@ -6,6 +6,7 @@ It Was A Fix
 :tags: english
 
 .. image:: http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/windows_95.jpg
+   :alt: It was a fix
 
 You are Windows 95. You look better than your older brother, but your communication skills are still lacking. You start well, but often zone out. `Which OS are You`_?
 
