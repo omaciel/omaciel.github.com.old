@@ -2,7 +2,7 @@ Novo pacote do BillReminder para o Gutsy
 ########################################
 :slug: novo-pacote-do-billreminder-para-o-gutsy
 :date: 2008-01-10 03:22
-:category:
+:category: English
 :tags: portuguese
 
 Algumas pessoas relataram alguns problemas de dependÃªncias quando

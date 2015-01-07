@@ -2,7 +2,7 @@ Em Memória de André Gondim
 ############################
 :slug: em-memoria-de-andre-gondim
 :date: 2011-11-07 04:31
-:category:
+:category: English
 :tags: portuguese
 
 |André Gondim - Ubuntu Brasil|

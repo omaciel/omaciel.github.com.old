@@ -2,7 +2,7 @@ A Plea for Jorge Castro
 #######################
 :slug: a-plea-for-jorge-castro
 :date: 2006-12-04 16:03
-:category:
+:category: English
 :tags: english
 
 I was extremely sad to find out over the weekend that the always lovable

@@ -2,7 +2,7 @@ Customized Ubuntu Dapper Drake Live CD 1,2,3
 ############################################
 :slug: customized-ubuntu-dapper-drake-live-cd-123
 :date: 2006-08-09 13:18
-:category:
+:category: English
 :tags: english
 
 This article was inspired by another article from my good friend `Alex

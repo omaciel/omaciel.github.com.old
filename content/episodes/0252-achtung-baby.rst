@@ -2,7 +2,7 @@ Achtung, Baby!
 ##############
 :slug: achtung-baby
 :date: 2006-03-23 20:39
-:category:
+:category: English
 :tags: english
 
 Been away from this blog for quite some time now. Obviously, a great

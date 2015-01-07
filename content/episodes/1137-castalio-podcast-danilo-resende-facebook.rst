@@ -2,7 +2,7 @@ Castálio Podcast: Danilo Resende - Facebook
 ############################################
 :slug: castalio-podcast-danilo-resende-facebook
 :date: 2012-07-09 15:26
-:category:
+:category: Portuguese
 :tags: ubuntu, portuguese, mandriva, podcast, castálio
 
 |image0|

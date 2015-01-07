@@ -2,7 +2,7 @@ Stop whining and improve your life
 ##################################
 :slug: stop-whining-and-improve-your-life
 :date: 2010-04-13 20:00
-:category:
+:category: English
 :tags: english
 
 |image0|

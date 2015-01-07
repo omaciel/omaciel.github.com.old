@@ -2,7 +2,7 @@ Day of Remembrance
 ##################
 :slug: day-of-remembrance
 :date: 2008-11-20 15:11
-:category:
+:category: English
 :tags: english
 
 I’d like to second

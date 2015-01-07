@@ -2,7 +2,7 @@ Open Source Alliance - March 24th, 2005
 #######################################
 :slug: open-source-alliance-march-24th-2005
 :date: 2005-03-28 14:45
-:category:
+:category: English
 :tags: english
 
 I completely forgot to mention about this last Thursday’s first `Open

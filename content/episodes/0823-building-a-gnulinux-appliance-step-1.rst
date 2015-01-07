@@ -2,7 +2,7 @@ Building a GNU/Linux Appliance: Step 1
 ######################################
 :slug: building-a-gnulinux-appliance-step-1
 :date: 2008-07-30 18:04
-:category:
+:category: English
 :tags: english
 
 As some of you may know, I’ve been doing a great deal of testing for

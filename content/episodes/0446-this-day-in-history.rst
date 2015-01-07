@@ -2,7 +2,7 @@ This day in history
 ###################
 :slug: this-day-in-history
 :date: 2006-12-07 18:37
-:category:
+:category: English
 :tags: english
 
 Today we remember what happened on December 7, 1941: The `attack on

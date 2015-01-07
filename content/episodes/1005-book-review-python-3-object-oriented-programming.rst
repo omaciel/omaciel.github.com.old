@@ -2,7 +2,7 @@ Book Review: Python 3 Object Oriented Programming
 #################################################
 :slug: book-review-python-3-object-oriented-programming
 :date: 2010-08-11 13:16
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1171” align=”alignleft” width=”243”

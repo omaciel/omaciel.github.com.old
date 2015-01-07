@@ -2,7 +2,7 @@ Pegando os Espanhois de Tapas
 #############################
 :slug: pegando-os-espanhois-de-tapas
 :date: 2006-08-02 13:22
-:category:
+:category: English
 :tags: portuguese
 
 Calma, calma gente…Ã‚Â  NÃƒÂ£o estou partindo para a ignorÃƒÂ¢ncia e

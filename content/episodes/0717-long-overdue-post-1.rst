@@ -2,7 +2,7 @@ Long overdue post #1
 ####################
 :slug: long-overdue-post-1
 :date: 2008-02-09 23:12
-:category:
+:category: English
 :tags: english
 
 Life has shifted to high gear these last 2 weeks and my time was mostly

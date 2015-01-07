@@ -2,7 +2,7 @@ Ubuntu Developer Summit - Grand Finale
 ######################################
 :slug: ubuntu-developer-summit-grand-finale
 :date: 2006-11-22 17:59
-:category:
+:category: English
 :tags: portuguese
 
 Pronto! Finalmente consegui arrumar um pouco de tempo para escrever um

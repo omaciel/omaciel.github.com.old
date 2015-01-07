@@ -2,7 +2,7 @@ TabletPC 3: A volta dos que nÃƒÂ£o foram!
 #############################################
 :slug: tabletpc-3-a-volta-dos-que-nao-foram
 :date: 2006-06-10 21:02
-:category:
+:category: English
 :tags: portuguese
 
 Como tinha prometido antes, aqui estÃƒÂ£o algums fotos do meu TabletPC

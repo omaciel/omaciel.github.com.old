@@ -2,7 +2,7 @@ Geany
 #####
 :slug: geany
 :date: 2007-05-29 10:12
-:category:
+:category: English
 :tags: english
 
 Last week I started using the text editor and IDE

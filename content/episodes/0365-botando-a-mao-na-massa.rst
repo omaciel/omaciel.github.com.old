@@ -2,7 +2,7 @@ Botando a mÃƒÂ£o na massa!
 ##############################
 :slug: botando-a-mao-na-massa
 :date: 2006-07-22 22:19
-:category:
+:category: English
 :tags: portuguese
 
 O tÃƒÂ­tulo deste artigo foi “cunhado” por meu amigo `CÃƒÂ¡ssio

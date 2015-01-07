@@ -2,7 +2,7 @@ A caravana passa mas os cachorros continuam a latir
 ###################################################
 :slug: a-caravana-passa-mas-os-cachorros-continuam-a-latir
 :date: 2006-05-19 15:55
-:category:
+:category: English
 :tags: portuguese
 
 Um efeito colateral de se morar fora do Brasil por tanto tempo ÃƒÂ© que,

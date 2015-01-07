@@ -2,7 +2,7 @@ Ubuntu Membership
 #################
 :slug: ubuntu-membership
 :date: 2005-11-07 16:54
-:category:
+:category: English
 :tags: english
 
 Tomorrow will be a very important to me! At exactly 14:00 UTC I’ll be

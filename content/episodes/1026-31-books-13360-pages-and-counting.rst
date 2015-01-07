@@ -2,7 +2,7 @@
 ##################################
 :slug: 31-books-13360-pages-and-counting
 :date: 2010-12-15 09:00
-:category:
+:category: English
 :tags: english
 
 |My Book - Bound Edge by Kate Elliot|\ One of my **New Year’s

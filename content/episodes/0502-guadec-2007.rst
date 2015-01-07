@@ -2,7 +2,7 @@ GUADEC 2007
 ###########
 :slug: guadec-2007
 :date: 2007-03-14 22:52
-:category:
+:category: English
 :tags: english
 
 After being harassed by **Mario Danic** for several days to submit a

@@ -2,7 +2,7 @@ Entrevista com um vampiro
 #########################
 :slug: entrevista-com-um-vampiro
 :date: 2006-05-22 02:49
-:category:
+:category: English
 :tags: portuguese
 
 Um dos comentÃƒÂ¡rios que recebi no meu post chamado “Antes do galo

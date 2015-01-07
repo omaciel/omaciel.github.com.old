@@ -2,7 +2,7 @@ Another priceless moment
 ########################
 :slug: another-priceless-moment
 :date: 2008-04-27 11:29
-:category:
+:category: English
 :tags: english
 
 -  Laundry basket: US$15

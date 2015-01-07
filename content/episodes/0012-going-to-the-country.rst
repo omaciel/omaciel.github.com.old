@@ -2,7 +2,7 @@ Going To The Country
 ####################
 :slug: going-to-the-country
 :date: 2005-03-02 18:32
-:category:
+:category: English
 :tags: english
 
 The day I fly to North Carolina has finally arrived. I’m **extremelly**

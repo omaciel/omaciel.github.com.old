@@ -2,7 +2,7 @@ GNOME 2.30 Translations for the Faint of Heart
 ##############################################
 :slug: gnome-2-30-translations-for-the-faint-of-heart
 :date: 2010-03-02 03:23
-:category:
+:category: English
 :tags: english
 
 With the **GNOME 2.30** release just around the corner, translators are

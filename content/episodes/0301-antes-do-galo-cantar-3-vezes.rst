@@ -2,7 +2,7 @@ Antes do galo cantar 3 vezes
 ############################
 :slug: antes-do-galo-cantar-3-vezes
 :date: 2006-05-21 15:22
-:category:
+:category: English
 :tags: portuguese
 
 Meu ÃƒÂºltimo post no Planeta Ubuntu Brasil recebeu alguns

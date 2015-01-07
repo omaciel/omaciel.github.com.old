@@ -2,7 +2,7 @@ If you're from North Carolina, USA...
 #####################################
 :slug: if-youre-from-north-carolina-usa
 :date: 2008-10-01 01:35
-:category:
+:category: English
 :tags: english
 
 … please consider contacting our representatives and voice your opinion

@@ -2,7 +2,7 @@ Online music recommendation systems
 ###################################
 :slug: online-music-recommendation-systems
 :date: 2008-05-23 12:18
-:category:
+:category: English
 :tags: english
 
 I don’t know how your work environment is, but where I work all the

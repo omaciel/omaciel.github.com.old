@@ -2,7 +2,7 @@ Meus comandos mais usados?
 ##########################
 :slug: meus-comandos-mais-usados
 :date: 2007-05-24 15:17
-:category:
+:category: English
 :tags: portuguese
 
 Respondendo indiretamente a pergunta do `Walter

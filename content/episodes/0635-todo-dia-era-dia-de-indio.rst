@@ -2,7 +2,7 @@ Todo dia, era dia de Ã­ndio!
 ##############################
 :slug: todo-dia-era-dia-de-indio
 :date: 2007-09-02 14:43
-:category:
+:category: English
 :tags: portuguese
 
 Todos dias eu vejo vÃ¡rios sites publicando notÃ­cias sobre embelezar

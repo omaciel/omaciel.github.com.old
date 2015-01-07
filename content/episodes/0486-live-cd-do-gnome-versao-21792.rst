@@ -2,7 +2,7 @@ Live CD do GNOME, versÃ£o 2.17.92
 ###################################
 :slug: live-cd-do-gnome-versao-21792
 :date: 2007-03-05 04:04
-:category:
+:category: English
 :tags: portuguese
 
 Saiu hoje pela manhÃ£ a tÃ£o esperada versÃ£o **Live CD** do **GNOME**,

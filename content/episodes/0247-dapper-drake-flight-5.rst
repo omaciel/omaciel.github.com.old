@@ -2,7 +2,7 @@ Dapper Drake Flight 5
 #####################
 :slug: dapper-drake-flight-5
 :date: 2006-03-11 15:00
-:category:
+:category: English
 :tags: portuguese
 
 Hoje foi lanÃƒÂ§ada a versÃƒÂ£o Flight 5 do Ubuntu Dapper Drake! A

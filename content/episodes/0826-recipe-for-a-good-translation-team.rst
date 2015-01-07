@@ -2,7 +2,7 @@ Recipe for a good translation team
 ##################################
 :slug: recipe-for-a-good-translation-team
 :date: 2008-08-11 18:06
-:category:
+:category: English
 :tags: english
 
 A while back I was asked by a member of a Ubuntu translation team (who

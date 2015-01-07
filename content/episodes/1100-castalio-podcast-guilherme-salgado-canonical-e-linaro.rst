@@ -2,7 +2,7 @@ Castálio Podcast - Guilherme Salgado: Canonical e Linaro
 #########################################################
 :slug: castalio-podcast-guilherme-salgado-canonical-e-linaro
 :date: 2011-10-31 02:01
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Guilherme Salgado: Canonical e Linaro|

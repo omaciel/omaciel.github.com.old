@@ -2,7 +2,7 @@ Primavera Project Management Class
 ##################################
 :slug: primavera-project-management-class
 :date: 2005-05-11 17:30
-:category:
+:category: English
 :tags: english
 
 I didn’t really know what I was getting into when I was told to attend

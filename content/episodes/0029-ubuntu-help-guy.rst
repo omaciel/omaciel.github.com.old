@@ -2,7 +2,7 @@ Ubuntu Help Guy
 ###############
 :slug: ubuntu-help-guy
 :date: 2005-03-21 20:33
-:category:
+:category: English
 :tags: english
 
 Lately I have found myself hanging out at #ubuntu on

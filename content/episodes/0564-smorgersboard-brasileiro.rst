@@ -2,7 +2,7 @@ Smorgersboard Brasileiro
 ########################
 :slug: smorgersboard-brasileiro
 :date: 2007-06-01 15:48
-:category:
+:category: English
 :tags: portuguese
 
 Algumas novidades do mundo de software livre Brasileiro:

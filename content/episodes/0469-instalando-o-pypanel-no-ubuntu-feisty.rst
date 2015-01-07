@@ -2,7 +2,7 @@ Instalando o PyPanel no Ubuntu Feisty
 #####################################
 :slug: instalando-o-pypanel-no-ubuntu-feisty
 :date: 2007-02-10 20:36
-:category:
+:category: English
 :tags: portuguese
 
 Acabei de instalar o Ubuntu Feisty Herd 3 (versao ainda em

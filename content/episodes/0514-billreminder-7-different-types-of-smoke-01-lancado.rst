@@ -2,7 +2,7 @@ BillReminder "7 Different Types of Smoke" 0.1 LanÃ§ado
 ########################################################
 :slug: billreminder-7-different-types-of-smoke-01-lancado
 :date: 2007-03-28 02:44
-:category:
+:category: English
 :tags: portuguese
 
 "Release soon, release often" jÃ¡ dizia o famoso mantra do mundo de

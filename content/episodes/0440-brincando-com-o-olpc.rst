@@ -2,7 +2,7 @@ Brincando com o OLPC
 ####################
 :slug: brincando-com-o-olpc
 :date: 2006-11-29 22:56
-:category:
+:category: English
 :tags: portuguese
 
 Depois que eu li o

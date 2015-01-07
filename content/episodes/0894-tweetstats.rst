@@ -2,7 +2,7 @@ TweetStats
 ##########
 :slug: tweetstats
 :date: 2009-03-27 16:35
-:category:
+:category: English
 :tags: english
 
 My `Twitter <http://www.twitter.com/OgMaciel>`__

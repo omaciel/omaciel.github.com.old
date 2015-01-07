@@ -2,7 +2,7 @@ Seu típico bate-papo de sexta-feira
 ####################################
 :slug: seu-tipico-bate-papo-de-sexta-feira
 :date: 2009-03-13 16:20
-:category:
+:category: English
 :tags: portuguese
 
 -  13:02:50 <devnet> DUDE 

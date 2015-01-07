@@ -2,7 +2,7 @@ Saving The World, One Plugin AT A Time
 ######################################
 :slug: saving-the-world-one-plugin-at-a-time
 :date: 2005-03-30 21:19
-:category:
+:category: English
 :tags: english
 
 Today I added the `Dynamic Text

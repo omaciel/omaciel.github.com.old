@@ -2,7 +2,7 @@ Natal chegou mais cedo?
 #######################
 :slug: natal-chegou-mais-cedo
 :date: 2006-06-08 20:07
-:category:
+:category: English
 :tags: portuguese
 
 Eu nÃƒÂ£o sabia que o monodevelop com o mÃƒÂ³dulo de desenho grÃƒÂ¡fico

@@ -2,7 +2,7 @@ Giggling already
 ################
 :slug: giggling-already
 :date: 2007-03-13 15:14
-:category:
+:category: English
 :tags: english
 
 Hey `Sven <http://herzi.eu/comment.php?type=trackback&entry_id=121>`__;

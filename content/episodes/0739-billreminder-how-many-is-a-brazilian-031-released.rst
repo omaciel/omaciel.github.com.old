@@ -2,7 +2,7 @@ BillReminder "How Many is a Brazilian" 0.3.1 Released
 #####################################################
 :slug: billreminder-how-many-is-a-brazilian-031-released
 :date: 2008-03-28 02:30
-:category:
+:category: English
 :tags: english
 
 This is a minor release where a couple of bugs have been closed and some

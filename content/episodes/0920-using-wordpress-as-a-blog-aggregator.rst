@@ -2,7 +2,7 @@ Using WordPress as a blog aggregator
 ####################################
 :slug: using-wordpress-as-a-blog-aggregator
 :date: 2009-10-16 02:41
-:category:
+:category: English
 :tags: english
 
 One of the many things I maintain outside work is a `blog

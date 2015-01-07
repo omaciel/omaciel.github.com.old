@@ -2,7 +2,7 @@ Still about music sites
 #######################
 :slug: still-about-music-sites
 :date: 2008-05-24 16:56
-:category:
+:category: English
 :tags: english
 
 I came across `Global Pandora <http://globalpandora.com/>`__ after

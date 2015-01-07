@@ -2,7 +2,7 @@ Coisas Frequentemente Escutadas
 ###############################
 :slug: coisas-frequentemente-escutadas
 :date: 2006-04-24 20:19
-:category:
+:category: English
 :tags: portuguese
 
 … nas ÃƒÂºltimas feiras ou exposiÃƒÂ§ÃƒÂµes de tecnologia que eu fui

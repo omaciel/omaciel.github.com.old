@@ -2,7 +2,7 @@ The Little Penguin Wine
 #######################
 :slug: the-little-penguin-wine
 :date: 2005-05-31 18:38
-:category:
+:category: English
 :tags: english
 
 Almost forgot… The other day I went to the public booze market and saw

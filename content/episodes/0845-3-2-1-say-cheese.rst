@@ -2,7 +2,7 @@
 ##########################
 :slug: 3-2-1-say-cheese
 :date: 2008-09-22 22:00
-:category:
+:category: English
 :tags: english
 
 With the soon to be released GNOME version 2.24, you’ll find the new

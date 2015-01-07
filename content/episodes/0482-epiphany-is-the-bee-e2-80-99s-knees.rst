@@ -2,7 +2,7 @@ Epiphany is the Bee's Knees
 ###########################
 :slug: epiphany-is-the-bee-e2-80-99s-knees
 :date: 2007-03-03 20:51
-:category:
+:category: English
 :tags: english
 
 I just have to agree with

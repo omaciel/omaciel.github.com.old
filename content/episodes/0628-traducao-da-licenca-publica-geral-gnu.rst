@@ -2,7 +2,7 @@ TraduÃ§Ã£o da LicenÃ§a PÃºblica Geral GNU
 #################################################
 :slug: traducao-da-licenca-publica-geral-gnu
 :date: 2007-08-30 13:04
-:category:
+:category: English
 :tags: portuguese
 
 Ultimamente tenho pensado bastante na

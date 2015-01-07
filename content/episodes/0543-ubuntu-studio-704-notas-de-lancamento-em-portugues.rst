@@ -2,7 +2,7 @@ Ubuntu Studio 7.04: Notas de lanÃ§amento em portuguÃªs
 ##########################################################
 :slug: ubuntu-studio-704-notas-de-lancamento-em-portugues
 :date: 2007-05-12 13:41
-:category:
+:category: English
 :tags: portuguese
 
 Como tenho andado muito doente esta semana com uma “gripe mutante”, nÃ£o

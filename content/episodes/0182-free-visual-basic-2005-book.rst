@@ -2,7 +2,7 @@ Free Visual Basic 2005 Book
 ###########################
 :slug: free-visual-basic-2005-book
 :date: 2005-09-29 18:10
-:category:
+:category: English
 :tags: english
 
 Thought I’d share with my fellow programmers my latest finding:

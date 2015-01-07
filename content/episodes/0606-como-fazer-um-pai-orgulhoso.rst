@@ -2,7 +2,7 @@ Como fazer um pai orgulhoso?
 ############################
 :slug: como-fazer-um-pai-orgulhoso
 :date: 2007-07-20 02:23
-:category:
+:category: English
 :tags: portuguese
 
 |Start them young|

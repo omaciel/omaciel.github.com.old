@@ -2,7 +2,7 @@ Castálio Podcast: Henrique Bastos - Welcome to the Django
 ##########################################################
 :slug: castalio-podcast-henrique-bastos-welcome-to-the
 :date: 2012-04-02 12:00
-:category:
+:category: Portuguese
 :tags: castálio, podcast, portuguese, ubuntu
 
 |castalio podcast|

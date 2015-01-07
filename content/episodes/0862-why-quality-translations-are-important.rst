@@ -2,7 +2,7 @@ Why QUALITY translations are important!
 #######################################
 :slug: why-quality-translations-are-important
 :date: 2008-10-31 18:10
-:category:
+:category: English
 :tags: english
 
 Kudos for everyone involved with the translation of open source software

@@ -2,7 +2,7 @@ TextFlow
 ########
 :slug: textflow
 :date: 2008-04-22 11:08
-:category:
+:category: English
 :tags: portuguese
 
 O `TextFlow <https://launchpad.net/textflow>`__ é um editor super bacana

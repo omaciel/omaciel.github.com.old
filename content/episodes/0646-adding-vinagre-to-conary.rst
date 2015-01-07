@@ -2,7 +2,7 @@ Adding Vinagre to Conary
 ########################
 :slug: adding-vinagre-to-conary
 :date: 2007-09-14 01:14
-:category:
+:category: English
 :tags: english
 
 Tonight during our `TriLUG <http://www.trilug.org/>`__ meeting,

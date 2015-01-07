@@ -2,7 +2,7 @@ Prá quem você trabalha?
 #########################
 :slug: pra-quem-voce-trabalha
 :date: 2008-03-10 02:27
-:category:
+:category: English
 :tags: portuguese
 
 |dsc06272.jpg|

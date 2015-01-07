@@ -2,7 +2,7 @@ Meet Elephant Gerald and Piggie
 ###############################
 :slug: meet-elephant-gerald-and-piggie
 :date: 2009-01-09 04:27
-:category:
+:category: English
 :tags: english
 
 Got back home tonight to find our dining table covered by books that Yv

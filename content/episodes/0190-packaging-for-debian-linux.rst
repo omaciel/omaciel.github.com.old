@@ -2,7 +2,7 @@ Packaging for Debian Linux
 ##########################
 :slug: packaging-for-debian-linux
 :date: 2005-10-11 15:07
-:category:
+:category: English
 :tags: english
 
 Complying with my decision to learn how to package software for

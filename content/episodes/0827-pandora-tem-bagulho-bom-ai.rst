@@ -2,7 +2,7 @@ Pandora: Tem bagulho bom aí
 ############################
 :slug: pandora-tem-bagulho-bom-ai
 :date: 2008-08-12 00:20
-:category:
+:category: English
 :tags: portuguese
 
 Hoje recebi um pacote misterioso pelo correio. Trata-se de uns bagulhos

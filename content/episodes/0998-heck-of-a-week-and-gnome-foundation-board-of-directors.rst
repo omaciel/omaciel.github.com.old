@@ -2,7 +2,7 @@ Heck of a week and GNOME Foundation Board of Directors
 ######################################################
 :slug: heck-of-a-week-and-gnome-foundation-board-of-directors
 :date: 2010-06-18 18:23
-:category:
+:category: English
 :tags: english
 
 It’s been another crazy/hectic week for me at work, so blogging and

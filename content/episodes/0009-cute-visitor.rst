@@ -2,7 +2,7 @@ Cute Visitor
 ############
 :slug: cute-visitor
 :date: 2005-02-25 19:40
-:category:
+:category: English
 :tags: english
 
 |image0|

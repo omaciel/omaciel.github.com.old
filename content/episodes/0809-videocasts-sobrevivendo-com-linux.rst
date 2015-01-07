@@ -2,7 +2,7 @@ VideoCasts e Planetas
 #####################
 :slug: videocasts-sobrevivendo-com-linux
 :date: 2008-07-10 00:30
-:category:
+:category: English
 :tags: portuguese
 
 Para vocês que querem aprender um pouco mais sobre como fazer coisas

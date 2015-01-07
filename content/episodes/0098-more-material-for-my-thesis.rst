@@ -2,7 +2,7 @@ More Material For My Thesis
 ###########################
 :slug: more-material-for-my-thesis
 :date: 2005-06-03 17:15
-:category:
+:category: English
 :tags: english
 
 My `previous <http://www.ogmaciel.com/?p=100>`__ post talked about how

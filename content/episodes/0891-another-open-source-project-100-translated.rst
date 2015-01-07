@@ -2,7 +2,7 @@ Another open source project 100% translated
 ###########################################
 :slug: another-open-source-project-100-translated
 :date: 2009-03-12 14:51
-:category:
+:category: English
 :tags: english
 
 Thanks to the incredible work of **Henrique P. Machado**, Brazilian

@@ -2,7 +2,7 @@ And now... tabs... on tabs!!!
 #############################
 :slug: and-now-tabs-on-tabs
 :date: 2008-07-12 19:14
-:category:
+:category: English
 :tags: english
 
 |What now? Tabs on tabs?|

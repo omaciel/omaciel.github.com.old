@@ -2,7 +2,7 @@ Chiclete com Banana 2: A Revanche
 #################################
 :slug: chiclete-com-banana-2-a-revanche
 :date: 2008-02-10 13:39
-:category:
+:category: English
 :tags: portuguese
 
 Que bela surpresa me deixaram no correio hoje pela manhÃ£.

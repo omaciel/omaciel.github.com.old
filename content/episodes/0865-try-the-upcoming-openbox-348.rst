@@ -2,7 +2,7 @@ Try the upcoming Openbox 3.4.8
 ##############################
 :slug: try-the-upcoming-openbox-348
 :date: 2008-11-23 17:45
-:category:
+:category: English
 :tags: english
 
 if you like `Openbox <http://icculus.org/openbox>`__ and want to play

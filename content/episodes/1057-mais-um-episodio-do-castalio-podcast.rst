@@ -2,7 +2,7 @@ Mais Um Episódio do Castálio Podcast
 ######################################
 :slug: mais-um-episodio-do-castalio-podcast
 :date: 2011-04-03 22:55
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_611” align=”alignleft” width=”216”

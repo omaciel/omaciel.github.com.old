@@ -2,7 +2,7 @@ Guns, Germs, & Metal
 ####################
 :slug: guns-germs-metal
 :date: 2005-07-28 16:42
-:category:
+:category: English
 :tags: english
 
 Though this is not a review for the book and tv show with the same

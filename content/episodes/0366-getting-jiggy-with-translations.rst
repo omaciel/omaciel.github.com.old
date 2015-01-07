@@ -2,7 +2,7 @@ Getting Jiggy With Translations
 ###############################
 :slug: getting-jiggy-with-translations
 :date: 2006-07-29 13:25
-:category:
+:category: English
 :tags: english
 
 This past weekend the `Ubuntu Brazilian Portuguese

@@ -2,7 +2,7 @@ Tough Times
 ###########
 :slug: tough-times
 :date: 2012-10-30 15:14
-:category:
+:category: English
 :tags: english
 
 These last few days have been rough for my family due to a very

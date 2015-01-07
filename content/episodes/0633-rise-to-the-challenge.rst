@@ -2,7 +2,7 @@ Rise to the challenge!
 ######################
 :slug: rise-to-the-challenge
 :date: 2007-09-02 01:11
-:category:
+:category: English
 :tags: english
 
 For anyone who has read my previous

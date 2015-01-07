@@ -2,7 +2,7 @@ Clarification
 #############
 :slug: clarification
 :date: 2007-11-26 21:29
-:category:
+:category: English
 :tags: english
 
 It seems that my post didn’t quite express what I really meant and some

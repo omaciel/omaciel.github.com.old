@@ -2,7 +2,7 @@ Ubuntu Tip #1974: Vim
 #####################
 :slug: ubuntu-tip-1974-vim
 :date: 2006-12-03 04:56
-:category:
+:category: English
 :tags: portuguese
 
 Hoje conversando com o `KurtKraut <http://kurtkraut.wordpress.com/>`__

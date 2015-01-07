@@ -2,7 +2,7 @@ You know you're using too much Vi when...
 #########################################
 :slug: you-know-youre-using-too-much-vi-when
 :date: 2007-07-19 19:55
-:category:
+:category: English
 :tags: english
 
 … you press ESC after filling out web forms!

@@ -2,7 +2,7 @@ View From Work
 ##############
 :slug: view-from-work
 :date: 2005-08-07 15:27
-:category:
+:category: English
 :tags: english
 
 |image0|

@@ -2,7 +2,7 @@ Castálio Podcast, or Three Times is a Charm
 ############################################
 :slug: castalio-podcast-three-times
 :date: 2011-07-21 01:09
-:category:
+:category: Portuguese
 :tags: english
 
 [caption id=”” align=”alignleft” width=”350” caption=”Castálio

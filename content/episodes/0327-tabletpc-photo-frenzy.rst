@@ -2,7 +2,7 @@ TabletPC photo frenzy
 #####################
 :slug: tabletpc-photo-frenzy
 :date: 2006-06-10 20:28
-:category:
+:category: English
 :tags: english
 
 As promissed, here are some pictures of my TabletPC running Ubuntu

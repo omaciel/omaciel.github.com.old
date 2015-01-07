@@ -2,7 +2,7 @@ Dedicated to Nixternal
 ######################
 :slug: dedicated-to-nixternal
 :date: 2008-06-15 22:37
-:category:
+:category: English
 :tags: english
 
 |Walking on Crutches|

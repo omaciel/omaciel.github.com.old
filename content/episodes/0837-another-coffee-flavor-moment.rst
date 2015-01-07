@@ -2,7 +2,7 @@ Another coffee flavor moment
 ############################
 :slug: another-coffee-flavor-moment
 :date: 2008-09-04 22:03
-:category:
+:category: English
 :tags: english
 
 From the same people that brought you **Frank Sumatra**, I present you

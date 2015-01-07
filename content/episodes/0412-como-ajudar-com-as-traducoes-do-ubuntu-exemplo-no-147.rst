@@ -2,7 +2,7 @@ Como ajudar com as traduÃ§Ãµes do Ubuntu - Exemplo No. 147
 ##############################################################
 :slug: como-ajudar-com-as-traducoes-do-ubuntu-exemplo-no-147
 :date: 2006-10-08 16:29
-:category:
+:category: English
 :tags: portuguese
 
 **Nome**: Roger

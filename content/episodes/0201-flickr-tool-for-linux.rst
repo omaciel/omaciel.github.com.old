@@ -2,7 +2,7 @@ Flickr Tool for Linux
 #####################
 :slug: flickr-tool-for-linux
 :date: 2005-10-27 16:53
-:category:
+:category: English
 :tags: english
 
 Browsing `Flickr <http://www.flickr.com>`__ the other day for pictures

@@ -2,7 +2,7 @@ Nagasaki:  60 anos depois
 #########################
 :slug: nagasaki-60-anos-depois
 :date: 2006-08-09 14:21
-:category:
+:category: English
 :tags: portuguese
 
 Hoje marca um dia negro na histÃƒÂ³ria da humanidade, o dia que o

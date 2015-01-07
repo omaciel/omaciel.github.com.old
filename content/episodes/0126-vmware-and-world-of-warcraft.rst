@@ -2,7 +2,7 @@ VMWare and World of Warcraft
 ############################
 :slug: vmware-and-world-of-warcraft
 :date: 2005-07-16 17:13
-:category:
+:category: English
 :tags: english
 
 My first attempt to install and play World of Warcraft on a virtual

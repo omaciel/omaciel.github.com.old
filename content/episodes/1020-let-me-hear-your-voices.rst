@@ -2,7 +2,7 @@ Let Me Hear Your Voices
 #######################
 :slug: let-me-hear-your-voices
 :date: 2010-11-03 13:18
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1235” align=”alignleft” width=”225”

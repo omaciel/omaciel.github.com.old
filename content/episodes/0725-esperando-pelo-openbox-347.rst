@@ -2,7 +2,7 @@ Esperando pelo Openbox 3.4.7...
 ###############################
 :slug: esperando-pelo-openbox-347
 :date: 2008-02-29 03:22
-:category:
+:category: English
 :tags: portuguese
 
 |Openbox|

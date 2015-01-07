@@ -2,7 +2,7 @@ Linux Meetup - March 14, 2005
 #############################
 :slug: linux-meetup-march-14-2005
 :date: 2005-03-16 15:46
-:category:
+:category: English
 :tags: english
 
 This past Monday I hosted the monthly `Northern New Jersey Linux

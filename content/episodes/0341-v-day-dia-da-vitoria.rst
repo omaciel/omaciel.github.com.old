@@ -2,7 +2,7 @@ V Day: Dia da VitÃƒÂ³ria!
 #############################
 :slug: v-day-dia-da-vitoria
 :date: 2006-06-25 14:17
-:category:
+:category: English
 :tags: portuguese
 
 Marque no seu calendÃƒÂ¡rio este dia: **Junho 25, 2006**!Ã‚Â  Este dia

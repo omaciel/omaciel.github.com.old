@@ -2,7 +2,7 @@ The things you write when you have the stomach flu
 ##################################################
 :slug: the-things-you-write-when-you-have-the-stomach-flu
 :date: 2008-06-27 00:15
-:category:
+:category: English
 :tags: english
 
 Been suffering from a nasty stomach flu since yesterday and, needless to

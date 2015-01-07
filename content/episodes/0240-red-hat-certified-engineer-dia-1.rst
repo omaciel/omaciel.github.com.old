@@ -2,7 +2,7 @@ Red Hat Certified Engineer - Dia 1
 ##################################
 :slug: red-hat-certified-engineer-dia-1
 :date: 2006-02-20 17:33
-:category:
+:category: English
 :tags: portuguese
 
 Par quem nao sabe, estou em Boston fazendo o curso que me dara o

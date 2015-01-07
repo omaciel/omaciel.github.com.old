@@ -2,7 +2,7 @@ Smell the flowers
 #################
 :slug: smell-the-flowers
 :date: 2009-05-17 03:59
-:category:
+:category: English
 :tags: english
 
 I never really considered any of my photos to be anything out of the

@@ -2,7 +2,7 @@ Ammendment to shopping spree
 ############################
 :slug: ammendment-to-shopping-spree
 :date: 2005-08-24 18:41
-:category:
+:category: English
 :tags: english
 
 I forgot to add 2 other items purchased during said shopping spree:

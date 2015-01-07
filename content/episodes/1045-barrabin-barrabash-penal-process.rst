@@ -2,7 +2,7 @@ Barrabin Barrabash: Penal Process
 #################################
 :slug: barrabin-barrabash-penal-process
 :date: 2011-02-25 05:00
-:category:
+:category: English
 :tags: english
 
 **Barrabin Barrabash**, the Great, yearns for his freedom and digs deep

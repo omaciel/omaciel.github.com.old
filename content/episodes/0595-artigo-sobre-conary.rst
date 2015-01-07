@@ -2,7 +2,7 @@ Artigo sobre Conary
 ###################
 :slug: artigo-sobre-conary
 :date: 2007-06-27 15:40
-:category:
+:category: English
 :tags: portuguese
 
 Hoje tive a bela surpresa de receber um envelope com postagem

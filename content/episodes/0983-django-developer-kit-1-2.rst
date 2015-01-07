@@ -2,7 +2,7 @@ Django Developer Kit 1.2
 ########################
 :slug: django-developer-kit-1-2
 :date: 2010-05-18 09:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1038” align=”alignleft” width=”117”

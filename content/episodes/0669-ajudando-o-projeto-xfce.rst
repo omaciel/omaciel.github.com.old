@@ -2,7 +2,7 @@ Ajudando o projeto XFCE
 #######################
 :slug: ajudando-o-projeto-xfce
 :date: 2007-11-06 03:19
-:category:
+:category: English
 :tags: portuguese
 
 Em preparaÃ§Ã£o para o lanÃ§amento da nova versao do

@@ -2,7 +2,7 @@ No meio da nata
 ###############
 :slug: no-meio-da-nata
 :date: 2008-01-09 18:25
-:category:
+:category: English
 :tags: portuguese
 
 As

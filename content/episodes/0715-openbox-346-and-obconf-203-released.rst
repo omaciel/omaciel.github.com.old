@@ -2,7 +2,7 @@ Openbox 3.4.6 and ObConf 2.0.3 released
 #######################################
 :slug: openbox-346-and-obconf-203-released
 :date: 2008-02-02 19:01
-:category:
+:category: English
 :tags: english
 
 Read it all

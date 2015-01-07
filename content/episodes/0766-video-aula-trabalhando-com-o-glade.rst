@@ -2,7 +2,7 @@ Vídeo Aula: Trabalhando com o Glade
 ####################################
 :slug: video-aula-trabalhando-com-o-glade
 :date: 2008-05-03 10:21
-:category:
+:category: English
 :tags: portuguese
 
 **Atualização**: O link do vídeo agora funciona. Isso é o que acontece

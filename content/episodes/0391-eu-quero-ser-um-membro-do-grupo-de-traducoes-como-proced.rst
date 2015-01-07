@@ -2,7 +2,7 @@ Eu quero ser um membro do grupo de traduÃƒÂ§ÃƒÂµes! Como proceder?
 ##########################################################################
 :slug: eu-quero-ser-um-membro-do-grupo-de-traducoes-como-proced
 :date: 2006-09-04 17:25
-:category:
+:category: English
 :tags: portuguese
 
 Semana passada houve uma boa discussÃƒÂ£o (por email na lista de

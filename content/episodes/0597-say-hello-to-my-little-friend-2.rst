@@ -2,7 +2,7 @@ Say hello to my little friend!
 ##############################
 :slug: say-hello-to-my-little-friend-2
 :date: 2007-07-04 14:39
-:category:
+:category: English
 :tags: english
 
 Say hello to my little friend **NTrunko,** my Nokia N800 tablet! It

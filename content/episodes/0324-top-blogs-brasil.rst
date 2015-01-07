@@ -2,7 +2,7 @@ Top Blogs Brasil
 ################
 :slug: top-blogs-brasil
 :date: 2006-06-09 14:24
-:category:
+:category: English
 :tags: portuguese
 
 Descobri hoje por um `link <http://botd.wordpress.com/?lang=pt-br>`__ no

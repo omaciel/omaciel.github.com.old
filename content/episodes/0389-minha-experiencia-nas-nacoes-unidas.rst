@@ -2,7 +2,7 @@ Minha experiÃƒÂªncia nas NaÃƒÂ§ÃƒÂµes Unidas
 ########################################################
 :slug: minha-experiencia-nas-nacoes-unidas
 :date: 2006-08-30 16:14
-:category:
+:category: English
 :tags: portuguese
 
 Como jÃƒÂ¡ havia mencionado antes, ontem tive a oportunidade de

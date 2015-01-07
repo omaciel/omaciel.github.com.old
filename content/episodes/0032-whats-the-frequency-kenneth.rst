@@ -2,7 +2,7 @@ What's The Frequency, Kenneth?
 ##############################
 :slug: whats-the-frequency-kenneth
 :date: 2005-03-25 14:28
-:category:
+:category: English
 :tags: english
 
 The depth of the WWW never ceases to amaze me. Every day there’s a new

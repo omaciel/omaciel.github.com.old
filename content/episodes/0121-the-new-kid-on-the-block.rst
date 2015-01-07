@@ -2,7 +2,7 @@ The New Kid On The Block
 ########################
 :slug: the-new-kid-on-the-block
 :date: 2005-07-12 17:28
-:category:
+:category: English
 :tags: english
 
 Been spending some quality hacking time these last few days, basically

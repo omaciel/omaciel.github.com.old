@@ -2,7 +2,7 @@ Ideas
 #####
 :slug: ideas
 :date: 2007-11-28 16:56
-:category:
+:category: English
 :tags: english
 
 I was really glad to see **David Bolter**'s post today about

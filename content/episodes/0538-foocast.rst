@@ -2,7 +2,7 @@ Foocast!
 ########
 :slug: foocast
 :date: 2007-04-21 22:40
-:category:
+:category: English
 :tags: portuguese
 
 Anunciando o lanÃ§amento do

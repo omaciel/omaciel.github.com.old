@@ -2,7 +2,7 @@ War
 ###
 :slug: war
 :date: 2006-02-09 18:42
-:category:
+:category: English
 :tags: portuguese
 
 Quando eu era “pequeno lÃƒÂ¡ em Barbacena,” eu passava horas e horas

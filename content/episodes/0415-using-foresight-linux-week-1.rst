@@ -2,7 +2,7 @@ Using Foresight Linux:  Week 1
 ##############################
 :slug: using-foresight-linux-week-1
 :date: 2006-10-11 20:56
-:category:
+:category: English
 :tags: english
 
 Been using `Foresight Linux <http://foresightlinux.com/>`__ at work for

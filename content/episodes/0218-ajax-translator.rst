@@ -2,7 +2,7 @@ AJAX Translator
 ###############
 :slug: ajax-translator
 :date: 2006-01-04 15:37
-:category:
+:category: English
 :tags: english
 
 For the volunteers working in the translation of  Ubuntu Linux from

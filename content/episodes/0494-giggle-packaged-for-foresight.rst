@@ -2,7 +2,7 @@ Giggle packaged for Foresight
 #############################
 :slug: giggle-packaged-for-foresight
 :date: 2007-03-08 21:46
-:category:
+:category: English
 :tags: english
 
 Giggle is the new “GTK+ based GIT interface”. Get `Giggle

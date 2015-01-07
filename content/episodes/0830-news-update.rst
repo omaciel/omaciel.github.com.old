@@ -2,7 +2,7 @@ News Update
 ###########
 :slug: news-update
 :date: 2008-08-24 00:58
-:category:
+:category: English
 :tags: english
 
 It’s been a while since I last wrote anything, mostly due to a few new

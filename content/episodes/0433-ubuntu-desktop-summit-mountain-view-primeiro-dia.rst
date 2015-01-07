@@ -2,7 +2,7 @@ Ubuntu Developer Summit, Mountain View - Primeiro dia
 #####################################################
 :slug: ubuntu-desktop-summit-mountain-view-primeiro-dia
 :date: 2006-11-06 05:50
-:category:
+:category: English
 :tags: portuguese
 
 O dia hoje comecou bem cedo, com um cafe’ “continental”, que para quem

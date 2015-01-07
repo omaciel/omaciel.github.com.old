@@ -2,7 +2,7 @@ Vídeo Aula: Programando com Python e Glade
 ###########################################
 :slug: video-aula-programando-com-python-e-glade
 :date: 2008-04-26 10:23
-:category:
+:category: English
 :tags: portuguese
 
 Quase todos dias converso com pessoas interessadas em aprender a

@@ -2,7 +2,7 @@ Django 1.2 E-Commerce
 #####################
 :slug: django-1-2-e-commerce
 :date: 2010-05-27 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1094” align=”alignleft” width=”243”

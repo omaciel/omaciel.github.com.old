@@ -2,7 +2,7 @@ Surface
 #######
 :slug: surface
 :date: 2005-09-20 16:38
-:category:
+:category: English
 :tags: english
 
 Yesterday I caught a huge break (my daughter fell asleep much earlier

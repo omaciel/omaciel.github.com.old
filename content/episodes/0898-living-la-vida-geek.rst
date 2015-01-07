@@ -2,7 +2,7 @@ Living La Vida Geek
 ###################
 :slug: living-la-vida-geek
 :date: 2009-04-15 22:43
-:category:
+:category: English
 :tags: english
 
 I was very pleased when my good friend **Pete** asked me to be a

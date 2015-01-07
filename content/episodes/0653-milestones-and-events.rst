@@ -2,7 +2,7 @@ Milestones and Events
 #####################
 :slug: milestones-and-events
 :date: 2007-10-03 13:20
-:category:
+:category: English
 :tags: english
 
 Quick post to mention a couple of personal milestones and events:

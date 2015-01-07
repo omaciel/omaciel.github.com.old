@@ -2,7 +2,7 @@ Sabor do café do dia
 #####################
 :slug: sabor-do-cafe-do-dia
 :date: 2008-09-03 18:30
-:category:
+:category: English
 :tags: portuguese
 
 |Coffee flavor of the day at work|

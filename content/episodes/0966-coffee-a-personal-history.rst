@@ -2,7 +2,7 @@ Coffee, a personal history
 ##########################
 :slug: coffee-a-personal-history
 :date: 2010-04-26 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_979” align=”alignleft” width=”240”

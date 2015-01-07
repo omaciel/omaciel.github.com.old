@@ -2,7 +2,7 @@ Cuidado com a Katilce!
 ######################
 :slug: cuidado-com-a-katilce
 :date: 2006-03-09 18:13
-:category:
+:category: English
 :tags: portuguese
 
 Aparentemente a tal da

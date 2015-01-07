@@ -2,7 +2,7 @@ How to import WordPress XML files
 #################################
 :slug: how-to-import-wordpress-xml-files
 :date: 2012-04-23 20:59
-:category:
+:category: English
 :tags: english, wordpress, python, PyPi, Github, Tumblr
 
 … or, how I brought an old python code back from the dead!

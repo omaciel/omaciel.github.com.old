@@ -2,7 +2,7 @@ Linux Sex Positions
 ###################
 :slug: linux-sex-positions
 :date: 2005-09-21 19:11
-:category:
+:category: English
 :tags: english
 
 Hehehe… Too funny not to post here! Be warned that `this

@@ -2,7 +2,7 @@ Bigger GMail
 ############
 :slug: bigger-gmail
 :date: 2005-04-01 14:06
-:category:
+:category: English
 :tags: english
 
 I’m really loving this “war” between `Google <http://www.google.com>`__

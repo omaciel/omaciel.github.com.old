@@ -2,7 +2,7 @@ Belgian Beers Rule!
 ###################
 :slug: belgian-beers-rule
 :date: 2005-09-06 00:52
-:category:
+:category: English
 :tags: english
 
 'nough said!

@@ -2,7 +2,7 @@ Castálio Podcast - Marcelo Hashimoto: Polly Twitter Client
 ###########################################################
 :slug: castalio-podcast-marcelo-hashimoto-polly-twitter-client
 :date: 2012-01-22 22:49
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Marcelo Hashimoto|

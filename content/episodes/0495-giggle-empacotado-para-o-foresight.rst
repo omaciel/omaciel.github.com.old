@@ -2,7 +2,7 @@ Giggle empacotado para o Foresight
 ##################################
 :slug: giggle-empacotado-para-o-foresight
 :date: 2007-03-08 21:48
-:category:
+:category: English
 :tags: portuguese
 
 Giggle e’ a nova “Interface GTK+ para GIT”. Instale `Giggle

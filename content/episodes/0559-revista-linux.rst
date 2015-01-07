@@ -2,7 +2,7 @@ Revista Linux
 #############
 :slug: revista-linux
 :date: 2007-05-30 01:07
-:category:
+:category: English
 :tags: portuguese
 
 Saiu o `terceiro <http://www.revista-linux.com/index.php?menu=issues>`__

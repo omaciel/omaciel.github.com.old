@@ -2,7 +2,7 @@ Translations Best Practice
 ##########################
 :slug: translations-best-practice
 :date: 2006-07-21 19:19
-:category:
+:category: English
 :tags: english
 
 Whenever we work on the Brazilian Portuguese translations for Ubuntu

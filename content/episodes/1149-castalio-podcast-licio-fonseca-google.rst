@@ -2,7 +2,7 @@ Castálio Podcast: Licio Fonseca - Google
 #########################################
 :slug: castalio-podcast-licio-fonseca-google
 :date: 2012-09-17 08:45
-:category:
+:category: Portuguese
 :tags: ubuntu, castálio, podcast, mandriva, portuguese
 
 |image0|

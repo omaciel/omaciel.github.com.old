@@ -2,7 +2,7 @@ Ubuntu Weekly Newsletter #34
 ############################
 :slug: ubuntu-weekly-newsletter-34
 :date: 2007-04-04 12:22
-:category:
+:category: English
 :tags: portuguese
 
 GraÃ§as ao **Augusto Cezar Amaral**, agora temos a `Ubuntu Weekly

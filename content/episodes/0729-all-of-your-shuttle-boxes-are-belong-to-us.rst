@@ -2,7 +2,7 @@ All of your Shuttle boxes are belong to us!
 ###########################################
 :slug: all-of-your-shuttle-boxes-are-belong-to-us
 :date: 2008-03-05 16:05
-:category:
+:category: English
 :tags: portuguese
 
 Seguindo o novo trend de vender sistemas de computador com GNU/Linux

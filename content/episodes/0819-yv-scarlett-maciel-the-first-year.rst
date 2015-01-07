@@ -2,7 +2,7 @@ Yv Scarlett Maciel: the first year
 ##################################
 :slug: yv-scarlett-maciel-the-first-year
 :date: 2008-07-30 01:14
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_519” align=”alignnone” width=”300” caption=”Yv

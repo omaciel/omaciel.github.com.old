@@ -2,7 +2,7 @@ College Diplomacy
 #################
 :slug: college-diplomacy
 :date: 2005-06-15 20:03
-:category:
+:category: English
 :tags: english
 
 |College diplomacy|

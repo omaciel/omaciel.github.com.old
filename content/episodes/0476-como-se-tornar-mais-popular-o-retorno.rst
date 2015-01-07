@@ -2,7 +2,7 @@ Como se tornar mais popular - O Retorno
 #######################################
 :slug: como-se-tornar-mais-popular-o-retorno
 :date: 2007-02-22 20:03
-:category:
+:category: English
 :tags: portuguese
 
 Estou re-publicando um post antigo, de outubro do ano passado, com a

@@ -2,7 +2,7 @@ Vamos ÃƒÂ  Guerra?
 ######################
 :slug: vamos-a-guerra
 :date: 2006-02-09 18:56
-:category:
+:category: English
 :tags: portuguese
 
 Inspirado pelo meu ÃƒÂºltimo artigo, resolvi anunciar o primeiro

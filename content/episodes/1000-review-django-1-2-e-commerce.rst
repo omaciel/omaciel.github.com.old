@@ -2,7 +2,7 @@ Review: Django 1.2 E-Commerce
 #############################
 :slug: review-django-1-2-e-commerce
 :date: 2010-06-23 02:03
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1094” align=”alignleft” width=”243”

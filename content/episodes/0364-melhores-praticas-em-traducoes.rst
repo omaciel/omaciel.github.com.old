@@ -2,7 +2,7 @@ Melhores PrÃƒÂ¡ticas em TraduÃƒÂ§ÃƒÂµes
 ###################################################
 :slug: melhores-praticas-em-traducoes
 :date: 2006-07-21 19:22
-:category:
+:category: English
 :tags: portuguese
 
 Quando trabalhamos com as traduÃƒÂ§ÃƒÂµes do Ubuntu Linux pelo sistema

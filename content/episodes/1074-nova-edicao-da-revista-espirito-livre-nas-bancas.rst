@@ -2,7 +2,7 @@ Nova Edição da Revista Espírito Livre "Nas Bancas"!
 ######################################################
 :slug: nova-edicao-da-revista-espirito-livre-nas-bancas
 :date: 2011-06-08 12:20
-:category:
+:category: English
 :tags: portuguese
 
 Saiu a mais nova edição da `Revista Espírito

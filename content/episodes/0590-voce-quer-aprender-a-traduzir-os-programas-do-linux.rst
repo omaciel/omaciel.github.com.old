@@ -2,7 +2,7 @@ VocÃª quer aprender a traduzir os programas do Linux?
 #######################################################
 :slug: voce-quer-aprender-a-traduzir-os-programas-do-linux
 :date: 2007-06-24 23:10
-:category:
+:category: English
 :tags: portuguese
 
 Quase todos os dias eu encontro alguÃ©m que acabou de experimentar o

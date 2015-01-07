@@ -2,7 +2,7 @@ Launchpad de cara nova
 ######################
 :slug: launchpad-de-cara-nova
 :date: 2007-02-07 05:41
-:category:
+:category: English
 :tags: portuguese
 
 Para os que ainda nÃ£o sabem, o `Launchpad <http://launchpad.net>`__

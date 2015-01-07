@@ -2,7 +2,7 @@ Castálio Podcast: Everaldo Canuto: Toca do Canuto
 ##################################################
 :slug: castalio-podcast-everaldo-canuto-toca-do-canuto
 :date: 2013-03-19 04:00
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castálio, ubuntu, mandriva
 
 |image|

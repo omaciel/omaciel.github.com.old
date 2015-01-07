@@ -2,7 +2,7 @@ PackageKit Progress on Foresight
 ################################
 :slug: packagekit-progress-on-foresight
 :date: 2011-04-13 20:51
-:category:
+:category: English
 :tags: english
 
 For a while `Foresight Linux <http://foresightlinux.org>`__ users had no

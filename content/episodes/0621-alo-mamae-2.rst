@@ -2,7 +2,7 @@ AlÃ´ MamÃ£e!
 ################
 :slug: alo-mamae-2
 :date: 2007-08-23 02:41
-:category:
+:category: English
 :tags: portuguese
 
 Meu amigo `JosÃ© Vitor <http://josevitor.blog.br/>`__ me enviou esta

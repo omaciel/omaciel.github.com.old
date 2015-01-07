@@ -2,7 +2,7 @@ Get your pork right here!
 #########################
 :slug: get-your-pork-right-here
 :date: 2008-10-02 22:11
-:category:
+:category: English
 :tags: english
 
 This is

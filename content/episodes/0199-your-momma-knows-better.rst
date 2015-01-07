@@ -2,7 +2,7 @@ Your momma knows better
 #######################
 :slug: your-momma-knows-better
 :date: 2005-10-24 19:57
-:category:
+:category: English
 :tags: english
 
 Dear `Clint

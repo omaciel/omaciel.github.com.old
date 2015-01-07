@@ -2,7 +2,7 @@ About To Get Rough
 ##################
 :slug: about-to-get-rough
 :date: 2005-05-19 17:15
-:category:
+:category: English
 :tags: english
 
 Today all consultants working for my current employer received the email

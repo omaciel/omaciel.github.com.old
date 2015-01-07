@@ -2,7 +2,7 @@ I Hacked 127.0.0.1
 ##################
 :slug: i-hacked-127001
 :date: 2005-04-28 13:39
-:category:
+:category: English
 :tags: english
 
 `Pedro <mailto:ronronchan@9online.fr>`__ has commented on my “A (Not)

@@ -2,7 +2,7 @@ A volta dos que não foram
 ##########################
 :slug: a-volta-dos-que-nao-foram
 :date: 2010-05-21 16:07
-:category:
+:category: English
 :tags: portuguese
 
 |De viagem|

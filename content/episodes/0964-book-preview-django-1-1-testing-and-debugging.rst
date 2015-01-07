@@ -2,7 +2,7 @@ Book Preview: Django 1.1 Testing and Debugging
 ##############################################
 :slug: book-preview-django-1-1-testing-and-debugging
 :date: 2010-04-23 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_950” align=”alignleft” width=”243”

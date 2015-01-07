@@ -2,7 +2,7 @@ Disgusted
 #########
 :slug: disgusted
 :date: 2010-09-17 16:20
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1199” align=”aligncenter” width=”300”

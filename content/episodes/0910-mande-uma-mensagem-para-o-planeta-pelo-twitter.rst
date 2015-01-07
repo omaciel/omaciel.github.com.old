@@ -2,7 +2,7 @@ Mande uma mensagem para o Planeta pelo Twitter
 ##############################################
 :slug: mande-uma-mensagem-para-o-planeta-pelo-twitter
 :date: 2009-06-22 00:32
-:category:
+:category: English
 :tags: portuguese
 
 Este fim de semana adicionei um novo recurso ao `Planeta GNU/Linux

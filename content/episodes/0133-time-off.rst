@@ -2,7 +2,7 @@ Time Off
 ########
 :slug: time-off
 :date: 2005-08-01 15:57
-:category:
+:category: English
 :tags: english
 
 Having spent the last week doing some actual work and preparing for a

@@ -2,7 +2,7 @@ Ir na Espanha buscar o meu chapÃ©u
 ####################################
 :slug: ir-na-espanha-buscar-o-meu-chapel
 :date: 2007-04-17 19:17
-:category:
+:category: English
 :tags: portuguese
 
 Neste mes de maio temos o `Ubuntu Developer Summit -

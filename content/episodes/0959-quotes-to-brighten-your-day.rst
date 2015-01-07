@@ -2,7 +2,7 @@ Quotes to brighten your day
 ###########################
 :slug: quotes-to-brighten-your-day
 :date: 2010-04-18 20:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignright” width=”333” caption=”Cheer Up Honey

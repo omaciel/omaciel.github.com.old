@@ -2,7 +2,7 @@ ENFP
 ####
 :slug: enfp
 :date: 2007-01-22 19:56
-:category:
+:category: English
 :tags: english
 
 My good friend SuperToadman pointed me to this online `Myer-Briggs Test

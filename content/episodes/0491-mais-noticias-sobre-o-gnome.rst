@@ -2,7 +2,7 @@ Mais noticias sobre o GNOME!
 ############################
 :slug: mais-noticias-sobre-o-gnome
 :date: 2007-03-07 22:15
-:category:
+:category: English
 :tags: portuguese
 
 Ok, agora ja’ temos `Live

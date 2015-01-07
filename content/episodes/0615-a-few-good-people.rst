@@ -2,7 +2,7 @@ A Few Good People
 #################
 :slug: a-few-good-people
 :date: 2007-08-19 00:56
-:category:
+:category: English
 :tags: english
 
 <shameless\_plug>We here at `rPath <http://www.rpath.com/corp>`__ are

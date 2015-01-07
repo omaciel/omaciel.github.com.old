@@ -2,7 +2,7 @@ Call me "first prize winner" please
 ###################################
 :slug: call-me-first-prize-winner-please
 :date: 2007-10-08 02:20
-:category:
+:category: English
 :tags: english
 
 Over the weekend we had a Fall Festival in our neighborhood, with tons

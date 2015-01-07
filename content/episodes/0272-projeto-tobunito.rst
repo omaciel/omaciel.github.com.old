@@ -2,7 +2,7 @@ Projeto T.O.B.U.N.I.T.O.
 ########################
 :slug: projeto-tobunito
 :date: 2006-04-12 23:23
-:category:
+:category: English
 :tags: portuguese
 
 Lembra daqueles planos infalÃƒÂ­veis do Cebolinha e CascÃƒÂ£o para

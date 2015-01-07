@@ -2,7 +2,7 @@ Can a plugin help you improve your writing skills?
 ##################################################
 :slug: can-a-plugin-help-you-improve-your-writing-skills
 :date: 2010-05-06 15:51
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”aligncenter” width=”413” caption=”After the

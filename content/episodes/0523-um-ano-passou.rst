@@ -2,7 +2,7 @@ Um ano passou...
 ################
 :slug: um-ano-passou
 :date: 2007-04-10 18:55
-:category:
+:category: English
 :tags: portuguese
 
 … e hoje, conversando com o `AndrÃ© Noel <http://andrenoel.com.br>`__

@@ -2,7 +2,7 @@ Book Review: Emblem Divide
 ##########################
 :slug: book-review-emblem-divide
 :date: 2011-02-02 05:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1308” align=”alignleft” width=”150”

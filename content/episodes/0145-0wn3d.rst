@@ -2,7 +2,7 @@
 ########
 :slug: 0wn3d
 :date: 2005-08-11 15:42
-:category:
+:category: English
 :tags: english
 
 Today Firefox gave me a major scare when, instead of logging me to my

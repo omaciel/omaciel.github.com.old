@@ -2,7 +2,7 @@ Curva de Aprendizagem
 #####################
 :slug: curva-de-aprendizagem
 :date: 2006-08-04 20:04
-:category:
+:category: English
 :tags: portuguese
 
 |image0|

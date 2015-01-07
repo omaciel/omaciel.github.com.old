@@ -2,7 +2,7 @@ rPath Appliance Agent 1.0.9 in the wild!
 ########################################
 :slug: rpath-appliance-agent-109-in-the-wild
 :date: 2006-12-08 19:47
-:category:
+:category: English
 :tags: english
 
 Today we have released `rPath Appliance

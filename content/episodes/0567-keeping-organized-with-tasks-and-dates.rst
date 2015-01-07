@@ -2,7 +2,7 @@ Keeping organized with Tasks and Dates
 ######################################
 :slug: keeping-organized-with-tasks-and-dates
 :date: 2007-06-05 01:33
-:category:
+:category: English
 :tags: english
 
 After talking to a few other guys about

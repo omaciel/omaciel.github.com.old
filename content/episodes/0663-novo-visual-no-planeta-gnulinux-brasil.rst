@@ -2,7 +2,7 @@ Novo visual no Planeta GNU/Linux Brasil
 #######################################
 :slug: novo-visual-no-planeta-gnulinux-brasil
 :date: 2007-10-25 00:44
-:category:
+:category: English
 :tags: portuguese
 
 Finalmente sentei-me na frente do computador para dar uma garibada no

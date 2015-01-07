@@ -2,7 +2,7 @@ Everything You Ever Wanted To Know About The Creative Commons Licenses But Was A
 ############################################################################################
 :slug: everything-you-ever-wanted-to-know-about-the-creative-co
 :date: 2011-02-11 15:13
-:category:
+:category: English
 :tags: english
 
 A while back my friend **Karlisson Bezerra**, author of the

@@ -2,7 +2,7 @@ Blog posts pelo Twitter
 #######################
 :slug: blog-posts-pelo-twitter
 :date: 2009-01-23 14:02
-:category:
+:category: English
 :tags: portuguese
 
 Ontem adicionei um recurso para publicar os artigos que aparecem no

@@ -2,7 +2,7 @@ Perks of being a polyglot
 #########################
 :slug: perks-of-being-a-polyglot
 :date: 2013-03-28 02:28
-:category:
+:category: English
 :tags: university of north carolina, unc, english
 
 ￼

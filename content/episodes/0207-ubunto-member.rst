@@ -2,7 +2,7 @@ Ubunto Member!!!
 ################
 :slug: ubunto-member
 :date: 2005-11-08 18:53
-:category:
+:category: English
 :tags: english
 
 Just like a teenager who’s about to get his driver’s license for the

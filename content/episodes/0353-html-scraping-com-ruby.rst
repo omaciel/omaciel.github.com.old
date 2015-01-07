@@ -2,7 +2,7 @@
 ##################################
 :slug: html-scraping-com-ruby
 :date: 2006-07-14 15:19
-:category:
+:category: English
 :tags: portuguese
 
 Tenho pelejado com um script em ruby para apanhar (ou em inglÃƒÂªs,

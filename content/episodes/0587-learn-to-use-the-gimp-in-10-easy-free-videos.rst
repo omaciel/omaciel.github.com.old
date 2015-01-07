@@ -2,7 +2,7 @@ Learn to use the GIMP in 10 easy FREE videos
 ############################################
 :slug: learn-to-use-the-gimp-in-10-easy-free-videos
 :date: 2007-06-19 01:17
-:category:
+:category: English
 :tags: english
 
 **Shameless plug ahead**:

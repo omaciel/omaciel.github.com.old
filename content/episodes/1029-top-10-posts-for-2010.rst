@@ -2,7 +2,7 @@ Top 10 Posts for 2010
 #####################
 :slug: top-10-posts-for-2010
 :date: 2011-01-01 05:00
-:category:
+:category: English
 :tags: english
 
 To kick off the new year, here’s a list of the **Top 10 Posts for 2010**

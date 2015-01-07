@@ -2,7 +2,7 @@ Thanks Mr. President
 ####################
 :slug: thanks-mr-president
 :date: 2005-09-14 18:56
-:category:
+:category: English
 :tags: english
 
 Thanks to our President visiting NYC for that U.N. meeting “thing,” it

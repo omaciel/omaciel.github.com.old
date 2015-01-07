@@ -2,7 +2,7 @@ Castálio Podcast: Felipe Borges: Google Summer of Code
 #######################################################
 :slug: castalio-podcast-felipe-borges-google-summer-of
 :date: 2012-08-19 22:50
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast, ubuntu, mandriva
 
 |image0|

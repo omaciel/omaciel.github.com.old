@@ -2,7 +2,7 @@ Re: is Foresight Linux dead?
 ############################
 :slug: re-is-foresight-linux-dead
 :date: 2010-01-04 01:25
-:category:
+:category: English
 :tags: english
 
 On his latest post titled “\ `Foresight Linux is

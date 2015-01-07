@@ -2,7 +2,7 @@ Bombril
 #######
 :slug: bombril
 :date: 2006-05-17 21:12
-:category:
+:category: English
 :tags: portuguese
 
 Dor de ouvido?Ã‚Â  Unha incravada?Ã‚Â  Sarampo?Ã‚Â  Servidor nÃƒÂ£o

@@ -2,7 +2,7 @@ Brasileiro TomarÃƒÂ¡ Lugar de Mark Shuttleworth
 ###################################################
 :slug: brasileiro-tomara-lugar-de-mark-shuttleworth
 :date: 2006-04-01 02:50
-:category:
+:category: English
 :tags: portuguese
 
 O mundo da informÃƒÂ¡tica mundial nÃƒÂ£o pÃƒÂ´de acreditar o mais novo

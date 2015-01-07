@@ -2,7 +2,7 @@ BillReminder "It Puts the Lotion in the Basket" 0.3 lanÃ§ado
 ##############################################################
 :slug: billreminder-it-puts-the-lotion-in-the-basket-03-lancado
 :date: 2008-03-02 17:32
-:category:
+:category: English
 :tags: portuguese
 
 |About BillReminder|

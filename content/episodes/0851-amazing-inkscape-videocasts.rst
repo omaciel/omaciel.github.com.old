@@ -2,7 +2,7 @@ Amazing Inkscape videocasts
 ###########################
 :slug: amazing-inkscape-videocasts
 :date: 2008-09-25 22:38
-:category:
+:category: English
 :tags: english
 
 I felt compelled to blog about this great site full of amazingly

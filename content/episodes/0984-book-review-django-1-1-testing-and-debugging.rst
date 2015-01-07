@@ -2,7 +2,7 @@ Book Review: Django 1.1 Testing and Debugging
 #############################################
 :slug: book-review-django-1-1-testing-and-debugging
 :date: 2010-05-19 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_950” align=”alignleft” width=”243”

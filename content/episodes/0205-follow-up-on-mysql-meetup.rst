@@ -2,7 +2,7 @@ Follow up on MySQL Meetup
 #########################
 :slug: follow-up-on-mysql-meetup
 :date: 2005-11-04 21:56
-:category:
+:category: English
 :tags: english
 
 This is a couple of days late, but worth to mention anyhow. This last

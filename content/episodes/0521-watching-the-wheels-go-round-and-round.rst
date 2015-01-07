@@ -2,7 +2,7 @@ Watching the wheels go 'round and 'round
 ########################################
 :slug: watching-the-wheels-go-round-and-round
 :date: 2007-04-07 14:55
-:category:
+:category: English
 :tags: english
 
 This is going to be a very emotional post for me… Emotional for a good

@@ -2,7 +2,7 @@ Sistemas de recomendação de músicas online
 #############################################
 :slug: sistemas-de-recomendacao-de-musicas-online
 :date: 2008-05-23 10:37
-:category:
+:category: English
 :tags: portuguese
 
 Eu não sei como é o ambiente onde vocês trabalham, mas onde trabalho

@@ -2,7 +2,7 @@ IntegraÃ§Ã£o com o GNOME clock
 ##################################
 :slug: integracao-com-o-gnome-clock
 :date: 2007-09-07 19:32
-:category:
+:category: English
 :tags: portuguese
 
 Hoje o **Ken Vandine** estava exibindo o programa **intlclock** com o

@@ -2,7 +2,7 @@ Thank you Raphael Higino Silva
 ##############################
 :slug: thank-you-raphael-higino-silva
 :date: 2007-10-09 14:30
-:category:
+:category: English
 :tags: english
 
 It is with a heavy heart that I announce the tragic news of the death of

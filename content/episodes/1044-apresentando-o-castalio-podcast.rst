@@ -2,7 +2,7 @@ Apresentando o Castálio Podcast
 ################################
 :slug: apresentando-o-castalio-podcast
 :date: 2011-02-21 14:00
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_582” align=”alignleft” width=”300”

@@ -2,7 +2,7 @@ Oh yeah...
 ##########
 :slug: oh-yeah
 :date: 2008-01-26 21:29
-:category:
+:category: English
 :tags: english
 
 While I was busy at work, `Openbox

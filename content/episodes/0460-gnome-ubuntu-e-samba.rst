@@ -2,7 +2,7 @@ Gnome, Ubuntu, e Samba!
 #######################
 :slug: gnome-ubuntu-e-samba
 :date: 2007-01-05 18:36
-:category:
+:category: English
 :tags: portuguese
 
 Bem, como a notÃ­cia jÃ¡ foi

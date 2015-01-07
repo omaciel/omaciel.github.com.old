@@ -2,7 +2,7 @@ Castálio Podcast: Flávio Ribeiro: Globo.com
 #############################################
 :slug: castalio-podcast-flavio-ribeiro-globo-com
 :date: 2012-05-28 09:42
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castálio, ubuntu, mandriva
 
 |image0|

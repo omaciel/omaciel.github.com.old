@@ -2,7 +2,7 @@ The Crystal Ship
 ################
 :slug: the-crystal-ship
 :date: 2005-03-29 02:44
-:category:
+:category: English
 :tags: english
 
 Just as promised, here’s my screenie of netapplet and gnome-blog running

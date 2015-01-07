@@ -2,7 +2,7 @@ The Violent Cycle
 #################
 :slug: the-violent-cycle
 :date: 2005-07-07 18:52
-:category:
+:category: English
 :tags: english
 
 `Dom

@@ -2,7 +2,7 @@ Back from the Tropics
 #####################
 :slug: back-from-the-tropics
 :date: 2010-08-05 02:17
-:category:
+:category: English
 :tags: english
 
 It’s been a while since I last posted anything new. That’s because I

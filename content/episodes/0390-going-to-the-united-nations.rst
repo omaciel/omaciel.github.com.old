@@ -2,7 +2,7 @@ Going to the United Nations
 ###########################
 :slug: going-to-the-united-nations
 :date: 2006-08-30 16:40
-:category:
+:category: English
 :tags: english
 
 Yesterday I had the opportunity to represent Ubuntu linux at a symposium

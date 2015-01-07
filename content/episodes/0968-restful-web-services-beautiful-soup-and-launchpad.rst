@@ -2,7 +2,7 @@ RESTful Web Services, Beautiful Soup and Launchpad
 ##################################################
 :slug: restful-web-services-beautiful-soup-and-launchpad
 :date: 2010-04-28 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”160” caption=”Pumpkin Black Bean

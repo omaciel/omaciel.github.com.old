@@ -2,7 +2,7 @@ A little bit of light in the tunnel
 ###################################
 :slug: a-little-bit-of-light-in-the-tunnel
 :date: 2006-09-08 21:08
-:category:
+:category: English
 :tags: english
 
 First off I need to thank you all who contacted me, either directly or

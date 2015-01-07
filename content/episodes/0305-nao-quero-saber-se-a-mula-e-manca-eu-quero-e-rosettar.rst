@@ -2,7 +2,7 @@ NÃƒÂ£o quero saber se a mula ÃƒÂ© manca, eu quero ÃƒÂ© Rosettar!
 ############################################################################
 :slug: nao-quero-saber-se-a-mula-e-manca-eu-quero-e-rosettar
 :date: 2006-05-25 15:07
-:category:
+:category: English
 :tags: portuguese
 
 Foi anunciado hoje na lista de membros do Rosetta e Tradutores do Ubuntu

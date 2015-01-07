@@ -2,7 +2,7 @@ Comic Buddy# Reborn?
 ####################
 :slug: comic-buddy-reborn
 :date: 2005-08-26 18:17
-:category:
+:category: English
 :tags: english
 
 Been talking to someone from work quite extensive about Linux, Mono and

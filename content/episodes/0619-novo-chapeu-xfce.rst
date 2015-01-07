@@ -2,7 +2,7 @@ Novo ChapÃ©u: XFCE
 ####################
 :slug: novo-chapeu-xfce
 :date: 2007-08-22 16:06
-:category:
+:category: English
 :tags: portuguese
 
 A pedido do `AndrÃ© Noel <http://andrenoel.com.br/>`__\ … Tenho o enorme

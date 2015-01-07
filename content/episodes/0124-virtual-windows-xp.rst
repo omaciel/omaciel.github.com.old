@@ -2,7 +2,7 @@ Virtual Windows XP
 ##################
 :slug: virtual-windows-xp
 :date: 2005-07-15 11:55
-:category:
+:category: English
 :tags: english
 
 |houdini|

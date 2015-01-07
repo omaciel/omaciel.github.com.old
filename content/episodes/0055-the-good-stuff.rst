@@ -2,7 +2,7 @@ The Good Stuff
 ##############
 :slug: the-good-stuff
 :date: 2005-04-21 19:51
-:category:
+:category: English
 :tags: english
 
 Wow!!! It is amazing how great this whole week has been for me so far at

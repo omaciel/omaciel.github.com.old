@@ -2,7 +2,7 @@ Ata da ReuniÃ£o de Planejamento do XFCE Brasil
 ################################################
 :slug: ata-da-reuniao-de-planejamento-do-xfce-brasil
 :date: 2007-08-26 16:30
-:category:
+:category: English
 :tags: portuguese
 
 **ATA DA REUNIÃƒO DE PLANEJAMENTO / XFCE** IRC (Freenode, #tradutores)

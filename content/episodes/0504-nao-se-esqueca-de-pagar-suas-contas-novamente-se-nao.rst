@@ -2,7 +2,7 @@ NÃ£o se esqueÃ§a de pagar suas contas novamente, se nÃ£o...
 #################################################################
 :slug: nao-se-esqueca-de-pagar-suas-contas-novamente-se-nao
 :date: 2007-03-18 23:43
-:category:
+:category: English
 :tags: portuguese
 
 |BillReminder1|

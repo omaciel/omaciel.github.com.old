@@ -2,7 +2,7 @@ Criando seu prÃƒÂ³prio Multi-Boot Pendrive
 ##############################################
 :slug: criando-seu-proprio-multi-boot-pendrive
 :date: 2006-02-15 20:57
-:category:
+:category: English
 :tags: portuguese
 
 Estou tÃƒÂ£o acostumado a usar Linux que passo aperto quando visito

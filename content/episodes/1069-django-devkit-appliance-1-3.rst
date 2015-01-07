@@ -2,7 +2,7 @@ Django DevKit Appliance 1.3
 ###########################
 :slug: django-devkit-appliance-1-3
 :date: 2011-05-21 01:09
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_853” align=”alignleft” width=”300”

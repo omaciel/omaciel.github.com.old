@@ -2,7 +2,7 @@ The 2 people you meet in Heaven
 ###############################
 :slug: the-2-people-you-meet-in-heaven
 :date: 2006-05-21 00:24
-:category:
+:category: English
 :tags: english
 
 Hipothetically speaking, if I were giving the opportunity to travel back

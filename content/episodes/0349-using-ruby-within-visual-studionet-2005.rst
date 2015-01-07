@@ -2,7 +2,7 @@ Using Ruby Within Visual Studio.NET 2005
 ########################################
 :slug: using-ruby-within-visual-studionet-2005
 :date: 2006-07-05 13:28
-:category:
+:category: English
 :tags: english
 
 To all my friends who use Windows for their daily tasks (usually at

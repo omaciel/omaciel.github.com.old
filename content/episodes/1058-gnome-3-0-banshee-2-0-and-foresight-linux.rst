@@ -2,7 +2,7 @@ GNOME 3.0, Banshee 2.0 and Foresight Linux
 ##########################################
 :slug: gnome-3-0-banshee-2-0-and-foresight-linux
 :date: 2011-04-06 23:01
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1388” align=”alignleft” width=”200”

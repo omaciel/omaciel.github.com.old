@@ -2,7 +2,7 @@ Back from FossCamp
 ##################
 :slug: back-from-fosscamp
 :date: 2007-10-31 02:00
-:category:
+:category: English
 :tags: english
 
 For those who noticed my sudden disappearance from the web late last

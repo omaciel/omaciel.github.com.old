@@ -2,7 +2,7 @@ More BarCampRDU
 ###############
 :slug: more-barcamprdu
 :date: 2007-08-04 15:35
-:category:
+:category: English
 :tags: english
 
 The second session titled “Building online communities”, or something

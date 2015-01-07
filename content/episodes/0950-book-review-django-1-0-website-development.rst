@@ -2,7 +2,7 @@ Book Review: Django 1.0 Website Development
 ###########################################
 :slug: book-review-django-1-0-website-development
 :date: 2010-03-28 19:05
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_860” align=”alignleft” width=”300”

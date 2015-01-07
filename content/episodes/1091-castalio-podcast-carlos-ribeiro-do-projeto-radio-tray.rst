@@ -2,7 +2,7 @@ Castálio Podcast: Carlos Ribeiro do projeto Radio Tray
 #######################################################
 :slug: castalio-podcast-carlos-ribeiro-do-projeto-radio-tray
 :date: 2011-08-22 01:03
-:category:
+:category: Portuguese
 :tags: portuguese, castalio, podcast
 
 |Carlos Ribeiro - RadioTray|

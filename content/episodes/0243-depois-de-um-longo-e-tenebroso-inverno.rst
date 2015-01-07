@@ -2,7 +2,7 @@ Depois de um longo e tenebroso inverno...
 #########################################
 :slug: depois-de-um-longo-e-tenebroso-inverno
 :date: 2006-03-06 02:09
-:category:
+:category: English
 :tags: portuguese
 
 … voltei de minha viagem ÃƒÂ  Boston, onde passei 2 semanas me

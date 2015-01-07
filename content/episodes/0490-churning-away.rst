@@ -2,7 +2,7 @@ Churning away
 #############
 :slug: churning-away
 :date: 2007-03-07 22:11
-:category:
+:category: English
 :tags: english
 
 Ok, so we now have `Live

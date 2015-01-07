@@ -2,7 +2,7 @@ Weekend Update
 ##############
 :slug: weekend-update-2
 :date: 2007-11-10 04:32
-:category:
+:category: English
 :tags: english
 
 A couple of updates before heading out to the weekend:

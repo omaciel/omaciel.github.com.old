@@ -2,7 +2,7 @@ Year of Translations?
 #####################
 :slug: year-of-translations
 :date: 2008-12-30 18:25
-:category:
+:category: English
 :tags: english
 
 What a great month for open source translators this has been! The latest

@@ -2,7 +2,7 @@ Using Dropbox with Openbox
 ##########################
 :slug: using-dropbox-with-openbox
 :date: 2008-10-23 14:02
-:category:
+:category: English
 :tags: english
 
 I’ve been a GNU/Linux user for quite some time now, but it wasn’t until

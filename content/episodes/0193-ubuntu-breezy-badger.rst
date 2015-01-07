@@ -2,7 +2,7 @@ Ubuntu Breezy Badger
 ####################
 :slug: ubuntu-breezy-badger
 :date: 2005-10-17 23:21
-:category:
+:category: English
 :tags: english
 
 |Breezy Badger|

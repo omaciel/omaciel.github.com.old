@@ -2,7 +2,7 @@ poEdit and translate-toolkit packaged in Foresight
 ##################################################
 :slug: poedit-and-translate-toolkit-packaged-in-foresight
 :date: 2007-03-04 04:43
-:category:
+:category: English
 :tags: english
 
 Just finished packaging

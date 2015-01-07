@@ -2,7 +2,7 @@ Fresh material for all the professional Tweeters out there
 ##########################################################
 :slug: fresh-material-for-all-the-professional-tweeters-out-the
 :date: 2008-06-23 13:43
-:category:
+:category: English
 :tags: english
 
 My friend `devnet <http://linux-blog.org/>`__ told me today as we got

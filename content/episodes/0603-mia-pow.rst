@@ -2,7 +2,7 @@ MIA / POW
 #########
 :slug: mia-pow
 :date: 2007-07-17 15:50
-:category:
+:category: English
 :tags: english
 
 That is, Missing In Action / Prisoner Of **WORK**! Here at

@@ -2,7 +2,7 @@ What is your Perfect Major?
 ###########################
 :slug: what-is-your-perfect-major
 :date: 2006-01-09 20:14
-:category:
+:category: English
 :tags: english
 
 .. code:: 

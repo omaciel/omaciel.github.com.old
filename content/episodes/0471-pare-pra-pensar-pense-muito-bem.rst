@@ -2,7 +2,7 @@ Pare pra' pensar, pense muito bem!
 ##################################
 :slug: pare-pra-pensar-pense-muito-bem
 :date: 2007-02-11 19:38
-:category:
+:category: English
 :tags: portuguese
 
 Continuando com a saga de personalizar a minha instalacao do Openbox, a

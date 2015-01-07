@@ -2,7 +2,7 @@ Prelude to letting go?
 ######################
 :slug: prelude-to-letting-go
 :date: 2008-04-07 13:49
-:category:
+:category: English
 :tags: english
 
 I meant to write this before but got really busy this past week. About 2

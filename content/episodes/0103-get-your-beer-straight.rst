@@ -2,7 +2,7 @@ Get Your Beer Straight
 ######################
 :slug: get-your-beer-straight
 :date: 2005-06-08 12:56
-:category:
+:category: English
 :tags: english
 
 I’ve been known to drink “socially” a few beers here and there but I

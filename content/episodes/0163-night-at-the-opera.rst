@@ -2,7 +2,7 @@ Night at the Opera
 ##################
 :slug: night-at-the-opera
 :date: 2005-08-31 15:54
-:category:
+:category: English
 :tags: english
 
 Yesterday, following the announcement that the folks behind the

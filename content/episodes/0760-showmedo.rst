@@ -2,7 +2,7 @@ ShowMeDo
 ########
 :slug: showmedo
 :date: 2008-04-22 14:02
-:category:
+:category: English
 :tags: english
 
 Today I subscribed to `ShowMeDo, <http://showmedo.com>`__ a web site

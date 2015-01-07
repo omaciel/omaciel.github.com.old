@@ -2,7 +2,7 @@ Wish list: Distutils best practice guide
 ########################################
 :slug: wish-list-distutils-best-practice-guide
 :date: 2010-03-26 19:22
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”500” caption=”Prayers by

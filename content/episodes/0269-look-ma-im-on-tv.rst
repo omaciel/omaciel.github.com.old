@@ -2,7 +2,7 @@ Look Ma!  I'm on TV!!!
 ######################
 :slug: look-ma-im-on-tv
 :date: 2006-04-10 16:43
-:category:
+:category: English
 :tags: english
 
 Well, sort of…Ã‚Â  I was “interviewed” by `Lulu

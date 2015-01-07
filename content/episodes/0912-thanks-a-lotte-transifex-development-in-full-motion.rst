@@ -2,7 +2,7 @@ Thanks a Lotte! Transifex development in full motion!
 #####################################################
 :slug: thanks-a-lotte-transifex-development-in-full-motion
 :date: 2009-07-14 20:10
-:category:
+:category: English
 :tags: english
 
 I’m back from **GUADEC 2009** (a blog post dedicated to this will be

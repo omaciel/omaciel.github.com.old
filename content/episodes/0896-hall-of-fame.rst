@@ -2,7 +2,7 @@ Hall of Fame
 ############
 :slug: hall-of-fame
 :date: 2009-04-03 19:43
-:category:
+:category: English
 :tags: english
 
 Just nominated who I think should be “inducted” into the Ubuntu `Hall of

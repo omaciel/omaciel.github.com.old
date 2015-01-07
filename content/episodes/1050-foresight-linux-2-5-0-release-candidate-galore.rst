@@ -2,7 +2,7 @@ Foresight Linux 2.5.0 Release Candidate Galore!
 ###############################################
 :slug: foresight-linux-2-5-0-release-candidate-galore
 :date: 2011-03-09 03:30
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1363” align=”aligncenter” width=”500”

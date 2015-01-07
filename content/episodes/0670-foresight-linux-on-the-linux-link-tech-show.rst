@@ -2,7 +2,7 @@ Foresight Linux on The Linux Link Tech Show
 ###########################################
 :slug: foresight-linux-on-the-linux-link-tech-show
 :date: 2007-11-08 18:33
-:category:
+:category: English
 :tags: english
 
 Listen to `Ken Vandine <http://ken.vandine.org/>`__ talk about

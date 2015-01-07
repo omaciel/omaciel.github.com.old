@@ -2,7 +2,7 @@ Alhos e Bugalhos
 ################
 :slug: alhos-e-bugalhos
 :date: 2006-06-28 17:51
-:category:
+:category: English
 :tags: portuguese
 
 Ainda ontem recebi um comentÃƒÂ¡rio em meu blog que mostrou um lado que

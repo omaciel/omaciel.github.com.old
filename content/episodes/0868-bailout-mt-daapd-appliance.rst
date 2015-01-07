@@ -2,7 +2,7 @@ Bailout MT-Daapd Appliance
 ##########################
 :slug: bailout-mt-daapd-appliance
 :date: 2008-12-06 21:38
-:category:
+:category: English
 :tags: english
 
 For the past few days I’ve been working on setting up a minimalistic

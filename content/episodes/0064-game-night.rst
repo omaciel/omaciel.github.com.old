@@ -2,7 +2,7 @@ Game Night
 ##########
 :slug: game-night
 :date: 2005-04-28 13:33
-:category:
+:category: English
 :tags: english
 
 Last night was my weekly night to play games with my friend

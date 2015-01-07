@@ -2,7 +2,7 @@ A whole lotta hacking (in the tropics)!
 #######################################
 :slug: a-whole-lotta-hacking-in-the-tropics
 :date: 2006-04-17 13:43
-:category:
+:category: English
 :tags: english
 
 If anyone is planning on attending this year’s `7º Fórum Internacional

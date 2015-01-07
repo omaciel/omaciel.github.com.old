@@ -2,7 +2,7 @@ NYC Claims Another Victim!
 ##########################
 :slug: nyc-claims-another-victim
 :date: 2006-09-06 18:06
-:category:
+:category: English
 :tags: english
 
 This is it folks, I’m quitting the rat race! After working my butt off

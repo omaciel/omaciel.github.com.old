@@ -2,7 +2,7 @@ To my fallen comrades
 #####################
 :slug: to-my-fallen-comrades
 :date: 2009-01-10 20:47
-:category:
+:category: English
 :tags: english
 
     "Life is never more fun than when you’re the underdog competing

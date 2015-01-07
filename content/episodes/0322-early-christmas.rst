@@ -2,7 +2,7 @@ Early Christmas?
 ################
 :slug: early-christmas
 :date: 2006-06-08 19:45
-:category:
+:category: English
 :tags: english
 
 I didn’t know the new version of Monodevelop with built-in graphical

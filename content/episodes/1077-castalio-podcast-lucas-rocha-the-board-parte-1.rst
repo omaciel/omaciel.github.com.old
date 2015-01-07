@@ -2,7 +2,7 @@ Castálio Podcast: Lucas Rocha - The Board (Parte 1)
 ####################################################
 :slug: castalio-podcast-lucas-rocha-the-board-parte-1
 :date: 2011-06-26 21:15
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_45” align=”alignleft” width=”180”

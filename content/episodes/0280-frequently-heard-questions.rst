@@ -2,7 +2,7 @@ Frequently Heard Questions
 ##########################
 :slug: frequently-heard-questions
 :date: 2006-04-24 02:52
-:category:
+:category: English
 :tags: english
 
 … at technology expositions/fairs I’ve been to this year, mostly as an

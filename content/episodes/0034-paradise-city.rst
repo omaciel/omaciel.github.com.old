@@ -2,7 +2,7 @@ Paradise City
 #############
 :slug: paradise-city
 :date: 2005-03-28 20:50
-:category:
+:category: English
 :tags: english
 
 Found a couple of pretty usefull and cool

@@ -2,7 +2,7 @@ I got your latest GNOME right here!
 ###################################
 :slug: i-got-your-latest-gnome-right-here
 :date: 2009-07-30 21:22
-:category:
+:category: English
 :tags: english
 
 Just wanted to re-enforce what

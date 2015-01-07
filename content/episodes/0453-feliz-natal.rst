@@ -2,7 +2,7 @@ Feliz Natal!!!
 ##############
 :slug: feliz-natal
 :date: 2006-12-25 00:05
-:category:
+:category: English
 :tags: portuguese
 
 Depois de dirigir por mais de 800 Km, cheguei ontem na casa da minha

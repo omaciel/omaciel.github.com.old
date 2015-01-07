@@ -2,7 +2,7 @@ Secret Santa Made Easy
 ######################
 :slug: secret-santa-made-easy
 :date: 2006-11-28 04:33
-:category:
+:category: English
 :tags: english
 
 This X-Mas will be the first time I’ll have to travel to be with my

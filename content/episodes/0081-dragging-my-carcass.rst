@@ -2,7 +2,7 @@ Dragging My Carcass
 ###################
 :slug: dragging-my-carcass
 :date: 2005-05-13 13:46
-:category:
+:category: English
 :tags: english
 
 Been really busy attending the Project Management class these last 3

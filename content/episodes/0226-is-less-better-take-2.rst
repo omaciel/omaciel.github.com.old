@@ -2,7 +2,7 @@ Is Less Better? - Take 2
 ########################
 :slug: is-less-better-take-2
 :date: 2006-02-06 16:50
-:category:
+:category: English
 :tags: english
 
 I’ve been following with extreme interest (and caution) the

@@ -2,7 +2,7 @@ My 5 a day
 ##########
 :slug: my-5-a-day
 :date: 2008-10-02 16:40
-:category:
+:category: English
 :tags: english
 
 Can’t see it? Click

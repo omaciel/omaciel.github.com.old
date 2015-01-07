@@ -2,7 +2,7 @@ King of the Hill
 ################
 :slug: king-of-the-hill
 :date: 2005-09-09 15:26
-:category:
+:category: English
 :tags: english
 
 |I am nerdier than 93% of all people. Are you nerdier? Click here to

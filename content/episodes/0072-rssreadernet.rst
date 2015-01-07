@@ -2,7 +2,7 @@ RssReader.NET
 #############
 :slug: rssreadernet
 :date: 2005-05-02 14:21
-:category:
+:category: English
 :tags: english
 
 Been spending some time using the

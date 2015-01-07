@@ -2,7 +2,7 @@ Castálio Podcast: Hugo Dória - Arch Linux
 ###########################################
 :slug: castalio-podcast-hugo-doria-arch-linux
 :date: 2011-08-08 06:15
-:category:
+:category: Portuguese
 :tags: portuguese, castalio, podcast
 
 |Rock N' Roll Racing|

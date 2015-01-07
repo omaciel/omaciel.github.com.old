@@ -2,7 +2,7 @@ Book Review: Mockingjay
 #######################
 :slug: book-review-mockingjay
 :date: 2011-01-26 05:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1297” align=”alignleft” width=”231”

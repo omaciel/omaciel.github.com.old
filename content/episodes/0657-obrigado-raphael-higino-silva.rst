@@ -2,7 +2,7 @@ Obrigado Raphael Higino Silva
 #############################
 :slug: obrigado-raphael-higino-silva
 :date: 2007-10-09 14:41
-:category:
+:category: English
 :tags: portuguese
 
 Ã‰ com um grande peso no meu coraÃ§Ã£o que venho comunicar a trÃ¡gica

@@ -2,7 +2,7 @@ Using FlickrUploadr in Ubuntu
 #############################
 :slug: using-flickruploadr-in-ubuntu
 :date: 2006-01-19 16:28
-:category:
+:category: English
 :tags: english
 
 Every time I need to add an image to one of my posts, I use a very

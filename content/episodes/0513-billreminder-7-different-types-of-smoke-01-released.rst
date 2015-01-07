@@ -2,7 +2,7 @@ BillReminder "7 Different Types of Smoke" 0.1 Released
 ######################################################
 :slug: billreminder-7-different-types-of-smoke-01-released
 :date: 2007-03-28 02:31
-:category:
+:category: English
 :tags: english
 
 Release soon, release often they say, right? Well, here it is then!

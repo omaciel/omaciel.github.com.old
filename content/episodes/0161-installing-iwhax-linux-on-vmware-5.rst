@@ -2,7 +2,7 @@ Installing iWhax Linux on VMWare 5
 ##################################
 :slug: installing-iwhax-linux-on-vmware-5
 :date: 2005-08-29 17:15
-:category:
+:category: English
 :tags: english
 
 My good friend from **`The Land of the

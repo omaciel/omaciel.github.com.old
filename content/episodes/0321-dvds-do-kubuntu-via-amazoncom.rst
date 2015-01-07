@@ -2,7 +2,7 @@ DVDs do [Ku|U]buntu via Amazon.com
 ##################################
 :slug: dvds-do-kubuntu-via-amazoncom
 :date: 2006-06-08 19:23
-:category:
+:category: English
 :tags: portuguese
 
 Foi anunciado hoje que DVDs do

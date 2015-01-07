@@ -2,7 +2,7 @@ DocumentaÃƒÂ§ÃƒÂ£o para Live CD Personalizado
 #####################################################
 :slug: documentacao-para-live-cd-personalizado
 :date: 2006-08-10 14:12
-:category:
+:category: English
 :tags: portuguese
 
 Nosso amigo `Alex Rocha <http://alexrocha.wordpress.com/>`__ nos fez a

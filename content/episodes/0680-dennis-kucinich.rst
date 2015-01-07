@@ -2,7 +2,7 @@ Dennis Kucinich
 ###############
 :slug: dennis-kucinich
 :date: 2007-12-09 16:28
-:category:
+:category: English
 :tags: english
 
 “\ *one Nation under God, indivisible, with liberty and justice for

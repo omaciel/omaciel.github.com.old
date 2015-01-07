@@ -2,7 +2,7 @@ Good news from the Epiphany front
 #################################
 :slug: good-news-from-the-epiphany-front
 :date: 2008-04-01 10:39
-:category:
+:category: English
 :tags: english
 
 Very cool

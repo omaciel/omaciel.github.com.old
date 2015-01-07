@@ -2,7 +2,7 @@ Você se lembra da minha voz?
 #############################
 :slug: voce-se-lembra-da-minha-voz
 :date: 2009-10-15 19:46
-:category:
+:category: English
 :tags: portuguese
 
 Nossa, quanto tempo que não escrevia no meu blog em português!!! Muitas

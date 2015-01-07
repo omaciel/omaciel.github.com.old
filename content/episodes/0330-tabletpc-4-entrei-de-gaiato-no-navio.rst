@@ -2,7 +2,7 @@ TabletPC 4: Entrei de gaiato no navio
 #####################################
 :slug: tabletpc-4-entrei-de-gaiato-no-navio
 :date: 2006-06-12 03:05
-:category:
+:category: English
 :tags: portuguese
 
 O domingo foi super corrido, com muito jogo de futebol, regado ÃƒÂ 

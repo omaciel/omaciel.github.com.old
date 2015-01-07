@@ -2,7 +2,7 @@ Governo quer multar usuÃ¡rios do GNU/Linux
 ############################################
 :slug: governo-quer-multar-usuarios-do-gnulinux
 :date: 2007-04-01 01:53
-:category:
+:category: English
 :tags: portuguese
 
 Aunciado hoje em reuniÃ£o extraordinÃ¡ria no senado nacional, governo

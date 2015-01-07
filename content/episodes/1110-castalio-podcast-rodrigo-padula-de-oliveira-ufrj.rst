@@ -2,7 +2,7 @@ Castálio Podcast - Rodrigo Padula de Oliveira: UFRJ
 ####################################################
 :slug: castalio-podcast-rodrigo-padula-de-oliveira-ufrj
 :date: 2012-01-08 22:05
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Rodrigo Padula|

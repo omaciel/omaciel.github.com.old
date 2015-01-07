@@ -2,7 +2,7 @@ Caminho das Pedras
 ##################
 :slug: caminho-das-pedras
 :date: 2006-04-17 16:36
-:category:
+:category: English
 :tags: portuguese
 
 Estou pegando o termo “emprestado” do comentÃƒÂ¡rio do **Carlos Araujo**

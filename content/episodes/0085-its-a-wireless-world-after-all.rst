@@ -2,7 +2,7 @@ It's A Wireless World After All
 ###############################
 :slug: its-a-wireless-world-after-all
 :date: 2005-05-16 22:04
-:category:
+:category: English
 :tags: english
 
 Incredible! Here I am waiting outside my wife’s doctor’s office, bored

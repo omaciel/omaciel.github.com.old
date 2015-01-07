@@ -2,7 +2,7 @@ A few reasons why Rosetta should not be considered as a translation platform for
 ##############################################################################################################
 :slug: a-few-reasons-why-rosetta-should-not-be-considered-as-a
 :date: 2008-12-24 17:49
-:category:
+:category: English
 :tags: english
 
 Last week I received an invitation to join the

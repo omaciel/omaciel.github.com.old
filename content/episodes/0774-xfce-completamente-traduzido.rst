@@ -2,7 +2,7 @@ XFCE Completamente Traduzido
 ############################
 :slug: xfce-completamente-traduzido
 :date: 2008-05-15 23:12
-:category:
+:category: English
 :tags: portuguese
 
 É com um enorme orgulho que venho anunciar que o ambiente de de desktop

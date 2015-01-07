@@ -2,7 +2,7 @@ O.G.: Observation Guardian
 ##########################
 :slug: og-observation-guardian
 :date: 2005-08-25 12:05
-:category:
+:category: English
 :tags: english
 
 Just because I’m a geek and the guys at p.d.o. are doing it… ;)

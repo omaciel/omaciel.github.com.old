@@ -2,7 +2,7 @@ Atualizações de traduções
 #############################
 :slug: atualizacoes-de-traducoes
 :date: 2009-03-10 00:58
-:category:
+:category: English
 :tags: portuguese
 
 Orgulhoso de ter participado da entrega dos seguintes projetos upstream

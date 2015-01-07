@@ -2,7 +2,7 @@ Linux World Expo - Boston 2006
 ##############################
 :slug: linux-world-expo-boston-2006
 :date: 2006-02-19 00:17
-:category:
+:category: English
 :tags: portuguese
 
 O `Linux World

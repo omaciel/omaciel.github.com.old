@@ -2,7 +2,7 @@ Barbaridade ChÃƒÂª!
 #######################
 :slug: barbaridade-che
 :date: 2006-03-28 22:22
-:category:
+:category: English
 :tags: portuguese
 
 Chegaram lÃƒÂ¡ em casa os 600 CDs do Breezy que eu tinha pedido Ãƒ

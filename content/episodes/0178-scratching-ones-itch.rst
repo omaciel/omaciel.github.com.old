@@ -2,7 +2,7 @@ Scratching One's Itch
 #####################
 :slug: scratching-ones-itch
 :date: 2005-09-22 14:18
-:category:
+:category: English
 :tags: english
 
 On his latest

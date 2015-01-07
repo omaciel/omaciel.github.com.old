@@ -2,7 +2,7 @@ Lunch break
 ###########
 :slug: lunch-break
 :date: 2007-08-04 16:49
-:category:
+:category: English
 :tags: english
 
 Lunch time here at `BarCampRDU <http://barcamp.org/BarCampRDU>`__, and

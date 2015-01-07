@@ -2,7 +2,7 @@ GNOME Desktop 2.18:  Almost 100% localized to Brazilian Portuguese
 ##################################################################
 :slug: gnome-desktop-218-almost-100-localized-to-brazilian-port
 :date: 2007-03-08 15:15
-:category:
+:category: English
 :tags: english
 
 Been working hard with the GNOME Brazilian team to finish up the

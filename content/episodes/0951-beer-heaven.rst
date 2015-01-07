@@ -2,7 +2,7 @@ Beer Heaven
 ###########
 :slug: beer-heaven
 :date: 2010-03-29 18:51
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_866” align=”alignleft” width=”225”

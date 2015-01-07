@@ -2,7 +2,7 @@ Cyber Archeologists Will Google Dig
 ###################################
 :slug: cyber-archeologists-will-google-dig
 :date: 2005-06-02 13:24
-:category:
+:category: English
 :tags: english
 
 Having read

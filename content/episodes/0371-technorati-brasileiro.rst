@@ -2,7 +2,7 @@ Technorati Brasileiro
 #####################
 :slug: technorati-brasileiro
 :date: 2006-08-03 12:47
-:category:
+:category: English
 :tags: portuguese
 
 Hoje me inscrevi no `BlogBlogs <http://blogblogs.com.br>`__, uma

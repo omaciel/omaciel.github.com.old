@@ -2,7 +2,7 @@ Prá que complicar?
 ###################
 :slug: pra-que-complicar
 :date: 2008-08-04 13:45
-:category:
+:category: English
 :tags: portuguese
 
 -  Aug 04 12:06:15 —- gmazk has changed the topic to: Canal oficial

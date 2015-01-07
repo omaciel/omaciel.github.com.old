@@ -2,7 +2,7 @@ Castálio Podcast - João Fernando Costa Junior: Revista Espírito Livre
 ########################################################################
 :slug: castalio-podcast-joao-fernando-costa-junior-revista-espi
 :date: 2011-12-12 07:28
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |João Fernando Costa Junior|

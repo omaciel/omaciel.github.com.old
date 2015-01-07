@@ -2,7 +2,7 @@ Command Line Tools with Python OptParse
 #######################################
 :slug: python-optparse
 :date: 2010-04-15 20:00
-:category:
+:category: English
 :tags: english, optparse, python, wordpress, xml
 
 |image0|\ It is not very uncommon for me to receive some code requests

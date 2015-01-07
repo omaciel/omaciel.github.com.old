@@ -2,7 +2,7 @@ Dica Matuta
 ###########
 :slug: dica-matuta
 :date: 2006-02-23 23:22
-:category:
+:category: English
 :tags: portuguese
 
 Sei que tenho andado meio sumido este ÃƒÂºltimos dias, mas com a minha

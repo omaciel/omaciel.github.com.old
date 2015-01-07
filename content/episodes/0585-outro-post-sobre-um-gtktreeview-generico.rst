@@ -2,7 +2,7 @@ Outro post sobre um Gtk.TreeView genÃ©rico
 ############################################
 :slug: outro-post-sobre-um-gtktreeview-generico
 :date: 2007-06-16 16:41
-:category:
+:category: English
 :tags: portuguese
 
 Pensei, por que nÃ£o escrever um exemplo bem simples de como usar o

@@ -2,7 +2,7 @@ Can you hear the crickets?
 ##########################
 :slug: can-you-hear-the-crickets
 :date: 2005-12-07 22:30
-:category:
+:category: English
 :tags: english
 
 Well, so far nobody who read this blog (contrary to the

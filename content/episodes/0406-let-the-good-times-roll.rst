@@ -2,7 +2,7 @@ Let the good times roll!
 ########################
 :slug: let-the-good-times-roll
 :date: 2006-10-03 20:26
-:category:
+:category: English
 :tags: english
 
 Just a quick note since I still have no internet at home and have been

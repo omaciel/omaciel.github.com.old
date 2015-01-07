@@ -2,7 +2,7 @@ Feedster Registered
 ###################
 :slug: feedster-registered
 :date: 2005-08-17 14:11
-:category:
+:category: English
 :tags: english
 
 Title says it all.

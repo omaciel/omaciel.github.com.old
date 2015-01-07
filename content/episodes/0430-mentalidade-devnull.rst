@@ -2,7 +2,7 @@ Mentalidade > /dev/null
 #######################
 :slug: mentalidade-devnull
 :date: 2006-10-30 22:37
-:category:
+:category: English
 :tags: portuguese
 
 Hoje o Licio me passou um link que me deixou bastante pensativo, e ao

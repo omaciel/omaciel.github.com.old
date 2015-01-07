@@ -2,7 +2,7 @@ Openbox goodness!
 #################
 :slug: openbox-goodness
 :date: 2007-12-15 02:04
-:category:
+:category: English
 :tags: english
 
 Finally caught up with my rss feeds and found out about some new

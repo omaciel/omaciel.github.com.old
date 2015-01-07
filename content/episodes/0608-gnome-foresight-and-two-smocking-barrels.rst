@@ -2,7 +2,7 @@ GNOME, Foresight, and Two Smocking Barrels
 ##########################################
 :slug: gnome-foresight-and-two-smocking-barrels
 :date: 2007-07-20 18:52
-:category:
+:category: English
 :tags: english
 
 Or something like that!Ã‚Â  My buddy `Ken

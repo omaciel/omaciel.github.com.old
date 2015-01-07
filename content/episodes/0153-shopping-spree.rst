@@ -2,7 +2,7 @@ Shopping Spree
 ##############
 :slug: shopping-spree
 :date: 2005-08-23 14:38
-:category:
+:category: English
 :tags: english
 
 Right before I succumbed to some major infection and spend most of my

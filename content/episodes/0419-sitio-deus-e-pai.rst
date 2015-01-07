@@ -2,7 +2,7 @@ Sitio Deus e' Pai
 #################
 :slug: sitio-deus-e-pai
 :date: 2006-10-13 19:53
-:category:
+:category: English
 :tags: portuguese
 
 Brincando um pouco mais com o Google Analytics, descobri que 8 pessoas

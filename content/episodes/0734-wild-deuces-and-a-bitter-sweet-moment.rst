@@ -2,7 +2,7 @@ Wild Deuces and a Bitter Sweet Moment
 #####################################
 :slug: wild-deuces-and-a-bitter-sweet-moment
 :date: 2008-03-12 23:19
-:category:
+:category: English
 :tags: english
 
 Today is a very special moment for all of those who were involved with

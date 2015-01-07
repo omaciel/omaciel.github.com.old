@@ -2,7 +2,7 @@ Futebol de UbuntÃƒÂ£o
 #########################
 :slug: futebol-de-ubuntao
 :date: 2006-05-31 17:26
-:category:
+:category: English
 :tags: portuguese
 
 Finalmente! Depois de muitos meses de trabalho duro nas traduÃƒÂ§ÃƒÂµes

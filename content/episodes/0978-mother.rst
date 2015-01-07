@@ -2,7 +2,7 @@ Mother
 ######
 :slug: mother
 :date: 2010-05-10 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”aligncenter” width=”432” caption=”My Mom and

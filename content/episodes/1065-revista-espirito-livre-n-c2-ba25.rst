@@ -2,7 +2,7 @@ Revista Espiríto Livre Nº25
 #############################
 :slug: revista-espirito-livre-n-c2-ba25
 :date: 2011-05-02 00:20
-:category:
+:category: English
 :tags: portuguese
 
 [caption id=”” align=”alignleft” width=”409” caption=”Revista Espiríto

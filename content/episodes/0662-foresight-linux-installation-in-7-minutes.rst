@@ -2,7 +2,7 @@ Foresight Linux installation in 7 minutes!
 ##########################################
 :slug: foresight-linux-installation-in-7-minutes
 :date: 2007-10-24 13:21
-:category:
+:category: English
 :tags: english
 
 That is what the new version of `Foresight

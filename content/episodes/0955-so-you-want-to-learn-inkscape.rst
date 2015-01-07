@@ -2,7 +2,7 @@ Learning Inkscape?
 ##################
 :slug: so-you-want-to-learn-inkscape
 :date: 2010-04-14 20:00
-:category:
+:category: English
 :tags: english
 
 |Inkscape|\ Lately I have found myself spending more and more time

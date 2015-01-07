@@ -2,7 +2,7 @@ Salivando mais que Pavlov
 #########################
 :slug: salivando-mais-que-pavlov
 :date: 2006-03-23 19:28
-:category:
+:category: English
 :tags: portuguese
 
 Miguel de Icaza anunciou hoje

@@ -2,7 +2,7 @@ Wish List
 #########
 :slug: wish-list
 :date: 2008-05-30 17:23
-:category:
+:category: English
 :tags: english
 
 With my 34th birthday fast approaching I figured I’d publish my `wish

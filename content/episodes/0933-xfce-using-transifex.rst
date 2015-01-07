@@ -2,7 +2,7 @@ Xfce using Transifex
 ####################
 :slug: xfce-using-transifex
 :date: 2010-01-18 04:11
-:category:
+:category: English
 :tags: english
 
 In case you’ve missed it, the `Xfce <http://www.xfce.org>`__ project has

@@ -2,7 +2,7 @@ Some early pictures
 ###################
 :slug: some-early-pictures
 :date: 2006-04-05 12:49
-:category:
+:category: English
 :tags: english
 
 Didn’t get around to take a lot of pictures due to the craziness from

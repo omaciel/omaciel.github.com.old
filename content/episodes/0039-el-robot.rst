@@ -2,7 +2,7 @@ El Robot
 ########
 :slug: el-robot
 :date: 2005-03-30 18:18
-:category:
+:category: English
 :tags: english
 
 My sister had told me about

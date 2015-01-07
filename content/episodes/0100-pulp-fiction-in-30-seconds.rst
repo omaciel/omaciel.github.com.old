@@ -2,7 +2,7 @@ Pulp Fiction In 30 Seconds
 ##########################
 :slug: pulp-fiction-in-30-seconds
 :date: 2005-06-07 13:00
-:category:
+:category: English
 :tags: english
 
 Want to see `Pulp Fiction <http://www.imdb.com/title/tt0110912/>`__

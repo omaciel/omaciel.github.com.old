@@ -2,7 +2,7 @@ Amazing...
 ##########
 :slug: amazing
 :date: 2005-04-26 15:10
-:category:
+:category: English
 :tags: english
 
 Sometimes I wonder how certain people get employed… really! I usually

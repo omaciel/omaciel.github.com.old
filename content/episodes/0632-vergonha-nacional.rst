@@ -2,7 +2,7 @@ Vergonha Nacional!
 ##################
 :slug: vergonha-nacional
 :date: 2007-09-01 23:43
-:category:
+:category: English
 :tags: portuguese
 
 Assisti este `vÃ­deo <http://www.youtube.com/watch?v=q9esNX7bzHY>`__

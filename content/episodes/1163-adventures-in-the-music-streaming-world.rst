@@ -2,7 +2,7 @@ Adventures in the Music Streaming World
 #######################################
 :slug: adventures-in-the-music-streaming-world
 :date: 2013-04-23 23:19
-:category:
+:category: English
 :tags: Music, Stream, Pandora, Spotify, Rdio, Grooveshark, Last.fm, Android, iOS, english
 
 These last couple of years have brought (along with some new wrinkles

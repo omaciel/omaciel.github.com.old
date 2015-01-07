@@ -2,7 +2,7 @@ Awkward Places To Run Into Your Job Interviewer
 ###############################################
 :slug: awkward-places-to-run-into-your-job-interviewer
 :date: 2005-07-06 18:30
-:category:
+:category: English
 :tags: english
 
 Another gem from `Piled Higher and Deeper <http://www.phdcomics.com>`__

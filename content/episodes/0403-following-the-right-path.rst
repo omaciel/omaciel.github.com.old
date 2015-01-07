@@ -2,7 +2,7 @@ Following the Right Path
 ########################
 :slug: following-the-right-path
 :date: 2006-09-27 03:56
-:category:
+:category: English
 :tags: english
 
 It’s been a while since I last blogged but my life has been pretty

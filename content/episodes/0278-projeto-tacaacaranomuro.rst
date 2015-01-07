@@ -2,7 +2,7 @@ Projeto T.A.C.A.A.C.A.R.A.N.O.M.U.R.O.
 ######################################
 :slug: projeto-tacaacaranomuro
 :date: 2006-04-21 02:59
-:category:
+:category: English
 :tags: portuguese
 
 Ainda em tempo para o fim de semana, tenho o grande prazer de anunciar o

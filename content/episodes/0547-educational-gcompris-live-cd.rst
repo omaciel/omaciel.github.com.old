@@ -2,7 +2,7 @@ Educational GCompris Live CD
 ############################
 :slug: educational-gcompris-live-cd
 :date: 2007-05-15 02:34
-:category:
+:category: English
 :tags: english
 
 Shortly after receiving a comment on my

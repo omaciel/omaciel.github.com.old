@@ -2,7 +2,7 @@ Who do you work for?
 ####################
 :slug: who-do-you-work-for
 :date: 2008-03-10 02:25
-:category:
+:category: English
 :tags: english
 
 |dsc06272.jpg|

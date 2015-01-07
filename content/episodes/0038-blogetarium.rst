@@ -2,7 +2,7 @@ Blogetarium
 ###########
 :slug: blogetarium
 :date: 2005-03-30 15:05
-:category:
+:category: English
 :tags: english
 
 A few new entries to my daily reading list:

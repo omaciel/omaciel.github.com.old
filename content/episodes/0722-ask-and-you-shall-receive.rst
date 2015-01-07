@@ -2,7 +2,7 @@ Ask and you shall receive
 #########################
 :slug: ask-and-you-shall-receive
 :date: 2008-02-11 17:50
-:category:
+:category: English
 :tags: english
 
 So last night’s post brought me quite a few replies, and I thank you all

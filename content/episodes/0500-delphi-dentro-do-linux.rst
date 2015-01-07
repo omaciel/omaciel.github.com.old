@@ -2,7 +2,7 @@ Delphi dentro do Linux
 ######################
 :slug: delphi-dentro-do-linux
 :date: 2007-03-14 16:10
-:category:
+:category: English
 :tags: portuguese
 
 Meu amigo **Silfar** escreveu um

@@ -2,7 +2,7 @@ GNOME Developer Kit, now with less fat!
 #######################################
 :slug: gnome-developer-kit-now-with-less-fat
 :date: 2010-03-09 18:19
-:category:
+:category: English
 :tags: english
 
 **UPDATE**: Thanks `Alberto Ruiz <http://aruiz.synaptia.net/>`__ for

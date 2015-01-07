@@ -2,7 +2,7 @@ Patriotism x Nationalism
 ########################
 :slug: patriotism-x-nationalism
 :date: 2011-04-15 18:40
-:category:
+:category: English
 :tags: english
 
     "Patriotism can flourish only where racism and nationalism are given

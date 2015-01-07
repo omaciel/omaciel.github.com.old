@@ -2,7 +2,7 @@ Faca de dois gumes
 ##################
 :slug: faca-de-dois-gumes
 :date: 2006-04-25 13:26
-:category:
+:category: English
 :tags: portuguese
 
 Publicidade ÃƒÂ© uma coisa que pode ser encarada como uma faca de dois

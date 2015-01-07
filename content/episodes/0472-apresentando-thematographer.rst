@@ -2,7 +2,7 @@ Apresentando Thematographer
 ###########################
 :slug: apresentando-thematographer
 :date: 2007-02-14 06:21
-:category:
+:category: English
 :tags: portuguese
 
 Como tinha prometido ao `Crimeboy <http://celo.wordpress.com/>`__,

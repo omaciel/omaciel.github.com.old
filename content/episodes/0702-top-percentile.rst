@@ -2,7 +2,7 @@ Top Percentile
 ##############
 :slug: top-percentile
 :date: 2008-01-09 18:25
-:category:
+:category: English
 :tags: english
 
 GNOME Bugzilla

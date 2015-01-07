@@ -2,7 +2,7 @@ Get your oven mittens on because Transifex Pyro is out!
 #######################################################
 :slug: get-your-oven-mittens-on-because-transifex-pyro-is-out
 :date: 2009-08-30 17:44
-:category:
+:category: English
 :tags: english
 
 Last weekend the `Indifex <http://www.indifex.com/>`__ developers

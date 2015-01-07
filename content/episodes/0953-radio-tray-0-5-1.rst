@@ -2,7 +2,7 @@ Radio Tray 0.5.1
 ################
 :slug: radio-tray-0-5-1
 :date: 2010-04-12 20:00
-:category:
+:category: English
 :tags: english
 
 |Radio Tray|\ It is with great pleasure that I announce the

@@ -2,7 +2,7 @@ Starting a New Chapter: To Infinity, and Beyond!
 ################################################
 :slug: starting-a-new-chapter-to-infinity-and-beyond
 :date: 2011-11-20 22:14
-:category:
+:category: English
 :tags: english
 
 |New Chapter|

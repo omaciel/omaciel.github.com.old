@@ -2,7 +2,7 @@ September 11th Conspiracy
 #########################
 :slug: september-11th-conspiracy
 :date: 2005-12-19 20:09
-:category:
+:category: English
 :tags: english
 
 No, I am not a conspiracy lunatic! I’ll refrain from posting what my

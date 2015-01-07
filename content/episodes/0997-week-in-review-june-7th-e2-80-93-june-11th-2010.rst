@@ -2,7 +2,7 @@ Week in Review: June 7th - June 11th, 2010
 ##########################################
 :slug: week-in-review-june-7th-e2-80-93-june-11th-2010
 :date: 2010-06-12 14:15
-:category:
+:category: English
 :tags: english
 
 |Week in Review|

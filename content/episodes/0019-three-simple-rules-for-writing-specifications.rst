@@ -2,7 +2,7 @@ Three Simple Rules For Writing Specifications
 #############################################
 :slug: three-simple-rules-for-writing-specifications
 :date: 2005-03-10 21:15
-:category:
+:category: English
 :tags: english
 
 `Jakub Steiner <http://jimmac.musichall.cz/weblog.php>`__ from `Planet

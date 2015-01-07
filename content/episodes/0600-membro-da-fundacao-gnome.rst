@@ -2,7 +2,7 @@ Membro da FundaÃ§Ã£o GNOME
 ##############################
 :slug: membro-da-fundacao-gnome
 :date: 2007-07-06 02:18
-:category:
+:category: English
 :tags: portuguese
 
 Fiquei extremamente feliz de ter meu pedido de entrada na `GNOME

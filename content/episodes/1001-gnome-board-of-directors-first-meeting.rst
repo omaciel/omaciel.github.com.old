@@ -2,7 +2,7 @@ GNOME Board of Directors: First Meeting
 #######################################
 :slug: gnome-board-of-directors-first-meeting
 :date: 2010-06-24 18:04
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1152” align=”alignleft” width=”300”

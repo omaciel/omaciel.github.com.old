@@ -2,7 +2,7 @@ Sobre o beryl e jogos no Ubuntu
 ###############################
 :slug: sobre-o-beryl-e-jogos-no-ubuntu
 :date: 2006-10-22 15:56
-:category:
+:category: English
 :tags: portuguese
 
 Confesso que resisti ao mÃ¡ximo Ã  “tentaÃ§Ã£o” de instalar o beryl no

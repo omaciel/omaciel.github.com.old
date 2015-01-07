@@ -2,7 +2,7 @@ Instalando TurboGears no Ubuntu Edgy
 ####################################
 :slug: instalando-turbogears-no-ubuntu-edgy
 :date: 2006-10-25 03:54
-:category:
+:category: English
 :tags: portuguese
 
 Devido ao meu trabalho com python e

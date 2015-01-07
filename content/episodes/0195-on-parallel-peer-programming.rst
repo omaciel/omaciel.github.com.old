@@ -2,7 +2,7 @@ On Parallel Peer Programming
 ############################
 :slug: on-parallel-peer-programming
 :date: 2005-10-19 17:49
-:category:
+:category: English
 :tags: english
 
 Reading Scott James Remnant’s latest

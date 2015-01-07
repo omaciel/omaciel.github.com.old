@@ -2,7 +2,7 @@ Freed At Last!
 ##############
 :slug: freed-at-last
 :date: 2005-06-30 19:52
-:category:
+:category: English
 :tags: english
 
 FREE NON-PROXY WIFI ACCESS AT WORK, thanks to my buddy

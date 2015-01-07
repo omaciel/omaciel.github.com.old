@@ -2,7 +2,7 @@ Django Developer Kit 1.2 Release Candidate 1
 ############################################
 :slug: django-developer-kit-1-2-release-candidate-1
 :date: 2010-05-07 15:00
-:category:
+:category: English
 :tags: english
 
 |Django|

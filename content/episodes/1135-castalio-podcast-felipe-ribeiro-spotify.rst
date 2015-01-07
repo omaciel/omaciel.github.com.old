@@ -2,7 +2,7 @@ Castálio Podcast: Felipe Ribeiro - Spotify
 ###########################################
 :slug: castalio-podcast-felipe-ribeiro-spotify
 :date: 2012-06-10 16:48
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castálio, ubuntu, mandriva
 
 |image0|

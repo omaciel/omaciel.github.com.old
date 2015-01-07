@@ -2,7 +2,7 @@ Mantendo seu Ubuntu Edgy atualizado em portugues
 ################################################
 :slug: mantendo-seu-ubuntu-edgy-atualizado-em-portugues
 :date: 2006-10-06 13:06
-:category:
+:category: English
 :tags: portuguese
 
 So’ um lembrete para os usuarios que nao querem ficar contando com o

@@ -2,7 +2,7 @@ Um Novo Capítulo: To Infinity, and Beyond!
 ###########################################
 :slug: um-novo-capitulo-to-infinity-and-beyond
 :date: 2011-11-20 22:13
-:category:
+:category: English
 :tags: portuguese, Red Hat
 
 |New Chapter|

@@ -2,7 +2,7 @@ Announcing Foresight Linux 2.5.0 ALPHA 2 GNOME Edition
 ######################################################
 :slug: announcing-foresight-linux-2-5-0-alpha-2-gnome-edition
 :date: 2011-02-02 15:43
-:category:
+:category: English
 :tags: english
 
 Who said that lightening doesn’t strike twice on the same spot? I’m

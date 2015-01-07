@@ -2,7 +2,7 @@ The Chicken and the Egg
 #######################
 :slug: the-chicken-and-the-egg
 :date: 2005-08-25 12:24
-:category:
+:category: English
 :tags: english
 
 During one of those lucid moments of spontaneous philosophical

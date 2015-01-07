@@ -2,7 +2,7 @@ Got Visitors?  Hire a Chef!
 ###########################
 :slug: got-visitors-hire-a-chef
 :date: 2005-04-22 12:17
-:category:
+:category: English
 :tags: english
 
     "But the best thing was the chef Nat had hired for the week, who

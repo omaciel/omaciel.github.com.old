@@ -2,7 +2,7 @@ Life Update: July 15th, 2012
 ############################
 :slug: life-update-july-15th-2012
 :date: 2012-07-16 02:47
-:category:
+:category: English
 :tags: english, redhat, clojure, foresight linux, fedora, zite, flipboard, pandora, grooveshark, emacs
 
 |image0|\ It’s been a while since I actually blogged or wrote much that

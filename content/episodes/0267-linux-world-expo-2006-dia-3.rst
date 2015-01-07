@@ -2,7 +2,7 @@ Linux World Expo 2006 - Dia 3
 #############################
 :slug: linux-world-expo-2006-dia-3
 :date: 2006-04-09 12:35
-:category:
+:category: English
 :tags: portuguese
 
 |image0|

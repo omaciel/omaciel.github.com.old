@@ -2,7 +2,7 @@ Porto Alegre: Ir ou nÃ£o ir?
 ##############################
 :slug: porto-alegre-ir-ou-nao-ir
 :date: 2007-03-05 03:45
-:category:
+:category: English
 :tags: portuguese
 
 Caramba!!! Depois de ter corrido atrÃ¡s de um monte de coisas para dar

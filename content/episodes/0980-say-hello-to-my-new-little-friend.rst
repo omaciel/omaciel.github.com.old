@@ -2,7 +2,7 @@ Say Hello To My New Little Friend
 #################################
 :slug: say-hello-to-my-new-little-friend
 :date: 2010-05-13 15:00
-:category:
+:category: English
 :tags: english
 
 Had a great surprise when I arrived home from work last night! My good

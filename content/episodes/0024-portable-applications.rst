@@ -2,7 +2,7 @@ Portable Applications
 #####################
 :slug: portable-applications
 :date: 2005-03-16 15:46
-:category:
+:category: English
 :tags: english
 
 Been really enjoying my `SeaGate Portable

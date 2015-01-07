@@ -2,7 +2,7 @@ Lisonjeado
 ##########
 :slug: lisonjeado
 :date: 2008-04-11 18:48
-:category:
+:category: English
 :tags: portuguese
 
 Esta última quinta-feira fui surpreendido pelo **Johan Dahlin** quando

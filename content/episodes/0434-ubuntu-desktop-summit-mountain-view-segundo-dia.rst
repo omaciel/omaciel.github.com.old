@@ -2,7 +2,7 @@ Ubuntu Developer Summit, Mountain View - Segundo dia
 ####################################################
 :slug: ubuntu-desktop-summit-mountain-view-segundo-dia
 :date: 2006-11-08 01:53
-:category:
+:category: English
 :tags: portuguese
 
 O segundo dia aqui no Ubuntu Desktop Summit foi suuuuper longo, mas acho

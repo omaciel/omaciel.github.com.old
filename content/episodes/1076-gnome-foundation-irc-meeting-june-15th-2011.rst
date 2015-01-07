@@ -2,7 +2,7 @@ GNOME Foundation IRC Meeting: June 15th, 2011
 #############################################
 :slug: gnome-foundation-irc-meeting-june-15th-2011
 :date: 2011-06-14 13:52
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_379” align=”aligncenter” width=”300”

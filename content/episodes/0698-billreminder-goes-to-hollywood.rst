@@ -2,7 +2,7 @@ BillReminder goes to Hollywood
 ##############################
 :slug: billreminder-goes-to-hollywood
 :date: 2008-01-08 15:11
-:category:
+:category: English
 :tags: english
 
 Not really… but I did create this small webcast to show it off so people

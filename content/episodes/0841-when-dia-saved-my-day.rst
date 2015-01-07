@@ -2,7 +2,7 @@ When Dia saved my Day!
 ######################
 :slug: when-dia-saved-my-day
 :date: 2008-09-18 03:27
-:category:
+:category: English
 :tags: english
 
 Everyone who knows me online or is used to seeing me hanging out on

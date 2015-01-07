@@ -4,32 +4,36 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Og Maciel'
 SITENAME = u'Journal of an Open Sourcee'
-SITEURL = 'https://omaciel.github.io/'
+SITEURL = 'https://omaciel.github.io'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = 'feeds.atom'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom'
+FEED_ALL_RSS = 'feeds.rss'
+CATEGORY_FEED_RSS = 'feeds/%s.rss'
+FEED_USE_SUMMARY = True
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# Github
+GITHUB_URL = 'https://github.com/omaciel'
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('GitHub', GITHUB_URL),
+    ('Twitter', 'https://twitter.com/OgMaciel'),
+    ('LinkedIn', 'http://www.linkedin.com/pub/og-maciel/7/425/257/'),
+    ('GoodReads', 'https://www.goodreads.com/user/show/12048315-og-maciel'),
+    ('Instagram', 'http://instagram.com/ogmaciel'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Disqus configuration
+DISQUS_SITENAME = 'journalofanopensourcee'

@@ -2,7 +2,7 @@ I want my MTV
 #############
 :slug: i-want-my-mtv
 :date: 2007-03-22 15:25
-:category:
+:category: English
 :tags: english
 
 Having just seen `Lucas

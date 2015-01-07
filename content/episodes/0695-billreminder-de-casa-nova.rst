@@ -2,7 +2,7 @@ BillReminder de casa nova!
 ##########################
 :slug: billreminder-de-casa-nova
 :date: 2008-01-04 02:19
-:category:
+:category: English
 :tags: portuguese
 
 Meu projeto `BillReminder <http://billreminder.gnulinuxbrasil.org>`__

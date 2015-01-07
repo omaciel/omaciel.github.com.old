@@ -2,7 +2,7 @@ Gentoo GUI Installer
 ####################
 :slug: gentoo-gui-installer
 :date: 2005-08-08 13:50
-:category:
+:category: English
 :tags: english
 
 From the Gentoo documentation page:

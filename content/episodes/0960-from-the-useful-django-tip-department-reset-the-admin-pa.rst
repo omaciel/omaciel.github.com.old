@@ -2,7 +2,7 @@ From the "Useful Django Tip" Department: Reset The Admin Password
 #################################################################
 :slug: from-the-useful-django-tip-department-reset-the-admin-pa
 :date: 2010-04-19 15:00
-:category:
+:category: English
 :tags: english
 
 This comes straight from the **Useful Django Tip** department: How do

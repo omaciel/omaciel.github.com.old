@@ -2,7 +2,7 @@ So you want to sell open source
 ###############################
 :slug: so-you-want-to-sell-open-source
 :date: 2009-03-11 17:05
-:category:
+:category: English
 :tags: english
 
 I wanted to write about the concept of selling open source ideas and

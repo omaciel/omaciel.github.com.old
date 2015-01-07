@@ -2,7 +2,7 @@ Alternatives to NY Times' Book section
 ######################################
 :slug: alternatives-to-ny-times-book-section
 :date: 2012-04-01 14:32
-:category:
+:category: English
 :tags: english, books, nytimes
 
 The **NY Times**' restriction of 10 articles/month for non-subscribers,

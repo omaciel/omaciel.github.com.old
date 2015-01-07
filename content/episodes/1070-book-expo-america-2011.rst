@@ -2,7 +2,7 @@ Book Expo America 2011
 ######################
 :slug: book-expo-america-2011
 :date: 2011-05-23 14:47
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”173” caption=”BookExpo

@@ -2,7 +2,7 @@ Week in Review: May 17th â€“ May 21th, 2010
 ################################################
 :slug: week-in-review-may-17th-e2-80-93-may-21th-2010
 :date: 2010-05-22 14:00
-:category:
+:category: English
 :tags: english
 
 |Week in Review|

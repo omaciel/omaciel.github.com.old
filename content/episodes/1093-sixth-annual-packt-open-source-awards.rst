@@ -2,7 +2,7 @@ Sixth Annual Packt Open Source Awards
 #####################################
 :slug: sixth-annual-packt-open-source-awards
 :date: 2011-09-07 17:53
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”248” caption=”Packt

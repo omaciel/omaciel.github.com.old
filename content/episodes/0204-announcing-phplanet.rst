@@ -2,7 +2,7 @@ Announcing PhPlanet
 ###################
 :slug: announcing-phplanet
 :date: 2005-11-04 18:58
-:category:
+:category: English
 :tags: english
 
 It is with an enormous pleasure that I come to announce the birth of

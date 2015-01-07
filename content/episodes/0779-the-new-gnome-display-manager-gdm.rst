@@ -2,7 +2,7 @@ The new GNOME Display Manager (GDM)
 ###################################
 :slug: the-new-gnome-display-manager-gdm
 :date: 2008-05-22 14:22
-:category:
+:category: English
 :tags: english
 
 I started today using the new GNOME Display Manager, aka GDM. This new

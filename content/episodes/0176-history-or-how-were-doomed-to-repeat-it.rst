@@ -2,7 +2,7 @@ History, or how we're doomed to repeat it.
 ##########################################
 :slug: history-or-how-were-doomed-to-repeat-it
 :date: 2005-09-20 17:17
-:category:
+:category: English
 :tags: english
 
     "Those who cannot learn from history are doomed to repeat it."

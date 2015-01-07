@@ -2,7 +2,7 @@ Easy Day
 ########
 :slug: easy-day
 :date: 2005-07-01 19:44
-:category:
+:category: English
 :tags: english
 
 It was a pretty easy day today. Made the best out of my `new

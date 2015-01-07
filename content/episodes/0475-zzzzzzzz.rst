@@ -2,7 +2,7 @@ zzzzZZZZ...
 ###########
 :slug: zzzzzzzz
 :date: 2007-02-22 01:16
-:category:
+:category: English
 :tags: english
 
 I’m back home, together with my wife and daughters. The two days spent

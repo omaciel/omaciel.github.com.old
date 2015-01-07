@@ -2,7 +2,7 @@ When it rains, it pours!
 ########################
 :slug: when-it-rains-it-pours
 :date: 2006-04-24 14:39
-:category:
+:category: English
 :tags: portuguese
 
 Completando a recente publicaÃƒÂ§ÃƒÂ£o de pesquisas cientÃƒÂ­ficas

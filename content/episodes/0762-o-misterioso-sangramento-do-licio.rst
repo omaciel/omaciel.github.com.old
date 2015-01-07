@@ -2,7 +2,7 @@ O misterioso sangramento do Lício
 ##################################
 :slug: o-misterioso-sangramento-do-licio
 :date: 2008-04-25 10:46
-:category:
+:category: English
 :tags: portuguese
 
 Desde os dias do FISL comecei a acompanhar o bate-papo que rola pelo

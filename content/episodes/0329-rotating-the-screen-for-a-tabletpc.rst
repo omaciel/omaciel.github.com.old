@@ -2,7 +2,7 @@ Rotating the screen for a TabletPC
 ##################################
 :slug: rotating-the-screen-for-a-tabletpc
 :date: 2006-06-12 03:04
-:category:
+:category: English
 :tags: english
 
 This was a very busy Sunday, with a lot of soccer on tv (or how we call

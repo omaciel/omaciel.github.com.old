@@ -2,7 +2,7 @@ Book Review: Catching Fire
 ##########################
 :slug: book-review-catching-fire
 :date: 2011-01-19 18:09
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1288” align=”alignleft” width=”201”

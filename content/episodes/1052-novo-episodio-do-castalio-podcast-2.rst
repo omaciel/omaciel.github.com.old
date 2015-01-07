@@ -2,7 +2,7 @@ Novo Episódio do Castálio Podcast
 ###################################
 :slug: novo-episodio-do-castalio-podcast-2
 :date: 2011-03-21 11:27
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_22” align=”aligncenter” width=”99”

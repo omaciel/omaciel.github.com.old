@@ -2,7 +2,7 @@ TriZPUG, Fabric, epdb, oh my!
 #############################
 :slug: trizpug-fabric-epdb-oh-my
 :date: 2010-01-29 20:48
-:category:
+:category: English
 :tags: english
 
 Yesterday I attended my first `TriZPUG <http://trizpug.org/>`__ meeting

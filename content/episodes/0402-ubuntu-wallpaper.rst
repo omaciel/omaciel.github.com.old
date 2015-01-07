@@ -2,7 +2,7 @@ Ubuntu Wallpaper
 ################
 :slug: ubuntu-wallpaper
 :date: 2006-09-20 21:06
-:category:
+:category: English
 :tags: portuguese
 
 Algumas pessoas me pediram para disponibilizar o wallpaper do meu

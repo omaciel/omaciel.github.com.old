@@ -2,7 +2,7 @@ The Saga Continues
 ##################
 :slug: the-saga-continues
 :date: 2005-03-07 18:13
-:category:
+:category: English
 :tags: english
 
 My personal quest of gathering as much information as possible on the

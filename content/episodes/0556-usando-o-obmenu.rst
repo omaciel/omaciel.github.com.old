@@ -2,7 +2,7 @@ Usando o OBMenu
 ###############
 :slug: usando-o-obmenu
 :date: 2007-05-26 14:08
-:category:
+:category: English
 :tags: portuguese
 
 Para os usuarios do Openbox que nao gostam de modificar seu menu pela

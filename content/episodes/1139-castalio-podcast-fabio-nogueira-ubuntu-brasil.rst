@@ -2,7 +2,7 @@ Castálio Podcast: Fábio Nogueira - Ubuntu Brasil
 ##################################################
 :slug: castalio-podcast-fabio-nogueira-ubuntu-brasil
 :date: 2012-07-23 11:43
-:category:
+:category: Portuguese
 :tags: portuguese, ubuntu, mandriva, podcast, castálio
 
 |image0|

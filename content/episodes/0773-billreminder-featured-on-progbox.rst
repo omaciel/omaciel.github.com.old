@@ -2,7 +2,7 @@ BillReminder featured on ProgBox
 ################################
 :slug: billreminder-featured-on-progbox
 :date: 2008-05-13 14:43
-:category:
+:category: English
 :tags: english
 
 My pet project `BillReminder <http://code.google.com/p/billreminder/>`__

@@ -2,7 +2,7 @@ Sarge Is Out
 ############
 :slug: sarge-is-out
 :date: 2005-06-07 13:10
-:category:
+:category: English
 :tags: english
 
 Congratulations to all `Debian <http://www.debian.org>`__

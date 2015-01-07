@@ -2,7 +2,7 @@ Living In A Movie
 #################
 :slug: living-in-a-movie
 :date: 2005-05-23 13:47
-:category:
+:category: English
 :tags: english
 
 Kinda scary when you can relate your job to a

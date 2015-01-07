@@ -2,7 +2,7 @@ Sinal dos Tempos
 ################
 :slug: sinal-dos-tempos
 :date: 2006-05-16 20:02
-:category:
+:category: English
 :tags: portuguese
 
 Parece inacreditavel, mas devido a algumas modificaÃƒÂ§ÃƒÂµes da forma

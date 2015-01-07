@@ -2,7 +2,7 @@ RHEL 5 Appliance sneak peak
 ###########################
 :slug: rhel-5-appliance-sneak-peak
 :date: 2009-12-10 21:57
-:category:
+:category: English
 :tags: english
 
 I’ve already mentioned on my `Twitter <http://twitter.com/ogmaciel>`__

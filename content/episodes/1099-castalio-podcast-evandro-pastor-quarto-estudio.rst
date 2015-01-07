@@ -2,7 +2,7 @@ Castálio Podcast: Evandro Pastor - Quarto Estudio
 ##################################################
 :slug: castalio-podcast-evandro-pastor-quarto-estudio
 :date: 2011-10-17 16:39
-:category:
+:category: Portuguese
 :tags: portuguese, castalio, podcast
 
 |Evandro Pastor|

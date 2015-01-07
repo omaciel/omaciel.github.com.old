@@ -2,7 +2,7 @@ Comunicado Importante
 #####################
 :slug: comunicado-importante
 :date: 2007-12-11 03:12
-:category:
+:category: English
 :tags: portuguese
 
 Nas Ãºltimas semanas o canal de apoio do #ubuntu-br (e fiquei sabendo

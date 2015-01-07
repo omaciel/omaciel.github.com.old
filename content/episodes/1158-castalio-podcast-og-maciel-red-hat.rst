@@ -2,7 +2,7 @@ Castálio Podcast: Og Maciel: Red Hat
 #####################################
 :slug: castalio-podcast-og-maciel-red-hat
 :date: 2013-02-19 09:01
-:category:
+:category: Portuguese
 :tags: portuguese, ubuntu, mandriva, podcast, castálio, rpath, Red Hat
 
 |image|

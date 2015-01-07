@@ -2,7 +2,7 @@ NÃ£o basta ser pai... tem de participar!
 ##########################################
 :slug: nao-basta-ser-pai-tem-de-participar
 :date: 2007-06-26 01:54
-:category:
+:category: English
 :tags: portuguese
 
 O nÃºmero de pessoas que me contactaram sobre meu Ãºltimo post, chamado

@@ -2,7 +2,7 @@ Pylyglot, Now With More Languages
 #################################
 :slug: pylyglot-now-with-more-languages
 :date: 2010-10-07 00:26
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1207” align=”alignleft” width=”300”

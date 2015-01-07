@@ -2,7 +2,7 @@ De volta à escola
 ##################
 :slug: de-volta-a-escola
 :date: 2008-07-22 00:16
-:category:
+:category: English
 :tags: portuguese
 
 Agora eu posso finalmente falar sobre minha grande novidade: **Eu estou

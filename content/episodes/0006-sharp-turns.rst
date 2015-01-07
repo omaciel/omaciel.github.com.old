@@ -2,7 +2,7 @@ Sharp Turns
 ###########
 :slug: sharp-turns
 :date: 2005-02-22 20:04
-:category:
+:category: English
 :tags: english
 
 Today was my first day back to work since last Wednesday when I flew to

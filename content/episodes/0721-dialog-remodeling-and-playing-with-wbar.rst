@@ -2,7 +2,7 @@ Dialog remodeling and playing with wbar
 #######################################
 :slug: dialog-remodeling-and-playing-with-wbar
 :date: 2008-02-11 02:30
-:category:
+:category: English
 :tags: english
 
 I have spent a total of 3 hours working on

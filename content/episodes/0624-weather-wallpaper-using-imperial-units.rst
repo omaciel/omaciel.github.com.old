@@ -2,7 +2,7 @@ Weather Wallpaper using Imperial Units
 ######################################
 :slug: weather-wallpaper-using-imperial-units
 :date: 2007-08-29 03:18
-:category:
+:category: English
 :tags: english
 
 Yesterday I heard/read from someone about this cool application that

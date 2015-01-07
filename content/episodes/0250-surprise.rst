@@ -2,7 +2,7 @@ Surprise!!!
 ###########
 :slug: surprise
 :date: 2006-03-17 04:00
-:category:
+:category: English
 :tags: portuguese
 
 Tive uma bela surpresa quando cheguei hoje em casa:  2 pacotes!  A

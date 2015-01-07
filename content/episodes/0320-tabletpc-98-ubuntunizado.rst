@@ -2,7 +2,7 @@ TabletPC 98% Ubuntunizado
 #########################
 :slug: tabletpc-98-ubuntunizado
 :date: 2006-06-08 15:56
-:category:
+:category: English
 :tags: portuguese
 
 Conversando com um amigo, finalmente consegui pegar um TabletPC (o mesmo

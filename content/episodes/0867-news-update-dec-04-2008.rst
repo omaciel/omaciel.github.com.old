@@ -2,7 +2,7 @@ News Update - Dec. 04, 2008
 ###########################
 :slug: news-update-dec-04-2008
 :date: 2008-12-05 06:16
-:category:
+:category: English
 :tags: english
 
 -  Built a MT-Daapd Linux appliance to share my music at home. Installed

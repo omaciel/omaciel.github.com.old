@@ -2,7 +2,7 @@ Traduções no Ubuntu: tem de melhorar!
 #######################################
 :slug: traducoes-no-ubuntu-tem-de-melhorar
 :date: 2008-09-22 21:11
-:category:
+:category: English
 :tags: portuguese
 
 Acabei de criar a seguinte idéia no site **Ubuntu Brainstorm** chamada

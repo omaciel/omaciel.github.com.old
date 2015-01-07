@@ -2,7 +2,7 @@ Faxina
 ######
 :slug: faxina
 :date: 2011-07-18 01:00
-:category:
+:category: English
 :tags: portuguese
 
 [caption id=”” align=”alignleft” width=”333”

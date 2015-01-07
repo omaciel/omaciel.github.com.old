@@ -2,7 +2,7 @@ Is it progress?
 ###############
 :slug: is-it-progress
 :date: 2006-07-14 18:49
-:category:
+:category: English
 :tags: english
 
 It has been roughly a week since I learned about the “new” repository

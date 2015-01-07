@@ -2,7 +2,7 @@ Down in the dumps
 #################
 :slug: down-in-the-dumps
 :date: 2005-08-18 19:46
-:category:
+:category: English
 :tags: english
 
 Once again, I see my chance of relocating to Chapel Hill, NC crumble

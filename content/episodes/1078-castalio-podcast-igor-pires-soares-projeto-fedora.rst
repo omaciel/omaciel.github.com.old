@@ -2,7 +2,7 @@ Castálio Podcast: Igor Pires Soares - Projeto Fedora
 #####################################################
 :slug: castalio-podcast-igor-pires-soares-projeto-fedora
 :date: 2011-07-11 04:05
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_52” align=”alignleft” width=”250” caption=”Igor

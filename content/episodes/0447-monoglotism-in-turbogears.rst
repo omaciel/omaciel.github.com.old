@@ -2,7 +2,7 @@ Monoglotism in TurboGears...
 ############################
 :slug: monoglotism-in-turbogears
 :date: 2006-12-08 04:32
-:category:
+:category: English
 :tags: english
 
 or how the support for localization in `Turbo

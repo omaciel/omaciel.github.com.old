@@ -2,7 +2,7 @@ Burn Motherfucker, burn!
 ########################
 :slug: burn-motherfucker-burn
 :date: 2009-03-29 13:20
-:category:
+:category: English
 :tags: portuguese
 
 |Joke about Brazilian Portuguese language being killed by social

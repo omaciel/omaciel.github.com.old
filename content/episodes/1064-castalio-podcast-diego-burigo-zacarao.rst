@@ -2,7 +2,7 @@ Castálio Podcast: Diego Búrigo Zacarão
 #########################################
 :slug: castalio-podcast-diego-burigo-zacarao
 :date: 2011-04-30 14:55
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_31” align=”alignleft” width=”179”

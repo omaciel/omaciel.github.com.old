@@ -2,7 +2,7 @@ Week in Review: April 12 - 16th, 2010
 #####################################
 :slug: week-in-review-april-12-16th-2010
 :date: 2010-04-17 15:00
-:category:
+:category: English
 :tags: english
 
 Here’s what happened this week:

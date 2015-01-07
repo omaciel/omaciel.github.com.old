@@ -2,7 +2,7 @@ A Hamster, a Lynx and The Princess Bride... What???
 ###################################################
 :slug: a-hamster-a-lynx-and-the-princess-bride-what
 :date: 2010-04-30 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1008” align=”alignleft” width=”300”

@@ -2,7 +2,7 @@ BillReminder no ProgBox
 #######################
 :slug: billreminder-no-progbox
 :date: 2008-05-13 14:43
-:category:
+:category: English
 :tags: portuguese
 
 O meu programa `BillReminder <http://code.google.com/p/billreminder/>`__

@@ -2,7 +2,7 @@ Hockey Advocate
 ###############
 :slug: hockey-advocate
 :date: 2005-08-16 14:21
-:category:
+:category: English
 :tags: english
 
 Now that all those clowns from the NHL have come to terms with their

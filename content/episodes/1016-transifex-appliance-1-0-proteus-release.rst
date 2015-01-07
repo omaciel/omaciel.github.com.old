@@ -2,7 +2,7 @@ Transifex Appliance 1.0 (Proteus) Release
 #########################################
 :slug: transifex-appliance-1-0-proteus-release
 :date: 2010-10-15 23:05
-:category:
+:category: English
 :tags: english
 
 |Transifex|\ A newer version of the `Transifex

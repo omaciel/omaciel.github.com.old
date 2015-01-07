@@ -2,7 +2,7 @@ Have you hugged your favorite open source tool today?
 #####################################################
 :slug: have-you-hugged-your-favorite-open-source-tool-today
 :date: 2008-08-29 17:30
-:category:
+:category: English
 :tags: english
 
 I have! I just recently got a hold of a US$30 Amazon gift certificate

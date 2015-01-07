@@ -2,7 +2,7 @@ Reunião do GNOME Foundation: Março 9, 2011
 ############################################
 :slug: reuniao-do-gnome-foundation-marco-9-2011
 :date: 2011-03-08 15:59
-:category:
+:category: English
 :tags: portuguese
 
 Bom dia pessoal! Só queria avisar que amanhã tem a reunião do `GNOME

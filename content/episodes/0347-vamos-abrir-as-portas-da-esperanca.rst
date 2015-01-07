@@ -2,7 +2,7 @@ Vamos Abrir as Portas da EsperanÃƒÂ§a
 #########################################
 :slug: vamos-abrir-as-portas-da-esperanca
 :date: 2006-07-03 13:33
-:category:
+:category: English
 :tags: portuguese
 
 Na semana passada tive a grande oportunidade de ver de perto como que o

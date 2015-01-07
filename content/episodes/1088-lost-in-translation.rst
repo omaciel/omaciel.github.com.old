@@ -2,7 +2,7 @@ Lost in Translation
 ###################
 :slug: lost-in-translation
 :date: 2011-08-03 20:38
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1453” align=”aligncenter” width=”300”

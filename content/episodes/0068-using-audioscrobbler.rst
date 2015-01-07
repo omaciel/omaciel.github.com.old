@@ -2,7 +2,7 @@ Using Audioscrobbler
 ####################
 :slug: using-audioscrobbler
 :date: 2005-04-29 13:13
-:category:
+:category: English
 :tags: english
 
 Read

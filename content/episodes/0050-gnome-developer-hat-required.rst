@@ -2,7 +2,7 @@ Gnome Developer Hat Required
 ############################
 :slug: gnome-developer-hat-required
 :date: 2005-04-14 18:42
-:category:
+:category: English
 :tags: english
 
 |image0|

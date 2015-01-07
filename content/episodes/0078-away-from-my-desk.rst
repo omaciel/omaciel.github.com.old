@@ -2,7 +2,7 @@ Away From My Desk
 #################
 :slug: away-from-my-desk
 :date: 2005-05-11 11:50
-:category:
+:category: English
 :tags: english
 
 Starting today I will be stuck attending some training class for work.

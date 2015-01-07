@@ -2,7 +2,7 @@ A Hazy Shade Of Freedom
 #######################
 :slug: a-hazy-shade-of-freedom
 :date: 2005-05-10 17:48
-:category:
+:category: English
 :tags: english
 
 After battling for a few days with a certain **free** (as in

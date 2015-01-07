@@ -2,7 +2,7 @@ Overheard at the TriLUG meeting
 ###############################
 :slug: overheard-at-the-trilug-meeting
 :date: 2006-09-14 22:38
-:category:
+:category: English
 :tags: english
 
     **evilaptop**: Dude, CHICKS DIG UNIX **evilaptop**: Everyone knows

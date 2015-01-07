@@ -2,7 +2,7 @@ It Was A Fix
 ############
 :slug: it-was-a-fix
 :date: 2005-06-14 16:45
-:category:
+:category: English
 :tags: english
 
 .. image:: http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/windows_95.jpg

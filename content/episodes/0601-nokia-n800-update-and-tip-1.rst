@@ -2,7 +2,7 @@ Nokia N800 Update and Tip #1
 ############################
 :slug: nokia-n800-update-and-tip-1
 :date: 2007-07-06 17:49
-:category:
+:category: English
 :tags: english
 
 Today was announce the much antecipated release of the `Internet Tablet

@@ -2,7 +2,7 @@ Got Books
 #########
 :slug: got-books
 :date: 2006-04-21 03:32
-:category:
+:category: English
 :tags: english
 
 The amazing guys at `Wiley Books <http://www.wiley.com/WileyCDA/>`__

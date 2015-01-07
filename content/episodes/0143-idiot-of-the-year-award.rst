@@ -2,7 +2,7 @@ Idiot Of The Year Award...
 ##########################
 :slug: idiot-of-the-year-award
 :date: 2005-08-10 10:31
-:category:
+:category: English
 :tags: english
 
 … goes to 18-year-old Scott Harper of Armonk, N.Y., who “plunged from

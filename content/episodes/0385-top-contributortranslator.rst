@@ -2,7 +2,7 @@ Top Contributor/Translator
 ##########################
 :slug: top-contributortranslator
 :date: 2006-08-17 19:19
-:category:
+:category: English
 :tags: english
 
 Wow!!!Ã‚Â  I’m absolutely excited to see my name as one of the top

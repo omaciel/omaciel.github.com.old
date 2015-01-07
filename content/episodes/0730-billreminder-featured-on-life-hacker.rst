@@ -2,7 +2,7 @@ BillReminder featured on Life Hacker
 ####################################
 :slug: billreminder-featured-on-life-hacker
 :date: 2008-03-07 03:34
-:category:
+:category: English
 :tags: english
 
 Boy was I surprised when someone told me that

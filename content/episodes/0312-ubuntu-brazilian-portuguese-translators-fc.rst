@@ -2,7 +2,7 @@ Ubuntu Brazilian Portuguese Translators F.C.
 ############################################
 :slug: ubuntu-brazilian-portuguese-translators-fc
 :date: 2006-05-31 17:40
-:category:
+:category: English
 :tags: english
 
 Finally!!! After so many months of working hard on the brazilian

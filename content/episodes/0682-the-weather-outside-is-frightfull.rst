@@ -2,7 +2,7 @@
 #####################################
 :slug: the-weather-outside-is-frightfull
 :date: 2007-12-11 03:39
-:category:
+:category: English
 :tags: english
 
 … but here in North Carolina is so delightfull!”

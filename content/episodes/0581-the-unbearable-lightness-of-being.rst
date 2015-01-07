@@ -2,7 +2,7 @@ The Unbearable Lightness of Being
 #################################
 :slug: the-unbearable-lightness-of-being
 :date: 2007-06-16 13:14
-:category:
+:category: English
 :tags: english
 
 My daughter Yv had submitted a drawing about a month ago to a contest

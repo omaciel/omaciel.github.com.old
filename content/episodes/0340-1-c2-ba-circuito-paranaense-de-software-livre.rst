@@ -2,7 +2,7 @@
 ################################################
 :slug: 1-c2-ba-circuito-paranaense-de-software-livre
 :date: 2006-06-21 01:40
-:category:
+:category: English
 :tags: portuguese
 
 O Christiano Alves me deu o

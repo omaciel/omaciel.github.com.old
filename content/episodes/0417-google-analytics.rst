@@ -2,7 +2,7 @@ Google Analytics
 ################
 :slug: google-analytics
 :date: 2006-10-13 11:14
-:category:
+:category: English
 :tags: portuguese
 
 Comecei a brincar com a nova ferramenta da Google, `Google

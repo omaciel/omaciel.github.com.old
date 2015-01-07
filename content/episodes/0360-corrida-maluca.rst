@@ -2,7 +2,7 @@ Corrida Maluca
 ##############
 :slug: corrida-maluca
 :date: 2006-07-20 20:28
-:category:
+:category: English
 :tags: portuguese
 
 A corrida para deixar o Ubuntu Linux completamente traduzido em outras

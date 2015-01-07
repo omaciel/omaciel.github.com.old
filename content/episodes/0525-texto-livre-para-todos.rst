@@ -2,7 +2,7 @@ Texto Livre para Todos
 ######################
 :slug: texto-livre-para-todos
 :date: 2007-04-11 00:37
-:category:
+:category: English
 :tags: portuguese
 
 Quando fiquei sabendo sobre o projeto `Texto

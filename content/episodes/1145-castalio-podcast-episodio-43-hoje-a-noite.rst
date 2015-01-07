@@ -2,7 +2,7 @@ Castálio Podcast: Episódio 43 hoje a noite!
 #############################################
 :slug: castalio-podcast-episodio-43-hoje-a-noite
 :date: 2012-08-17 20:28
-:category:
+:category: Portuguese
 :tags: castálio, podcast, portuguese, ubuntu, mandriva
 
 |Gravação pelo Youtube|

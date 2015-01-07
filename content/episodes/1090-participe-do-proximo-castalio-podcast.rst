@@ -2,7 +2,7 @@ Participe do Próximo Castálio Podcast!
 ########################################
 :slug: participe-do-proximo-castalio-podcast
 :date: 2011-08-09 22:08
-:category:
+:category: Portuguese
 :tags: portuguese, castalio, podcast
 
 |RadioTray|

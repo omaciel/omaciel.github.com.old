@@ -2,7 +2,7 @@ My own F.A.Q.
 #############
 :slug: my-own-faq
 :date: 2007-06-08 08:04
-:category:
+:category: English
 :tags: english
 
 It is 04:18 EST and instead of being in bed, I’m in front of the

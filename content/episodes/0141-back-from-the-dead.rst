@@ -2,7 +2,7 @@ Back From The Dead
 ##################
 :slug: back-from-the-dead
 :date: 2005-08-08 15:07
-:category:
+:category: English
 :tags: english
 
 Nice to see my close friend

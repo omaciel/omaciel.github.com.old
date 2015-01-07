@@ -2,7 +2,7 @@ English My Red Hat Took Me And The Kids To The Nc
 #################################################
 :slug: english-my-red-hat-took-me-and-the-kids-to-the-nc
 :date: 2012-05-01 14:34
-:category:
+:category: English
 :tags: Red Hat, english, portuguese, ubuntu
 
 |image0|

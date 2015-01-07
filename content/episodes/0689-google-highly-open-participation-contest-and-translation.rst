@@ -2,7 +2,7 @@ Google Highly Open Participation Contest and Translations
 #########################################################
 :slug: google-highly-open-participation-contest-and-translation
 :date: 2007-12-19 18:03
-:category:
+:category: English
 :tags: english
 
 If you’re participating in the `Google Highly Open Participation

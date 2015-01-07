@@ -2,7 +2,7 @@ Mais novidades sobre o BillReminder
 ###################################
 :slug: mais-novidades-sobre-o-billreminder
 :date: 2008-01-09 03:31
-:category:
+:category: English
 :tags: portuguese
 
 O `BillReminder <http://billreminder.gnulinuxbrasil.org/>`__ agora tem

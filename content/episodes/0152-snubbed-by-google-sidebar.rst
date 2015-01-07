@@ -2,7 +2,7 @@ Snubbed by Google Sidebar
 #########################
 :slug: snubbed-by-google-sidebar
 :date: 2005-08-22 17:09
-:category:
+:category: English
 :tags: english
 
 Google announced today their new tool Sidebar, “\ *a panel on your

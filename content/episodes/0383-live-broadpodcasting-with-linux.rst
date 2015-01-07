@@ -2,7 +2,7 @@ Live [Broad|Pod]casting with Linux
 ##################################
 :slug: live-broadpodcasting-with-linux
 :date: 2006-08-15 17:28
-:category:
+:category: English
 :tags: english
 
 I was wondering if anyone out there would have a “recipe” for doing live

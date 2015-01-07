@@ -2,7 +2,7 @@ Translating Linux
 #################
 :slug: translating-linux
 :date: 2005-10-26 20:11
-:category:
+:category: English
 :tags: english
 
 In the attempt to attract more people to the organized effort of

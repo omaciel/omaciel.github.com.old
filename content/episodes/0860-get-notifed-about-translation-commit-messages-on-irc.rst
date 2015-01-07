@@ -2,7 +2,7 @@ Get notifed about translation commit messages on IRC
 ####################################################
 :slug: get-notifed-about-translation-commit-messages-on-irc
 :date: 2008-10-26 15:35
-:category:
+:category: English
 :tags: english
 
 A few years back I created the irc channel **#tradutores** (translators

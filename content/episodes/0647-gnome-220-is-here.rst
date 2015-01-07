@@ -2,7 +2,7 @@ GNOME 2.20 is here!
 ###################
 :slug: gnome-220-is-here
 :date: 2007-09-19 02:32
-:category:
+:category: English
 :tags: english
 
 `GNOME 2.20 <http://www.gnome.org/start/2.20/notes/en/>`__ just came out

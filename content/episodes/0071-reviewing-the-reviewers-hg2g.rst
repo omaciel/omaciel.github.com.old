@@ -2,7 +2,7 @@ Reviewing The Reviewers: HG2G
 #############################
 :slug: reviewing-the-reviewers-hg2g
 :date: 2005-05-02 12:42
-:category:
+:category: English
 :tags: english
 
 I just had to get this off my chest! I have read a few “reviews” for The

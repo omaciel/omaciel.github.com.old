@@ -2,7 +2,7 @@ When the movie is better than the book
 ######################################
 :slug: when-the-movie-is-better-than-the-book
 :date: 2010-05-04 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1022” align=”alignleft” width=”264”

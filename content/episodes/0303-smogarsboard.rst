@@ -2,7 +2,7 @@ Smogarsboard
 ############
 :slug: smogarsboard
 :date: 2006-05-22 20:39
-:category:
+:category: English
 :tags: english
 
 **Time Travel**:Ã‚Â  I received a good number of replies to my

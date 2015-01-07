@@ -2,7 +2,7 @@ Castálio Podcast - Ivan Brasil Fuzzer: Ubuntero
 ################################################
 :slug: castalio-podcast-ivan-brasil-fuzzer-ubuntero
 :date: 2012-03-04 15:34
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast, ubuntu
 
 |Ivan Brasil Fuzzer: Ubuntero|

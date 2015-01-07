@@ -2,7 +2,7 @@ Patinhos na Lagoa e Dedicatória
 ################################
 :slug: patinhos-na-lagoa-e-dedicatoria
 :date: 2008-03-12 23:19
-:category:
+:category: English
 :tags: portuguese
 
 Hoje é um dia muito especial para todos aqueles envolvidos com o

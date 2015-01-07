@@ -2,7 +2,7 @@ Dia de neve
 ###########
 :slug: dia-de-neve
 :date: 2009-01-20 17:56
-:category:
+:category: English
 :tags: portuguese
 
 Hoje nevou aqui em **Chapel Hill** pela primeira vez desde que me mudei

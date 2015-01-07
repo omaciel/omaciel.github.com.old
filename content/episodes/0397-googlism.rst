@@ -2,7 +2,7 @@ Googlism
 ########
 :slug: googlism
 :date: 2006-09-12 22:10
-:category:
+:category: English
 :tags: english
 
 My younger sister showed me this site:

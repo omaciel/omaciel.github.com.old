@@ -2,7 +2,7 @@ Ubuntu nas NaÃƒÂ§ÃƒÂµes Unidas
 ######################################
 :slug: ubuntu-nas-nacoes-unidas
 :date: 2006-08-28 18:23
-:category:
+:category: English
 :tags: portuguese
 
 AmanhÃƒÂ£ estarei representando o Ubuntu Linux em um simpÃƒÂ³sio na ONU

@@ -2,7 +2,7 @@ State of RssReaderNET
 #####################
 :slug: state-of-rssreadernet
 :date: 2005-05-06 19:25
-:category:
+:category: English
 :tags: english
 
 |image0|

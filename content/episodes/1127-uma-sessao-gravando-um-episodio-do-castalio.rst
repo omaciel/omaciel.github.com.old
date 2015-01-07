@@ -2,7 +2,7 @@ Uma Sessao Gravando Um Episodio Do Castalio
 ###########################################
 :slug: uma-sessao-gravando-um-episodio-do-castalio
 :date: 2012-04-22 14:34
-:category:
+:category: English
 :tags: portuguese, podcast, ubuntu
 
 |image0|

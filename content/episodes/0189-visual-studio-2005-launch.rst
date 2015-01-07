@@ -2,7 +2,7 @@ Visual Studio 2005 Launch
 #########################
 :slug: visual-studio-2005-launch
 :date: 2005-10-07 18:21
-:category:
+:category: English
 :tags: english
 
 Got my reservation for Dec. 1st… Should be very interesting! Not to

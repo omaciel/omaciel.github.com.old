@@ -2,7 +2,7 @@ Gnome-Specimen e Nitrogen
 #########################
 :slug: gnome-specimen-e-nitrogen
 :date: 2007-06-04 15:55
-:category:
+:category: English
 :tags: portuguese
 
 Acabei de empacotar dois novos aplicativos hoje para ver se melhorava

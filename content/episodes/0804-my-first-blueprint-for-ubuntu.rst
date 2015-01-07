@@ -2,7 +2,7 @@ My first blueprint for Ubuntu
 #############################
 :slug: my-first-blueprint-for-ubuntu
 :date: 2008-07-03 16:27
-:category:
+:category: English
 :tags: english
 
 Today I created a blueprint I intend to promote for

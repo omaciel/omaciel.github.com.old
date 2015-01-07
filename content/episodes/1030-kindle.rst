@@ -2,7 +2,7 @@ Kindle
 ######
 :slug: kindle
 :date: 2011-01-11 18:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1276” align=”alignleft” width=”190”

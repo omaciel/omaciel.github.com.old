@@ -2,7 +2,7 @@ My New Toy
 ##########
 :slug: my-new-toy
 :date: 2005-03-13 15:02
-:category:
+:category: English
 :tags: english
 
 |image0|

@@ -2,7 +2,7 @@ Daddy's girls
 #############
 :slug: daddys-girls
 :date: 2008-04-20 14:28
-:category:
+:category: English
 :tags: english
 
 I’ve finally found time to upload some of my pictures and movies to

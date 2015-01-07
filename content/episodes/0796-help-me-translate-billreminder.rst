@@ -2,7 +2,7 @@ Help me translate BillReminder
 ##############################
 :slug: help-me-translate-billreminder
 :date: 2008-06-24 18:30
-:category:
+:category: English
 :tags: english
 
 I need your help to get

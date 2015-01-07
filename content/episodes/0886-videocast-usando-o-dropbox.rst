@@ -2,7 +2,7 @@ Videocast: Usando o Dropbox
 ###########################
 :slug: videocast-usando-o-dropbox
 :date: 2009-02-07 14:26
-:category:
+:category: English
 :tags: portuguese
 
 No começo do ano eu tinha escrito um

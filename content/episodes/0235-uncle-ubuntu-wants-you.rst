@@ -2,7 +2,7 @@ Uncle Ubuntu Wants You!
 #######################
 :slug: uncle-ubuntu-wants-you
 :date: 2006-02-14 15:58
-:category:
+:category: English
 :tags: english
 
 This year’s `Linux World Expo &

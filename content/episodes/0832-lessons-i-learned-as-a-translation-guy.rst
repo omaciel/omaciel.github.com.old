@@ -2,7 +2,7 @@ Lessons I learned as a translation guy
 ######################################
 :slug: lessons-i-learned-as-a-translation-guy
 :date: 2008-08-28 15:18
-:category:
+:category: English
 :tags: english
 
 This post is my 2 cents about Jad’s latest post trying to `stir things

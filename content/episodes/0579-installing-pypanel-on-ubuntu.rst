@@ -2,7 +2,7 @@ Installing PyPanel on Ubuntu
 ############################
 :slug: installing-pypanel-on-ubuntu
 :date: 2007-06-15 20:40
-:category:
+:category: English
 :tags: english
 
 A while back I had written up a post (Brazilian Portuguese only)

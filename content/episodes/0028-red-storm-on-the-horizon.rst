@@ -2,7 +2,7 @@ Red Storm On The Horizon
 ########################
 :slug: red-storm-on-the-horizon
 :date: 2005-03-21 16:52
-:category:
+:category: English
 :tags: english
 
 What a week this has been… and it’s only Monday!!! After putting up with

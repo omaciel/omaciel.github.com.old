@@ -2,7 +2,7 @@ Radio Tray gives "light listening" a whole new meaning!
 #######################################################
 :slug: radio-tray-gives-light-listening-a-whole-new-meaning
 :date: 2010-03-22 23:12
-:category:
+:category: English
 :tags: english
 
 **The need to be thin!**

@@ -2,7 +2,7 @@ Seis Anos
 #########
 :slug: seis-anos
 :date: 2006-10-17 19:49
-:category:
+:category: English
 :tags: portuguese
 
 Ontem celebrei meu sexto aniversario de casamento… Elizabeth e eu

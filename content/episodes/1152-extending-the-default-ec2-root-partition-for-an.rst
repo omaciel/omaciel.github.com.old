@@ -2,7 +2,7 @@ Extending the default EC2 root partition for an instance
 ########################################################
 :slug: extending-the-default-ec2-root-partition-for-an
 :date: 2012-11-28 21:52
-:category:
+:category: English
 :tags: EC2, RedHat, Katello, english
 
 |EC2 wizard|

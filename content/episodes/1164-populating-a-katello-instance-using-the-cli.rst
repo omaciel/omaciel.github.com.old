@@ -2,7 +2,7 @@ Populating a Katello instance using the CLI
 ###########################################
 :slug: populating-a-katello-instance-using-the-cli
 :date: 2013-06-04 22:21
-:category:
+:category: English
 :tags: english, katello, Red Hat
 
 Lately I have been asked a lot about my previous

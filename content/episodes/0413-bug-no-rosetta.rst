@@ -2,7 +2,7 @@ Bug no Rosetta
 ##############
 :slug: bug-no-rosetta
 :date: 2006-10-09 14:18
-:category:
+:category: English
 :tags: portuguese
 
 Meu amigo **Ricardo Cropalato** me alertou sobre um bug muito importante

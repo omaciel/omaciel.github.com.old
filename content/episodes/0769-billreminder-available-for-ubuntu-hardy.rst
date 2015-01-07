@@ -2,7 +2,7 @@ BillReminder available for Ubuntu Hardy
 #######################################
 :slug: billreminder-available-for-ubuntu-hardy
 :date: 2008-05-06 10:41
-:category:
+:category: English
 :tags: english
 
 I finally have my pet project

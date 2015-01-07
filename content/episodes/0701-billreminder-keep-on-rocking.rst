@@ -2,7 +2,7 @@ BillReminder keep on rocking
 ############################
 :slug: billreminder-keep-on-rocking
 :date: 2008-01-09 03:31
-:category:
+:category: English
 :tags: english
 
 `BillReminder <http://billreminder.gnulinuxbrasil.org/>`__ now has

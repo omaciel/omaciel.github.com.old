@@ -2,7 +2,7 @@ Winforms com Mono
 #################
 :slug: winforms-com-mono
 :date: 2006-02-12 18:20
-:category:
+:category: English
 :tags: portuguese
 
 Ontem trabalhei um pouco em converter meu cÃƒÂ³digo original do meu

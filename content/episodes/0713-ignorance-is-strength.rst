@@ -2,7 +2,7 @@ Ignorance is Strength
 #####################
 :slug: ignorance-is-strength
 :date: 2008-01-31 03:50
-:category:
+:category: English
 :tags: english
 
 |Dead soldiers|

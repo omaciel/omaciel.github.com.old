@@ -2,7 +2,7 @@ Six Years
 #########
 :slug: six-years
 :date: 2006-10-17 19:31
-:category:
+:category: English
 :tags: english
 
 Yesterday was my 6th wedding anniversary… Elizabeth and I lived together

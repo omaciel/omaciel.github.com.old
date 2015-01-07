@@ -2,7 +2,7 @@ Registering a gconf schema via setup.py?
 ########################################
 :slug: registering-a-gconf-schema-via-setuppy
 :date: 2008-07-13 04:05
-:category:
+:category: English
 :tags: english
 
 I spent a good chunk of my evening trying to implement the automatic

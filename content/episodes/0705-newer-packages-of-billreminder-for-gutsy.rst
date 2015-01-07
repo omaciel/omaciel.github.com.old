@@ -2,7 +2,7 @@ Newer packages of BillReminder for Gutsy
 ########################################
 :slug: newer-packages-of-billreminder-for-gutsy
 :date: 2008-01-10 03:22
-:category:
+:category: English
 :tags: english
 
 Some people reported dependency errors when using one of the two .deb

@@ -2,7 +2,7 @@ Meme: Metas 2007
 ################
 :slug: meme-metas-2007
 :date: 2007-01-12 05:24
-:category:
+:category: English
 :tags: portuguese
 
 Respondendo ao chamado do `LÃ­cio <http://blog.licio.eti.br/?p=53>`__,

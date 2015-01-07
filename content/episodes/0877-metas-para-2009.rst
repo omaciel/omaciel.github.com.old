@@ -2,7 +2,7 @@ Metas para 2009
 ###############
 :slug: metas-para-2009
 :date: 2009-01-06 17:59
-:category:
+:category: English
 :tags: portuguese
 
 Assim como muitas pessoas já fizeram, decidi escrever no formato de um

@@ -2,7 +2,7 @@ Ubuntu Hacks
 ############
 :slug: ubuntu-hacks
 :date: 2006-07-31 20:29
-:category:
+:category: English
 :tags: english
 
 I still have a few copies of `Ubuntu

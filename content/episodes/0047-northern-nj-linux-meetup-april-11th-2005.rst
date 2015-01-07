@@ -2,7 +2,7 @@ Northern NJ Linux MeetUp - April 11th, 2005
 ###########################################
 :slug: northern-nj-linux-meetup-april-11th-2005
 :date: 2005-04-12 02:17
-:category:
+:category: English
 :tags: english
 
 This month’s `Northern NJ Linux MeetUp <http://linux.meetup.com/8/>`__

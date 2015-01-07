@@ -2,7 +2,7 @@ O elefante Gerald e Piggie
 ##########################
 :slug: o-elefante-gerald-e-piggie
 :date: 2009-01-09 03:26
-:category:
+:category: English
 :tags: portuguese
 
 Cheguei em casa hoje a noite e encontrei a mesa de jantar completamente

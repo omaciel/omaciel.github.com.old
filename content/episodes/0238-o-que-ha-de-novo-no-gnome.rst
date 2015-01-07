@@ -2,7 +2,7 @@ O que hÃƒÂ¡ de novo no Gnome
 ################################
 :slug: o-que-ha-de-novo-no-gnome
 :date: 2006-02-17 15:41
-:category:
+:category: English
 :tags: portuguese
 
 Hoje foi anunciado o lanÃƒÂ§amento do Gnome 2.14!!!  `Davyd

@@ -2,7 +2,7 @@ Openbox 3.3.995 preview lanÃ§ado
 ##################################
 :slug: openbox-33995-preview-lancado
 :date: 2007-05-30 15:51
-:category:
+:category: English
 :tags: portuguese
 
 Para aqueles que estÃ£o acompanhando os lanÃ§amentos do

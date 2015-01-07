@@ -2,7 +2,7 @@ Almost 200% new translations for BillReminder
 #############################################
 :slug: almost-200-new-translations-for-billreminder
 :date: 2008-06-25 15:02
-:category:
+:category: English
 :tags: english
 
 **Amazing!** There’s no other better way to describe the turn around for

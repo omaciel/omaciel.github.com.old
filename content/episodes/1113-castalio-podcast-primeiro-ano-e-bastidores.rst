@@ -2,7 +2,7 @@ Castálio Podcast: Primeiro Ano e Bastidores
 ############################################
 :slug: castalio-podcast-primeiro-ano-e-bastidores
 :date: 2012-02-16 04:08
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castálio
 
 |1º Aniversário|\ No dia 16 de fevereiro de 2011, de forma simples e

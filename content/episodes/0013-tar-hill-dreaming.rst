@@ -2,7 +2,7 @@ Tar Heel Dreaming
 #################
 :slug: tar-hill-dreaming
 :date: 2005-03-04 04:25
-:category:
+:category: English
 :tags: english
 
 Arrived here in North Carolina last night at the Raleigh-Durham airport.

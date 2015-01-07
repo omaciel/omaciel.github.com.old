@@ -2,7 +2,7 @@ I'm in a NC state of mind
 #########################
 :slug: im-in-a-nc-state-of-mind
 :date: 2006-09-12 21:51
-:category:
+:category: English
 :tags: english
 
 Arrived at Chapel Hill, NC early this morning and drove around the Duke

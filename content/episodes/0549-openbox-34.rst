@@ -2,7 +2,7 @@ OpenBox 3.4
 ###########
 :slug: openbox-34
 :date: 2007-05-21 20:16
-:category:
+:category: English
 :tags: portuguese
 
 Fiquei simplesmente maravilhado quando li hoje a lista de modificaÃ§Ãµes

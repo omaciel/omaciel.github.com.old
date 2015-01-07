@@ -2,7 +2,7 @@ Ubuntu Dapper + Gtk# + Mono = Fun!
 ##################################
 :slug: ubuntu-dapper-gtk-mono-fun
 :date: 2006-02-13 01:52
-:category:
+:category: English
 :tags: portuguese
 
 Pois lÃƒÂ¡ fui eu pegar a mesma base do meu programa, e adaptei para

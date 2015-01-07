@@ -2,7 +2,7 @@ Linux para a Humanidade Portuguesa
 ##################################
 :slug: linux-para-a-humanidade-portuguesa
 :date: 2006-10-29 01:47
-:category:
+:category: English
 :tags: portuguese
 
 Depois dos vÃ¡rios artigos publicados sobre o lanÃ§amento da nova

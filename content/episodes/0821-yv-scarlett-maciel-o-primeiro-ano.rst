@@ -2,7 +2,7 @@ Yv Scarlett Maciel: o primeiro ano
 ##################################
 :slug: yv-scarlett-maciel-o-primeiro-ano
 :date: 2008-07-30 10:12
-:category:
+:category: English
 :tags: portuguese
 
 |Yv Scarlett Maciel: o primeiro ano|

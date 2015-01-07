@@ -2,7 +2,7 @@ A resposta é X, mas fala diferente
 ###################################
 :slug: a-resposta-e-x-mas-fala-diferente
 :date: 2008-08-28 09:35
-:category:
+:category: English
 :tags: portuguese
 
 Há vários meses, quando eu ainda era parte do Conselho do Ubuntu Brasil,

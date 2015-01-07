@@ -2,7 +2,7 @@ New version of the Transifex Appliance
 ######################################
 :slug: new-version-of-the-transifex-appliance
 :date: 2010-05-12 14:46
-:category:
+:category: English
 :tags: english
 
 |Transifex|\ A newer version of the `Transifex

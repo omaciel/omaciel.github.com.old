@@ -2,7 +2,7 @@ VersÃƒÂ£o 3.2
 #################
 :slug: versao-32
 :date: 2006-06-08 14:07
-:category:
+:category: English
 :tags: portuguese
 
 Hoje completo mais um aniversÃƒÂ¡rio, versÃƒÂ£o 3.2!Ã‚Â  Alguns bugs

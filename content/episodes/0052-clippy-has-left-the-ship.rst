@@ -2,7 +2,7 @@ Clippy Has Left The Ship
 ########################
 :slug: clippy-has-left-the-ship
 :date: 2005-04-16 01:12
-:category:
+:category: English
 :tags: english
 
 |image0|

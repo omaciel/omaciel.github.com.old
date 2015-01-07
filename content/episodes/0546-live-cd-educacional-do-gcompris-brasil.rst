@@ -2,7 +2,7 @@ Live CD Educacional do GCompris Brasil
 ######################################
 :slug: live-cd-educacional-do-gcompris-brasil
 :date: 2007-05-15 02:01
-:category:
+:category: English
 :tags: portuguese
 
 Logo apÃ³s receber o comentÃ¡rio do **Armando Silva** sobre um Live CD

@@ -2,7 +2,7 @@ GNOME 2.18: Quase 100% traduzido para o Portugues do Brasil
 ###########################################################
 :slug: gnome-218-quase-100-traduzido-para-o-portugues-do-brasil
 :date: 2007-03-08 15:24
-:category:
+:category: English
 :tags: portuguese
 
 Tenho trabalhado com a equipe brasileira de traducoes do GNOME, tentando

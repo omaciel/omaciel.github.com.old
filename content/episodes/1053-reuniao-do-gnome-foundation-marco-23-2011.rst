@@ -2,7 +2,7 @@ Reunião do GNOME Foundation: Março 23, 2011
 #############################################
 :slug: reuniao-do-gnome-foundation-marco-23-2011
 :date: 2011-03-22 04:00
-:category:
+:category: English
 :tags: portuguese
 
 [caption id=”attachment\_379” align=”aligncenter” width=”300”

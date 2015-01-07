@@ -2,7 +2,7 @@ Working For Pixar
 #################
 :slug: working-for-pixar
 :date: 2005-03-22 18:00
-:category:
+:category: English
 :tags: english
 
 No, I did not get hired to work for `Pixar <http://www.pixar.com/>`__.

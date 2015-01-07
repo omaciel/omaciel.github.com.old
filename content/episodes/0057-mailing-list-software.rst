@@ -2,7 +2,7 @@ Mailing List Software
 #####################
 :slug: mailing-list-software
 :date: 2005-04-22 12:26
-:category:
+:category: English
 :tags: english
 
 Ever since MeetUp announced they would start charging groups money to

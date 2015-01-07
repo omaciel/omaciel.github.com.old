@@ -2,7 +2,7 @@ Castálio Podcast – Ana Cristina Fricke Matte: Text Livre
 ###########################################################
 :slug: castalio-podcast-ana-cristina-fricke-matte-text-livre
 :date: 2012-02-06 03:07
-:category:
+:category: Portuguese
 :tags: portuguese
 
 Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não

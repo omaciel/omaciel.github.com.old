@@ -2,7 +2,7 @@ The Windmill Appliance
 ######################
 :slug: the-windmill-appliance
 :date: 2008-04-14 12:04
-:category:
+:category: English
 :tags: english
 
 I’m proud to announce the release of the `Windmill

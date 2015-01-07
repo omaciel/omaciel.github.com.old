@@ -2,7 +2,7 @@ Mais formas de experimentar o novo GNOME 2.17.92 virtualmente
 #############################################################
 :slug: mais-formas-de-experimentar-o-novo-gnome-21792-virtualme
 :date: 2007-03-07 15:37
-:category:
+:category: English
 :tags: portuguese
 
 `Agora <http://ken.vandine.org/?p=218>`__ voce ja’ pode experimentar o

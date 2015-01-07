@@ -2,7 +2,7 @@ Mini entrevista e review do BillReminder
 ########################################
 :slug: mini-entrevista-e-review-do-billreminder
 :date: 2008-04-06 20:00
-:category:
+:category: English
 :tags: portuguese
 
 O **Júlio** **Neto** publicou uma mini

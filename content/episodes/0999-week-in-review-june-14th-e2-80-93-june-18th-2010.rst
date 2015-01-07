@@ -2,7 +2,7 @@ Week in Review: June 14th â€“ June 18th, 2010
 ##################################################
 :slug: week-in-review-june-14th-e2-80-93-june-18th-2010
 :date: 2010-06-20 00:02
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1154” align=”aligncenter” width=”278”

@@ -2,7 +2,7 @@ Back To School
 ##############
 :slug: back-to-school
 :date: 2006-07-14 13:32
-:category:
+:category: English
 :tags: english
 
 Feeling a bit rusty with your linux skills? Are you a new Ubuntu linux

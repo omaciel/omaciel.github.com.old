@@ -2,7 +2,7 @@ Palestra no GUADEC aceita
 #########################
 :slug: palestra-no-guadec-aceita
 :date: 2007-06-26 20:17
-:category:
+:category: English
 :tags: portuguese
 
 Semana passada tive a seguinte surpresa me esperando no meu inbox:

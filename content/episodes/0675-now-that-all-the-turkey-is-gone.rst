@@ -2,7 +2,7 @@ Now that all the turkey is gone...
 ##################################
 :slug: now-that-all-the-turkey-is-gone
 :date: 2007-11-26 01:28
-:category:
+:category: English
 :tags: english
 
 This last week has been but a blur to me due to the holidays

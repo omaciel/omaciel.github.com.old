@@ -2,7 +2,7 @@ Expondo-se via Web 2.0
 ######################
 :slug: expondo-se-via-web-20
 :date: 2007-09-24 16:23
-:category:
+:category: English
 :tags: portuguese
 
 Interessante como Ã© relativamente fÃ¡cil acompanhar o que alguÃ©m

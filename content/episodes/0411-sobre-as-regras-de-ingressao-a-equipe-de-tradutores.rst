@@ -2,7 +2,7 @@ Sobre as regras de ingressÃ£o Ã  equipe de tradutores
 #########################################################
 :slug: sobre-as-regras-de-ingressao-a-equipe-de-tradutores
 :date: 2006-10-08 16:05
-:category:
+:category: English
 :tags: portuguese
 
 Este post Ã© direcionado Ã  todas as pessoas que criticaram as minhas

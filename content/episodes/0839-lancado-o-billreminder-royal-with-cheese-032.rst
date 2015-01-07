@@ -2,7 +2,7 @@ Lançado o BillReminder "Royale with cheese" 0.3.2
 ##################################################
 :slug: lancado-o-billreminder-royal-with-cheese-032
 :date: 2008-09-12 00:19
-:category:
+:category: English
 :tags: portuguese
 
 |BillReminder|

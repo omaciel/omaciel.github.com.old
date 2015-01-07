@@ -2,7 +2,7 @@ Herding Cats in Brazil
 ######################
 :slug: herding-cats-in-brazil
 :date: 2007-04-13 18:20
-:category:
+:category: English
 :tags: english
 
 If anyone wants to watch the live stream of Jono’s presentation in

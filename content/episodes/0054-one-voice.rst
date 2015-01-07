@@ -2,7 +2,7 @@ One Voice
 #########
 :slug: one-voice
 :date: 2005-04-20 16:09
-:category:
+:category: English
 :tags: english
 
 Yesterday our recently elected CIO paid us a little visit for the first

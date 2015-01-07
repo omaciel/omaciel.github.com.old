@@ -2,7 +2,7 @@ Live Gnome VMware Image
 #######################
 :slug: live-gnome-vmware-image
 :date: 2007-03-02 14:53
-:category:
+:category: English
 :tags: english
 
 Want to see what the new GNOME 2.18 will be like and can’t wait for the

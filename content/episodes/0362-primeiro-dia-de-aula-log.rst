@@ -2,7 +2,7 @@ Primeiro dia de Aula:  Log
 ##########################
 :slug: primeiro-dia-de-aula-log
 :date: 2006-07-21 13:11
-:category:
+:category: English
 :tags: portuguese
 
 Caso vocÃƒÂª nÃƒÂ£o teve uma oportunidade de comparecer a nossa primeira

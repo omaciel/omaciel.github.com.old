@@ -2,7 +2,7 @@ How To Speak Australian
 #######################
 :slug: how-to-speak-australian
 :date: 2005-08-10 19:39
-:category:
+:category: English
 :tags: english
 
 *[Australian outback background music plays]*

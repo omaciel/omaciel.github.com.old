@@ -2,7 +2,7 @@ First impression of the OLPC OS
 ###############################
 :slug: first-impression-of-the-olpc-os
 :date: 2006-11-29 23:35
-:category:
+:category: English
 :tags: english
 
 Shortly after reading the

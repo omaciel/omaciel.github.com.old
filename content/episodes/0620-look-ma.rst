@@ -2,7 +2,7 @@ Look Ma!
 ########
 :slug: look-ma
 :date: 2007-08-23 02:38
-:category:
+:category: English
 :tags: english
 
 My good friend `JosÃƒÂ© Vitor <http://josevitor.blog.br/>`__ sent me

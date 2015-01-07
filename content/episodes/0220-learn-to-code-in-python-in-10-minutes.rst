@@ -2,7 +2,7 @@ Learn to code in Python in 10 minutes
 #####################################
 :slug: learn-to-code-in-python-in-10-minutes
 :date: 2006-01-12 21:52
-:category:
+:category: English
 :tags: english
 
 Short and quick 10-minutes

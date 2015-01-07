@@ -2,7 +2,7 @@ A cereja que faltava!
 #####################
 :slug: a-cereja-que-faltava
 :date: 2008-07-09 17:57
-:category:
+:category: English
 :tags: portuguese
 
 Um dos meus web services favoritos

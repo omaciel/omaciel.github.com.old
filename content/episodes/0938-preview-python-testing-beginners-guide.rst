@@ -2,7 +2,7 @@ Preview: Python Testing: Beginner's Guide
 #########################################
 :slug: preview-python-testing-beginners-guide
 :date: 2010-03-05 14:50
-:category:
+:category: English
 :tags: portuguese
 
 |Python Testing: Beginner's Guide|

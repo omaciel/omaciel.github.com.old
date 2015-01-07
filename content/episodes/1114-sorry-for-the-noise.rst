@@ -2,7 +2,7 @@ Sorry for the noise...
 ######################
 :slug: sorry-for-the-noise
 :date: 2012-02-17 15:53
-:category:
+:category: English
 :tags: english, tumblr, wordpress
 
 |Sorry|\ I’ve just recently started migrating my blog to

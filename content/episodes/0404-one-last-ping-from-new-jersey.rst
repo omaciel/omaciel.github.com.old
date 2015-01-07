@@ -2,7 +2,7 @@ One last ping from New Jersey
 #############################
 :slug: one-last-ping-from-new-jersey
 :date: 2006-09-28 02:20
-:category:
+:category: English
 :tags: english
 
 The apartment is completely “packed” and what for the last 2 years had

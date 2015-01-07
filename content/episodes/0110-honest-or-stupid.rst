@@ -2,7 +2,7 @@ Honest or Stupid?
 #################
 :slug: honest-or-stupid
 :date: 2005-06-30 19:50
-:category:
+:category: English
 :tags: english
 
 Today I went for a job interview for a company about 35 miles West of

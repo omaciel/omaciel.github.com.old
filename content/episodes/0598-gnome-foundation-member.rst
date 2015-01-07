@@ -2,7 +2,7 @@ GNOME Foundation Member
 #######################
 :slug: gnome-foundation-member
 :date: 2007-07-06 01:23
-:category:
+:category: English
 :tags: english
 
 I was extremely pleased to see my application for the `GNOME

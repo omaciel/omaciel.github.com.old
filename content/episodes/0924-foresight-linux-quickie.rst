@@ -2,7 +2,7 @@ Foresight Linux quickie
 #######################
 :slug: foresight-linux-quickie
 :date: 2009-10-22 13:05
-:category:
+:category: English
 :tags: english
 
 For those of you out there who are `Foresight

@@ -2,7 +2,7 @@ BarCampRDU
 ##########
 :slug: barcamprdu
 :date: 2007-08-04 13:24
-:category:
+:category: English
 :tags: english
 
 So here I am at `BarCampRDU <http://barcamp.org/BarCampRDU>`__, together

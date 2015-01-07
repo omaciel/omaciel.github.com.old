@@ -2,7 +2,7 @@ LINUX Sem MistÃ©rio
 #####################
 :slug: linux-sem-misterio
 :date: 2006-10-19 21:37
-:category:
+:category: English
 :tags: portuguese
 
 Meu amigo `Lucas Nunes Almeida da

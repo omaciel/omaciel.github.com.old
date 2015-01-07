@@ -2,7 +2,7 @@ Mad Props To The Pragmatic Programmers
 ######################################
 :slug: mad-props-to-the-pragmatic-programmers
 :date: 2012-03-28 04:01
-:category:
+:category: English
 :tags: english, kindle, epub, mobi, ebook
 
 Earlier this morning I received the following email from `The Pragmatic

@@ -2,7 +2,7 @@ From the "Better Than Sliced Bread" Department: Terminator
 ##########################################################
 :slug: from-the-better-than-sliced-bread-department-terminator
 :date: 2010-04-16 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”240” caption=”can i keep the

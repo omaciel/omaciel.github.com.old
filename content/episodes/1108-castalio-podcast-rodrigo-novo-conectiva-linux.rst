@@ -2,7 +2,7 @@ Castálio Podcast - Rodrigo Novo: Conectiva Linux
 #################################################
 :slug: castalio-podcast-rodrigo-novo-conectiva-linux
 :date: 2011-12-26 23:59
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Rodrigo Novo|

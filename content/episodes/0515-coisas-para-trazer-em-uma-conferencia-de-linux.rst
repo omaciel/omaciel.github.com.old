@@ -2,7 +2,7 @@ Coisas para trazer em uma conferÃªncia de Linux
 #################################################
 :slug: coisas-para-trazer-em-uma-conferencia-de-linux
 :date: 2007-03-31 13:49
-:category:
+:category: English
 :tags: portuguese
 
 Como eu jÃ¡ participei de vÃ¡rias conferÃªncias e eventos de Linux

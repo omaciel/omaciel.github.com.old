@@ -2,7 +2,7 @@ Idade Perigosa
 ##############
 :slug: idade-perigosa
 :date: 2006-03-31 02:36
-:category:
+:category: English
 :tags: portuguese
 
 Quero deixar aqui o meu mais sincero desejo de um feliz aniversÃƒÂ¡rio

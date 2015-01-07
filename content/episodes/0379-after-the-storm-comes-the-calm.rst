@@ -2,7 +2,7 @@ After the storm, comes the calm
 ###############################
 :slug: after-the-storm-comes-the-calm
 :date: 2006-08-10 12:45
-:category:
+:category: English
 :tags: english
 
 My post about the bombing of Nagasaki yesterday seems to have caused

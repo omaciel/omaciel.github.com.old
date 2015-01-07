@@ -2,7 +2,7 @@ Portable Applications Gallore
 #############################
 :slug: portable-applications-gallore
 :date: 2005-03-16 16:50
-:category:
+:category: English
 :tags: english
 
 Wow!!! It didn’t take me a long time to come up with a pretty good list

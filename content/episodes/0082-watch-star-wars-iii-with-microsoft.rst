@@ -2,7 +2,7 @@ Watch Star Wars III with Microsoft
 ##################################
 :slug: watch-star-wars-iii-with-microsoft
 :date: 2005-05-15 00:48
-:category:
+:category: English
 :tags: english
 
 Received this email today:

@@ -2,7 +2,7 @@ It's the big pumpking Charlie Brown!
 ####################################
 :slug: its-the-big-pumpking-charlie-brown
 :date: 2007-10-31 12:31
-:category:
+:category: English
 :tags: english
 
 Quick series of small family related news. If you’re looking for tech

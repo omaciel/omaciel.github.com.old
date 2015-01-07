@@ -2,7 +2,7 @@ GNOME 3.0 Translations
 ######################
 :slug: gnome-3-0-translations
 :date: 2011-03-18 02:26
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1368” align=”alignleft” width=”179”

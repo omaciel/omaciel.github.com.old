@@ -2,7 +2,7 @@ Geek's Supermarket?
 ###################
 :slug: geeks-supermarket
 :date: 2005-10-04 19:36
-:category:
+:category: English
 :tags: english
 
 |Supermarket displaying all items with the word Linux on it.|

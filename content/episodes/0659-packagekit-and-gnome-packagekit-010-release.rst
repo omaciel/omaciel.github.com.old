@@ -2,7 +2,7 @@ PackageKit and gnome-packagekit 0.1.0 release!
 ##############################################
 :slug: packagekit-and-gnome-packagekit-010-release
 :date: 2007-10-15 23:39
-:category:
+:category: English
 :tags: english
 
 `PackageKit <http://www.packagekit.org/>`__ is DBUS packaging

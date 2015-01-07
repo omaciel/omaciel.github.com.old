@@ -2,7 +2,7 @@ Close Call
 ##########
 :slug: close-call
 :date: 2005-05-03 23:46
-:category:
+:category: English
 :tags: english
 
 Not in a blogging mood today… Got home last night at **9:30pm(!!!)** and

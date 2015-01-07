@@ -2,7 +2,7 @@ Another post about a generic Gtk.TreeView
 #########################################
 :slug: another-post-about-a-generic-gtktreeview
 :date: 2007-06-16 16:02
-:category:
+:category: English
 :tags: english
 
 I figured, why not whip up a quick sample code to show off the

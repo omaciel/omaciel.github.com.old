@@ -2,7 +2,7 @@ Waiting For The Butcher
 #######################
 :slug: waiting-for-the-butcher
 :date: 2005-08-02 14:05
-:category:
+:category: English
 :tags: english
 
 Am here at my dad’s awaiting the time for my surgery (scheduled for

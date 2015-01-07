@@ -2,7 +2,7 @@ Mantendo-se organizado com Tarefas e Datas
 ##########################################
 :slug: mantendo-se-organizado-com-tarefas-e-datas
 :date: 2007-06-05 01:49
-:category:
+:category: English
 :tags: portuguese
 
 Depois de conversar com algumas pessoas sobre o

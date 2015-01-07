@@ -2,7 +2,7 @@ Classe de Aula do Ubuntu Online
 ###############################
 :slug: classe-de-aula-do-ubuntu-online
 :date: 2006-07-14 13:20
-:category:
+:category: English
 :tags: portuguese
 
 Foi anunciado pelo pessoal do `New User

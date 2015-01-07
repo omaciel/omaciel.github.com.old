@@ -2,7 +2,7 @@ Que lingua falo eu?
 ###################
 :slug: que-lingua-falo-eu
 :date: 2007-05-14 02:27
-:category:
+:category: English
 :tags: portuguese
 
 Para os interessados que notaram o meu sumiÃ§o este fim de semana, a

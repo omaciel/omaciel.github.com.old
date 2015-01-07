@@ -2,7 +2,7 @@ My Daily WTF
 ############
 :slug: my-daily-wtf
 :date: 2006-08-01 20:05
-:category:
+:category: English
 :tags: english
 
 I’ve been extremelly busy at work since my boss resigned about 3 weeks

@@ -2,7 +2,7 @@ StarWars "Last Supper"
 ######################
 :slug: starwars-last-supper
 :date: 2005-05-18 12:46
-:category:
+:category: English
 :tags: english
 
 |Picture of Star Wars as in The Last Supper|

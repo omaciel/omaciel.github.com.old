@@ -2,7 +2,7 @@ Novo Planeta Brasileiro
 #######################
 :slug: novo-planeta-brasileiro
 :date: 2006-10-12 17:00
-:category:
+:category: English
 :tags: portuguese
 
 Gostaria de anunciar o lancamento do mais novo agregador de blogs

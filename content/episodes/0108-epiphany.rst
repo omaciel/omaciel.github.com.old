@@ -2,7 +2,7 @@ Epiphany
 ########
 :slug: epiphany
 :date: 2005-06-23 20:13
-:category:
+:category: English
 :tags: english
 
 One other reason why I haven’t been blogging much these days is because

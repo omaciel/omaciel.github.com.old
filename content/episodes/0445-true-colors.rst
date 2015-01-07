@@ -2,7 +2,7 @@ True Colors
 ###########
 :slug: true-colors
 :date: 2006-12-06 18:09
-:category:
+:category: English
 :tags: english
 
 |Brazil and Ubuntu: Perfect match|

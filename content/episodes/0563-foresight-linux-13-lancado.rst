@@ -2,7 +2,7 @@ Foresight Linux 1.3 lanÃ§ado!
 ###############################
 :slug: foresight-linux-13-lancado
 :date: 2007-05-31 01:44
-:category:
+:category: English
 :tags: portuguese
 
 Gostaria de parabenizar a equipe do `Foresight

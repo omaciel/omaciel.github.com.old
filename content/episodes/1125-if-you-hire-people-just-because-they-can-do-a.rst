@@ -2,7 +2,7 @@ If You Hire People Just Because They Can Do A
 #############################################
 :slug: if-you-hire-people-just-because-they-can-do-a
 :date: 2012-04-06 14:10
-:category:
+:category: English
 :tags: english, quotes
 
 If you hire people just because they can do a job, they’ll work for your

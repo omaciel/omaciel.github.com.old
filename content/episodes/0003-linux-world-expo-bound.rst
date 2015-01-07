@@ -2,7 +2,7 @@ Linux World Expo Bound
 ######################
 :slug: linux-world-expo-bound
 :date: 2005-02-16 21:26
-:category:
+:category: English
 :tags: english
 
 So here I am, counting the minutes until I get the hell out of work and

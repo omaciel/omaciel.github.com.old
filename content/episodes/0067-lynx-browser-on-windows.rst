@@ -2,7 +2,7 @@ Lynx Browser on Windows
 #######################
 :slug: lynx-browser-on-windows
 :date: 2005-04-28 18:03
-:category:
+:category: English
 :tags: english
 
 So I’m a geek!

@@ -2,7 +2,7 @@ Um pequeno "update"
 ###################
 :slug: um-pequeno-update
 :date: 2007-05-14 16:15
-:category:
+:category: English
 :tags: portuguese
 
 Como eu jÃ¡ tinha comentado antes, ainda continuo sofrendo de uma

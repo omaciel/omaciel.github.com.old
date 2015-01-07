@@ -2,7 +2,7 @@ New Kid on the Block
 ####################
 :slug: new-kid-on-the-block
 :date: 2006-07-19 11:36
-:category:
+:category: English
 :tags: portuguese
 
 Ãƒâ€° com um enorme orgulho que venho anunciar o lanÃƒÂ§amento da nova

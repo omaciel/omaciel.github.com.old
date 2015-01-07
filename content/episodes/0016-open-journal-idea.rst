@@ -2,7 +2,7 @@ Open Journal Idea
 #################
 :slug: open-journal-idea
 :date: 2005-03-10 16:26
-:category:
+:category: English
 :tags: english
 
 It has been a long time since I last blogged on my other web site `Linux

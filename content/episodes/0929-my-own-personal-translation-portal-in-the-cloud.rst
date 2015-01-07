@@ -2,7 +2,7 @@ My Own Personal Translation Portal in the Cloud
 ###############################################
 :slug: my-own-personal-translation-portal-in-the-cloud
 :date: 2009-12-04 21:43
-:category:
+:category: English
 :tags: english
 
 Had some time today during lunch to work on the `Transifex

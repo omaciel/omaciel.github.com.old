@@ -2,7 +2,7 @@ A Pig, an Elephant and a Yellow Dog
 ###################################
 :slug: a-pig-an-elephant-and-a-yellow-dog
 :date: 2010-04-27 15:00
-:category:
+:category: English
 :tags: english
 
 From the “\ **Read a Book to a Child**" department, I’d like to

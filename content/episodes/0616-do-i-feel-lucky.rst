@@ -2,7 +2,7 @@ Do I feel lucky?
 ################
 :slug: do-i-feel-lucky
 :date: 2007-08-20 01:25
-:category:
+:category: English
 :tags: english
 
 Over the weekend my next door neighbor managed to damage the passenger

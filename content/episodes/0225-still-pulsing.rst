@@ -2,7 +2,7 @@ Still pulsing
 #############
 :slug: still-pulsing
 :date: 2006-02-01 22:10
-:category:
+:category: English
 :tags: english
 
 Gandalf, my Pentium 4 that has seen more OSes than any other computer

@@ -2,7 +2,7 @@ Servidor de músicas Bailout MT-Daapd
 #####################################
 :slug: servidor-de-musicas-bailout-mt-daapd
 :date: 2009-01-02 17:35
-:category:
+:category: English
 :tags: portuguese
 
 No finalzinho do ano passado eu passei alguns dias trabalhando para

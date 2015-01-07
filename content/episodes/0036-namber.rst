@@ -2,7 +2,7 @@ Namber
 ######
 :slug: namber
 :date: 2005-03-29 16:33
-:category:
+:category: English
 :tags: english
 
     A `namber <http://mysteryrobot.com/>`__ is part name and part

@@ -2,7 +2,7 @@ Linux World Expo 2006 - Day 2
 #############################
 :slug: linux-world-expo-2006-dia-2
 :date: 2006-04-06 00:10
-:category:
+:category: English
 :tags: english
 
 Pretty easy day today compared to yesterday’s “feeding frenzy”! The

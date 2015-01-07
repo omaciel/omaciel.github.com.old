@@ -2,7 +2,7 @@ Another Concert For My Oldest Kid The Best Part
 ###############################################
 :slug: another-concert-for-my-oldest-kid-the-best-part
 :date: 2013-03-28 02:28
-:category:
+:category: English
 :tags: 
 
 Another concert for my oldest kid. The best part: she really likes to

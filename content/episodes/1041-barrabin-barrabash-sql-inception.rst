@@ -2,7 +2,7 @@ Barrabin Barrabash: SQL Inception
 #################################
 :slug: barrabin-barrabash-sql-inception
 :date: 2011-02-13 19:34
-:category:
+:category: English
 :tags: english
 
 Remember my `last post <http://www.ogmaciel.com/?p=1324>`__ about the

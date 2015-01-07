@@ -2,7 +2,7 @@ Migrating to Google Code Follow up #1
 #####################################
 :slug: migrating-to-google-code-follow-up-1-2
 :date: 2008-04-02 10:49
-:category:
+:category: English
 :tags: english
 
 So I have finally migrated

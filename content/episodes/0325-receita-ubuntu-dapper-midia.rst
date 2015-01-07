@@ -2,7 +2,7 @@ Receita Ubuntu Dapper MÃƒÂ­dia
 ##################################
 :slug: receita-ubuntu-dapper-midia
 :date: 2006-06-10 16:21
-:category:
+:category: English
 :tags: portuguese
 
 Com o novo lanÃƒÂ§amento do Ubuntu Dapper, foram muitas as pessoas que

@@ -2,7 +2,7 @@ Menu com ícones no Openbox
 ###########################
 :slug: menu-com-icones-no-openbox
 :date: 2011-08-02 23:43
-:category:
+:category: English
 :tags: portuguese
 
 |Openbox "fancy" menu|

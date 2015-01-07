@@ -2,7 +2,7 @@ Experimente a versão Openbox 3.4.8-RC1
 #######################################
 :slug: experimente-a-versao-openbox-348-rc1
 :date: 2008-11-23 22:54
-:category:
+:category: English
 :tags: portuguese
 
 Se você curte o `Openbox <http://icculus.org/openbox>`__ e quer brincar

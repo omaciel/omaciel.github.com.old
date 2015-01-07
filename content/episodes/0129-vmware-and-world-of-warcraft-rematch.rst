@@ -2,7 +2,7 @@ VMWare and World of Warcraft: Rematch
 #####################################
 :slug: vmware-and-world-of-warcraft-rematch
 :date: 2005-07-20 23:16
-:category:
+:category: English
 :tags: english
 
 Here I am on my second attempt at installing World of Warcraft into my

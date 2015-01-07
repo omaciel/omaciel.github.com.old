@@ -2,7 +2,7 @@ F.U.D.
 ######
 :slug: fud
 :date: 2006-05-25 18:56
-:category:
+:category: English
 :tags: portuguese
 
 … ou, como “Duda” Teixeira pecou em seu artigo sobre Software Livre.

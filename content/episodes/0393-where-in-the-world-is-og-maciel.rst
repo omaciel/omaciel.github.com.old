@@ -2,7 +2,7 @@ Where in the world is Og Maciel?
 ################################
 :slug: where-in-the-world-is-og-maciel
 :date: 2006-09-08 21:07
-:category:
+:category: English
 :tags: portuguese
 
 Dei uma sumida desde o ÃƒÂºltimo post sobre o simpÃƒÂ³sio nas

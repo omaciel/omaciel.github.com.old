@@ -2,7 +2,7 @@ Life Is a Gift
 ##############
 :slug: life-is-a-gift
 :date: 2009-04-10 13:36
-:category:
+:category: English
 :tags: english
 
 I just had to share this with everyone. Have a great weekend!

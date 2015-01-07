@@ -2,7 +2,7 @@ Stay Hungry.  Stay Foolish.
 ###########################
 :slug: stay-hungry-stay-foolish
 :date: 2005-09-20 13:29
-:category:
+:category: English
 :tags: english
 
 A big thanks goes to my friend

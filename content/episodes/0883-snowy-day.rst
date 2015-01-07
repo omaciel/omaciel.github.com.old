@@ -2,7 +2,7 @@ Snowy Day
 #########
 :slug: snowy-day
 :date: 2009-01-20 19:03
-:category:
+:category: English
 :tags: english
 
 Today we had snow in **Chapel Hill** for the first time since I moved

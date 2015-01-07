@@ -2,7 +2,7 @@ Cheguei na California
 #####################
 :slug: cheguei-na-california
 :date: 2006-11-05 06:49
-:category:
+:category: English
 :tags: portuguese
 
 Depois de mais de 2 voos e 9 horas, finalmente cheguei no

@@ -2,7 +2,7 @@ Hack and Slash and lose your computer while you're at it!
 #########################################################
 :slug: hack-and-slash-and-lose-your-computer-while-youre-at-it
 :date: 2009-07-20 02:12
-:category:
+:category: English
 :tags: english
 
 I was browsing through my favorite Linux magazine (it’s **Linux Format**

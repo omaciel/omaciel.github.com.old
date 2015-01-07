@@ -2,7 +2,7 @@ Enquanto isso...
 ################
 :slug: enquanto-isso
 :date: 2008-01-26 21:38
-:category:
+:category: English
 :tags: portuguese
 
 Enquanto eu estava trabalhando duro esta semana, o `Openbox

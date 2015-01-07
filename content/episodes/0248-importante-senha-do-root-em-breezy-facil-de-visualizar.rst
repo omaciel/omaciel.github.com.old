@@ -2,7 +2,7 @@ Importante:  Senha do root em Breezy fÃƒÂ¡cil de visualizar
 ###############################################################
 :slug: importante-senha-do-root-em-breezy-facil-de-visualizar
 :date: 2006-03-12 22:37
-:category:
+:category: English
 :tags: portuguese
 
 De acordo com

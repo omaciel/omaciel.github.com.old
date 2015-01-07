@@ -2,7 +2,7 @@ Taca perfume no Ubuntu
 ######################
 :slug: taca-perfume-no-ubuntu
 :date: 2007-12-15 16:06
-:category:
+:category: English
 :tags: portuguese
 
 Na hora de distribuir os CDs do Ubuntu aos seus amigos, nÃ£o seria

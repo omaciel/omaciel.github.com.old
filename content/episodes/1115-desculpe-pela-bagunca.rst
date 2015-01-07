@@ -2,7 +2,7 @@ Desculpe Pela Bagunça...
 #########################
 :slug: desculpe-pela-bagunca
 :date: 2012-02-17 16:00
-:category:
+:category: English
 :tags: portuguese, tumblr, wordpress
 
 |Sorry|

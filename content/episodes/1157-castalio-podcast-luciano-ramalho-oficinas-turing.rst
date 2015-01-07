@@ -2,7 +2,7 @@ Castálio Podcast: Luciano Ramalho: Oficinas Turing
 ###################################################
 :slug: castalio-podcast-luciano-ramalho-oficinas-turing
 :date: 2013-02-05 22:41
-:category:
+:category: Portuguese
 :tags: portuguese, ubuntu, mandriva, castálio, podcast
 
 |image|\ Um dias destes eu estava procurando documentação sobre umas

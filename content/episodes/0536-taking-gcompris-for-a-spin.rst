@@ -2,7 +2,7 @@ Taking GCompris for a spin
 ##########################
 :slug: taking-gcompris-for-a-spin
 :date: 2007-04-18 20:03
-:category:
+:category: English
 :tags: english
 
 Yesterday I managed to package GCompris 8.3 BETA 3-2 and successfuly run

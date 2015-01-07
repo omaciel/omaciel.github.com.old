@@ -2,7 +2,7 @@ APTonCD 0.1 beta Released!
 ##########################
 :slug: aptoncd-01-beta-released
 :date: 2006-10-30 04:18
-:category:
+:category: English
 :tags: english
 
 What is it?

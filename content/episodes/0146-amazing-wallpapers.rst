@@ -2,7 +2,7 @@ Amazing Wallpapers
 ##################
 :slug: amazing-wallpapers
 :date: 2005-08-12 23:32
-:category:
+:category: English
 :tags: english
 
 Absolutely amazing wall papers at `VladStudio

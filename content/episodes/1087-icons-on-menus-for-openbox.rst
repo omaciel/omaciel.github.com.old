@@ -2,7 +2,7 @@ Icons on menus for Openbox
 ##########################
 :slug: icons-on-menus-for-openbox
 :date: 2011-08-02 23:44
-:category:
+:category: English
 :tags: english
 
 |Openbox "fancy" menu|

@@ -2,7 +2,7 @@ Book Shopping Spree
 ###################
 :slug: book-shopping-spree
 :date: 2005-04-25 23:31
-:category:
+:category: English
 :tags: english
 
 Added these books to my personal collection… These are used and even

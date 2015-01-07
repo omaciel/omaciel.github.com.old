@@ -2,7 +2,7 @@ Life at rPath: 4+ Years And Counting
 ####################################
 :slug: life-at-rpath-4-years-and-counting
 :date: 2011-03-07 06:37
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1358” align=”alignleft” width=”467”

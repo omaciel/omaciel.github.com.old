@@ -2,7 +2,7 @@ There And Back Again
 ####################
 :slug: there-and-back-again
 :date: 2005-05-31 16:15
-:category:
+:category: English
 :tags: english
 
 After driving approximately 1,014 miles over this Memorial Day weekend,

@@ -2,7 +2,7 @@ Weekend Update
 ##############
 :slug: weekend-update
 :date: 2005-08-07 23:36
-:category:
+:category: English
 :tags: english
 
 After enjoying several days of free wi-fi hotspots pretty much **every

@@ -2,7 +2,7 @@ Openbox 3.4.2 e ObConf 2.0.1 lanÃ§ados
 ########################################
 :slug: openbox-342-e-obconf-201-lancados
 :date: 2007-06-11 02:35
-:category:
+:category: English
 :tags: portuguese
 
 Como o tÃ­tulo jÃ¡ diz, **Openbox 3.4.2** e **ObConf 2.0.1** acabam de

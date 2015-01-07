@@ -2,7 +2,7 @@ Looking back on looking back
 ############################
 :slug: looking-back-on-looking-back
 :date: 2009-10-19 21:45
-:category:
+:category: English
 :tags: english
 
 Reading today’s post by **Miguel** about the `10 years anniversary of

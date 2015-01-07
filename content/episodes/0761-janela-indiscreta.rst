@@ -2,7 +2,7 @@ Janela Indiscreta
 #################
 :slug: janela-indiscreta
 :date: 2008-04-23 20:03
-:category:
+:category: English
 :tags: portuguese
 
 Quando iniciei o `Planeta GNU/Linux

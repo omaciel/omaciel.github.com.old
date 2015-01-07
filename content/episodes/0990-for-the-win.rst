@@ -2,7 +2,7 @@ For The Win!
 ############
 :slug: for-the-win
 :date: 2010-05-26 15:00
-:category:
+:category: English
 :tags: english
 
 Sunday I was lucky enough to have the chance of attending a book reading

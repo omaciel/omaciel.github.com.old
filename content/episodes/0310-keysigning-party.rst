@@ -2,7 +2,7 @@ Keysigning Party
 ################
 :slug: keysigning-party
 :date: 2006-05-30 18:32
-:category:
+:category: English
 :tags: english
 
 `David Harding <http://gnuisance.net/blog/>`__ is organizing a

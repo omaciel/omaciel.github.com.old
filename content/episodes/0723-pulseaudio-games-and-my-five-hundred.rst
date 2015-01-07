@@ -2,7 +2,7 @@ PulseAudio + Games and My Five Hundred
 ######################################
 :slug: pulseaudio-games-and-my-five-hundred
 :date: 2008-02-24 19:31
-:category:
+:category: English
 :tags: english
 
 Been using `PulseAudio <http://www.pulseaudio.org>`__ for several months

@@ -2,7 +2,7 @@ Livros para o seu grupo de usuÃƒÂ¡rios
 ##########################################
 :slug: livros-para-o-seu-grupo-de-usuarios
 :date: 2006-06-20 17:29
-:category:
+:category: English
 :tags: portuguese
 
 Caso vocÃƒÂª seja membro de um grupo de usuÃƒÂ¡rios do Linux e esteja

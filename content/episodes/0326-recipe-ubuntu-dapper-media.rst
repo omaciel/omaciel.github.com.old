@@ -2,7 +2,7 @@ Recipe: Ubuntu Dapper Media
 ###########################
 :slug: recipe-ubuntu-dapper-media
 :date: 2006-06-10 17:03
-:category:
+:category: English
 :tags: english
 
 With the release of Ubuntu Dapper, many were the new users who initiated

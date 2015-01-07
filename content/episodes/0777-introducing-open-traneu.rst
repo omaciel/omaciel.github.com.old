@@ -2,7 +2,7 @@ Introducing Open-Tran.eu
 ########################
 :slug: introducing-open-traneu
 :date: 2008-05-19 15:42
-:category:
+:category: English
 :tags: english
 
 Everyone who works with the translation of free and open source software

@@ -2,7 +2,7 @@ Castálio Podcast: Murilo Queiroz
 #################################
 :slug: castalio-podcast-murilo-queiroz
 :date: 2011-04-16 16:00
-:category:
+:category: Portuguese
 :tags: portuguese
 
 ﻿

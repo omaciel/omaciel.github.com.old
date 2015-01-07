@@ -2,7 +2,7 @@ Week in Review: May 31st â€“ June 4th, 2010
 ################################################
 :slug: week-in-review-may-31st-e2-80-93-june-4th-2010
 :date: 2010-06-05 13:19
-:category:
+:category: English
 :tags: english
 
 |Week in Review|

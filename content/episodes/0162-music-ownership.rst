@@ -2,7 +2,7 @@ Music Ownership
 ###############
 :slug: music-ownership
 :date: 2005-08-30 19:51
-:category:
+:category: English
 :tags: english
 
 While telling a co-worker how I managed to listen to my private \*.ogg

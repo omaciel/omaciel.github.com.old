@@ -2,7 +2,7 @@ Waiting for Openbox 3.4.7...
 ############################
 :slug: waiting-for-openbox-347
 :date: 2008-02-29 03:21
-:category:
+:category: English
 :tags: english
 
 |Openbox|

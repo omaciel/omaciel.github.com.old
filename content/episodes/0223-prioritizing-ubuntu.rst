@@ -2,7 +2,7 @@ Prioritizing Ubuntu
 ###################
 :slug: prioritizing-ubuntu
 :date: 2006-01-23 15:01
-:category:
+:category: English
 :tags: english
 
 Continuing with my new year’s resolution of working harder at the

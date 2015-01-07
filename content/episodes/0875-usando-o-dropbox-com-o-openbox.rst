@@ -2,7 +2,7 @@ Usando o Dropbox com o Openbox
 ##############################
 :slug: usando-o-dropbox-com-o-openbox
 :date: 2009-01-03 18:32
-:category:
+:category: English
 :tags: portuguese
 
 Dando continuidade ao

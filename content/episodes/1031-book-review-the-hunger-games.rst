@@ -2,7 +2,7 @@ Book Review: The Hunger Games
 #############################
 :slug: book-review-the-hunger-games
 :date: 2011-01-13 00:01
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1279” align=”alignleft” width=”212”

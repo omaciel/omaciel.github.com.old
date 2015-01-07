@@ -2,7 +2,7 @@ Mais sobre o Openbox 3.4
 ########################
 :slug: mais-sobre-o-openbox-34
 :date: 2007-05-22 20:20
-:category:
+:category: English
 :tags: portuguese
 
 Hoje pela manhÃ£ foi lanÃ§ado a versÃ£o **3.3.991** do

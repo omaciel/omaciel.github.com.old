@@ -2,7 +2,7 @@ Cheguei...
 ##########
 :slug: cheguei
 :date: 2006-04-03 21:50
-:category:
+:category: English
 :tags: portuguese
 
 Depois de 3 1/2 horas dirigindo de New Jersey para Boston, cheguei em

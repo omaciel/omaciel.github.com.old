@@ -2,7 +2,7 @@ Castálio Podcast - Elvis Pfutzenreuter: Conectiva Linux
 ########################################################
 :slug: castalio-podcast-elvis-pfutzenreuter-conectiva-linux
 :date: 2011-11-28 08:35
-:category:
+:category: Portuguese
 :tags: portuguese
 
 O episódio de hoje marca o início de um mini-projeto que estou

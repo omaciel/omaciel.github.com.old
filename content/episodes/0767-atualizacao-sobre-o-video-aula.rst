@@ -2,7 +2,7 @@ Atualização sobre o vídeo aula
 #################################
 :slug: atualizacao-sobre-o-video-aula
 :date: 2008-05-05 19:05
-:category:
+:category: English
 :tags: portuguese
 
 Graças ao meu amigo `Laudeci <http://laudecioliveira.org/blog>`__, o

@@ -2,7 +2,7 @@ Talk like a pirate!
 ###################
 :slug: talk-like-a-pirate
 :date: 2007-09-20 12:12
-:category:
+:category: English
 :tags: portuguese
 
 Para as pessoas que nÃ£o acompanham o `Planeta GNU/Linux

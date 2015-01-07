@@ -2,7 +2,7 @@ VMware any any update
 #####################
 :slug: vmware-any-any-update
 :date: 2007-03-06 22:24
-:category:
+:category: English
 :tags: portuguese
 
 Hoje, depois de atualizar o kernel do meu sistema para **2.6.20.1**,

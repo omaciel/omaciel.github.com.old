@@ -2,7 +2,7 @@ Get out and vote!
 #################
 :slug: get-out-and-vote
 :date: 2008-11-04 15:31
-:category:
+:category: English
 :tags: english
 
 If you are elligible to vote for the election taking place in the United

@@ -2,7 +2,7 @@ Elvis seen playing with BillReminder
 ####################################
 :slug: elvis-seen-playing-with-billreminder
 :date: 2007-06-23 01:20
-:category:
+:category: English
 :tags: english
 
 Just an update on the development for

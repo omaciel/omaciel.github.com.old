@@ -2,7 +2,7 @@ Northern NJ MySQL Meetup
 ########################
 :slug: northern-nj-mysql-meetup
 :date: 2005-11-01 22:15
-:category:
+:category: English
 :tags: english
 
 **When:** Wednesday, November 2, 2005, 8:00 PM

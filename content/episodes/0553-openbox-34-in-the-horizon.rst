@@ -2,7 +2,7 @@ Openbox 3.4 in the horizon
 ##########################
 :slug: openbox-34-in-the-horizon
 :date: 2007-05-24 14:50
-:category:
+:category: English
 :tags: english
 
 I was extremely pleased/amazed when I read the change log with the

@@ -2,7 +2,7 @@ See America, One Mile At A Time
 ###############################
 :slug: see-america-one-mile-at-a-time
 :date: 2005-02-25 19:50
-:category:
+:category: English
 :tags: english
 
 `Matt

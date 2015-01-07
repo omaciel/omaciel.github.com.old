@@ -2,7 +2,7 @@ The Online Desktop Question
 ###########################
 :slug: the-online-desktop-question
 :date: 2007-11-29 20:47
-:category:
+:category: English
 :tags: english
 
 I’m glad **Bryan Clark**

@@ -2,7 +2,7 @@ Parla!!!
 ########
 :slug: parla
 :date: 2006-05-06 13:17
-:category:
+:category: English
 :tags: portuguese
 
 Como disse o famoso pintor/escultor Michelangelo diante de sua obra de

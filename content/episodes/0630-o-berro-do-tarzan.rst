@@ -2,7 +2,7 @@ O berro do Tarzan!
 ##################
 :slug: o-berro-do-tarzan
 :date: 2007-08-31 13:08
-:category:
+:category: English
 :tags: portuguese
 
 O assunto de ontem sobre traduÃ§Ãµes do software livre Brasileiro e

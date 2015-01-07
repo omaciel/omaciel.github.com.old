@@ -2,7 +2,7 @@ April Fool Jokes
 ################
 :slug: april-fool-jokes
 :date: 2005-04-01 14:40
-:category:
+:category: English
 :tags: english
 
 Ha! `Planet Gnome <http://planet.gnome.org>`__ and `Planet

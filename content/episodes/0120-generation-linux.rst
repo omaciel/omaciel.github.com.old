@@ -2,7 +2,7 @@ Generation Linux
 ################
 :slug: generation-linux
 :date: 2005-07-11 16:06
-:category:
+:category: English
 :tags: english
 
 |Generation Linux|

@@ -2,7 +2,7 @@ Castálio Podcast: Fabiano Fidêncio: Red Hat
 #############################################
 :slug: castalio-podcast-fabiano-fidencio-red-hat
 :date: 2013-01-23 09:00
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castálio, ubuntu, mandriva
 
 |image|

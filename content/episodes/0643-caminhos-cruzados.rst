@@ -2,7 +2,7 @@ Caminhos Cruzados
 #################
 :slug: caminhos-cruzados
 :date: 2007-09-12 16:17
-:category:
+:category: English
 :tags: portuguese
 
 Foi bem interessante ver um

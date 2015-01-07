@@ -2,7 +2,7 @@ Pequeno Livro do Ruby
 #####################
 :slug: pequeno-livro-do-ruby
 :date: 2006-07-12 17:52
-:category:
+:category: English
 :tags: portuguese
 
 Alguns dias atrás eu tinha falado sobre `Sapphire In

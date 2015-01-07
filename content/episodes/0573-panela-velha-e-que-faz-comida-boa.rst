@@ -2,7 +2,7 @@ Panela velha Ã© que faz comida boa!
 #####################################
 :slug: panela-velha-e-que-faz-comida-boa
 :date: 2007-06-08 08:41
-:category:
+:category: English
 :tags: portuguese
 
 SÃ£o 04:18 da manhÃ£ aqui na Carolina do Norte, e em vez de estar na

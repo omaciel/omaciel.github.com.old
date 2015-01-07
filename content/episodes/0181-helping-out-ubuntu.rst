@@ -2,7 +2,7 @@ Helping out Ubuntu
 ##################
 :slug: helping-out-ubuntu
 :date: 2005-09-26 16:29
-:category:
+:category: English
 :tags: english
 
 Over the weekend I finally took the first step towards my resolution to

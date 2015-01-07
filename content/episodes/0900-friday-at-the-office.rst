@@ -2,7 +2,7 @@ Friday at the office
 ####################
 :slug: friday-at-the-office
 :date: 2009-04-17 17:55
-:category:
+:category: English
 :tags: english
 
 Just another Friday at work. “Wearing my colors” today.

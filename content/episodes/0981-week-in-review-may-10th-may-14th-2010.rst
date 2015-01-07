@@ -2,7 +2,7 @@ Week in Review: May 10th - May 14th, 2010
 #########################################
 :slug: week-in-review-may-10th-may-14th-2010
 :date: 2010-05-15 13:16
-:category:
+:category: English
 :tags: english
 
 |Week in Review|

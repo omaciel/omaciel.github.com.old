@@ -2,7 +2,7 @@ Sortudo mesmo ÃƒÂ© o Asterix!
 #################################
 :slug: sortudo-mesmo-e-o-asterix
 :date: 2006-04-24 18:28
-:category:
+:category: English
 :tags: portuguese
 
 … e o **Obelix**, que davam porrada nos **Romanos**, comiam carne de

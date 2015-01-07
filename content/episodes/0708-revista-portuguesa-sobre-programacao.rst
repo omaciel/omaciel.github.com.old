@@ -2,7 +2,7 @@ Revista Portuguesa sobre programaÃ§Ã£o
 ##########################################
 :slug: revista-portuguesa-sobre-programacao
 :date: 2008-01-22 01:17
-:category:
+:category: English
 :tags: portuguese
 
 A dica veio do meu amigo

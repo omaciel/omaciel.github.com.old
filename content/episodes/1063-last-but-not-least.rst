@@ -2,7 +2,7 @@ Last But Not Least
 ##################
 :slug: last-but-not-least
 :date: 2011-04-29 12:55
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1407” align=”alignleft” width=”225”

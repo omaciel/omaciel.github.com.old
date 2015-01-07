@@ -2,7 +2,7 @@ Not Going to GUADEC 2010
 ########################
 :slug: not-going-to-guadec-2010
 :date: 2010-06-03 18:08
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1161” align=”alignleft” width=”240”

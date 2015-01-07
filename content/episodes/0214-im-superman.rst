@@ -2,7 +2,7 @@ I'm Superman!
 #############
 :slug: im-superman
 :date: 2005-12-21 21:52
-:category:
+:category: English
 :tags: english
 
 'Cause all the “cool” guys are doing it… =)

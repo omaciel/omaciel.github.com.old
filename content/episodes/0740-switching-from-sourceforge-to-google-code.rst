@@ -2,7 +2,7 @@ Switching from SourceForge to Google Code
 #########################################
 :slug: switching-from-sourceforge-to-google-code
 :date: 2008-03-30 17:48
-:category:
+:category: English
 :tags: english
 
 For the last 2 weeks I have (unsuccesfully) tried to migrate

@@ -2,7 +2,7 @@ Distribuicao de CDs do Ubuntu pelo Brasil
 #########################################
 :slug: distribuicao-de-cds-do-ubuntu-pelo-brasil
 :date: 2006-12-06 15:35
-:category:
+:category: English
 :tags: portuguese
 
 Fui contactado pelo pessoal da Canonical para ajuda-los com um

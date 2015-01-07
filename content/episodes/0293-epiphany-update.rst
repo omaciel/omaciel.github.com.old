@@ -2,7 +2,7 @@ Epiphany Update
 ###############
 :slug: epiphany-update
 :date: 2006-05-15 18:13
-:category:
+:category: English
 :tags: english
 
 Ever since I wrote my last post about the state of Epiphany as the

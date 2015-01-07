@@ -2,7 +2,7 @@ Windows Security
 ################
 :slug: windows-security
 :date: 2005-04-15 17:16
-:category:
+:category: English
 :tags: english
 
 |Windows Security|

@@ -2,7 +2,7 @@ Article about Conary
 ####################
 :slug: article-about-conary
 :date: 2007-06-27 15:51
-:category:
+:category: English
 :tags: english
 
 Had a really nice surprise waiting for me today at work in the form of

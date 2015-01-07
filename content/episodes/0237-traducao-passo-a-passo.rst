@@ -2,7 +2,7 @@ TraduÃƒÂ§ÃƒÂ£o passo a passo
 ####################################
 :slug: traducao-passo-a-passo
 :date: 2006-02-16 18:51
-:category:
+:category: English
 :tags: portuguese
 
 Ontem foi perguntado no #ubuntu-br qual o procedimento correto para

@@ -2,7 +2,7 @@ Paterfamilias
 #############
 :slug: paterfamilias
 :date: 2006-06-15 14:11
-:category:
+:category: English
 :tags: english
 
 This is very off topic but I couldn’t resit.Ã‚Â  My wife and I have been

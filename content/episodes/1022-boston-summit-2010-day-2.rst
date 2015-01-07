@@ -2,7 +2,7 @@ Boston Summit 2010: Day 2
 #########################
 :slug: boston-summit-2010-day-2
 :date: 2010-11-10 03:28
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_715” align=”alignleft” width=”213”

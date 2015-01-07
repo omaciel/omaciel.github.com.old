@@ -2,7 +2,7 @@ New kids on the block
 #####################
 :slug: new-kids-on-the-block
 :date: 2007-06-04 15:36
-:category:
+:category: English
 :tags: english
 
 Well, not those kids anyway… :) I just packaged a couple of new

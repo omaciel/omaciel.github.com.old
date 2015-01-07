@@ -2,7 +2,7 @@ GNOME 2.20 100% traduzido para o PortuguÃªs Brasileiro!
 #########################################################
 :slug: gnome-220-100-traduzido-para-o-portugues-brasileiro
 :date: 2007-09-09 13:57
-:category:
+:category: English
 :tags: portuguese
 
 Tenho o grande prazer de anunciar que o **GNOME 2.20**

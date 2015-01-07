@@ -2,7 +2,7 @@ Atualizações de traduções pelo IRC
 ######################################
 :slug: atualizacoes-de-traducoes-pelo-irc
 :date: 2008-10-24 15:41
-:category:
+:category: English
 :tags: portuguese
 
 Algum tempo atrás eu criei o canal **#tradutores** na Freenode, um lugar

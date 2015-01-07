@@ -2,7 +2,7 @@ LanÃ§ado Openbox 3.4!
 #######################
 :slug: lancado-openbox-34
 :date: 2007-06-05 21:12
-:category:
+:category: English
 :tags: portuguese
 
 Finalmente o dia chegou!!! **Openbox 3.4** acaba de ser lanÃ§ado, junto

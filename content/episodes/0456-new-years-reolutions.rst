@@ -2,7 +2,7 @@ New Years Reolutions
 ####################
 :slug: new-years-reolutions
 :date: 2007-01-02 17:42
-:category:
+:category: English
 :tags: english
 
 |http://web.mac.com/aaronandpatty/iWeb/What%20the%20Duck/Images/WTD119.gif|

@@ -2,7 +2,7 @@ Installing Debian by Edd Dumbill
 ################################
 :slug: installing-debian-by-edd-dumbill
 :date: 2005-10-06 17:24
-:category:
+:category: English
 :tags: english
 
 Edd Dumbill’s

@@ -2,7 +2,7 @@ Splitting WordPress Export File with ChoppedPress
 #################################################
 :slug: splitting-wordpress-export-file-with-choppedpress
 :date: 2010-04-29 15:00
-:category:
+:category: English
 :tags: english, lxml, python, optparse, wordpress
 
 |Four Views of a Book Press by 802|

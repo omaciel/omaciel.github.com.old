@@ -2,7 +2,7 @@ BillReminder has a new house!
 #############################
 :slug: billreminder-has-a-new-house
 :date: 2008-01-04 02:02
-:category:
+:category: English
 :tags: english
 
 My pet project `BillReminder <http://billreminder.gnulinuxbrasil.org>`__

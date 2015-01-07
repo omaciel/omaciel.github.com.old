@@ -2,7 +2,7 @@ Media Player Round Up
 #####################
 :slug: media-player-round-up
 :date: 2005-04-28 13:02
-:category:
+:category: English
 :tags: english
 
 Someone had commented on a previous post about a media player for

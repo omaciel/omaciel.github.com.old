@@ -2,7 +2,7 @@ Castálio Podcast:  Augusto Campos - BR-Linux, BR-Mac, Efetividade
 ##################################################################
 :slug: castalio-podcast-augusto-campos-br-linux-br-mac-efetivid
 :date: 2011-10-02 20:43
-:category:
+:category: Portuguese
 :tags: portuguese, castalio, podcast
 
 |Augusto Campos: BR-Linux, BR-Mac, Efetividades|

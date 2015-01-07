@@ -2,7 +2,7 @@ Subscribe to feeds from projects hosted on Google Code
 ######################################################
 :slug: subscribe-to-feeds-from-projects-hosted-on-google-code
 :date: 2008-07-16 13:31
-:category:
+:category: English
 :tags: english
 
 If you have a project hosted on `Google Code <http://code.google.com>`__

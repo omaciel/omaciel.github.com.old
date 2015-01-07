@@ -2,7 +2,7 @@ Agora sim...
 ############
 :slug: agora-sim
 :date: 2006-04-12 14:28
-:category:
+:category: English
 :tags: portuguese
 
 Com o lanÃƒÂ§amento da nova versÃƒÂ£o (**1.0-8756)**\ do driver da

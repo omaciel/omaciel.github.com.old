@@ -2,7 +2,7 @@ Groovy
 ######
 :slug: groovy
 :date: 2005-04-13 19:47
-:category:
+:category: English
 :tags: english
 
 Today I actually enjoyed work!!! Do you have any idea how hard it is for

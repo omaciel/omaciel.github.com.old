@@ -2,7 +2,7 @@ Launchpad has a new face-lift
 #############################
 :slug: launchpad-has-a-new-face-lift
 :date: 2007-02-07 05:47
-:category:
+:category: English
 :tags: english
 
 I really liked the new “face-lift” given to

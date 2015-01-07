@@ -2,7 +2,7 @@ Book Review: Stories of Your Life: and Others
 #############################################
 :slug: book-review-stories-of-your-life-and-others
 :date: 2011-02-10 16:32
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1319” align=”alignleft” width=”200”

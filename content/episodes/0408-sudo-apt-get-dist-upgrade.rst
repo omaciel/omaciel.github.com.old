@@ -2,7 +2,7 @@ sudo apt-get dist-upgrade
 #########################
 :slug: sudo-apt-get-dist-upgrade
 :date: 2006-10-05 20:33
-:category:
+:category: English
 :tags: portuguese
 
 Para os meus amigos que estao curiosos por onde estou, aqui vao

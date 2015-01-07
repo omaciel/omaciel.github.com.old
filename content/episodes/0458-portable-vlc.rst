@@ -2,7 +2,7 @@ Portable VLC
 ############
 :slug: portable-vlc
 :date: 2007-01-04 20:26
-:category:
+:category: English
 :tags: english
 
 My good friend `Otavio <http://otavio.canetatinteiro.org/>`__ enjoying

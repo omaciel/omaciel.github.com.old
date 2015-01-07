@@ -2,7 +2,7 @@ Integrated GNOME clock
 ######################
 :slug: integrated-gnome-clock
 :date: 2007-09-07 19:24
-:category:
+:category: English
 :tags: english
 
 So today Ken Vandine was showing off the integration of intlclock with

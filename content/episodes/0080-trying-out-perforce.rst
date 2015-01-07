@@ -2,7 +2,7 @@ Trying Out Perforce
 ###################
 :slug: trying-out-perforce
 :date: 2005-05-11 17:37
-:category:
+:category: English
 :tags: english
 
 Tonight I want to take a quick break from playing WoW and install

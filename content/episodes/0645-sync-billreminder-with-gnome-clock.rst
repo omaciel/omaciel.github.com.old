@@ -2,7 +2,7 @@ Sync BillReminder with GNOME clock
 ##################################
 :slug: sync-billreminder-with-gnome-clock
 :date: 2007-09-13 23:30
-:category:
+:category: English
 :tags: english
 
 In an attempt to integrate `BillReminder <http://billreminder.sf.net>`__

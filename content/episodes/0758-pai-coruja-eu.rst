@@ -2,7 +2,7 @@ Pai coruja? Eu?
 ###############
 :slug: pai-coruja-eu
 :date: 2008-04-20 14:29
-:category:
+:category: English
 :tags: portuguese
 
 Finalmente tive tempo para colocar novas fotos e vídeos da Yv e Kate no

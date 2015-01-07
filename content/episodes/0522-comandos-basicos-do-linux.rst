@@ -2,7 +2,7 @@ Comandos BÃ¡sicos do Linux
 ############################
 :slug: comandos-basicos-do-linux
 :date: 2007-04-10 11:52
-:category:
+:category: English
 :tags: portuguese
 
 O `Arlei Silveira Silva <http://wiki.ubuntu-br.org/arlei>`__, junto com

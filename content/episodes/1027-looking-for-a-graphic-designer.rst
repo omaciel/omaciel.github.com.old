@@ -2,7 +2,7 @@ Looking For a Graphic Designer
 ##############################
 :slug: looking-for-a-graphic-designer
 :date: 2010-12-16 17:44
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1261” align=”aligncenter” width=”300”

@@ -2,7 +2,7 @@ We're all dying!
 ################
 :slug: were-all-dying
 :date: 2006-05-02 13:41
-:category:
+:category: English
 :tags: english
 
 So says my good friend

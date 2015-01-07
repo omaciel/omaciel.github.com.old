@@ -2,7 +2,7 @@ Not going to GUADEC
 ###################
 :slug: not-going-to-guadec
 :date: 2008-07-06 00:20
-:category:
+:category: English
 :tags: english
 
 Been kind of stormy down here in North Carolina since last night, with

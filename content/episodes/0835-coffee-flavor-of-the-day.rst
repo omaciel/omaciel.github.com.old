@@ -2,7 +2,7 @@ Coffee flavor of the day
 ########################
 :slug: coffee-flavor-of-the-day
 :date: 2008-09-03 21:28
-:category:
+:category: English
 :tags: english
 
 |Coffee flavor of the day at work|

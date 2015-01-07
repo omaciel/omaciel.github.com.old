@@ -2,7 +2,7 @@ Podcast: Aline Duarte Bessa - Accerciser
 ########################################
 :slug: podcast-aline-duarte-bessa-accerciser
 :date: 2011-07-25 04:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_56” align=”alignleft” width=”199”

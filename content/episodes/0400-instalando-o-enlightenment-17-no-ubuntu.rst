@@ -2,7 +2,7 @@ Instalando o Enlightenment 17 no Ubuntu
 #######################################
 :slug: instalando-o-enlightenment-17-no-ubuntu
 :date: 2006-09-17 21:10
-:category:
+:category: English
 :tags: portuguese
 
 Uma receitazinha para nao perder o costume. :) Eu sempre estive

@@ -2,7 +2,7 @@ BR-Office empacotado para o Foresight Linux
 ###########################################
 :slug: br-office-packaged-for-foresight-linux
 :date: 2006-10-13 19:25
-:category:
+:category: English
 :tags: portuguese
 
 Aproveitei o dia hoje para empacotar o

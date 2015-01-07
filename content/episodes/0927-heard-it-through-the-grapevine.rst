@@ -2,7 +2,7 @@ Heard it through the grapevine
 ##############################
 :slug: heard-it-through-the-grapevine
 :date: 2009-11-13 22:27
-:category:
+:category: English
 :tags: english
 
     I’ve heard that when the RedHat developers present new open-source

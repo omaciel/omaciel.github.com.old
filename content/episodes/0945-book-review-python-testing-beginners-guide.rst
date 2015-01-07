@@ -2,7 +2,7 @@ Book Review: Python Testing: Beginner's Guide
 #############################################
 :slug: book-review-python-testing-beginners-guide
 :date: 2010-03-24 01:02
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_813” align=”alignleft” width=”243”

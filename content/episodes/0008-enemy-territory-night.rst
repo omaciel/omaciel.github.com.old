@@ -2,7 +2,7 @@ Enemy Territory Night
 #####################
 :slug: enemy-territory-night
 :date: 2005-02-23 16:18
-:category:
+:category: English
 :tags: english
 
 |image0|

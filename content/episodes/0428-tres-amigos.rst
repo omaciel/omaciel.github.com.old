@@ -2,7 +2,7 @@ TrÃªs Amigos!
 ###############
 :slug: tres-amigos
 :date: 2006-10-29 02:45
-:category:
+:category: English
 :tags: portuguese
 
 Buenas!Â  UsuÃ¡rios do Ubuntu Linux da lÃ­ngua portuguesa brasileira

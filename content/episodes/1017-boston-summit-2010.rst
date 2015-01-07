@@ -2,7 +2,7 @@ Boston Summit 2010
 ##################
 :slug: boston-summit-2010
 :date: 2010-10-20 17:32
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_715” align=”alignleft” width=”213”

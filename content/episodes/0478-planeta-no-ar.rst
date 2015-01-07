@@ -2,7 +2,7 @@ Planeta no Ar!
 ##############
 :slug: planeta-no-ar
 :date: 2007-02-27 22:27
-:category:
+:category: English
 :tags: portuguese
 
 O `Planeta GNU/Linux Brasil <http://planeta.gnulinuxbrasil.org/>`__

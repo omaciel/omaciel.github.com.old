@@ -2,7 +2,7 @@ CidadÃ£o Americano
 ####################
 :slug: cidadao-americano
 :date: 2007-05-23 23:53
-:category:
+:category: English
 :tags: portuguese
 
 Ã‰ com muito orgulho que venho anunciar hoje que eu me tornei um

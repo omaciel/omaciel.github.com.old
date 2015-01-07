@@ -2,7 +2,7 @@ BillReminder
 ############
 :slug: billreminder
 :date: 2006-03-09 18:54
-:category:
+:category: English
 :tags: portuguese
 
 Ãƒâ€° com um enorme prazer que venho anunciar o “nascimento” oficial

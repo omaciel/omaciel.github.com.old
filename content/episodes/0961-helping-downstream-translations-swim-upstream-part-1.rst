@@ -2,7 +2,7 @@ Helping downstream translations swim upstream: Part 1
 #####################################################
 :slug: helping-downstream-translations-swim-upstream-part-1
 :date: 2010-04-20 15:10
-:category:
+:category: English
 :tags: english
 
 ***Sometimes, contributing back to upstream open source projects is not

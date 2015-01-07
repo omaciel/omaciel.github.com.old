@@ -2,7 +2,7 @@ Weather-Wallpaper usando o sistema imperial
 ###########################################
 :slug: weather-wallpaper-usando-o-sistema-imperial
 :date: 2007-08-29 03:37
-:category:
+:category: English
 :tags: portuguese
 
 Ontem eu escutei/li de alguÃ©m sobre um programa bacana que busca

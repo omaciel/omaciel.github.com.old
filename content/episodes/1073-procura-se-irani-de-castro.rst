@@ -2,7 +2,7 @@ Procura-se: Irani de Castro
 ###########################
 :slug: procura-se-irani-de-castro
 :date: 2011-06-01 04:00
-:category:
+:category: English
 :tags: portuguese
 
 [caption id=”attachment\_633” align=”alignleft” width=”198” caption=”Os

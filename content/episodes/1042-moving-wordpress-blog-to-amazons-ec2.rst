@@ -2,7 +2,7 @@ Moving WordPress Blog to Amazon's EC2
 #####################################
 :slug: moving-wordpress-blog-to-amazons-ec2
 :date: 2011-02-16 03:26
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1337” align=”alignleft” width=”500”

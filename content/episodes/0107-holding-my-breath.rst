@@ -2,7 +2,7 @@ Holding My Breath
 #################
 :slug: holding-my-breath
 :date: 2005-06-22 19:58
-:category:
+:category: English
 :tags: english
 
 Well, it’s been a while since I wrote anything here (or any where for

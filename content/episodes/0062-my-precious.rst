@@ -2,7 +2,7 @@ My Precious...
 ##############
 :slug: my-precious
 :date: 2005-04-27 14:29
-:category:
+:category: English
 :tags: english
 
 I have finally found my portable MP3 and OGG player to use on the go

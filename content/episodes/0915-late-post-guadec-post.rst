@@ -2,7 +2,7 @@ Late Post-GUADEC... Post?
 #########################
 :slug: late-post-guadec-post
 :date: 2009-07-23 04:30
-:category:
+:category: English
 :tags: english
 
 Ok, my apologies for not having written up a post on my trip to the

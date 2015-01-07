@@ -2,7 +2,7 @@ Concurso Guia do Dapper do Ubuntu Brasil
 ########################################
 :slug: concurso-guia-do-dapper-do-ubuntu-brasil
 :date: 2006-06-01 18:39
-:category:
+:category: English
 :tags: portuguese
 
 Venho por este convocar a todos os artistas e designers de web para o

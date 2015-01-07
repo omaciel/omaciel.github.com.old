@@ -2,7 +2,7 @@ How many are there in a Brazilian?
 ##################################
 :slug: how-many-are-there-in-a-brazilian
 :date: 2007-09-09 14:09
-:category:
+:category: English
 :tags: english
 
 For the `second <http://l10n.gnome.org/languages/pt_BR>`__ release cycle

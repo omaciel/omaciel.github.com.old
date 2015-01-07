@@ -2,7 +2,7 @@ AlÃƒÂ´ mamÃƒÂ£e!!!
 ##########################
 :slug: alo-mamae
 :date: 2006-04-10 16:50
-:category:
+:category: English
 :tags: portuguese
 
 Fui “entrevistado” pelo pessoal do `Lulu TV <http://www.lulu.tv/>`__ no

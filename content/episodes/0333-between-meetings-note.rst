@@ -2,7 +2,7 @@ Between Meetings Note
 #####################
 :slug: between-meetings-note
 :date: 2006-06-14 14:51
-:category:
+:category: English
 :tags: english
 
 Work has caught up to me and I have been flooded with small projects

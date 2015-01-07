@@ -2,7 +2,7 @@ Let Me Introduce You To My Little Friend
 ########################################
 :slug: let-me-introduce-you-to-my-little-friend
 :date: 2005-04-04 13:19
-:category:
+:category: English
 :tags: english
 
 I was really bad over this weekend… I not only had a cup of (gasp!) Star

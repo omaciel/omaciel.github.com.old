@@ -2,7 +2,7 @@ Ubuntu Sweepstake 2005
 ######################
 :slug: ubuntu-sweepstake-2005
 :date: 2005-12-06 22:14
-:category:
+:category: English
 :tags: english
 
 In order to celebrate the holidays and the success of the Brazilian

@@ -2,7 +2,7 @@ Going back to school
 ####################
 :slug: going-back-to-school
 :date: 2008-07-22 02:56
-:category:
+:category: English
 :tags: english
 
 I can finally talk about my great news: **I’m going back to school this

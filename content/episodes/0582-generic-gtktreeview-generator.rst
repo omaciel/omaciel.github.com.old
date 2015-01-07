@@ -2,7 +2,7 @@ Generic Gtk.TreeView Generator
 ##############################
 :slug: generic-gtktreeview-generator
 :date: 2007-06-16 13:47
-:category:
+:category: English
 :tags: english
 
 Quite a few people have asked me to publish my attempt at simplifying

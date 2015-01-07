@@ -2,7 +2,7 @@ Transifex "Magneto" Appliance 0.8 is out!
 #########################################
 :slug: transifex-magneto-appliance-0-8-is-out
 :date: 2010-03-03 03:52
-:category:
+:category: English
 :tags: english
 
 Following the tradition of releasing simultaneously with the

@@ -2,7 +2,7 @@ Recipe: Enemy Territory
 #######################
 :slug: recipe-enemy-territory
 :date: 2006-06-16 17:24
-:category:
+:category: English
 :tags: english
 
 First of all, I want to thank all the kind comments on my previous post.

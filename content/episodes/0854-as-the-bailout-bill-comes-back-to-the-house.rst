@@ -2,7 +2,7 @@ As the bailout bill comes back to the House...
 ##############################################
 :slug: as-the-bailout-bill-comes-back-to-the-house
 :date: 2008-10-02 13:05
-:category:
+:category: English
 :tags: english
 
 … let your `US Congressmen <http://www.house.gov/>`__ know your opinion.

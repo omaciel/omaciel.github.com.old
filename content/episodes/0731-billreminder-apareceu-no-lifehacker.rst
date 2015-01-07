@@ -2,7 +2,7 @@ BillReminder apareceu no LifeHacker
 ###################################
 :slug: billreminder-apareceu-no-lifehacker
 :date: 2008-03-07 03:40
-:category:
+:category: English
 :tags: portuguese
 
 Fiquei super surpreso quando me falaram que o

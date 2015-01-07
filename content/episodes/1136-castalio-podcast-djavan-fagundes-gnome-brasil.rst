@@ -2,7 +2,7 @@ Castálio Podcast: Djavan Fagundes: GNOME Brasil
 ################################################
 :slug: castalio-podcast-djavan-fagundes-gnome-brasil
 :date: 2012-06-25 01:40
-:category:
+:category: Portuguese
 :tags: podcast, ubuntu, portuguese, castálio, mandriva
 
 |image0|

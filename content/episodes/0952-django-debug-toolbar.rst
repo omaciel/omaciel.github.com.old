@@ -2,7 +2,7 @@ Django Debug Toolbar
 ####################
 :slug: django-debug-toolbar
 :date: 2010-04-12 00:47
-:category:
+:category: English
 :tags: english
 
 I meant to write about the `Django Debug

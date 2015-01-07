@@ -2,7 +2,7 @@ What Does It Mean???
 ####################
 :slug: what-does-it-mean
 :date: 2005-05-16 19:37
-:category:
+:category: English
 :tags: english
 
 What does it mean when your direct supervisor keeps asking you to do

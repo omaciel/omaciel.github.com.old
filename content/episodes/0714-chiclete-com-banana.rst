@@ -2,7 +2,7 @@ Chiclete com Banana
 ###################
 :slug: chiclete-com-banana
 :date: 2008-01-31 04:05
-:category:
+:category: English
 :tags: portuguese
 
 |I used to love this Brazilian comic book|

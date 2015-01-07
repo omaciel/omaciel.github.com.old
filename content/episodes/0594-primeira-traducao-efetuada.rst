@@ -2,7 +2,7 @@ Primeira traduÃ§Ã£o efetuada!
 #################################
 :slug: primeira-traducao-efetuada
 :date: 2007-06-27 00:06
-:category:
+:category: English
 :tags: portuguese
 
 Hoje consegui falar, via Skype, com o `Daniel

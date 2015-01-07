@@ -2,7 +2,7 @@ Iniciando o servico Avahi no Ubuntu Edgy
 ########################################
 :slug: iniciando-o-servico-avahi-no-ubuntu-edgy
 :date: 2006-10-31 19:23
-:category:
+:category: English
 :tags: portuguese
 
 Depois de quebrar a cabeca por 2 dias tentando descobrir porque eu nao

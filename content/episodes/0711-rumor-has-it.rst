@@ -2,7 +2,7 @@ Rumor has it...
 ###############
 :slug: rumor-has-it
 :date: 2008-01-27 17:57
-:category:
+:category: English
 :tags: english
 
 … that this (below) could be a Foresight Linux based distribution

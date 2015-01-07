@@ -2,7 +2,7 @@ Novos Autores no Planeta
 ########################
 :slug: novos-autores-no-planeta-2
 :date: 2007-09-12 16:48
-:category:
+:category: English
 :tags: portuguese
 
 Hoje eu adicionei 3 novos autores no `Planeta GNU/Linux

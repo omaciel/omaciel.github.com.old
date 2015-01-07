@@ -2,7 +2,7 @@ The Thrilling Adventures of Lovelace and Babbage
 ################################################
 :slug: the-thrilling-adventures-of-lovelace-and-babbage
 :date: 2010-12-13 11:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1252” align=”alignleft” width=”235”

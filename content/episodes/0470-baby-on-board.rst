@@ -2,7 +2,7 @@ Baby on Board
 #############
 :slug: baby-on-board
 :date: 2007-02-11 00:36
-:category:
+:category: English
 :tags: english
 
 My parents wanted to know how my wife’s pregnancy was progressing…

@@ -2,7 +2,7 @@ Castálio Podcast: Caike Souza - Envy Labs
 ##########################################
 :slug: castalio-podcast-caike-souza-envy-labs
 :date: 2012-05-13 22:55
-:category:
+:category: Portuguese
 :tags: podcast, castálio, portuguese
 
 |image0|

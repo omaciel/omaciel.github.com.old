@@ -2,7 +2,7 @@ Ubuntu Edgy
 ###########
 :slug: ubuntu-edgy
 :date: 2006-06-20 16:11
-:category:
+:category: English
 :tags: portuguese
 
 Esta semana estÃƒÂ¡ acontecendo `Ubuntu Paris Developer

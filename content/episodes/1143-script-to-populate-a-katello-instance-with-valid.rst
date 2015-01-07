@@ -2,7 +2,7 @@ Script to populate a Katello instance with valid data
 #####################################################
 :slug: script-to-populate-a-katello-instance-with-valid
 :date: 2012-08-16 20:52
-:category:
+:category: English
 :tags: english, katello
 
 |Starbucks organization and its providers|

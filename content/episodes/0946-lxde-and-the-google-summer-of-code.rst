@@ -2,7 +2,7 @@ LXDE and the Google Summer of Code
 ##################################
 :slug: lxde-and-the-google-summer-of-code
 :date: 2010-03-24 13:25
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_845” align=”alignleft” width=”300”

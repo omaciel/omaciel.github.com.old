@@ -2,7 +2,7 @@ Como eu "blogo"?
 ################
 :slug: como-eu-blogo
 :date: 2007-03-14 16:27
-:category:
+:category: English
 :tags: portuguese
 
 O Andre’ Noel me perguntou “como que eu ‘blogo’” em um de seus ultimos

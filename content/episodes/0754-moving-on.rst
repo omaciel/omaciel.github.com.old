@@ -2,7 +2,7 @@ Moving on
 #########
 :slug: moving-on
 :date: 2008-04-15 12:48
-:category:
+:category: English
 :tags: english
 
 Yesterday I sent out an email to the members of the Ubuntu Brazilian

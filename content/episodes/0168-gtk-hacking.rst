@@ -2,7 +2,7 @@ Gtk# Hacking
 ############
 :slug: gtk-hacking
 :date: 2005-09-08 00:07
-:category:
+:category: English
 :tags: english
 
 |Gtk# hacking|

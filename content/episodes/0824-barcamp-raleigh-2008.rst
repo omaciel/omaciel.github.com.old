@@ -2,7 +2,7 @@ BarCamp Raleigh 2008
 ####################
 :slug: barcamp-raleigh-2008
 :date: 2008-07-31 20:03
-:category:
+:category: English
 :tags: english
 
 This weekend I’ll be attending `BarCamp

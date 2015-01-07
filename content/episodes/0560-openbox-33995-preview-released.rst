@@ -2,7 +2,7 @@ Openbox 3.3.995 preview released
 ################################
 :slug: openbox-33995-preview-released
 :date: 2007-05-30 15:48
-:category:
+:category: English
 :tags: english
 
 For those following along with the preview releases of

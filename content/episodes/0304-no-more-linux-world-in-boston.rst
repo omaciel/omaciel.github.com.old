@@ -2,7 +2,7 @@ No more Linux World in Boston
 #############################
 :slug: no-more-linux-world-in-boston
 :date: 2006-05-24 12:47
-:category:
+:category: English
 :tags: english
 
 I just received an email stating what I thought would be inevitable:Ã‚Â 

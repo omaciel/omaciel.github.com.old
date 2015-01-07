@@ -2,7 +2,7 @@ Let us not lose our cool
 ########################
 :slug: let-us-not-lose-our-cool
 :date: 2007-11-26 19:50
-:category:
+:category: English
 :tags: english
 
 About today’s

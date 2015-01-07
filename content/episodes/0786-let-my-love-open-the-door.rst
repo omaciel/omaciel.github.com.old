@@ -2,7 +2,7 @@ Let My Love Open the Door
 #########################
 :slug: let-my-love-open-the-door
 :date: 2008-06-02 00:43
-:category:
+:category: English
 :tags: english
 
 Dedicated to my wife…

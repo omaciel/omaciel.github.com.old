@@ -2,7 +2,7 @@ Screenie
 ########
 :slug: screenie
 :date: 2005-07-05 16:38
-:category:
+:category: English
 :tags: english
 
 Spent some time hacking my new app during the holidays… Also did some

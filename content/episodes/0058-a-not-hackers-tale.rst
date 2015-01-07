@@ -2,7 +2,7 @@ A (Not) Hacker's Tale
 #####################
 :slug: a-not-hackers-tale
 :date: 2005-04-25 22:50
-:category:
+:category: English
 :tags: english
 
 This is just too

@@ -2,7 +2,7 @@ Castálio Podcast: Yuri Malheiros
 #################################
 :slug: castalio-podcast-yuri-malheiros
 :date: 2011-05-30 00:48
-:category:
+:category: Portuguese
 :tags: portuguese
 
     "Desta vez o convidado deste episódio não é de Belo Horizonte! :)

@@ -2,7 +2,7 @@ Porque traduções com QUALIDADE são importantes!
 ##################################################
 :slug: porque-traducoes-com-qualidade-sao-importantes
 :date: 2008-10-31 15:19
-:category:
+:category: English
 :tags: portuguese
 
 Meus parabéns para todos aqueles envolvidos com a tradução de software

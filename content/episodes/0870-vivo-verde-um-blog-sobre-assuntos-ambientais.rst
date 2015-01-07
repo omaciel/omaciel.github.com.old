@@ -2,7 +2,7 @@ Vivo Verde, um blog sobre assuntos ambientais
 #############################################
 :slug: vivo-verde-um-blog-sobre-assuntos-ambientais
 :date: 2008-12-11 23:16
-:category:
+:category: English
 :tags: portuguese
 
 A Daiane entrou em contado comigo esta semana para me apresentar ao seu

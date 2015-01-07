@@ -2,7 +2,7 @@ Novos autores no Planeta
 ########################
 :slug: novos-autores-no-planeta
 :date: 2006-10-19 17:39
-:category:
+:category: English
 :tags: portuguese
 
 Ontem e hoje adicionei 4 ou 5 novos autores, todos de Portugal. Eles

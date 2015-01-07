@@ -2,7 +2,7 @@ Where should your money go today?
 #################################
 :slug: where-should-your-money-go-today
 :date: 2008-06-30 19:51
-:category:
+:category: English
 :tags: english
 
 `$162 billion for the wars in Iraq and

@@ -2,7 +2,7 @@ The Amazing Race
 ################
 :slug: the-amazing-race
 :date: 2006-07-20 20:22
-:category:
+:category: English
 :tags: english
 
 The race is on to get Ubuntu Linux completely translated into other

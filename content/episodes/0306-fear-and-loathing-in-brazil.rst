@@ -2,7 +2,7 @@ Fear and Loathing In Brazil
 ###########################
 :slug: fear-and-loathing-in-brazil
 :date: 2006-05-25 18:41
-:category:
+:category: English
 :tags: english
 
 This last May 17th there was a controversial article published by the

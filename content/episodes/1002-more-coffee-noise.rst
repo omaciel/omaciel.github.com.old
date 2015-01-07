@@ -2,7 +2,7 @@ More Coffee Noise
 #################
 :slug: more-coffee-noise
 :date: 2010-06-29 16:41
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1129” align=”alignleft” width=”300”

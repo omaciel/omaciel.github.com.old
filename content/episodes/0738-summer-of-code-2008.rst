@@ -2,7 +2,7 @@ Summer of Code 2008
 ###################
 :slug: summer-of-code-2008
 :date: 2008-03-26 15:11
-:category:
+:category: English
 :tags: english
 
 So I submitted my idea for `GNOME’s Summer of

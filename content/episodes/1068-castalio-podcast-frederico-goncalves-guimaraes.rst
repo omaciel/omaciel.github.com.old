@@ -2,7 +2,7 @@ Castálio Podcast: Frederico Gonçalves Guimaraes
 #################################################
 :slug: castalio-podcast-frederico-goncalves-guimaraes
 :date: 2011-05-12 22:31
-:category:
+:category: Portuguese
 :tags: portuguese
 
 ﻿﻿

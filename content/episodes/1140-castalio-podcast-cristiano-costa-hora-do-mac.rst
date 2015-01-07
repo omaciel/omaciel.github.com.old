@@ -2,7 +2,7 @@ Castálio Podcast: Cristiano Costa - Hora do Mac
 ################################################
 :slug: castalio-podcast-cristiano-costa-hora-do-mac
 :date: 2012-08-07 13:22
-:category:
+:category: Portuguese
 :tags: podcast, castálio, ubuntu, mandriva
 
 |image0|

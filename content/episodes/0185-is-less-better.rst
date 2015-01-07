@@ -2,7 +2,7 @@ Is Less Better?
 ###############
 :slug: is-less-better
 :date: 2005-10-04 15:57
-:category:
+:category: English
 :tags: english
 
 I’ve been following a very interesting discussion that has taken place

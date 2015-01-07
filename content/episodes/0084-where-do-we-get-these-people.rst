@@ -2,7 +2,7 @@ Where Do We Get These People?
 #############################
 :slug: where-do-we-get-these-people
 :date: 2005-05-16 19:47
-:category:
+:category: English
 :tags: english
 
 While typing my last post I was interrupted by a so-called “.Net

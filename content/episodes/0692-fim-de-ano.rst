@@ -2,7 +2,7 @@ Fim de ano
 ##########
 :slug: fim-de-ano
 :date: 2007-12-31 22:46
-:category:
+:category: English
 :tags: portuguese
 
 Fim de ano e a cabeÃ§a fervilhando de idÃ©ias! A sacada Ã© saber

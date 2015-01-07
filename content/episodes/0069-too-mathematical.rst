@@ -2,7 +2,7 @@ Too Mathematical
 ################
 :slug: too-mathematical
 :date: 2005-04-29 14:52
-:category:
+:category: English
 :tags: english
 
 **Your brain: 60% interpersonal, 60% visual, 100% verbal, and 180%

@@ -2,7 +2,7 @@ Setting up a Planet
 ###################
 :slug: setting-up-a-planet
 :date: 2005-10-24 14:53
-:category:
+:category: English
 :tags: english
 
 No, this is not a post about the creation of the universe and such.

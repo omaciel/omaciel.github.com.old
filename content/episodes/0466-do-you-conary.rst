@@ -2,7 +2,7 @@ Do you conary?
 ##############
 :slug: do-you-conary
 :date: 2007-02-05 23:38
-:category:
+:category: English
 :tags: portuguese
 
 Hoje conversando com crimeboy no #ubuntu-br sobre Openbox, fiquei

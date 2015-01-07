@@ -2,7 +2,7 @@ Humanidade aos Outros
 #####################
 :slug: humanidade-aos-outros
 :date: 2006-06-27 18:57
-:category:
+:category: English
 :tags: portuguese
 
 Estou colando aqui o texto de um email enviado pelo meu amigo **Carlos

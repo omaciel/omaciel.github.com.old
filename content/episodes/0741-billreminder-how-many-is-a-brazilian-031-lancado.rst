@@ -2,7 +2,7 @@ BillReminder "How Many is a Brazilian" 0.3.1 Lançado
 #####################################################
 :slug: billreminder-how-many-is-a-brazilian-031-lancado
 :date: 2008-03-30 18:04
-:category:
+:category: English
 :tags: portuguese
 
 O codinome deste lançamento é uma brincadeira em Inglês. As unidades

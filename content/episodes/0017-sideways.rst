@@ -2,7 +2,7 @@ Sideways
 ########
 :slug: sideways
 :date: 2005-03-10 16:48
-:category:
+:category: English
 :tags: english
 
 On a previous post I had promised to comment on the movie

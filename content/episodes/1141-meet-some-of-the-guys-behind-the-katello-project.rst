@@ -2,7 +2,7 @@ Meet Some Of The Guys Behind The Katello Project
 ################################################
 :slug: meet-some-of-the-guys-behind-the-katello-project
 :date: 2012-08-07 20:50
-:category:
+:category: English
 :tags: katello, english
 
 |image0| |image1| |image2| |image3| |image4| |image5|

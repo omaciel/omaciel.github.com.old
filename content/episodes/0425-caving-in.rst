@@ -2,7 +2,7 @@
 ###########
 :slug: caving-in
 :date: 2006-10-22 16:15
-:category:
+:category: English
 :tags: english
 
 I finally caved in and gave **beryl** a try. After being literally

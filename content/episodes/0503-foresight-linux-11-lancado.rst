@@ -2,7 +2,7 @@ Foresight Linux 1.1 LanÃ§ado
 ##############################
 :slug: foresight-linux-11-lancado
 :date: 2007-03-15 20:29
-:category:
+:category: English
 :tags: portuguese
 
 Hoje foi lanÃ§ada a versÃ£o 1.1 do `Foresight

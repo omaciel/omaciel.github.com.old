@@ -2,7 +2,7 @@ The Northern NJ Open Source Alliance
 ####################################
 :slug: the-northern-nj-open-source-alliance
 :date: 2005-03-17 21:38
-:category:
+:category: English
 :tags: english
 
 Following up on a previous post, my good friend `Steve

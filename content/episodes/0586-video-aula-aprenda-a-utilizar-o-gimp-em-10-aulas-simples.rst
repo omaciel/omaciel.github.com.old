@@ -2,7 +2,7 @@ VÃ­deo Aula - Aprenda a utilizar o Gimp em 10 aulas simples
 #############################################################
 :slug: video-aula-aprenda-a-utilizar-o-gimp-em-10-aulas-simples
 :date: 2007-06-19 01:02
-:category:
+:category: English
 :tags: portuguese
 
 Foi com um enorme prazer que eu recebi a notÃ­cia sobre o projeto

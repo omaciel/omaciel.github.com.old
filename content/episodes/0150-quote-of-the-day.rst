@@ -2,7 +2,7 @@ Quote of the day
 ################
 :slug: quote-of-the-day
 :date: 2005-08-18 13:01
-:category:
+:category: English
 :tags: english
 
     Going into physics was the biggest mistake of my life. I should’ve

@@ -2,7 +2,7 @@ Going to FISL?
 ##############
 :slug: going-to-fisl
 :date: 2007-04-04 16:05
-:category:
+:category: English
 :tags: english
 
 Hey `Jonh <http://www.j5live.com/?p=350>`__,

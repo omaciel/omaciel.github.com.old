@@ -2,7 +2,7 @@ Picasa Ripple Effects
 #####################
 :slug: picasa-ripple-effects
 :date: 2006-05-26 19:18
-:category:
+:category: English
 :tags: english
 
 Today’s Google’s announcement of a Linux supported version of their

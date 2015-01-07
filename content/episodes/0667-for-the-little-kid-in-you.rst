@@ -2,7 +2,7 @@ For the little kid in you
 #########################
 :slug: for-the-little-kid-in-you
 :date: 2007-11-04 17:07
-:category:
+:category: English
 :tags: english
 
 … or for the “real” kids, three fun educational games that are

@@ -2,7 +2,7 @@ NaÃ§Ã£o Livre
 #################
 :slug: nacao-livre
 :date: 2007-03-05 03:35
-:category:
+:category: English
 :tags: portuguese
 
 Ã‰ com um grande prazer que venho apresentar a mais nova fonte de

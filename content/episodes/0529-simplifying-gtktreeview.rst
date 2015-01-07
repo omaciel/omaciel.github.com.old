@@ -2,7 +2,7 @@ Simplifying gtk.TreeView?
 #########################
 :slug: simplifying-gtktreeview
 :date: 2007-04-12 02:12
-:category:
+:category: English
 :tags: english
 
 One of these days I was working on a new graphical interface for a new

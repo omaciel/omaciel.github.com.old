@@ -2,7 +2,7 @@ MÃƒÂ¡quina do Tempo
 #######################
 :slug: maquina-do-tempo
 :date: 2006-05-21 00:31
-:category:
+:category: English
 :tags: portuguese
 
 Se eu tivesse uma mÃƒÂ¡quina do tempo e fosse dado a opÃƒÂ§ÃƒÂ£o de

@@ -2,7 +2,7 @@ Nasceu o Planeta Ubuntu Portugal
 ################################
 :slug: nasceu-o-planeta-ubuntu-portugal
 :date: 2007-05-11 13:13
-:category:
+:category: English
 :tags: portuguese
 
 Fiquei muito feliz ao ler a seguinte notÃ­cia hoje:

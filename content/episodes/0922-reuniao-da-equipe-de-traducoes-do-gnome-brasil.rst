@@ -2,7 +2,7 @@ Reunião da equipe de traduções do GNOME Brasil
 #################################################
 :slug: reuniao-da-equipe-de-traducoes-do-gnome-brasil
 :date: 2009-10-19 01:35
-:category:
+:category: English
 :tags: portuguese
 
 Na noite de outubro 16 de 2009 aconteceu a primeira reunião da equipe de

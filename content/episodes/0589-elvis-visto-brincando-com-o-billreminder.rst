@@ -2,7 +2,7 @@ Elvis visto brincando com o BillReminder
 ########################################
 :slug: elvis-visto-brincando-com-o-billreminder
 :date: 2007-06-23 01:43
-:category:
+:category: English
 :tags: portuguese
 
 Apenas uma atualizaÃ§Ã£o/informativo sobre o status de desenvolvimento

@@ -2,7 +2,7 @@ Cute Git Tip
 ############
 :slug: cute-git-tip
 :date: 2009-07-17 15:56
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignnone” width=”500” caption=”Happiness by

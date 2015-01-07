@@ -2,7 +2,7 @@ Como se tornar mais popular
 ###########################
 :slug: como-se-tornar-mais-popular
 :date: 2006-10-07 12:51
-:category:
+:category: English
 :tags: portuguese
 
 Recebi um comentÃ¡rio muito importante em meu Ãºltimo post sobre como

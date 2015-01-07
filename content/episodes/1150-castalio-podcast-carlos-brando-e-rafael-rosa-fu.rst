@@ -2,7 +2,7 @@ Castálio Podcast: Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1
 #######################################################################
 :slug: castalio-podcast-carlos-brando-e-rafael-rosa-fu
 :date: 2012-10-01 14:28
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast, ubuntu, mandriva
 
 |image0|

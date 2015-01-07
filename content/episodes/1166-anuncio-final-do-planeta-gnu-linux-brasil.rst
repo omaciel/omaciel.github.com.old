@@ -2,7 +2,7 @@ ANÚNCIO: Final do Planeta GNU/Linux Brasil
 ###########################################
 :slug: anuncio-final-do-planeta-gnu-linux-brasil
 :date: 2013-09-09 15:17
-:category:
+:category: English
 :tags: ubuntu, portuguese, mandriva
 
 |The End|

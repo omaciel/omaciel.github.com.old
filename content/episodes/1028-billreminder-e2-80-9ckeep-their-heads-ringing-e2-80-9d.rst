@@ -2,7 +2,7 @@ BillReminder “Keep Their Heads Ringing” Released
 ####################################################
 :slug: billreminder-e2-80-9ckeep-their-heads-ringing-e2-80-9d
 :date: 2010-12-31 21:04
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1268” align=”alignleft” width=”300”

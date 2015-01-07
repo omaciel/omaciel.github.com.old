@@ -2,7 +2,7 @@ To the Transifex Appliance users out there
 ##########################################
 :slug: to-the-transifex-appliance-users-out-there
 :date: 2009-10-16 17:23
-:category:
+:category: English
 :tags: english
 
 Some time around the middle of **2008** I was asked if I would be

@@ -2,7 +2,7 @@ Mais outro projeto de software livre 100% traduzido
 ###################################################
 :slug: mais-outro-projeto-de-software-livre-100-traduzido
 :date: 2009-03-12 13:51
-:category:
+:category: English
 :tags: portuguese
 
 Graças ao excelente trabalho do **Henrique P. Machado**, usuários

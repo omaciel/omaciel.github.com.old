@@ -2,7 +2,7 @@ Snippet Compiler
 ################
 :slug: snippet-compiler
 :date: 2005-06-29 17:53
-:category:
+:category: English
 :tags: english
 
 I often find myself creating a new .NET project every time I want to try

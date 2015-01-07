@@ -2,7 +2,7 @@ Are You Planning a GNOME 3.0 Launch Party?
 ##########################################
 :slug: are-you-planning-a-gnome-3-0-launch-party
 :date: 2010-10-29 13:14
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1227” align=”alignleft” width=”115”

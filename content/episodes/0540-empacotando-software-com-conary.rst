@@ -2,7 +2,7 @@ Empacotando software com Conary
 ###############################
 :slug: empacotando-software-com-conary
 :date: 2007-04-26 01:49
-:category:
+:category: English
 :tags: portuguese
 
 Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial

@@ -2,7 +2,7 @@ Now My Adopted State Has Chosen To Turn Its Back
 ################################################
 :slug: now-my-adopted-state-has-chosen-to-turn-its-back
 :date: 2012-05-02 14:58
-:category:
+:category: English
 :tags: english, NC, politics
 
 Now my adopted state has chosen to turn its back on its tradition of

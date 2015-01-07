@@ -2,7 +2,7 @@ Because Your Distro Should Be Cool!
 ###################################
 :slug: because-your-distro-should-be-cool
 :date: 2011-01-24 05:00
-:category:
+:category: English
 :tags: english
 
 It is with my **Community Manager** hat and as a **Linux enthusiast**

@@ -2,7 +2,7 @@ The system works!
 #################
 :slug: the-system-works
 :date: 2006-01-19 13:54
-:category:
+:category: English
 :tags: english
 
 In less than 36 hours the following events took place:

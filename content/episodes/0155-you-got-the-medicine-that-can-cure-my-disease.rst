@@ -2,7 +2,7 @@ You got the medicine that can cure my disease
 #############################################
 :slug: you-got-the-medicine-that-can-cure-my-disease
 :date: 2005-08-24 19:36
-:category:
+:category: English
 :tags: english
 
 After the first shock-wave caused by the announcement of `Google

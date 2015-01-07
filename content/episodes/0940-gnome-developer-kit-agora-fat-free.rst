@@ -2,7 +2,7 @@ GNOME Developer Kit, agora "Fat Free"!
 ######################################
 :slug: gnome-developer-kit-agora-fat-free
 :date: 2010-03-09 17:19
-:category:
+:category: English
 :tags: portuguese
 
 **UPDATE**: Obrigado `Alberto Ruiz <http://aruiz.synaptia.net/>`__ por

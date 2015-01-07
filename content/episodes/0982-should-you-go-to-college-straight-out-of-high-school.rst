@@ -2,7 +2,7 @@ Should you go to college straight out of high school?
 #####################################################
 :slug: should-you-go-to-college-straight-out-of-high-school
 :date: 2010-05-17 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”240” caption=”Should you go to

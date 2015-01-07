@@ -2,7 +2,7 @@ Translating Ubuntu Breezy
 #########################
 :slug: translating-ubuntu-breezy
 :date: 2005-10-13 13:17
-:category:
+:category: English
 :tags: english
 
 Early this week I decided to lure more people into participating more

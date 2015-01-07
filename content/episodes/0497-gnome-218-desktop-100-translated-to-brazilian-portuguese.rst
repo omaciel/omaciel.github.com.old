@@ -2,7 +2,7 @@ GNOME 2.18 DEsktop:  100% translated to Brazilian Portuguese!
 #############################################################
 :slug: gnome-218-desktop-100-translated-to-brazilian-portuguese
 :date: 2007-03-12 12:22
-:category:
+:category: English
 :tags: english
 
 We did it!

@@ -2,7 +2,7 @@ Me mi comigo
 ############
 :slug: me-mi-comigo
 :date: 2008-09-19 18:19
-:category:
+:category: English
 :tags: portuguese
 
 |meme|

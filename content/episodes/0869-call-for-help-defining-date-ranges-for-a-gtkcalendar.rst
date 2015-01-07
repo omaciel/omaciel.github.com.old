@@ -2,7 +2,7 @@ Call for help: defining date ranges for a gtk.Calendar
 ######################################################
 :slug: call-for-help-defining-date-ranges-for-a-gtkcalendar
 :date: 2008-12-08 19:17
-:category:
+:category: English
 :tags: english
 
 I’ve re-designed the dialog for adding or editing a bill for my pet

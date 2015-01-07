@@ -2,7 +2,7 @@ Desktop no mês de julho
 ########################
 :slug: desktop-no-mes-de-julho
 :date: 2008-07-19 20:42
-:category:
+:category: English
 :tags: portuguese
 
 |Screenshot from 07/18/2008|

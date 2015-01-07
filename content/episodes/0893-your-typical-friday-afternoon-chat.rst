@@ -2,7 +2,7 @@ Your typical Friday afternoon chat
 ##################################
 :slug: your-typical-friday-afternoon-chat
 :date: 2009-03-13 17:12
-:category:
+:category: English
 :tags: english
 
 13:02:50 <devnet> DUDE 13:03:15 <devnet> got something cool to show you

@@ -2,7 +2,7 @@ Good Debian Server Setup HOWTO
 ##############################
 :slug: good-debian-server-setup-howto
 :date: 2005-06-03 17:08
-:category:
+:category: English
 :tags: english
 
 Earlier this year `OSNews <http://www.osnews.com>`__ published my

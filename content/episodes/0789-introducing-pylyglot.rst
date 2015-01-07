@@ -2,7 +2,7 @@ Introducing PyLyglot
 ####################
 :slug: introducing-pylyglot
 :date: 2008-06-05 03:20
-:category:
+:category: English
 :tags: english
 
 As everyone knows I’m very involved with the translation efforts of

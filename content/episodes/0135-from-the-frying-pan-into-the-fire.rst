@@ -2,7 +2,7 @@ From The Frying Pan Into The Fire
 #################################
 :slug: from-the-frying-pan-into-the-fire
 :date: 2005-08-03 14:27
-:category:
+:category: English
 :tags: english
 
 Literally! Spent an agonizing sleep-less night after my surgery

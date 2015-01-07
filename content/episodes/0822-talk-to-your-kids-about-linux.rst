@@ -2,7 +2,7 @@ Talk to your kids about Linux
 #############################
 :slug: talk-to-your-kids-about-linux
 :date: 2008-07-30 13:04
-:category:
+:category: English
 :tags: english
 
 Snagged from the original “\ `Cautionary <http://xkcd.com/456/>`__"

@@ -2,7 +2,7 @@ No Bugs Left Behind and Rumors
 ##############################
 :slug: no-bugs-left-behind-and-rumors
 :date: 2008-01-05 04:23
-:category:
+:category: English
 :tags: english
 
 Today I started a `No Bugs Left

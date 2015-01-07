@@ -2,7 +2,7 @@ Meu Top 10: Livros
 ##################
 :slug: meu-top-10-livros
 :date: 2011-12-31 00:43
-:category:
+:category: English
 :tags: portuguese, pessoal
 
 |Livros|

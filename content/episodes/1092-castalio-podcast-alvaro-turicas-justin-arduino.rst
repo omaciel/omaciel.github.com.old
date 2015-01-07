@@ -2,7 +2,7 @@ Castálio Podcast:  Álvaro "Turicas" Justin - Arduino
 ######################################################
 :slug: castalio-podcast-alvaro-turicas-justin-arduino
 :date: 2011-09-05 07:27
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castalio
 
 |Álvaro "Turicas" Justen - Arduino|

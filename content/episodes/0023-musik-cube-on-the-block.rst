@@ -2,7 +2,7 @@ Musik Cube On The Block
 #######################
 :slug: musik-cube-on-the-block
 :date: 2005-03-14 19:15
-:category:
+:category: English
 :tags: english
 
 |image0|

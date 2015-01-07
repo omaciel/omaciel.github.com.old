@@ -2,7 +2,7 @@ Possivelmente Dapper Drake sÃƒÂ³ em Junho 2006!
 ###################################################
 :slug: possivelmente-dapper-drake-so-em-junho-2006
 :date: 2006-03-10 20:35
-:category:
+:category: English
 :tags: portuguese
 
 Em mensagem (anexada) enviada hoje por Mark Shuttleworth, ÃƒÂ© provavel

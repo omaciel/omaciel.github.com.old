@@ -2,7 +2,7 @@ Say hello to my little friend!
 ##############################
 :slug: say-hello-to-my-little-friend
 :date: 2007-07-06 02:08
-:category:
+:category: English
 :tags: portuguese
 
 Gostaria de apresentar meu novo “amigo” **NTrunko,** meu Nokia N800

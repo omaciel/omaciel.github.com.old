@@ -2,7 +2,7 @@ Translations.xfce.org is 1 year old
 ###################################
 :slug: translations-xfce-org-is-1-year-old
 :date: 2010-08-17 12:54
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1176” align=”aligncenter” width=”300”

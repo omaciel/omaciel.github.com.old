@@ -2,7 +2,7 @@ Linkz
 #####
 :slug: linkz
 :date: 2005-03-10 17:48
-:category:
+:category: English
 :tags: english
 
 Just added a few more links to some of my favorite sites, visited

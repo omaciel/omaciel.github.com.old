@@ -2,7 +2,7 @@ MySQL issue when upgrading to WordPress 2.2.3
 #############################################
 :slug: mysql-issue-when-upgrading-to-wordpress-223
 :date: 2007-09-11 01:28
-:category:
+:category: English
 :tags: english
 
 Thought this may be helpful to someone else who also uses

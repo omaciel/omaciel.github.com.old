@@ -2,7 +2,7 @@ Transifex to provide translation platform for LXDE
 ##################################################
 :slug: transifex-to-provide-translation-platform-for-lxde
 :date: 2009-05-21 02:44
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_701” align=”aligncenter” width=”140”

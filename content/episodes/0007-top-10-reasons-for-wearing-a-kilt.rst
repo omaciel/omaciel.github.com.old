@@ -2,7 +2,7 @@ Top 10 Reasons for Wearing a Kilt
 #################################
 :slug: top-10-reasons-for-wearing-a-kilt
 :date: 2005-02-22 20:20
-:category:
+:category: English
 :tags: english
 
 Because through out history, men have worn un-bifurcated garments.

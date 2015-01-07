@@ -2,7 +2,7 @@ Tar Heel Wanna Be
 #################
 :slug: tar-hill-wanna-be
 :date: 2005-02-28 04:38
-:category:
+:category: English
 :tags: english
 
 This Wednesday I embark on what may be the most important trip of my

@@ -2,7 +2,7 @@ An Older But Sexier Fart!
 #########################
 :slug: an-older-but-sexier-fart
 :date: 2005-06-08 09:47
-:category:
+:category: English
 :tags: english
 
 So it is that time of the year again… The day when you take the time to

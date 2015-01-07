@@ -2,7 +2,7 @@ About Tweeters
 ##############
 :slug: about-tweeters
 :date: 2008-06-02 14:34
-:category:
+:category: English
 :tags: english
 
 [10:29:10 AM] Dude: there’s way too many “social” networks to keep track

@@ -2,7 +2,7 @@ Problemas instalando o Foresight Linux?
 #######################################
 :slug: problemas-instalando-o-foresight-linux
 :date: 2007-03-19 12:30
-:category:
+:category: English
 :tags: portuguese
 
 Algumas pessoas mencionaram no meu blog que a instalaÃ§Ã£o do Foresight

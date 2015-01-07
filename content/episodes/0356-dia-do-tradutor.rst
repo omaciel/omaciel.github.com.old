@@ -2,7 +2,7 @@ Dia do Tradutor
 ###############
 :slug: dia-do-tradutor
 :date: 2006-07-18 11:03
-:category:
+:category: English
 :tags: portuguese
 
 Seguindo os mesmos passos dos famosos Hug Day e Bug Day, gostaria de

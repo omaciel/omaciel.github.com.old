@@ -2,7 +2,7 @@ Got milk?
 #########
 :slug: got-milk
 :date: 2008-07-09 20:57
-:category:
+:category: English
 :tags: english
 
 One of my favorite web services ever

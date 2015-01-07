@@ -2,7 +2,7 @@ Disappointed With Dreamhost Private Server Service
 ##################################################
 :slug: disappointed-with-dreamhost-private-server-service
 :date: 2011-01-31 05:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1304” align=”alignleft” width=”300”

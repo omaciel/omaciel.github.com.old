@@ -2,7 +2,7 @@ Acompanhando o desenvolvimento de projetos hospedados no Google Code
 ####################################################################
 :slug: acompanhando-o-desenvolvimento-de-projetos-hospedados-no
 :date: 2008-07-16 10:31
-:category:
+:category: English
 :tags: portuguese
 
 Se você tem um projeto hospedado no `Google

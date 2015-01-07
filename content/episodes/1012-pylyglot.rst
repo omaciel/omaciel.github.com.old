@@ -2,7 +2,7 @@ Pylyglot
 ########
 :slug: pylyglot
 :date: 2010-09-26 21:33
-:category:
+:category: English
 :tags: english
 
 Been working on a pet project to help out with theÂ \ **GNOME**

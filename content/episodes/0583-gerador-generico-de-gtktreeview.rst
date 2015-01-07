@@ -2,7 +2,7 @@ Gerador GenÃ©rico de Gtk.TreeView
 ###################################
 :slug: gerador-generico-de-gtktreeview
 :date: 2007-06-16 13:55
-:category:
+:category: English
 :tags: portuguese
 
 Muitas pessoas jÃ¡ me pediram para publicar meu cÃ³digo que tenta

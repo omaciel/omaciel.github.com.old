@@ -2,7 +2,7 @@ Planet Ubuntu Brasil Manifesto
 ##############################
 :slug: planet-ubuntu-brasil-manifesto
 :date: 2005-10-24 18:14
-:category:
+:category: English
 :tags: english
 
 **Regras de utilizaÃƒÂ§ÃƒÂ£o**

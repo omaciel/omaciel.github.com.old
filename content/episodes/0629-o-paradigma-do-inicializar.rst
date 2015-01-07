@@ -2,7 +2,7 @@ O paradigma do "inicializar"
 ############################
 :slug: o-paradigma-do-inicializar
 :date: 2007-08-30 15:39
-:category:
+:category: English
 :tags: portuguese
 
 O tÃ­tulo deste post foi produto de um e-mail que recebi hoje do **Bruno

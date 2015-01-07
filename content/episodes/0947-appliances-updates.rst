@@ -2,7 +2,7 @@ Appliances Updates
 ##################
 :slug: appliances-updates
 :date: 2010-03-25 00:39
-:category:
+:category: English
 :tags: english
 
 Work has kept me really busy these days but I still managed to update

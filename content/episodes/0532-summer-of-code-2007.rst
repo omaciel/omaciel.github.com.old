@@ -2,7 +2,7 @@ Summer of Code 2007
 ###################
 :slug: summer-of-code-2007
 :date: 2007-04-17 01:54
-:category:
+:category: English
 :tags: portuguese
 
 ParabÃ©ns ao

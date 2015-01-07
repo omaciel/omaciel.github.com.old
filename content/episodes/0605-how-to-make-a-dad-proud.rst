@@ -2,7 +2,7 @@ How to make a dad proud?
 ########################
 :slug: how-to-make-a-dad-proud
 :date: 2007-07-20 02:02
-:category:
+:category: English
 :tags: english
 
 |Start them young|

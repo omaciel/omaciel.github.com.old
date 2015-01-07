@@ -2,7 +2,7 @@ Planeta Openbox
 ###############
 :slug: planeta-openbox
 :date: 2007-06-06 21:40
-:category:
+:category: English
 :tags: portuguese
 
 Acho que incomodei tanto o pessoal do

@@ -2,7 +2,7 @@ Before the storm...
 ###################
 :slug: before-the-storm
 :date: 2006-05-05 14:44
-:category:
+:category: English
 :tags: english
 
 Before I go into a major rant attack against Macromedia (or whatever

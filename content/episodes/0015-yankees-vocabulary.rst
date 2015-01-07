@@ -2,7 +2,7 @@ Yankees Vocabulary
 ##################
 :slug: yankees-vocabulary
 :date: 2005-03-08 18:15
-:category:
+:category: English
 :tags: english
 
 |Yankees Vocabulary|

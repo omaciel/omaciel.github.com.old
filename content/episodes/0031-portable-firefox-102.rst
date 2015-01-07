@@ -2,7 +2,7 @@ Portable FireFox 1.0.2
 ######################
 :slug: portable-firefox-102
 :date: 2005-03-24 13:47
-:category:
+:category: English
 :tags: english
 
 For all you crazy USB-Portable-Device-Lovers out there: `Portable

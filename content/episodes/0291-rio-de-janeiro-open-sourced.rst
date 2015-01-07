@@ -2,7 +2,7 @@ Rio de Janeiro Open Sourced
 ###########################
 :slug: rio-de-janeiro-open-sourced
 :date: 2006-05-12 18:26
-:category:
+:category: English
 :tags: english
 
 A new legislation

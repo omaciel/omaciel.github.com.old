@@ -2,7 +2,7 @@ All of your Shuttle KPC are belong to us
 ########################################
 :slug: all-of-your-shuttle-xpc-are-belong-to-us
 :date: 2008-03-05 15:49
-:category:
+:category: English
 :tags: english
 
 Following the trend of computer companies shipping GNU/Linux

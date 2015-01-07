@@ -2,7 +2,7 @@ De grÃƒÂ£o em grÃƒÂ£o...
 ################################
 :slug: de-grao-em-grao
 :date: 2006-05-03 01:25
-:category:
+:category: English
 :tags: portuguese
 
 … o Ubuntu fica cheio de brasileiros! ParabÃƒÂ©ns ao `Alexandre Otto

@@ -2,7 +2,7 @@ The road to GNOME 2.20
 ######################
 :slug: the-road-to-gnome-220
 :date: 2007-09-05 00:09
-:category:
+:category: English
 :tags: english
 
 When I started my `GNOME <http://www.gnome.org>`__ trip, we were on mile

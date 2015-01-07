@@ -2,7 +2,7 @@ BillReminder na TV?
 ###################
 :slug: billreminder-na-tv
 :date: 2007-03-19 15:59
-:category:
+:category: English
 :tags: portuguese
 
 AlguÃ©m me mostrou que jÃ¡ existe um

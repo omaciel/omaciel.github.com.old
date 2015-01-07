@@ -2,7 +2,7 @@ Usando Linux como eletrodomesticos
 ##################################
 :slug: usando-linux-como-eletrodomesticos
 :date: 2006-12-11 17:08
-:category:
+:category: English
 :tags: portuguese
 
 Hoje um dos meus amigos no trabalho

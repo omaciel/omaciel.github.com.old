@@ -2,7 +2,7 @@ SuperToadman
 ############
 :slug: supertoadman
 :date: 2005-07-10 12:53
-:category:
+:category: English
 :tags: english
 
 My most sincerey wishes of a **Happy Birthday** to my great friend

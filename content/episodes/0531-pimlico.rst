@@ -2,7 +2,7 @@ Pimlico
 #######
 :slug: pimlico
 :date: 2007-04-14 18:17
-:category:
+:category: English
 :tags: english
 
 |Dates| |Tasks| |Contacts| |Sync|

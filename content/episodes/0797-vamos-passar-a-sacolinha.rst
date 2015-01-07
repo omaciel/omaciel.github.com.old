@@ -2,7 +2,7 @@ Vamos passar a sacolinha!
 #########################
 :slug: vamos-passar-a-sacolinha
 :date: 2008-06-24 23:20
-:category:
+:category: English
 :tags: portuguese
 
 **Ajude a sustentar a Wikipédia e outros projetos, sem colocar a mão

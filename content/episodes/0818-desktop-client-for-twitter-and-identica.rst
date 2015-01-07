@@ -2,7 +2,7 @@ Desktop client for Twitter and Identi.ca
 ########################################
 :slug: desktop-client-for-twitter-and-identica
 :date: 2008-07-28 13:15
-:category:
+:category: English
 :tags: english
 
     `Gwibber <https://launchpad.net/gwibber>`__ is an open source

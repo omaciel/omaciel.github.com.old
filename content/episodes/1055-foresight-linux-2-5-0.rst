@@ -2,7 +2,7 @@ Foresight Linux 2.5.0!
 ######################
 :slug: foresight-linux-2-5-0
 :date: 2011-03-28 00:58
-:category:
+:category: English
 :tags: english
 
 At last, after a long hiatus, I can shout out for the whole world to

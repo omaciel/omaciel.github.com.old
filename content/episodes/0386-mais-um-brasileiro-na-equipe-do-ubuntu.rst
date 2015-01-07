@@ -2,7 +2,7 @@ Mais um brasileiro na equipe do Ubuntu
 ######################################
 :slug: mais-um-brasileiro-na-equipe-do-ubuntu
 :date: 2006-08-22 19:39
-:category:
+:category: English
 :tags: portuguese
 
 Hoje ÃƒÂ s 14:00 BST, junto com alguns membros da equipe de

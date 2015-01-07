@@ -2,7 +2,7 @@ Remembering Hiroshima
 #####################
 :slug: remembering-hiroshima
 :date: 2005-08-08 14:54
-:category:
+:category: English
 :tags: english
 
 |Hiroshima completely flattened|

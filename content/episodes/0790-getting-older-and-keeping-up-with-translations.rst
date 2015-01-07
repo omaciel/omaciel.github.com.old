@@ -2,7 +2,7 @@ Getting older and keeping up with translations
 ##############################################
 :slug: getting-older-and-keeping-up-with-translations
 :date: 2008-06-08 19:31
-:category:
+:category: English
 :tags: english
 
 So today is my birthday and I’m now 34. It is also my mother’s birthday,

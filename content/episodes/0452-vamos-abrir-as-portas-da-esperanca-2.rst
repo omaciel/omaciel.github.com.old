@@ -2,7 +2,7 @@ Vamos abrir as portas da esperanca!
 ###################################
 :slug: vamos-abrir-as-portas-da-esperanca-2
 :date: 2006-12-15 19:41
-:category:
+:category: English
 :tags: portuguese
 
 Foi anunciado hoje o desbloqueio de envio de arquivos \*.po para o

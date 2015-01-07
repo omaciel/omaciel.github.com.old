@@ -2,7 +2,7 @@ BillReminder vai para Hollywood
 ###############################
 :slug: billreminder-vai-para-hollywood
 :date: 2008-01-08 15:17
-:category:
+:category: English
 :tags: portuguese
 
 Brincadeira… mas eu criei este pequeno webcast para mostrar para o

@@ -2,7 +2,7 @@ Brasil x Argentina na internet
 ##############################
 :slug: brasil-x-argentina-na-internet
 :date: 2008-06-18 22:49
-:category:
+:category: English
 :tags: portuguese
 
 Infelizmente o jogo de hoje entre Brasil e Argentina não foi

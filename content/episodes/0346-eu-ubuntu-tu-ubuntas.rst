@@ -2,7 +2,7 @@ Eu Ubuntu... Tu Ubuntas?
 ########################
 :slug: eu-ubuntu-tu-ubuntas
 :date: 2006-06-29 15:22
-:category:
+:category: English
 :tags: portuguese
 
 Nos ÃƒÂºltimos dias, um espÃƒÂ­rito circula pela web. Ele atravessa

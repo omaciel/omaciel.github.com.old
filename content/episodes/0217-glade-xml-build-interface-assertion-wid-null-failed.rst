@@ -2,7 +2,7 @@ Glade XML Build_interface: assertion failed
 ###########################################
 :slug: glade-xml-build-interface-assertion-wid-null-failed
 :date: 2006-01-04 04:05
-:category:
+:category: English
 :tags: english
 
 Spent a good 2 nights trying to figure out what the following error

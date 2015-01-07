@@ -2,7 +2,7 @@ GUADEC Paper Accepted
 #####################
 :slug: guadec-paper-accepted
 :date: 2007-06-26 20:11
-:category:
+:category: English
 :tags: english
 
 Last week I was pleasantly surprised to see the following message in my

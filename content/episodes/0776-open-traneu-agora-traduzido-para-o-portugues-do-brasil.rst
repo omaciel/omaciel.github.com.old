@@ -2,7 +2,7 @@ Open-Tran.eu agora traduzido para o Português do Brasil
 ########################################################
 :slug: open-traneu-agora-traduzido-para-o-portugues-do-brasil
 :date: 2008-05-18 13:54
-:category:
+:category: English
 :tags: portuguese
 
 Toda a turma que trabalha com traduções de software livre deve conhecer

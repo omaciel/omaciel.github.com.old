@@ -2,7 +2,7 @@ Novela Mexicana
 ###############
 :slug: novela-mexicana
 :date: 2007-03-21 18:58
-:category:
+:category: English
 :tags: portuguese
 
 Aparentemente meu Ãºltimo artigo feriu os sentimentos de algumas

@@ -2,7 +2,7 @@ Socorram-me, subi no ÃƒÂ´nibus em Marrocos!
 ###############################################
 :slug: socorram-me-subi-no-onibus-em-marrocos
 :date: 2006-09-12 10:50
-:category:
+:category: English
 :tags: portuguese
 
 Estou aqui no aeroporto JFK em New York, esperando por meu vÃƒÂ´o para

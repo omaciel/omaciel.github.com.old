@@ -2,7 +2,7 @@ Ditching MySQL for PostgreSQL
 #############################
 :slug: ditching-mysql-for-postgresql
 :date: 2009-12-12 05:27
-:category:
+:category: English
 :tags: english
 
 In order to better follow what the

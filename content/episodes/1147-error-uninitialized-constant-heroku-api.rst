@@ -2,7 +2,7 @@ Error: uninitialized constant Heroku::API (NameError)
 #####################################################
 :slug: error-uninitialized-constant-heroku-api
 :date: 2012-08-23 19:29
-:category:
+:category: English
 :tags: Fedora 17, Heroku, english
 
 Got stuck with this error on **Fedora 17** while trying to get a project

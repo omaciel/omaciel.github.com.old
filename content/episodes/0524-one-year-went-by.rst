@@ -2,7 +2,7 @@ One year went by...
 ###################
 :slug: one-year-went-by
 :date: 2007-04-10 18:58
-:category:
+:category: English
 :tags: english
 
 … and today, chatting online with `André

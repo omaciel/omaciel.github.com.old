@@ -2,7 +2,7 @@ Stormy weekend in Chapel Hill
 #############################
 :slug: stormy-weekend-in-chapel-hill
 :date: 2008-07-07 01:09
-:category:
+:category: English
 :tags: english
 
 This 3-day weekend (it was the Independence Day here in the US this

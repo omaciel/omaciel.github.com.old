@@ -2,7 +2,7 @@ Castálio Podcast: Bruno Gonçalves - BigLinux
 ##############################################
 :slug: castalio-podcast-bruno-goncalves-biglinux
 :date: 2012-09-04 09:18
-:category:
+:category: Portuguese
 :tags: ubuntu, mandriva, castálio, podcast, portuguese
 
 |image0|

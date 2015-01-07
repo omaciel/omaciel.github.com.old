@@ -2,7 +2,7 @@ Firefox 2 Release Schedule
 ##########################
 :slug: firefox-2-release-schedule
 :date: 2005-12-30 16:55
-:category:
+:category: English
 :tags: english
 
 -  2006/02/10 : Alpha 1

@@ -2,7 +2,7 @@ Openbox 3.4 Released!
 #####################
 :slug: openbox-34-released
 :date: 2007-06-05 21:11
-:category:
+:category: English
 :tags: english
 
 It is finally here!!! **Openbox 3.4** was just released, together with a

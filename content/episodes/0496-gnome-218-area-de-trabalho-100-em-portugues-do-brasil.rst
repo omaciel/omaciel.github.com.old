@@ -2,7 +2,7 @@ GNOME 2.18:  Area de Trabalho 100% em Portugues do Brasil!
 ##########################################################
 :slug: gnome-218-area-de-trabalho-100-em-portugues-do-brasil
 :date: 2007-03-12 12:06
-:category:
+:category: English
 :tags: portuguese
 
 Conseguimos! Agora o GNOME ja’ possui todos os seus programas padrao da

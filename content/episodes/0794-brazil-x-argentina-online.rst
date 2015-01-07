@@ -2,7 +2,7 @@ Brazil x Argentina online
 #########################
 :slug: brazil-x-argentina-online
 :date: 2008-06-19 01:55
-:category:
+:category: English
 :tags: english
 
 Unfortunately the match between Brazil and Argentina was not broadcasted

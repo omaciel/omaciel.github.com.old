@@ -2,7 +2,7 @@ Buteco do Mendeleyev
 ####################
 :slug: buteco-do-mendeleyev
 :date: 2006-05-19 01:26
-:category:
+:category: English
 :tags: portuguese
 
 Escutado no Buteco do

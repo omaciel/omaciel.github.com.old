@@ -2,7 +2,7 @@ Castálio Podcast: Alexandre Gaigalas: Yahoo
 ############################################
 :slug: castalio-podcast-alexandre-gaigalas-yahoo
 :date: 2013-03-03 21:49
-:category:
+:category: Portuguese
 :tags: podcast, castálio, ubuntu, mandriva, portuguese
 
 |image|

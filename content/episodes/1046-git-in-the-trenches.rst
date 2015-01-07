@@ -2,7 +2,7 @@ Git In The Trenches
 ###################
 :slug: git-in-the-trenches
 :date: 2011-03-04 05:44
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1353” align=”alignleft” width=”500”

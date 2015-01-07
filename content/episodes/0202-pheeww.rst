@@ -2,7 +2,7 @@ Pheeww
 ######
 :slug: pheeww
 :date: 2005-10-31 16:16
-:category:
+:category: English
 :tags: english
 
 Thanks to `Clint <http://xana.scru.org/bamamba/goodparenting.html>`__, I

@@ -2,7 +2,7 @@ Transifex Upcoming Feature: Translation Review
 ##############################################
 :slug: transifex-upcoming-feature-translation-review
 :date: 2010-01-21 01:44
-:category:
+:category: English
 :tags: english
 
 Just wanted to tease you guys out there about a new feature that the

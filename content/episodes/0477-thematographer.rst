@@ -2,7 +2,7 @@ Thematographer
 ##############
 :slug: thematographer
 :date: 2007-02-23 19:52
-:category:
+:category: English
 :tags: english
 
 I took advantage of an unexpected break I had over the weekend to create

@@ -2,7 +2,7 @@ Para a crianÃ§a em vocÃª
 ############################
 :slug: para-a-crianca-em-voce
 :date: 2007-11-04 17:07
-:category:
+:category: English
 :tags: portuguese
 
 … ou para a crianÃ§ada de verdade, trÃªs jogos super divertidos (e

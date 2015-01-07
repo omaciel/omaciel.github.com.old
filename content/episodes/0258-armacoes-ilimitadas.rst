@@ -2,7 +2,7 @@ ArmaÃƒÂ§ÃƒÂµes Ilimitadas
 #################################
 :slug: armacoes-ilimitadas
 :date: 2006-04-03 01:56
-:category:
+:category: English
 :tags: portuguese
 
 AmanhÃƒÂ£ estarei mais uma vez na estrada, desta vez rumo ÃƒÂ  Linux

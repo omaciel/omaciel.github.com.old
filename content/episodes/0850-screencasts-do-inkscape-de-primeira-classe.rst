@@ -2,7 +2,7 @@ Screencasts do Inkscape de primeira classe
 ##########################################
 :slug: screencasts-do-inkscape-de-primeira-classe
 :date: 2008-09-25 19:38
-:category:
+:category: English
 :tags: portuguese
 
 Tive de tirar um tempinho para comentar sobre este site super maneiro

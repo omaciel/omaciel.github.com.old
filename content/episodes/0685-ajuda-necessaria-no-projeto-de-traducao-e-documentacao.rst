@@ -2,7 +2,7 @@ Ajuda necessÃ¡ria no projeto de traduÃ§Ã£o e documentaÃ§Ã£o
 #####################################################################
 :slug: ajuda-necessaria-no-projeto-de-traducao-e-documentacao
 :date: 2007-12-13 14:13
-:category:
+:category: English
 :tags: portuguese
 
 Aos usuÃ¡rios do Arch Linux Brasileiros:

@@ -2,7 +2,7 @@ Castálio Podcast - Enrico Nicoletto e Rafael Ferreira: Projeto GNOME
 #####################################################################
 :slug: castalio-podcast-enrico-nicoletto-e-rafael
 :date: 2013-09-03 01:25
-:category:
+:category: Portuguese
 :tags: castalio, podcast, ubuntu, portuguese, mandriva
 
 |image|

@@ -2,7 +2,7 @@ Meebo Bloqueado?
 ################
 :slug: meebo-bloqueado
 :date: 2006-05-02 16:46
-:category:
+:category: English
 :tags: portuguese
 
 Por incrÃƒÂ­vel que pareÃƒÂ§a, o termo mais usado na internet que

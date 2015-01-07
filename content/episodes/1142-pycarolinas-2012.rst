@@ -2,7 +2,7 @@ PyCarolinas 2012
 ################
 :slug: pycarolinas-2012
 :date: 2012-08-14 16:05
-:category:
+:category: English
 :tags: english, python, carolina
 
 I’ve seen the (yet unpublished draft) schedule and it looks great!

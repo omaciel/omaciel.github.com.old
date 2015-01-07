@@ -2,7 +2,7 @@ Foresight and Conary Updates
 ############################
 :slug: foresight-and-conary-updates
 :date: 2007-12-13 04:14
-:category:
+:category: English
 :tags: english
 
 -  First off, for those participating of the `Google Highly Open

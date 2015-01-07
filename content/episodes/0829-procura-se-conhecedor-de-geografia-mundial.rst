@@ -2,7 +2,7 @@ Procura-se: conhecedor de geografia mundial
 ###########################################
 :slug: procura-se-conhecedor-de-geografia-mundial
 :date: 2008-08-13 10:41
-:category:
+:category: English
 :tags: portuguese
 
 Você gostaria de ajudar o projeto Brasileiro de traduções do GNOME?

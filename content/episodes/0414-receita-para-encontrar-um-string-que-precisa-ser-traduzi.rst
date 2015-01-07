@@ -2,7 +2,7 @@ Receita para encontrar um string que precisa ser traduzido
 ##########################################################
 :slug: receita-para-encontrar-um-string-que-precisa-ser-traduzi
 :date: 2006-10-11 14:54
-:category:
+:category: English
 :tags: portuguese
 
 Alguem compartilhou um script que ajuda na hora de procurar o pacote que

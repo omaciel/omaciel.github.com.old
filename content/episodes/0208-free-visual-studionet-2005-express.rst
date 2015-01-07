@@ -2,7 +2,7 @@ Free Visual Studio.NET 2005 Express
 ###################################
 :slug: free-visual-studionet-2005-express
 :date: 2005-11-09 19:46
-:category:
+:category: English
 :tags: english
 
 That’s right! Microsoft has announced that the newly released Visual

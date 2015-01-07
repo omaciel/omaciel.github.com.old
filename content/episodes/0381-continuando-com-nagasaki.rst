@@ -2,7 +2,7 @@ Continuando com Nagasaki
 ########################
 :slug: continuando-com-nagasaki
 :date: 2006-08-10 16:04
-:category:
+:category: English
 :tags: portuguese
 
 PeÃƒÂ§o perdÃƒÂ£o aos leitores que estÃƒÂ£o acostumados a lerem meus

@@ -2,7 +2,7 @@ Aprendendo Django no Planeta Terra
 ##################################
 :slug: aprendendo-django-no-planeta-terra
 :date: 2009-01-05 01:58
-:category:
+:category: English
 :tags: portuguese
 
 A dica veio do meu amigo `Elyezer <http://elyezer.com/>`__ quando me

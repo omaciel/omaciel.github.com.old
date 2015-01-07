@@ -2,7 +2,7 @@ Whose Blog Is It Anyway?
 ########################
 :slug: whose-blog-is-it-anyway
 :date: 2006-07-18 20:19
-:category:
+:category: English
 :tags: english
 
 It seems that for some reason beyond my understanding, one of my latest

@@ -2,7 +2,7 @@ Procura-se
 ##########
 :slug: procura-se
 :date: 2007-04-04 00:24
-:category:
+:category: English
 :tags: portuguese
 
 Procura-se um **web designer** para re-desenhar o agregador de blogs

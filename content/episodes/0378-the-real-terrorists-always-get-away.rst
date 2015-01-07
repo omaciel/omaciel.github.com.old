@@ -2,7 +2,7 @@ The real terrorists always get away
 ###################################
 :slug: the-real-terrorists-always-get-away
 :date: 2006-08-09 14:29
-:category:
+:category: English
 :tags: english
 
 Today, 60 years ago:

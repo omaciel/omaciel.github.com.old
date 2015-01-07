@@ -2,7 +2,7 @@ Learning through a straw
 ########################
 :slug: learning-through-a-straw
 :date: 2006-08-08 13:56
-:category:
+:category: English
 :tags: english
 
 Yesterday while waiting for my wife at the doctor’s office, I managed to

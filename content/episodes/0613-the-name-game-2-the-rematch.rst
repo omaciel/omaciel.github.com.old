@@ -2,7 +2,7 @@ The Name Game 2: The Rematch
 ############################
 :slug: the-name-game-2-the-rematch
 :date: 2007-08-08 14:18
-:category:
+:category: English
 :tags: english
 
 My last post brought in a few interesting replies, the great majority of

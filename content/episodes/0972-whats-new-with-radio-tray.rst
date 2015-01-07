@@ -2,7 +2,7 @@ What's new with Radio Tray?
 ###########################
 :slug: whats-new-with-radio-tray
 :date: 2010-05-03 15:00
-:category:
+:category: English
 :tags: english
 
 ` <http://radiotray.sourceforge.net/>`__

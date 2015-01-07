@@ -2,7 +2,7 @@ Stephan Hermann's influence
 ###########################
 :slug: stephan-hermanns-influence
 :date: 2005-10-06 13:30
-:category:
+:category: English
 :tags: english
 
 … or, how I finally got off my butt and became more involved with the

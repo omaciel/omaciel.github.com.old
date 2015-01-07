@@ -2,7 +2,7 @@ Primeiro dia
 ############
 :slug: primeiro-dia
 :date: 2006-04-05 01:28
-:category:
+:category: English
 :tags: portuguese
 
 Ufaaa!Ã‚Â  Que dia louco!Ã‚Â  Todos os CDs foram distribuÃƒÂ­dos hoje,

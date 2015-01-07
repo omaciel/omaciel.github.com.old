@@ -2,7 +2,7 @@ Castálio Podcast: Julian Fernandes: Ubuntu BR SC
 #################################################
 :slug: castalio-podcast-julian-fernandes-ubuntu-br-sc
 :date: 2012-12-03 14:33
-:category:
+:category: Portuguese
 :tags: castálio, podcast, portuguese, ubuntu, mandriva
 
 |image0|

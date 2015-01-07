@@ -2,7 +2,7 @@
 #####################
 :slug: 365-days-of-captivity
 :date: 2005-09-08 13:30
-:category:
+:category: English
 :tags: english
 
 Yesterday I completed my first year of work at this NYC departmental

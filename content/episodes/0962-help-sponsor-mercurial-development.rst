@@ -2,7 +2,7 @@ Help sponsor Mercurial development!
 ###################################
 :slug: help-sponsor-mercurial-development
 :date: 2010-04-21 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignright” width=”240” caption=”Mercurial is the

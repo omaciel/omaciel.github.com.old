@@ -2,7 +2,7 @@ I screwed up!
 #############
 :slug: hello-world-2
 :date: 2005-02-16 00:01
-:category:
+:category: English
 :tags: english
 
 I officially screwed up my site!!! I completely fucked it up!!! It turns

@@ -2,7 +2,7 @@
 #############################
 :slug: 15-things-you-can-do-with-rss
 :date: 2005-05-08 20:42
-:category:
+:category: English
 :tags: english
 
 I didn’t know you could do all of these with rss!!! Wow!!! Read the

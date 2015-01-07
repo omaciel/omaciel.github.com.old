@@ -2,7 +2,7 @@ Escute o Foocast usando Rhythmbox/Listen/Banshee/Radinho de pilha!
 ##################################################################
 :slug: escute-o-foocast-usando-rhythmboxlistenbansheeradinho-de
 :date: 2007-04-22 20:45
-:category:
+:category: English
 :tags: portuguese
 
 Para as pessoas que preferem acompanhar podcasts via um mecanismo de

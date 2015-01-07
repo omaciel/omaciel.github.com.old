@@ -2,7 +2,7 @@ Beware of Crabs When Fishing
 ############################
 :slug: beware-of-crabs-when-fishing
 :date: 2005-04-29 19:57
-:category:
+:category: English
 :tags: english
 
 Last night I decided to work on my plan of racking up World of Warcraft

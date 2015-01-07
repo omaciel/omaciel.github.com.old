@@ -2,7 +2,7 @@ FossCamp 2007
 #############
 :slug: fosscamp-2007
 :date: 2007-11-05 16:12
-:category:
+:category: English
 :tags: portuguese
 
 Para aqueles que notaram o meu sumiÃ§o na semana passada, o motivo foi

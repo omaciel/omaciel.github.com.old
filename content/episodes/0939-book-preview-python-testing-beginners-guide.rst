@@ -2,7 +2,7 @@ Book Preview: Python Testing: Beginner's Guide
 ###############################################
 :slug: book-preview-python-testing-beginners-guide
 :date: 2010-03-05 14:53
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_813” align=”alignleft” width=”243”

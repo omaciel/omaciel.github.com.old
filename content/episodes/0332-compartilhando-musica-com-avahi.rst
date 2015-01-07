@@ -2,7 +2,7 @@ Compartilhando mÃƒÂºsica com Avahi
 ######################################
 :slug: compartilhando-musica-com-avahi
 :date: 2006-06-12 15:03
-:category:
+:category: English
 :tags: portuguese
 
 O que posso dizer, fou um fim de semana muito movimentadoÃ¢â‚¬Â¦Ã‚Â 

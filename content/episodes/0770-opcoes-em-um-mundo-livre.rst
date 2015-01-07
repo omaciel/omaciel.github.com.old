@@ -2,7 +2,7 @@ Opções em um mundo livre
 ##########################
 :slug: opcoes-em-um-mundo-livre
 :date: 2008-05-08 14:04
-:category:
+:category: English
 :tags: portuguese
 
 **Observação importante**: Este artigo não será publicado no **Planeta

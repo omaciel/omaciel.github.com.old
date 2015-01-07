@@ -2,7 +2,7 @@ Desktop screenshot for July
 ###########################
 :slug: desktop-screenshot-for-july
 :date: 2008-07-19 23:42
-:category:
+:category: English
 :tags: english
 
 |Screenshot from 07/18/2008|

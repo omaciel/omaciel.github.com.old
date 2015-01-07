@@ -2,7 +2,7 @@ E para vocÃª que vai viajar...
 ################################
 :slug: e-para-voce-que-vai-viajar
 :date: 2007-06-08 08:48
-:category:
+:category: English
 :tags: portuguese
 
 … aproveite para manter-se ocupado e leia as novas versÃµes das revistas

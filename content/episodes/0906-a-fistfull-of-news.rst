@@ -2,7 +2,7 @@ A Fistfull of News
 ##################
 :slug: a-fistfull-of-news
 :date: 2009-05-28 17:11
-:category:
+:category: English
 :tags: english
 
 Been quite busy at work these days, as well as playing the host to my

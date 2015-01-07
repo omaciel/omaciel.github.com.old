@@ -2,7 +2,7 @@ Dude, Where's my TabletPC?
 ##########################
 :slug: dude-wheres-my-tabletpc
 :date: 2006-08-16 19:55
-:category:
+:category: English
 :tags: english
 
 It has been a while since I last wrote about my TabletPC.Ã‚Â  About 2-3

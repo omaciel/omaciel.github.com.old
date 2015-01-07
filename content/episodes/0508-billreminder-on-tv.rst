@@ -2,7 +2,7 @@ BillReminder on TV?
 ###################
 :slug: billreminder-on-tv
 :date: 2007-03-19 16:02
-:category:
+:category: English
 :tags: english
 
 Karl Lattimer pointed out that there is now a

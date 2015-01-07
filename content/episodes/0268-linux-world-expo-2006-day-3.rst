@@ -2,7 +2,7 @@ Linux World Expo 2006 - Day 3
 #############################
 :slug: linux-world-expo-2006-day-3
 :date: 2006-04-10 14:27
-:category:
+:category: English
 :tags: english
 
 |image0|

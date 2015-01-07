@@ -2,7 +2,7 @@ Planeta de cara nova
 ####################
 :slug: planeta-de-cara-nova
 :date: 2009-06-19 02:09
-:category:
+:category: English
 :tags: portuguese
 
 Graças ao meu amigo `Evandro

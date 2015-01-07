@@ -2,7 +2,7 @@ Ticket to Ride
 ##############
 :slug: ticket-to-ride
 :date: 2005-10-03 14:41
-:category:
+:category: English
 :tags: english
 
 For the third time in my life I got a traffic ticket this past Friday.

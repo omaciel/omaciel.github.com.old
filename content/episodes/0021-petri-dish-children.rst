@@ -2,7 +2,7 @@ Petri Dish Children
 ###################
 :slug: petri-dish-children
 :date: 2005-03-11 16:29
-:category:
+:category: English
 :tags: english
 
 My daughter is very ill. Actually, she’s been ill for a few days now

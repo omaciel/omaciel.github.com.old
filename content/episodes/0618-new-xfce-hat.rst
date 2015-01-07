@@ -2,7 +2,7 @@ New XFCE Hat
 ############
 :slug: new-xfce-hat
 :date: 2007-08-22 14:42
-:category:
+:category: English
 :tags: english
 
 I’m very excited to announce that I have taken the role of committer for

@@ -2,7 +2,7 @@ Foresight Notification Theme
 ############################
 :slug: foresight-notification-theme
 :date: 2007-08-21 20:17
-:category:
+:category: English
 :tags: english
 
 |image0|

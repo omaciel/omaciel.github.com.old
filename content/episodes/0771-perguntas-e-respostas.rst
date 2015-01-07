@@ -2,7 +2,7 @@ Perguntas e Respostas
 #####################
 :slug: perguntas-e-respostas
 :date: 2008-05-09 08:04
-:category:
+:category: English
 :tags: portuguese
 
 Os meus artigos com os dois vídeo aula

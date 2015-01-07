@@ -2,7 +2,7 @@ AnÃºncio sobre meu blog em portuguÃªs
 #########################################
 :slug: anuncio-sobre-meu-blog-em-portugues
 :date: 2007-03-21 15:58
-:category:
+:category: English
 :tags: portuguese
 
 Buenas,

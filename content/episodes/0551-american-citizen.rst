@@ -2,7 +2,7 @@ American Citizen
 ################
 :slug: american-citizen
 :date: 2007-05-23 22:54
-:category:
+:category: English
 :tags: english
 
 I’m very proud to announce that today I have become a citizen of the

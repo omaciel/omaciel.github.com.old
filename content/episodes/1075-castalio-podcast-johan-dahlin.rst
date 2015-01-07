@@ -2,7 +2,7 @@ Castálio Podcast: Johan Dahlin
 ###############################
 :slug: castalio-podcast-johan-dahlin
 :date: 2011-06-12 20:33
-:category:
+:category: Portuguese
 :tags: portuguese
 
 Neste novo episódio conversei com o \ `Johan

@@ -2,7 +2,7 @@ About gtk.SpinButton, my time widget and quick patches
 ######################################################
 :slug: about-gtkspinbutton-my-time-widget-and-quick-patches
 :date: 2008-01-06 04:59
-:category:
+:category: English
 :tags: english
 
 Today I fixed issue **1864094** “\ `Time widget for individual alarms

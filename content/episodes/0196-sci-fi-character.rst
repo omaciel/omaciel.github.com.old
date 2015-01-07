@@ -2,7 +2,7 @@ Sci-Fi Character
 ################
 :slug: sci-fi-character
 :date: 2005-10-20 12:51
-:category:
+:category: English
 :tags: english
 
     Struggling for self-assurance over hidden angst, you are highly

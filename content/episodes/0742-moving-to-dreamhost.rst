@@ -2,7 +2,7 @@ Moving to Dreamhost
 ###################
 :slug: moving-to-dreamhost
 :date: 2008-03-31 14:52
-:category:
+:category: English
 :tags: english
 
 For more than 4 years I had been a happy customer of phpwebhosting.com.

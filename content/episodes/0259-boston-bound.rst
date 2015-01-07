@@ -2,7 +2,7 @@ Boston Bound
 ############
 :slug: boston-bound
 :date: 2006-04-03 02:02
-:category:
+:category: English
 :tags: english
 
 Tomorrow I’ll be travelling once again to Boston, this time to represent

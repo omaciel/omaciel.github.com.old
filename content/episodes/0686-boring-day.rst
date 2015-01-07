@@ -2,7 +2,7 @@ Boring day
 ##########
 :slug: boring-day
 :date: 2007-12-14 17:34
-:category:
+:category: English
 :tags: english
 
 It’s been a rather boring day for me… The funny thing is that it started

@@ -2,7 +2,7 @@ Home Office Taken With Instagram
 ################################
 :slug: home-office-taken-with-instagram
 :date: 2012-04-03 17:42
-:category:
+:category: English
 :tags: 
 
 |image0|

@@ -2,7 +2,7 @@ Selenium and Sauce presentation
 ###############################
 :slug: selenium-and-sauce-presentation
 :date: 2010-03-26 02:54
-:category:
+:category: English
 :tags: english
 
 |Crayon Test by PauS|

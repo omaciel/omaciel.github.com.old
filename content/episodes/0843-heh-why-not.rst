@@ -2,7 +2,7 @@ heh... why not?
 ###############
 :slug: heh-why-not
 :date: 2008-09-19 21:19
-:category:
+:category: English
 :tags: english
 
 |meme|

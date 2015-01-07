@@ -2,7 +2,7 @@ What's the Big Idea?
 ####################
 :slug: whats-the-big-idea-2
 :date: 2008-04-03 15:06
-:category:
+:category: English
 :tags: english
 
 Starting this Thursday, April 3, 2008 I’ll be attending this year’s

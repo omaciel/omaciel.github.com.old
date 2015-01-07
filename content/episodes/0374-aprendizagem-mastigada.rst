@@ -2,7 +2,7 @@ Aprendizagem Mastigada
 ######################
 :slug: aprendizagem-mastigada
 :date: 2006-08-08 14:36
-:category:
+:category: English
 :tags: portuguese
 
 Ontem, esperando por minha esposa duramte sua consulta mÃƒÂ©dica, me

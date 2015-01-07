@@ -2,7 +2,7 @@ For Posterity
 #############
 :slug: for-posterity
 :date: 2005-11-09 21:45
-:category:
+:category: English
 :tags: english
 
 **Disclaimer**: I am definitely not a show off and am only posting this

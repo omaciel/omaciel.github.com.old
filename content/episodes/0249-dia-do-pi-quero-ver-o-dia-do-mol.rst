@@ -2,7 +2,7 @@ Dia do Pi?  Quero ver o dia do Mol!
 ###################################
 :slug: dia-do-pi-quero-ver-o-dia-do-mol
 :date: 2006-03-15 02:49
-:category:
+:category: English
 :tags: portuguese
 
 Hoje foi “celebrado” o dia do

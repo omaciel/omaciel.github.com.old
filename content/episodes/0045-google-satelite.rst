@@ -2,7 +2,7 @@ Google Satellite
 ################
 :slug: google-satelite
 :date: 2005-04-05 12:57
-:category:
+:category: English
 :tags: english
 
 Amazing upgrade to the already amazing `Google

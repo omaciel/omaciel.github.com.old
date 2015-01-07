@@ -2,7 +2,7 @@ Pandora swag
 ############
 :slug: pandora-swag
 :date: 2008-08-12 03:14
-:category:
+:category: English
 :tags: english
 
 Today I received a mysterious package in the mail. Turns out it was some

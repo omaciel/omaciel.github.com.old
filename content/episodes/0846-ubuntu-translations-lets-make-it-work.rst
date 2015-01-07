@@ -2,7 +2,7 @@ Ubuntu translations: let's make it work!
 ########################################
 :slug: ubuntu-translations-lets-make-it-work
 :date: 2008-09-23 00:01
-:category:
+:category: English
 :tags: english
 
 Just created the following **Ubuntu Brainstorm** idea called

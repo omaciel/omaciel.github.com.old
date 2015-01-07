@@ -2,7 +2,7 @@ The Maze Runner
 ###############
 :slug: the-maze-runner
 :date: 2010-05-24 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1080” align=”alignleft” width=”152”

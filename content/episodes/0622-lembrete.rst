@@ -2,7 +2,7 @@ Lembrete
 ########
 :slug: lembrete
 :date: 2007-08-24 15:16
-:category:
+:category: English
 :tags: portuguese
 
 A equipe de traduÃ§Ã£o Brasileira do XFCE terÃ¡ sua primeira reuniÃ£o

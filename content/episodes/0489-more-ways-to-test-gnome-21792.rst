@@ -2,7 +2,7 @@ More ways to test GNOME 2.17.92
 ###############################
 :slug: more-ways-to-test-gnome-21792
 :date: 2007-03-07 15:41
-:category:
+:category: English
 :tags: english
 
 `Now <http://ken.vandine.org/?p=218>`__ you can test **GNOME 2.17.92**

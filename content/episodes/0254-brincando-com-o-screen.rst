@@ -2,7 +2,7 @@ Brincando com o screen
 ######################
 :slug: brincando-com-o-screen
 :date: 2006-03-27 21:35
-:category:
+:category: English
 :tags: portuguese
 
 Depois de tomar uma surra configurando o meu postfix para funcionar na

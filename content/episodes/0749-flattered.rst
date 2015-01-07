@@ -2,7 +2,7 @@ Flattered
 #########
 :slug: flattered
 :date: 2008-04-11 17:29
-:category:
+:category: English
 :tags: english
 
 This last Thursday I was surprised by **Johan Dahlin** when he showed me

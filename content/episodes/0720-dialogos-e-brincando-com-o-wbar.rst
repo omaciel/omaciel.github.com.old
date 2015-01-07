@@ -2,7 +2,7 @@ DiÃ¡logos e brincando com o wbar
 ##################################
 :slug: dialogos-e-brincando-com-o-wbar
 :date: 2008-02-11 02:28
-:category:
+:category: English
 :tags: portuguese
 
 Nas Ãºltimas 2 semanas eu sÃ³ consegui trabalhar por 3 horas no

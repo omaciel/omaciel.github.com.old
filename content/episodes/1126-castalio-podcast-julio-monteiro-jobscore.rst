@@ -2,7 +2,7 @@ Castálio Podcast: Júlio Monteiro - JobScore
 #############################################
 :slug: castalio-podcast-julio-monteiro-jobscore
 :date: 2012-04-15 20:29
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast, ubuntu
 
 |image0|\ Depois de ter falado um pouco com pessoas que usam **Python**

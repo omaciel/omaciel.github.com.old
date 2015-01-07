@@ -2,7 +2,7 @@ Podcast: Pete Savage
 ####################
 :slug: podcast-pete-savage
 :date: 2011-09-19 01:53
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_78” align=”alignleft” width=”243” caption=”Pete

@@ -2,7 +2,7 @@ Check out GeekDeck Issue 2
 ##########################
 :slug: check-out-geekdeck-issue-2
 :date: 2009-05-13 20:48
-:category:
+:category: English
 :tags: english
 
 `GeekDeck <http://geekdeck.wordpress.com>`__ has just released **Issue

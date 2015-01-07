@@ -2,7 +2,7 @@ If I had a dollar...
 ####################
 :slug: if-i-had-a-dollar
 :date: 2009-01-25 19:32
-:category:
+:category: English
 :tags: english
 
 … for everytime a heard a pediatrician say:

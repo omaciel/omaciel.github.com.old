@@ -2,7 +2,7 @@ Linux 14th Birthday
 ###################
 :slug: linux-14th-birthday
 :date: 2005-08-24 20:01
-:category:
+:category: English
 :tags: english
 
 Tomorrow will be the `14th

@@ -2,7 +2,7 @@ Sobre Tweet
 ###########
 :slug: sobre-tweet
 :date: 2008-06-02 11:34
-:category:
+:category: English
 :tags: portuguese
 
 [10:29:10 AM] Dude: there’s way too many “social” networks to keep track

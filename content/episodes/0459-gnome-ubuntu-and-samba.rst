@@ -2,7 +2,7 @@ Gnome, Ubuntu, and Samba
 ########################
 :slug: gnome-ubuntu-and-samba
 :date: 2007-01-05 18:34
-:category:
+:category: English
 :tags: english
 
 Well, I guess the `cat is out of the

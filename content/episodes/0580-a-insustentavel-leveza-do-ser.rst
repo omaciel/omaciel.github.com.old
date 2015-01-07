@@ -2,7 +2,7 @@ A InsustentÃ¡vel Leveza do Ser
 ################################
 :slug: a-insustentavel-leveza-do-ser
 :date: 2007-06-16 12:47
-:category:
+:category: English
 :tags: portuguese
 
 HÃ¡ mais ou meno 1 mÃªs minha filha enviou o desenho abaixo para um

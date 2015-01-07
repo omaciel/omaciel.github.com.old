@@ -2,7 +2,7 @@ KPL:  Kid's Programming Language
 ################################
 :slug: kpl-kids-programming-language
 :date: 2005-09-22 17:06
-:category:
+:category: English
 :tags: english
 
 KPL, or `Kid’s Programming

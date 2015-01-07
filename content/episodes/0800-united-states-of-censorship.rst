@@ -2,7 +2,7 @@ United States of Censorship
 ###########################
 :slug: united-states-of-censorship
 :date: 2008-06-29 14:02
-:category:
+:category: English
 :tags: english
 
 it is amazing just how little real information gets its way to the

@@ -2,7 +2,7 @@ TabletPC 98% Ubuntunonized
 ##########################
 :slug: tabletpc-98-ubuntunonized
 :date: 2006-06-08 14:35
-:category:
+:category: English
 :tags: english
 
 So yesterday I finally managed to get a hold of another HP TC1100 and

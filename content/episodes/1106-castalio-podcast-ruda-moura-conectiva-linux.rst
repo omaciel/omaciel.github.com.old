@@ -2,7 +2,7 @@ Castálio Podcast - Rudá Moura: Conectiva Linux
 ################################################
 :slug: castalio-podcast-ruda-moura-conectiva-linux
 :date: 2011-12-04 22:04
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Rudá Moura: Conectiva Linux|

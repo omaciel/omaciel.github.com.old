@@ -2,7 +2,7 @@ Windowless Existence
 ####################
 :slug: windowless-existence
 :date: 2005-07-14 11:49
-:category:
+:category: English
 :tags: english
 
 When you spend most of your time “locked up” in a cubicle maze (as I do)

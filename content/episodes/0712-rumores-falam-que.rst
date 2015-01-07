@@ -2,7 +2,7 @@ Rumores falam que...
 ####################
 :slug: rumores-falam-que
 :date: 2008-01-27 17:59
-:category:
+:category: English
 :tags: portuguese
 
 … que isso (abaixo) pode ser uma nova distribuiÃ§Ã£o GNU/Linux baseada

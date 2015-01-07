@@ -2,7 +2,7 @@ Wicked Reader 0.4
 #################
 :slug: wicked-reader-04
 :date: 2005-07-19 19:04
-:category:
+:category: English
 :tags: english
 
 Forgot to post a screenie for my last changes to WickedReader: Buttons

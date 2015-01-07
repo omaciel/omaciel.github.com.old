@@ -2,7 +2,7 @@ Veni, Vidi, Vici
 ################
 :slug: veni-vidi-vici
 :date: 2006-09-28 14:26
-:category:
+:category: English
 :tags: portuguese
 
 Gracas a uma conexao de wireless perto de minha casa, posso escrever uma

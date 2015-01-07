@@ -2,7 +2,7 @@ Week in Review: April 18th - 23rd, 2010
 #######################################
 :slug: week-in-review-april-18th-23rd-2010
 :date: 2010-04-24 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_963” align=”alignleft” width=”279”

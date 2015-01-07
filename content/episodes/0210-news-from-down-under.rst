@@ -2,7 +2,7 @@ News from down under
 ####################
 :slug: news-from-down-under
 :date: 2005-11-23 16:44
-:category:
+:category: English
 :tags: english
 
 No, I’m not in Australia but the other down under… South America! hehehe

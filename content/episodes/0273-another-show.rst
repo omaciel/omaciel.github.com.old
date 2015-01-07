@@ -2,7 +2,7 @@ Another Show
 ############
 :slug: another-show
 :date: 2006-04-13 16:29
-:category:
+:category: English
 :tags: english
 
 This April 22-23 I will be once again “on the road” to represent Ubuntu

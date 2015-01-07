@@ -2,7 +2,7 @@ Alguns updates
 ##############
 :slug: alguns-updates
 :date: 2008-09-23 22:15
-:category:
+:category: English
 :tags: portuguese
 
 -  `BillReminder <http://billreminder.gnulinuxbrasil.org/>`__ atraiu um

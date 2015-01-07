@@ -2,7 +2,7 @@ Pylyglot: Open Source Translation Search
 ########################################
 :slug: pylyglot-open-source-translation-search
 :date: 2012-08-17 15:04
-:category:
+:category: English
 :tags: english, django, pylyglot, translations
 
 It’s been a while since I wrote about

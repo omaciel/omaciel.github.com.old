@@ -2,7 +2,7 @@ Emma's Very Busy Week
 #####################
 :slug: emmas-very-busy-week
 :date: 2010-06-04 15:00
-:category:
+:category: English
 :tags: english
 
 I’m the proud father of two voracious young readers! From very early on

@@ -2,7 +2,7 @@ Search Engines As World Nations
 ###############################
 :slug: search-engines-as-world-nations
 :date: 2005-07-19 15:02
-:category:
+:category: English
 :tags: english
 
 Funny `write

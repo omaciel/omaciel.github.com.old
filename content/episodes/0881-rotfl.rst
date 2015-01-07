@@ -2,7 +2,7 @@ ROTFL
 #####
 :slug: rotfl
 :date: 2009-01-14 12:56
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_652” align=”alignnone” width=”650” caption=”So

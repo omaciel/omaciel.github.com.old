@@ -2,7 +2,7 @@ BillReminder Update
 ###################
 :slug: billreminder-update
 :date: 2006-05-15 17:59
-:category:
+:category: English
 :tags: english
 
 Due to the proximity to the release date for Dapper Drake, Ubuntu

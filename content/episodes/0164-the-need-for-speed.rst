@@ -2,7 +2,7 @@ The need for speed
 ##################
 :slug: the-need-for-speed
 :date: 2005-09-01 17:00
-:category:
+:category: English
 :tags: english
 
 Imagine yourself off on a bus going on a business trip at some far away

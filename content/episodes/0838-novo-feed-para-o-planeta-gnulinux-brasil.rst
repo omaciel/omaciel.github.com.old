@@ -2,7 +2,7 @@ Novo feed para o Planeta GNU/Linux Brasil
 #########################################
 :slug: novo-feed-para-o-planeta-gnulinux-brasil
 :date: 2008-09-10 19:50
-:category:
+:category: English
 :tags: portuguese
 
 |image0|

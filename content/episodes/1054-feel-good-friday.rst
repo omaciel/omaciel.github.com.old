@@ -2,7 +2,7 @@ Feel Good Friday
 ################
 :slug: feel-good-friday
 :date: 2011-03-25 15:13
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1379” align=”alignleft” width=”180”

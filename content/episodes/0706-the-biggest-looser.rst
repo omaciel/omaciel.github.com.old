@@ -2,7 +2,7 @@ The Biggest Loser
 #################
 :slug: the-biggest-looser
 :date: 2008-01-11 04:05
-:category:
+:category: English
 :tags: english
 
 Just watched the Republican debate on TV and was perplexed by the

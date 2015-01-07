@@ -2,7 +2,7 @@ BillReminder in the Wild!
 #########################
 :slug: billreminder-in-the-wild
 :date: 2006-03-24 19:32
-:category:
+:category: English
 :tags: english
 
 It has been approximately 2 weeks now that I started hosting my pet

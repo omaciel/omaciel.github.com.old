@@ -2,7 +2,7 @@ Mais um site de músicas online
 ###############################
 :slug: mais-um-site-de-musicas-online
 :date: 2008-05-24 13:56
-:category:
+:category: English
 :tags: portuguese
 
 Descobri o `Global Pandora <http://globalpandora.com/>`__ depois de

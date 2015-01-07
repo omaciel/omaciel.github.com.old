@@ -2,7 +2,7 @@ Helping the Belarusian and Esperanto Translations
 #################################################
 :slug: helping-the-belarusian-and-esperanto-translations
 :date: 2010-10-10 21:35
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1213” align=”alignleft” width=”214”

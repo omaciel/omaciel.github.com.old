@@ -2,7 +2,7 @@ About Time!
 ###########
 :slug: about-time
 :date: 2006-05-27 18:25
-:category:
+:category: English
 :tags: english
 
 So it seems that Macrobe will be releasing `Flash Player 9 for

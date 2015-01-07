@@ -2,7 +2,7 @@ Emacs + Rope for Python Development
 ###################################
 :slug: emacs-rope-for-python-development
 :date: 2013-12-09 19:30
-:category:
+:category: English
 :tags: Emacs, Python, Rope, Pymacs, gnome
 
 |screenshot|

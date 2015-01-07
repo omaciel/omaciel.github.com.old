@@ -2,7 +2,7 @@ Sexta-feira no trabalho
 #######################
 :slug: sexta-feira-no-trabalho
 :date: 2009-04-17 16:55
-:category:
+:category: English
 :tags: portuguese
 
 Mais uma sexta-feira no trampo. “Mostrando minhas cores” hoje.

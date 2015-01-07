@@ -2,7 +2,7 @@ The Name Game
 #############
 :slug: the-name-game
 :date: 2007-08-08 01:42
-:category:
+:category: English
 :tags: english
 
 I wanted to comment on `Tristan

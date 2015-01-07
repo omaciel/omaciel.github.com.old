@@ -2,7 +2,7 @@ Novos wallpapers para o Foresight Linux e outras coisas mais
 ############################################################
 :slug: novos-wallpapers-para-o-foresight-linux-e-outras-coisas
 :date: 2007-04-06 20:39
-:category:
+:category: English
 :tags: portuguese
 
 Um de nossos colaboradores criou uma nova coleÃ§Ã£o de wallpapers para o

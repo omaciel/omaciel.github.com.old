@@ -2,7 +2,7 @@ Eleições da Mesa Diretora da Fundação GNOME
 ###############################################
 :slug: eleicoes-da-mesa-diretora-da-fundacao-gnome
 :date: 2011-05-11 12:21
-:category:
+:category: English
 :tags: portuguese
 
 [caption id=”” align=”alignnone” width=”356” caption=”By Gwen’s River

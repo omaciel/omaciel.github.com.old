@@ -2,7 +2,7 @@ End of 2007 and new beginnings
 ##############################
 :slug: end-of-2007-and-new-beginnings
 :date: 2008-01-01 15:13
-:category:
+:category: English
 :tags: english
 
 It’s was the end of the year and my head has been spinning with ideas!

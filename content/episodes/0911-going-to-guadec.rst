@@ -2,7 +2,7 @@ Going to GUADEC
 ###############
 :slug: going-to-guadec
 :date: 2009-06-30 13:22
-:category:
+:category: English
 :tags: english
 
 |GUADEC Sponsored|

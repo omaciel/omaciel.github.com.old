@@ -2,7 +2,7 @@ Conspiracy Theory
 #################
 :slug: conspiracy-theory
 :date: 2005-07-08 12:22
-:category:
+:category: English
 :tags: english
 
 More `interesting

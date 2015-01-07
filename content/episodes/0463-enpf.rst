@@ -2,7 +2,7 @@ ENPF
 ####
 :slug: enpf
 :date: 2007-01-22 20:02
-:category:
+:category: English
 :tags: portuguese
 
 Meu amigo SuperToadman me indicou este `Myer-Briggs Test For

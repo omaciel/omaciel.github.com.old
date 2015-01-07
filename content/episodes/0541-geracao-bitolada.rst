@@ -2,7 +2,7 @@ GeraÃ§Ã£o Bitolada
 ######################
 :slug: geracao-bitolada
 :date: 2007-05-04 16:30
-:category:
+:category: English
 :tags: portuguese
 
 JÃ¡ faz um bom tempo que nÃ£o escrevo nada, mas nÃ£o foi por falta de

@@ -2,7 +2,7 @@ Of Whidbey, Orcas, and Hawaii
 #############################
 :slug: of-whidbey-orcas-and-hawaii
 :date: 2005-05-25 13:18
-:category:
+:category: English
 :tags: english
 
 With the upcoming release of Whidbey (Visual Studio 2005) scheduled for

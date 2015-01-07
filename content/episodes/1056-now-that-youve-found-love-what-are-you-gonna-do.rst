@@ -2,7 +2,7 @@ Now That You've Found Love What Are You Gonna Do?
 #################################################
 :slug: now-that-youve-found-love-what-are-you-gonna-do
 :date: 2011-03-30 04:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1383” align=”aligncenter” width=”300”

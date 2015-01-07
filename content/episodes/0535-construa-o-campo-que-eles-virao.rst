@@ -2,7 +2,7 @@ Construa o campo que eles virÃ£o!
 ###################################
 :slug: construa-o-campo-que-eles-virao
 :date: 2007-04-17 19:39
-:category:
+:category: English
 :tags: portuguese
 
 Assim falou `Maudy

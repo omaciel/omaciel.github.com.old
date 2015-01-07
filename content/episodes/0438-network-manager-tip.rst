@@ -2,7 +2,7 @@ Network Manager Tip
 ###################
 :slug: network-manager-tip
 :date: 2006-11-28 04:08
-:category:
+:category: English
 :tags: english
 
 The very first thing I do with a new laptop installation of Gnu/Linux is

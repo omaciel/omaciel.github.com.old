@@ -2,7 +2,7 @@ Castálio Podcast: Alexandre Coster - Asobo Studio
 ##################################################
 :slug: castalio-podcast-alexandre-coster-asobo-studio
 :date: 2011-11-14 07:38
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Alexandre Coster - Asobo Studio|

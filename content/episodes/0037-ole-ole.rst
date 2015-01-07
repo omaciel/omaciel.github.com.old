@@ -2,7 +2,7 @@ Ole' Ole'
 #########
 :slug: ole-ole
 :date: 2005-03-29 16:58
-:category:
+:category: English
 :tags: english
 
     Looking to save millions of dollars in royalties and licensing fees,

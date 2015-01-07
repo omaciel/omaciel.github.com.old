@@ -2,7 +2,7 @@
 #################
 :slug: 2006-in-pictures
 :date: 2007-01-01 08:08
-:category:
+:category: English
 :tags: english
 
 Well, after going almost 2 weeks with a very nasty cold, I got better

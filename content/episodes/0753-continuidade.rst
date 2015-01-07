@@ -2,7 +2,7 @@ Continuidade
 ############
 :slug: continuidade
 :date: 2008-04-15 12:43
-:category:
+:category: English
 :tags: portuguese
 
 Ontem eu enviei um e-mail para os membros do Conselho Ubuntu Brasil

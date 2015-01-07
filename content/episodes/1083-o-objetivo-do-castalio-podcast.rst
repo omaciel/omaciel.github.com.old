@@ -2,7 +2,7 @@ O Objetivo do Castálio Podcast
 ###############################
 :slug: o-objetivo-do-castalio-podcast
 :date: 2011-07-21 01:45
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”” align=”alignleft” width=”350” caption=”Castálio

@@ -2,7 +2,7 @@ Life 2.0
 ########
 :slug: life-20
 :date: 2007-02-15 15:35
-:category:
+:category: English
 :tags: english
 
 After a very brief night of sleep (about 3 hours), Elizabeth started

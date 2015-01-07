@@ -2,7 +2,7 @@ Problemas assinando o CÃƒÂ³digo de Conduta do Launchpad?
 ############################################################
 :slug: problemas-assinando-o-codigo-de-conduta-do-launchpad
 :date: 2006-06-15 03:40
-:category:
+:category: English
 :tags: portuguese
 
 Aparentemente existe um bug que estÃƒÂ¡ afetando os usuÃƒÂ¡rios tentando

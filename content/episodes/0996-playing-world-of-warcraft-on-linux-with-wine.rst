@@ -2,7 +2,7 @@ Playing World of Warcraft on Linux with Wine
 ############################################
 :slug: playing-world-of-warcraft-on-linux-with-wine
 :date: 2010-06-11 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1109” align=”aligncenter” width=”300”

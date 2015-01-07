@@ -2,7 +2,7 @@ LanÃ§ado o GNOME 2.20!
 ########################
 :slug: lancado-o-gnome-220
 :date: 2007-09-19 02:40
-:category:
+:category: English
 :tags: portuguese
 
 `GNOME 2.20 <http://www.gnome.org/start/2.20/notes/pt_BR/>`__ acabou de

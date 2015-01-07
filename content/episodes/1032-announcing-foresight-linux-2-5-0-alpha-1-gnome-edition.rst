@@ -2,7 +2,7 @@ Announcing Foresight Linux 2.5.0 ALPHA 1 GNOME Edition
 ######################################################
 :slug: announcing-foresight-linux-2-5-0-alpha-1-gnome-edition
 :date: 2011-01-17 02:37
-:category:
+:category: English
 :tags: english
 
 After a very, very, very long time I can finally announce another

@@ -2,7 +2,7 @@ GNOME 2.24
 ##########
 :slug: gnome-224
 :date: 2008-09-24 19:30
-:category:
+:category: English
 :tags: english
 
 |image0|

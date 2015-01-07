@@ -2,7 +2,7 @@ Talking To The Mono King
 ########################
 :slug: talking-to-the-mono-king
 :date: 2005-02-18 20:04
-:category:
+:category: English
 :tags: english
 
 This last Friday was the second day of my trip to Boston. The agenda was

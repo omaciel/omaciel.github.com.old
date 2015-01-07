@@ -2,7 +2,7 @@ TÃƒÂ¡ tudo cinza sem vocÃƒÂª...
 #######################################
 :slug: ta-tudo-cinza-sem-voce
 :date: 2006-04-17 15:00
-:category:
+:category: English
 :tags: portuguese
 
 … ou, onde estavam os tradutores Brasileiros neste fim de semana?Ã‚Â 

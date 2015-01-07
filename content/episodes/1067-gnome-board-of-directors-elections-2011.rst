@@ -2,7 +2,7 @@ GNOME Board of Directors Elections 2011
 #######################################
 :slug: gnome-board-of-directors-elections-2011
 :date: 2011-05-11 13:21
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignnone” width=”356” caption=”By Gwen’s River

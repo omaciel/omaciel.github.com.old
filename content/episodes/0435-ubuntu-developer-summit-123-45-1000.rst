@@ -2,7 +2,7 @@ Ubuntu Developer Summit - 1,2,3... 4,5, 1000!
 #############################################
 :slug: ubuntu-developer-summit-123-45-1000
 :date: 2006-11-17 04:07
-:category:
+:category: English
 :tags: portuguese
 
 Finalmente estou em casa depois de quase 10 dias de viagem e muitas

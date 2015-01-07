@@ -2,7 +2,7 @@ Emblem Divide coming to your web!
 #################################
 :slug: emblem-divide-coming-to-your-web
 :date: 2009-10-28 22:19
-:category:
+:category: English
 :tags: english
 
 I was extremely thrilled to learn that my good friend **Pete

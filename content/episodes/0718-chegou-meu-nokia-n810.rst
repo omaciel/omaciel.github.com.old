@@ -2,7 +2,7 @@ Chegou meu Nokia N810
 #####################
 :slug: chegou-meu-nokia-n810
 :date: 2008-02-09 23:31
-:category:
+:category: English
 :tags: portuguese
 
 Minha vida deu uma acelerada nas Ãºltimas 2 semanas e passei meu tempo

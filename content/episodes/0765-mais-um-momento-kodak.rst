@@ -2,7 +2,7 @@ Mais um momento Kodak
 #####################
 :slug: mais-um-momento-kodak
 :date: 2008-04-27 11:35
-:category:
+:category: English
 :tags: portuguese
 
 -  Cesta de roupas: US$15

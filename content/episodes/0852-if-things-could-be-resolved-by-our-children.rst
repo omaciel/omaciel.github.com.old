@@ -2,7 +2,7 @@ If things could be resolved by our children
 ###########################################
 :slug: if-things-could-be-resolved-by-our-children
 :date: 2008-09-29 02:14
-:category:
+:category: English
 :tags: english
 
 Something interesting happened today. As my wife and I talked about the

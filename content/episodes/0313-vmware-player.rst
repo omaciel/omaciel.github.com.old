@@ -2,7 +2,7 @@ VMWare Player
 #############
 :slug: vmware-player
 :date: 2006-06-01 17:42
-:category:
+:category: English
 :tags: portuguese
 
 Para instalar o VMWare Player no seu Dapper novinho em folha:

@@ -2,7 +2,7 @@ We Built This City!
 ###################
 :slug: we-built-this-city
 :date: 2006-06-27 13:43
-:category:
+:category: English
 :tags: portuguese
 
 Este domingo, dia 25 de junho de junho, marcou um dos momentos mais

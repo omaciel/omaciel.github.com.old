@@ -2,7 +2,7 @@ Red Hat: 366 days later (and counting)
 ######################################
 :slug: red-hat-366-days-later-and-counting
 :date: 2012-12-05 15:28
-:category:
+:category: English
 :tags: CloudForms, Red Hat, QA, english
 
 |Red Hat 1 year|

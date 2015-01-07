@@ -2,7 +2,7 @@ BillReminder: Still Kicking
 ###########################
 :slug: billreminder-still-kicking
 :date: 2009-11-27 18:00
-:category:
+:category: English
 :tags: english
 
 If you still remember my pet project

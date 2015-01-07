@@ -2,7 +2,7 @@ Ubuntu 6.10 (Edgy Eft) Knot-1
 #############################
 :slug: ubuntu-610-edgy-eft-knot-1
 :date: 2006-07-21 10:59
-:category:
+:category: English
 :tags: portuguese
 
 Para aqueles que gostam de viver fortes emoÃƒÂ§ÃƒÂµes, foi

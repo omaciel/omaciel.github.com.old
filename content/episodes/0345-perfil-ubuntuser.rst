@@ -2,7 +2,7 @@ Perfil:  Ubuntuser
 ##################
 :slug: perfil-ubuntuser
 :date: 2006-06-29 01:40
-:category:
+:category: English
 :tags: portuguese
 
 Nossa comunidade tem crescido muito neste ÃƒÂºltimos meses, sinal que

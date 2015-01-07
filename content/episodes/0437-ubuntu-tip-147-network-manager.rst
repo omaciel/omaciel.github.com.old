@@ -2,7 +2,7 @@ Ubuntu Tip #147:  Network Manager
 #################################
 :slug: ubuntu-tip-147-network-manager
 :date: 2006-11-28 03:51
-:category:
+:category: English
 :tags: portuguese
 
 A primeira coisa que eu adiciono Ã  uma nova instalaÃ§Ã£o de Gnu/Linux

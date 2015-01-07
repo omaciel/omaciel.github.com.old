@@ -2,7 +2,7 @@ III Festival Software Livre da Bahia
 ####################################
 :slug: iii-festiva-software-livre-da-bahia
 :date: 2006-08-23 00:17
-:category:
+:category: English
 :tags: portuguese
 
 Nesta quinta-feira, dia 24 de agosto, estarÃƒÂ¡ acontecendo o `III

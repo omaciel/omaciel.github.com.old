@@ -2,7 +2,7 @@ Crossing Paths
 ##############
 :slug: crossing-paths
 :date: 2007-09-12 16:07
-:category:
+:category: English
 :tags: english
 
 It was interesting to see an

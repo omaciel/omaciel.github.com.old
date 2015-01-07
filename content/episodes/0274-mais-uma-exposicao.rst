@@ -2,7 +2,7 @@ Mais uma exposiÃƒÂ§ÃƒÂ£o!
 #################################
 :slug: mais-uma-exposicao
 :date: 2006-04-13 19:44
-:category:
+:category: English
 :tags: portuguese
 
 Nos dias 23 e 24 de abril vou estar mais uma vez “na estrada”, desta vez

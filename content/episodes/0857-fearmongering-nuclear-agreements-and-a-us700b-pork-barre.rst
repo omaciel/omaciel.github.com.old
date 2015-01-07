@@ -2,7 +2,7 @@ Fearmongering, Nuclear agreements and a US$700B pork barrel
 ###########################################################
 :slug: fearmongering-nuclear-agreements-and-a-us700b-pork-barre
 :date: 2008-10-03 16:38
-:category:
+:category: English
 :tags: english
 
 With last night’s VP debate still fresh in my memory and the entire

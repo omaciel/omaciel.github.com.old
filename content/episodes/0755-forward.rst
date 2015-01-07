@@ -2,7 +2,7 @@ Forward
 #######
 :slug: forward
 :date: 2008-04-17 14:50
-:category:
+:category: English
 :tags: english
 
 Yesterday’s news about the Suse Appliance Program had me grinning all

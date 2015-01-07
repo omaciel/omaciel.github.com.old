@@ -2,7 +2,7 @@ XFCE completely translated to Brazilian Portuguese
 ##################################################
 :slug: xfce-completely-translated-to-brazilian-portuguese
 :date: 2008-05-16 14:52
-:category:
+:category: English
 :tags: english
 
 I’m extremely proud to announce that the `XFCE <http://www.xfce.org>`__

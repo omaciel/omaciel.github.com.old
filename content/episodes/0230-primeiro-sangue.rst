@@ -2,7 +2,7 @@ Primeiro Sangue!
 ################
 :slug: primeiro-sangue
 :date: 2006-02-10 04:33
-:category:
+:category: English
 :tags: portuguese
 
 Mesmo com o pequeno pÃƒÂºblico que apareceu para o primeiro torneio do

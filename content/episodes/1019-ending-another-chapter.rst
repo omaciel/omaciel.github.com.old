@@ -2,7 +2,7 @@ Ending Another Chapter
 ######################
 :slug: ending-another-chapter
 :date: 2010-11-01 13:47
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1231” align=”alignleft” width=”225”

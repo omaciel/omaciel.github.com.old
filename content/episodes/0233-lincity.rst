@@ -2,7 +2,7 @@ LinCity-ng
 ##########
 :slug: lincity
 :date: 2006-02-13 16:20
-:category:
+:category: English
 :tags: portuguese
 
 Este aqui vai para o **CoringÃƒÂ£o** e o pessoal por trÃƒÂ¡s do

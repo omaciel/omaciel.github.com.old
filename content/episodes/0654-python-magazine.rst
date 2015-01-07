@@ -2,7 +2,7 @@ Python Magazine
 ###############
 :slug: python-magazine
 :date: 2007-10-07 15:18
-:category:
+:category: English
 :tags: english
 
 As pointed out by `Jonathan

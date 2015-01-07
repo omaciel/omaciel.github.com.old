@@ -2,7 +2,7 @@ When Geeks Attack!
 ##################
 :slug: when-geeks-attack
 :date: 2005-09-06 00:43
-:category:
+:category: English
 :tags: english
 
 |Supertoadman and GnuKemist|

@@ -2,7 +2,7 @@ Bota água no feijão!
 ######################
 :slug: bota-agua-no-feijao
 :date: 2010-07-12 19:18
-:category:
+:category: English
 :tags: portuguese
 
 |Bota água no feijão!|

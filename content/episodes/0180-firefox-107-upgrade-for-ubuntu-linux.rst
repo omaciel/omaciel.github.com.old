@@ -2,7 +2,7 @@ Firefox 1.0.7 Upgrade for Ubuntu Linux
 ######################################
 :slug: firefox-107-upgrade-for-ubuntu-linux
 :date: 2005-09-24 14:45
-:category:
+:category: English
 :tags: english
 
 Yesterday a lot of people hanging out on #ubuntu @ FREENODE were

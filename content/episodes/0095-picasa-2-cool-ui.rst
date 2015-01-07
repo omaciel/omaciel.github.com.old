@@ -2,7 +2,7 @@ Picasa 2:  Cool UI
 ##################
 :slug: picasa-2-cool-ui
 :date: 2005-05-31 18:49
-:category:
+:category: English
 :tags: english
 
 I needed to do some image editing the other day and didn’t feel like

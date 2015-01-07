@@ -2,7 +2,7 @@ Setting up Vim for Clojure development notes
 ############################################
 :slug: setting-up-vim-for-clojure-development-notes
 :date: 2012-05-16 20:41
-:category:
+:category: English
 :tags: Eclipse, Clojure, vim, repl, lein, Dropbox, english
 
 Started the process of getting jiggy with

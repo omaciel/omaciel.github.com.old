@@ -2,7 +2,7 @@ GeekDeck Issue 3 Published
 ##########################
 :slug: geekdeck-issue-3-published
 :date: 2009-06-13 22:20
-:category:
+:category: English
 :tags: english
 
 `GeekDeck <http://geekdeck.wordpress.com>`__ has just released **Issue

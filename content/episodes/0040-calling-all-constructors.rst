@@ -2,7 +2,7 @@ Calling All Constructors
 ########################
 :slug: calling-all-constructors
 :date: 2005-03-30 19:07
-:category:
+:category: English
 :tags: english
 
 I wanted to change some code I had written last week so that an

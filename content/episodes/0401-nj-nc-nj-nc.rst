@@ -2,7 +2,7 @@ NJ -> NC -> NJ -> NC
 ####################
 :slug: nj-nc-nj-nc
 :date: 2006-09-18 00:36
-:category:
+:category: English
 :tags: portuguese
 
 "Rodando mais que azeitona em boca de bangela!"

@@ -2,7 +2,7 @@ To post or not to post
 ######################
 :slug: to-post-or-not-to-post
 :date: 2008-07-01 00:47
-:category:
+:category: English
 :tags: english
 
 My latests posts have attracted a fair number of comments (thank every

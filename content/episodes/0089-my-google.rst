@@ -2,7 +2,7 @@ My Google
 #########
 :slug: my-google
 :date: 2005-05-20 11:41
-:category:
+:category: English
 :tags: english
 
 Saw this today… Google has added a portal-like

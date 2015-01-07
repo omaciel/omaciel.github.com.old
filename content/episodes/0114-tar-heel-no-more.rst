@@ -2,7 +2,7 @@ Tar Heel No More
 ################
 :slug: tar-heel-no-more
 :date: 2005-07-06 15:01
-:category:
+:category: English
 :tags: english
 
 Once again I avoided mentioning about a very serious job lead I had with

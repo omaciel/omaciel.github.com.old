@@ -2,7 +2,7 @@ Slavery is still well and alive in small town Brazil!
 #####################################################
 :slug: slavery-is-still-well-and-alive-in-small-town-brazil
 :date: 2007-09-02 14:39
-:category:
+:category: English
 :tags: english
 
 I have just watched this

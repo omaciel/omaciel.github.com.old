@@ -2,7 +2,7 @@ Segundo Encontro Nacional Ubuntu Brasil
 #######################################
 :slug: segundo-encontro-nacional-ubuntu-brasil
 :date: 2007-03-02 19:02
-:category:
+:category: English
 :tags: portuguese
 
 SerÃ¡ realizado em abril durante o `8Âº FÃ³rum Internacional Software

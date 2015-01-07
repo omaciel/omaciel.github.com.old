@@ -2,7 +2,7 @@ Migrando para o Google Code #1
 ##############################
 :slug: migrando-para-o-google-code-1
 :date: 2008-04-01 22:25
-:category:
+:category: English
 :tags: portuguese
 
 Na semana passada eu tinha `escrito <http://www.ogmaciel.com/?p=453>`__

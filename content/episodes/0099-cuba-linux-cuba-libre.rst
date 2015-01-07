@@ -2,7 +2,7 @@ Cuba + Linux = Cuba Libre
 #########################
 :slug: cuba-linux-cuba-libre
 :date: 2005-06-03 18:55
-:category:
+:category: English
 :tags: english
 
 I completely missed this

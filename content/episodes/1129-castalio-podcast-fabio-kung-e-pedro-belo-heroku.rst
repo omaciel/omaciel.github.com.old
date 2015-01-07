@@ -2,7 +2,7 @@ Castálio Podcast: Fábio Kung e Pedro Belo: Heroku
 ###################################################
 :slug: castalio-podcast-fabio-kung-e-pedro-belo-heroku
 :date: 2012-04-29 12:58
-:category:
+:category: Portuguese
 :tags: portuguese, podcast, castálio, ubuntu
 
 |image0|

@@ -2,7 +2,7 @@ America or America?
 ###################
 :slug: america-or-america
 :date: 2007-05-24 19:10
-:category:
+:category: English
 :tags: english
 
 First of all I want to thank every and each one of you who took the time

@@ -2,7 +2,7 @@ Bond... James Bond!
 ###################
 :slug: bond-james-bond
 :date: 2007-05-17 19:47
-:category:
+:category: English
 :tags: portuguese
 
 Agora quando eu for responder alguma coisa no

@@ -2,7 +2,7 @@ Apresentando Foresight Linux 1.0
 ################################
 :slug: apresentando-foresight-linux-10
 :date: 2007-01-30 23:34
-:category:
+:category: English
 :tags: portuguese
 
 O `Foresight Linux <http://www.foresightlinux.org/>`__ Ã© um

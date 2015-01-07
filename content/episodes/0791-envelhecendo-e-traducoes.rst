@@ -2,7 +2,7 @@ Envelhecendo e traduções
 ##########################
 :slug: envelhecendo-e-traducoes
 :date: 2008-06-08 20:44
-:category:
+:category: English
 :tags: portuguese
 
 Hoje é meu aniversário e agora tenho 34 anos. Também é o aniversário da

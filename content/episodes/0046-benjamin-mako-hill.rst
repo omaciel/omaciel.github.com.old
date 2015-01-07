@@ -2,7 +2,7 @@ Benjamin Mako Hill
 ##################
 :slug: benjamin-mako-hill
 :date: 2005-04-07 18:21
-:category:
+:category: English
 :tags: english
 
 It’s official!!! I have arranged for `Benjamin Mako

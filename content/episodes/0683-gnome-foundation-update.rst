@@ -2,7 +2,7 @@ GNOME Foundation update
 #######################
 :slug: gnome-foundation-update
 :date: 2007-12-11 21:50
-:category:
+:category: English
 :tags: english
 
 I’d like to extend my (unofficial) congratulations to the new **GNOME

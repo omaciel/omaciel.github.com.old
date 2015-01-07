@@ -2,7 +2,7 @@ Your translations update
 ########################
 :slug: your-translations-update
 :date: 2009-03-10 01:58
-:category:
+:category: English
 :tags: english
 
 Proud to have been a part of delivering the following upstream projects

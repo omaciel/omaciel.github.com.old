@@ -2,7 +2,7 @@ ApresentaÃ§Ã£o ao Planeta Mandriva Brasil
 #############################################
 :slug: apresentacao-ao-planeta-mandriva-brasil
 :date: 2008-01-12 22:14
-:category:
+:category: English
 :tags: portuguese
 
 Fui gentilmente convidado a participar do `Planeta Mandriva

@@ -2,7 +2,7 @@ Xml Performance Checklist
 #########################
 :slug: xml-performance-checklist
 :date: 2005-08-09 13:38
-:category:
+:category: English
 :tags: english
 
 Straight from Microsoft’s `Improving .NET Application Performance and

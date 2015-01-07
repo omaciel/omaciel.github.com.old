@@ -2,7 +2,7 @@ Le Tour de Nat
 ##############
 :slug: le-tour-de-nat
 :date: 2005-07-16 16:57
-:category:
+:category: English
 :tags: english
 
 Very amusing `play-by-play <http://rlove.org/log/2005071601>`__ recount

@@ -2,7 +2,7 @@ Texto Livre for All
 ###################
 :slug: texto-livre-for-all
 :date: 2007-04-11 01:00
-:category:
+:category: English
 :tags: english
 
 When I first heard of the project `Texto

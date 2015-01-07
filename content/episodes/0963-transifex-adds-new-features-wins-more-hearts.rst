@@ -2,7 +2,7 @@ Transifex adds new features, wins more hearts
 #############################################
 :slug: transifex-adds-new-features-wins-more-hearts
 :date: 2010-04-22 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”400” caption=”Spring signs by

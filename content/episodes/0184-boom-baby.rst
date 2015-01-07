@@ -2,7 +2,7 @@ Boom Baby!
 ##########
 :slug: boom-baby
 :date: 2005-10-03 17:15
-:category:
+:category: English
 :tags: english
 
 |Ubuntu Brazillian Team Logo|

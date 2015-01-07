@@ -2,7 +2,7 @@ Para Frente Ãƒâ€° Que Se Anda
 ###################################
 :slug: para-frente-e-que-se-anda
 :date: 2006-07-14 18:22
-:category:
+:category: English
 :tags: portuguese
 
 JÃƒÂ¡ faz mais ou menos uma semana que fiquei sabendo que a Canonical

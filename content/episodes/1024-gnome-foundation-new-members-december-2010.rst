@@ -2,7 +2,7 @@ GNOME Foundation New Members: December 2010
 ###########################################
 :slug: gnome-foundation-new-members-december-2010
 :date: 2010-12-10 14:56
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1248” align=”alignleft” width=”240”

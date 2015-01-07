@@ -2,7 +2,7 @@ Podcast: Igor Pires Soares - Fedora Project
 ###########################################
 :slug: podcast-igor-pires-soares-fedora-project
 :date: 2011-07-11 04:15
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_52” align=”alignleft” width=”250” caption=”Igor

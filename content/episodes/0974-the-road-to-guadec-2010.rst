@@ -2,7 +2,7 @@ The Road to GUADEC 2010
 #######################
 :slug: the-road-to-guadec-2010
 :date: 2010-05-05 15:00
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”aligncenter” width=”350” caption=”GUADEC

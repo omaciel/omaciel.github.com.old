@@ -2,7 +2,7 @@ World of Padman
 ###############
 :slug: world-of-padman
 :date: 2007-05-26 17:55
-:category:
+:category: English
 :tags: english
 
 I was reading Digg this morning when I came across a post talking about

@@ -2,7 +2,7 @@ Getting Better
 ##############
 :slug: getting-better
 :date: 2005-07-13 18:23
-:category:
+:category: English
 :tags: english
 
 Some more coding today gave me this:

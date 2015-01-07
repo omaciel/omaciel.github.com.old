@@ -2,7 +2,7 @@ Sem tempo para respirar!!!
 ##########################
 :slug: sem-tempo-para-respirar
 :date: 2006-04-04 18:29
-:category:
+:category: English
 :tags: portuguese
 
 Que loucura!!!Ã‚ Ubuntu estÃƒÂ¡ realmente fazendo uma boa campanha

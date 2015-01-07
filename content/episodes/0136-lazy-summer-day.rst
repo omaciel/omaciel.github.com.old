@@ -2,7 +2,7 @@ Lazy Summer Day
 ###############
 :slug: lazy-summer-day
 :date: 2005-08-04 19:15
-:category:
+:category: English
 :tags: english
 
 Spent a uneventful and quiet day with my dad. Played a bit of tennis in

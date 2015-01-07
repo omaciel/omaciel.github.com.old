@@ -2,7 +2,7 @@ RHCE!!!
 #######
 :slug: rhce
 :date: 2006-03-04 14:28
-:category:
+:category: English
 :tags: portuguese
 
 |RHCE Certificate|

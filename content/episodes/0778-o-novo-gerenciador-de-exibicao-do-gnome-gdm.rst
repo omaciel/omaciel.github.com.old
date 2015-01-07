@@ -2,7 +2,7 @@ O novo Gerenciador de Exibição do GNOME (GDM)
 ###############################################
 :slug: o-novo-gerenciador-de-exibicao-do-gnome-gdm
 :date: 2008-05-22 11:09
-:category:
+:category: English
 :tags: portuguese
 
 Comecei hoje a usar o novo Gerenciador de Exibição do GNOME, também

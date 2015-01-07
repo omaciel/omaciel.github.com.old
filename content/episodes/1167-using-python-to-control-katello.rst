@@ -2,7 +2,7 @@ Using Python to Control Katello
 ###############################
 :slug: using-python-to-control-katello
 :date: 2013-09-13 00:36
-:category:
+:category: English
 :tags: katello, english, python
 
 |Emacs editor with python code|

@@ -2,7 +2,7 @@ Open Source Planets:  Members Only?
 ###################################
 :slug: open-source-planets-members-only
 :date: 2005-09-05 20:26
-:category:
+:category: English
 :tags: english
 
 I meant to post

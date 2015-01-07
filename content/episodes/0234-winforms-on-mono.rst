@@ -2,7 +2,7 @@ WinForms on Mono
 ################
 :slug: winforms-on-mono
 :date: 2006-02-14 03:51
-:category:
+:category: English
 :tags: english
 
 Been spending some time converting my pet application BillReminder

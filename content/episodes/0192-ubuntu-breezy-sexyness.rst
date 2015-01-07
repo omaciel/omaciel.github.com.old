@@ -2,7 +2,7 @@ Ubuntu Breezy Sexyness
 ######################
 :slug: ubuntu-breezy-sexyness
 :date: 2005-10-14 13:25
-:category:
+:category: English
 :tags: english
 
 Managed to install Ubuntu 5.10 (Breezy Badger) on my laptop last night!

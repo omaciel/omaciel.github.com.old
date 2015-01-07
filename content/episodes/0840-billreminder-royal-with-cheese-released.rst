@@ -2,7 +2,7 @@ BillReminder "Royale with cheese" released
 ##########################################
 :slug: billreminder-royal-with-cheese-released
 :date: 2008-09-12 03:19
-:category:
+:category: English
 :tags: english
 
 |BillReminder|

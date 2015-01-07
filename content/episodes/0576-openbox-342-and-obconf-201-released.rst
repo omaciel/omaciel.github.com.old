@@ -2,7 +2,7 @@ Openbox 3.4.2 and ObConf 2.0.1 released
 #######################################
 :slug: openbox-342-and-obconf-201-released
 :date: 2007-06-11 02:24
-:category:
+:category: English
 :tags: english
 
 As the title says, **Openbox 3.4.2** and **ObConf 2.0.1** were just

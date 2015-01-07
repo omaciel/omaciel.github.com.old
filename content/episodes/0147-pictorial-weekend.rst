@@ -2,7 +2,7 @@ Pictorial Weekend
 #################
 :slug: pictorial-weekend
 :date: 2005-08-15 01:33
-:category:
+:category: English
 :tags: english
 
 ..image:: http://photos21.flickr.com/34092814_74214baa58_o.jpg

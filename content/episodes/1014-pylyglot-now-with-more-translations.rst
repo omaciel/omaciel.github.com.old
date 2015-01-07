@@ -2,7 +2,7 @@ Pylyglot, Now With More Translations
 ####################################
 :slug: pylyglot-now-with-more-translations
 :date: 2010-10-08 01:38
-:category:
+:category: English
 :tags: english
 
 [caption id=”attachment\_1210” align=”alignleft” width=”300” caption=”In

@@ -2,7 +2,7 @@ Once upon a time
 ################
 :slug: once-upon-a-time
 :date: 2005-09-19 00:03
-:category:
+:category: English
 :tags: english
 
 |memories|

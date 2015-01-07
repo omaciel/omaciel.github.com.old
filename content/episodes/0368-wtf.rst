@@ -2,7 +2,7 @@ WTF?
 ####
 :slug: wtf
 :date: 2006-08-01 19:54
-:category:
+:category: English
 :tags: portuguese
 
 Ando super atarefado no meu trabalho desde que meu chefe se demitiu

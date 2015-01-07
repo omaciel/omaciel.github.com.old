@@ -2,7 +2,7 @@ Rosetta takes a great step toward supporting upstream translations
 ##################################################################
 :slug: rosetta-takes-a-great-step-toward-supporting-upstream-tr
 :date: 2008-12-26 16:18
-:category:
+:category: English
 :tags: english
 
 `Danilo Å egan <http://danilo.segan.org/blog/>`__, lead developer for

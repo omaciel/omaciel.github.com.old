@@ -2,7 +2,7 @@ Imagine
 #######
 :slug: imagine
 :date: 2006-12-08 16:28
-:category:
+:category: English
 :tags: portuguese
 
 Voce se lembra onde estava quando `John

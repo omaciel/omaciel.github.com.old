@@ -2,7 +2,7 @@ For Geeks Only
 ##############
 :slug: for-geeks-only
 :date: 2005-09-11 13:16
-:category:
+:category: English
 :tags: english
 
 |Comic strip|

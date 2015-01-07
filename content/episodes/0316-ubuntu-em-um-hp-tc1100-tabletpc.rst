@@ -2,7 +2,7 @@ Ubuntu em um HP TC1100 TabletPC
 ###############################
 :slug: ubuntu-em-um-hp-tc1100-tabletpc
 :date: 2006-06-07 18:50
-:category:
+:category: English
 :tags: portuguese
 
 Hoje consegui encontrar uma folga durante o trabalho (tive de executar

@@ -2,7 +2,7 @@ Milestones e Eventos
 ####################
 :slug: milestones-e-eventos
 :date: 2007-10-03 13:20
-:category:
+:category: English
 :tags: portuguese
 
 Um post rapidinho para anunciar alguns milestones e eventos pessoais:

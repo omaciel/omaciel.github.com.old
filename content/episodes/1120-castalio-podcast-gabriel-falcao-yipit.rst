@@ -2,7 +2,7 @@ Castálio Podcast: Gabriel Falcão: Yipit
 #########################################
 :slug: castalio-podcast-gabriel-falcao-yipit
 :date: 2012-03-18 22:38
-:category:
+:category: Portuguese
 :tags: portuguese, castálio, podcast
 
 |Gabriel Falcao|\ A história do **Gabriel** é um excelente exemplo de

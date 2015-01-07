@@ -2,7 +2,7 @@ Barrabin Barrabash: Abra Unix Cadabra
 #####################################
 :slug: barrabin-barrabash-abra-unix-cadabra
 :date: 2011-02-18 05:00
-:category:
+:category: English
 :tags: english
 
 **Barrabin Barrabash, the great** is once again up to no good with his

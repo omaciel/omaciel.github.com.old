@@ -2,7 +2,7 @@ Primeiro Episódio do Castálio Podcast em Inglês!
 ###################################################
 :slug: primeiro-episodio-do-castalio-podcast-em-ingles
 :date: 2011-09-19 01:44
-:category:
+:category: Portuguese
 :tags: portuguese, castalio, podcast
 
 |Pete Savage: Git In The Trenches|

@@ -2,7 +2,7 @@ Miss TechTV?  Not Me!!!
 #######################
 :slug: miss-techtv-not-me
 :date: 2005-07-07 15:17
-:category:
+:category: English
 :tags: english
 
 Read some

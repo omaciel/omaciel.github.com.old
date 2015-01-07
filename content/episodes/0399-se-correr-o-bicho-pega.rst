@@ -2,7 +2,7 @@ Se correr o bicho pega...
 #########################
 :slug: se-correr-o-bicho-pega
 :date: 2006-09-15 18:10
-:category:
+:category: English
 :tags: portuguese
 
 Cheguei em North Carolina na terÃƒÂ§a-feira pela manhÃƒÂ£ e fui apanhado

@@ -2,7 +2,7 @@ Last.fm:  Planeta Ubuntu Brasil
 ###############################
 :slug: lastfm-planeta-ubuntu-brasil
 :date: 2006-08-12 15:43
-:category:
+:category: English
 :tags: portuguese
 
 Em mais uma forma de trazer novas pessoas ÃƒÂ  nossa comunidade, acabei

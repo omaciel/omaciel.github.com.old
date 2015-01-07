@@ -2,7 +2,7 @@ Triple Threat
 #############
 :slug: triple-threat
 :date: 2007-12-22 14:09
-:category:
+:category: English
 :tags: english
 
 Just in time for the holidays:

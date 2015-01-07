@@ -2,7 +2,7 @@ Apresentando o Windmill Appliance
 #################################
 :slug: apresentando-o-windmill-appliance
 :date: 2008-04-14 12:35
-:category:
+:category: English
 :tags: portuguese
 
 Tenho um grande orgulho em apresentar o lançamento do `Windmill

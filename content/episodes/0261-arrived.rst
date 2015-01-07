@@ -2,7 +2,7 @@ Arrived
 #######
 :slug: arrived
 :date: 2006-04-03 22:06
-:category:
+:category: English
 :tags: english
 
 Took me 3 1/2 hours to drive from Jersey to Boston…Ã‚Â  Arrived around

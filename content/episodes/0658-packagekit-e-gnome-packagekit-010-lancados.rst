@@ -2,7 +2,7 @@ PackageKit e gnome-packagekit 0.1.0 lanÃ§ados!
 ################################################
 :slug: packagekit-e-gnome-packagekit-010-lancados
 :date: 2007-10-15 23:39
-:category:
+:category: English
 :tags: portuguese
 
 `PackageKit <http://www.packagekit.org/>`__ Ã© uma camada de

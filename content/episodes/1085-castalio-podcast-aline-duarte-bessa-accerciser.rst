@@ -2,7 +2,7 @@ Castálio Podcast: Aline Duarte Bessa - Accerciser
 ##################################################
 :slug: castalio-podcast-aline-duarte-bessa-accerciser
 :date: 2011-07-25 04:00
-:category:
+:category: Portuguese
 :tags: portuguese
 
 [caption id=”attachment\_56” align=”alignleft” width=”199”

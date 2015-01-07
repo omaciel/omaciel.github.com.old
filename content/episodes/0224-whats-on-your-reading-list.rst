@@ -2,7 +2,7 @@ What's on your reading list?
 ############################
 :slug: whats-on-your-reading-list
 :date: 2006-02-01 21:55
-:category:
+:category: English
 :tags: english
 
 if someone were to take a peek at the books I’ve been reading lately,

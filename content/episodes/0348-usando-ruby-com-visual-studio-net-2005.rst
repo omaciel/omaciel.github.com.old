@@ -2,7 +2,7 @@ Usando Ruby com Visual Studio .NET 2005
 #######################################
 :slug: usando-ruby-com-visual-studio-net-2005
 :date: 2006-07-05 13:17
-:category:
+:category: English
 :tags: portuguese
 
 Para os meus amigos programadores que usam o Windows em seu dia a dia

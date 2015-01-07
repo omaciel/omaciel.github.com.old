@@ -2,7 +2,7 @@ Nasceu!!!
 #########
 :slug: nasceu
 :date: 2007-02-15 14:27
-:category:
+:category: English
 :tags: portuguese
 
 Depois de dormir por apenas 3 horas, Elizabeth acordou com contracoes

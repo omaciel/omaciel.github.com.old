@@ -2,7 +2,7 @@ Sign of Times?
 ##############
 :slug: sign-of-times
 :date: 2006-05-17 14:58
-:category:
+:category: English
 :tags: english
 
 So yesterday I `found

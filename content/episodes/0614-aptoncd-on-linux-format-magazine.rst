@@ -2,7 +2,7 @@ APTonCD on Linux Format Magazine
 ################################
 :slug: aptoncd-on-linux-format-magazine
 :date: 2007-08-13 02:50
-:category:
+:category: English
 :tags: english
 
 I was pleasantly surprised to see (as far as I know) the very first

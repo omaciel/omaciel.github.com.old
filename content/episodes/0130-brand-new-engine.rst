@@ -2,7 +2,7 @@ Brand New Engine
 ################
 :slug: brand-new-engine
 :date: 2005-07-22 19:19
-:category:
+:category: English
 :tags: english
 
 Have spent the last 3-4 days re-designing Wicked Reader. I completely

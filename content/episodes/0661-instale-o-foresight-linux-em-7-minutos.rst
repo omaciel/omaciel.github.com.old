@@ -2,7 +2,7 @@ Instale o Foresight Linux em 7 minutos!
 #######################################
 :slug: instale-o-foresight-linux-em-7-minutos
 :date: 2007-10-24 13:21
-:category:
+:category: English
 :tags: portuguese
 
 Isso Ã© o que vocÃª pode esperar da nova versÃ£o do `Foresight

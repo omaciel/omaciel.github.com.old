@@ -2,7 +2,7 @@ Sharing music via Avahi
 #######################
 :slug: sharing-music-via-avahi
 :date: 2006-06-12 14:31
-:category:
+:category: English
 :tags: english
 
 What can I say, it was a busy weekend…Ã‚Â  ;)Ã‚Â  Prior to following my

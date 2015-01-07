@@ -2,7 +2,7 @@ Performancing for Firefox
 #########################
 :slug: performancing-for-firefox
 :date: 2005-12-30 14:46
-:category:
+:category: English
 :tags: english
 
 The other day I was bragging about the new plugin for Firefox 1.5,

@@ -2,7 +2,7 @@ Brincando com o Gcompris
 ########################
 :slug: brincando-com-o-gcompris
 :date: 2007-04-18 20:39
-:category:
+:category: English
 :tags: portuguese
 
 Ontem a noite eu tirei um pouco do meu tempo para empacotar o Gcompris

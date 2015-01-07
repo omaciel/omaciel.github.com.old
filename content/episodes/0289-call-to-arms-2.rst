@@ -2,7 +2,7 @@ Call to arms!
 #############
 :slug: call-to-arms-2
 :date: 2006-05-06 01:22
-:category:
+:category: English
 :tags: english
 
 I’ve been using Firefox for what seems to be a long time now… As a

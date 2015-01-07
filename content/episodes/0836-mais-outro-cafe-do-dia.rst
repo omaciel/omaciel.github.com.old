@@ -2,7 +2,7 @@ Mais outro café do dia
 #######################
 :slug: mais-outro-cafe-do-dia
 :date: 2008-09-04 19:06
-:category:
+:category: English
 :tags: portuguese
 
 Do mesmo pessoal que trouxe o **Frank Sumatra**, apresento o **Bean

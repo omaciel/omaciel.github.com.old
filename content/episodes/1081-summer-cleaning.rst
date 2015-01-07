@@ -2,7 +2,7 @@ Summer Cleaning
 ###############
 :slug: summer-cleaning
 :date: 2011-07-18 01:01
-:category:
+:category: English
 :tags: english
 
 [caption id=”” align=”alignleft” width=”333” caption=”Summer

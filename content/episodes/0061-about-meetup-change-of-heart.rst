@@ -2,7 +2,7 @@ About MeetUp Change of Heart
 ############################
 :slug: about-meetup-change-of-heart
 :date: 2005-04-26 18:59
-:category:
+:category: English
 :tags: english
 
 Recently `MeetUp <http://www.meetup.com>`__, a then **free** group

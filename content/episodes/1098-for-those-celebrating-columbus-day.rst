@@ -2,7 +2,7 @@ For Those "Celebrating" Columbus Day
 ####################################
 :slug: for-those-celebrating-columbus-day
 :date: 2011-10-10 16:28
-:category:
+:category: English
 :tags: english
 
 |Depiction of Spanish atrocities in the New World|

@@ -2,7 +2,7 @@ Extending the default EC2 root partition: Follow up
 ###################################################
 :slug: extending-the-default-ec2-root-partition-follow
 :date: 2012-11-30 02:24
-:category:
+:category: English
 :tags: EC2, english
 
 |EC2 wizard|
