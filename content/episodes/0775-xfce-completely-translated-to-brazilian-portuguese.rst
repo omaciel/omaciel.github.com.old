@@ -10,7 +10,7 @@ desktop environment, well known for being a lighter alternative to
 **GNOME** or **KDE**, is completely translated (upstream) to Brazilian
 Portuguese!
 
-|xfce\_logo|
+|xfce_logo|
 
 A total of over 80 different programs and components off the XFCE and
 Goodies repositories, with over 6000 strings, I believe that XFCE is the
@@ -22,5 +22,5 @@ mas yesterday I finished my research and noticed that all the other
 components were also finished. Now I get to keep my eye on any changes
 that may happen until the 4.4.6 release takes place.
 
-.. |xfce\_logo| image:: http://farm4.static.flickr.com/3045/2496286662_4d79db0dd3_o.png
+.. |xfce_logo| image:: http://farm4.static.flickr.com/3045/2496286662_4d79db0dd3_o.png
    :target: http://www.flickr.com/photos/ogmaciel/2496286662/

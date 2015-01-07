@@ -14,5 +14,4 @@ Firefox 2 Release Schedule
 -  2006/06/19 : Release Candidate 3
 -  2006/06/27 : Firefox 2
 
-| For more info, check
-`here <http://wiki.mozilla.org/Firefox:2.0_Product_Planning:Draft_Plan>`__.
+For more info, check `here <http://wiki.mozilla.org/Firefox:2.0_Product_Planning:Draft_Plan>`__.

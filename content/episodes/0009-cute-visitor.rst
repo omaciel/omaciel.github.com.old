@@ -5,17 +5,19 @@ Cute Visitor
 :category:
 :tags: english
 
-| |image0|
-|  `Cute Visitor <http://www.flickr.com/photos/25563799@N00/5423532/>`__
-|  Originally uploaded by
-`omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+|image0|
 
-| My daughter’s daycare was closed today due to the weather. Eventhough
+`Cute Visitor <http://www.flickr.com/photos/25563799@N00/5423532/>`__
+
+Originally uploaded by `omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+
+My daughter’s daycare was closed today due to the weather. Eventhough
 there’s less than 2 inches of snow on the ground they decided that it
 was safer not to open today. I think they just used a very lame excuse
 to have a day off and since they get paid no matter what, it doesn’t
 hurt them in the pocket.
-|  So today I brought my daughter to work with me for the first time.
+
+So today I brought my daughter to work with me for the first time.
 The poor thing was completely overwhelmed by the number of people who
 crammed my cubicle to say hello. The plan was to keep her entertained
 for 8 hours and do my job at the same time. Less then 3 hours later she

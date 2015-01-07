@@ -17,7 +17,7 @@ of this generic class.
 
 **genericlistview.py**
 
-.. code:: Ã¢â‚¬ÂprettyprintÃ¢â‚¬Â
+.. code::
 
     """
     Copyright (c) 2007, Og Maciel 
@@ -292,7 +292,7 @@ And here is the derived class:
 
 **derivedclass.py**
 
-.. code:: Ã¢â‚¬ÂprettyprintÃ¢â‚¬Â
+.. code::
 
     # -*- coding: utf-8 -*-
 

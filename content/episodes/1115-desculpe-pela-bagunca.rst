@@ -5,7 +5,9 @@ Desculpe Pela Bagunça...
 :category:
 :tags: portuguese, tumblr, wordpress
 
-|Sorry|  Recentemente eu comecei o processo de migrar o meu blog para
+|Sorry|
+
+Recentemente eu comecei o processo de migrar o meu blog para
 o \ `Tumblr <http://ogmaciel.tumblr.com>`__, e ao importar os posts
 antigos do **WordPress** eu sem querer iniciei uma enxurrada onde certos
 agregadores estão mostrando \ **posts de 2007**\ … Ontem eu também

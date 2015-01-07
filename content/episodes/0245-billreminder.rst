@@ -5,10 +5,11 @@ BillReminder
 :category:
 :tags: portuguese
 
-| Ãƒâ€° com um enorme prazer que venho anunciar o “nascimento” oficial
+Ãƒâ€° com um enorme prazer que venho anunciar o “nascimento” oficial
 do `BillReminder <http://billreminder.sourceforge.net/>`__, meu primeiro
 programa para o **Linux** e **Windows**!
-| Escrito completamente em C# / Mono, este aplicativo tem como
+
+Escrito completamente em C# / Mono, este aplicativo tem como
 funÃƒÂ§ÃƒÂ£o principal, servir como uma agenda no desktop de contas a
 serem pagas.  O fato do programa ter sido escrito em C# permite que o
 mesmo possa ser **nativamente** executado tanto no Linux quanto no
@@ -19,20 +20,19 @@ instalado em qualquer computador usando o Linux como sistema
 operacional, colocÃƒÂ¡-lo em um chaveiro USB (jÃƒÂ¡ que ninguÃƒÂ©m mais
 deve usar disketts, nÃƒÂ©?), transferÃƒÂ­-lo para outro computador
 rodando Windows, e executÃƒÂ¡-lo!  E vice-versa!
-| O cÃƒÂ³digo jÃƒÂ¡ estÃƒÂ¡ disponÃƒÂ­vel pelo
+
+O cÃƒÂ³digo jÃƒÂ¡ estÃƒÂ¡ disponÃƒÂ­vel pelo
 `CVS <http://cvs.sourceforge.net/viewcvs.py/billreminder>`__, mas por
 algum motivo ainda nÃƒÂ£o aparece pela funÃƒÂ§ÃƒÂ£o de
 visualizaÃƒÂ§ÃƒÂ£o anÃƒÂ´nima pelo web browser…  A princÃƒÂ­pio, estou
 procurando por contribuintes para as seguintes ÃƒÂ¡reas:
 
 -  Layout do web site;
--  Um logotipo legal para o programa e site (cadÃƒÂª vocÃƒÂª
-   **LedStyle**???);
--  Programadores com alguma experiÃƒÂªncia em OOP, independente da
-   linguagem;
+-  Um logotipo legal para o programa e site (cadÃƒÂª vocÃƒÂª **LedStyle**???);
+-  Programadores com alguma experiÃƒÂªncia em OOP, independente da linguagem;
 -  Empacotadores;
 -  Programadores para converter parte do cÃƒÂ³digo para usar Gtk#;
 -  Programadores para converter o cÃƒÂ³digo para usar Python (cadÃƒÂª
    vocÃƒÂª **Lucas**???);
 
-| Os interessados podem me contactar diretamente pelo meu email.
+Os interessados podem me contactar diretamente pelo meu email.

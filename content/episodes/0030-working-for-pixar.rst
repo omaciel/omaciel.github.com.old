@@ -17,8 +17,8 @@ article describing the working environment there.
     houses laid out along Ã¢â‚¬Å“streets,Ã¢â‚¬Â? each one with an
     address on the door.
 
-|Walking along the Pixar |
+|Walking along the Pixar|
 
 It reminds me of all the places I’ve worked for in the past… :)
 
-.. |Walking along the Pixar | image:: http://www.aintitcool.com/images/pixar/pixar0_large.jpg
+.. |Walking along the Pixar| image:: http://www.aintitcool.com/images/pixar/pixar0_large.jpg

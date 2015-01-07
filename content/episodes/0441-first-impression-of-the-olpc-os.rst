@@ -12,12 +12,14 @@ Child (OLPC), my curiosity got the best of me and I promptly started
 downloading it into my laptop (roughly 180 MB) and waited for my lunch
 break to give it a spin.
 
-|OLPC system|
+..image:: http://static.flickr.com/104/309721351_0013360a38.jpg
+   :target: http://www.flickr.com/photos/25563799@N00/309721351/
 
 The bootup process was very quick, even running on VMWare, and within a
 few seconds I was staring at the desktop.
 
-|OLPC system|
+..image:: http://static.flickr.com/117/309721353_35df8778e7.jpg
+   :target: http://www.flickr.com/photos/25563799@N00/309721353/
 
 The concept for the mechanics of the desktop is “interesting” and, in my
 opinion a bit hard to get used to at first for those of us who have been
@@ -29,13 +31,15 @@ Unfortunately, exploring all the buttons and features was extremely
 painful since the operating system, for some reason, was very slow to
 react to the mouse/border interaction.
 
-|OLPC system|
+..image:: http://static.flickr.com/104/309721355_0e200ab8b1.jpg
+   :target: http://www.flickr.com/photos/25563799@N00/309721355/
 
 During my exploration, I was able to find an instant messenger, a web
 browser, a rss reader (above), a drawing/modeling application, and a
 text editor (below) that I believe to be the new Abiword widget.
 
-|OLPC system|
+..image:: http://static.flickr.com/100/309721354_8b9a6a80b2.jpg
+   :target: http://www.flickr.com/photos/25563799@N00/309721354/
 
 Due to the unexplained slow response of the system and being pretty busy
 at work, I was unable to perform a very thorough test. My initial
@@ -45,11 +49,3 @@ the screen, I believe that this should not be an issue for younger
 computer users. Above all, I think any kid would be extremely happy to
 have a system as cool-looking and chock-full of features as the OLPC!
 
-.. |OLPC system| image:: http://static.flickr.com/104/309721351_0013360a38.jpg
-   :target: http://www.flickr.com/photos/25563799@N00/309721351/
-.. |OLPC system| image:: http://static.flickr.com/117/309721353_35df8778e7.jpg
-   :target: http://www.flickr.com/photos/25563799@N00/309721353/
-.. |OLPC system| image:: http://static.flickr.com/104/309721355_0e200ab8b1.jpg
-   :target: http://www.flickr.com/photos/25563799@N00/309721355/
-.. |OLPC system| image:: http://static.flickr.com/100/309721354_8b9a6a80b2.jpg
-   :target: http://www.flickr.com/photos/25563799@N00/309721354/

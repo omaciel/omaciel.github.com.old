@@ -18,7 +18,7 @@ de como usar essa classe genÃ©rica.
 
 **genericlistview.py**
 
-.. code:: â€prettyprintâ€
+.. code::
 
     """
     Copyright (c) 2007, Og Maciel 
@@ -293,7 +293,7 @@ E a classe derivada:
 
 **derivedclass.py**
 
-.. code:: â€prettyprintâ€
+.. code::
 
     # -*- coding: utf-8 -*-
 

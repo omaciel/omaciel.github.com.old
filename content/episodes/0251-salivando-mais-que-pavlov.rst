@@ -5,7 +5,7 @@ Salivando mais que Pavlov
 :category:
 :tags: portuguese
 
-| Miguel de Icaza anunciou hoje
+Miguel de Icaza anunciou hoje
 `algumas <http://tirania.org/blog/archive/2006/Mar-22.html>`__
 `coisas <http://tirania.org/blog/archive/2006/Mar-23.html>`__
 relacionadas ao Projeto Mono e sobre o futuro lanÃƒÂ§amento da
@@ -21,7 +21,7 @@ mencionar:
 -  Dando um clique duplo em um widget criarÃƒÂ¡ automaticamente o modelo
    de cÃƒÂ³digo para eventos com todos os parÃƒÂ¢metros apropriados;
 
-| O estado do port de WinForms para Mono estÃƒÂ¡ ficando cada dia que
+O estado do port de WinForms para Mono estÃƒÂ¡ ficando cada dia que
 passa mais estÃƒÂ¡vel!  Alguns exemplos citados nos artigos do Miguel
 jÃƒÂ¡ mostram como que certos aplicativos escritos em Windows podem ser
 executados (com mÃƒÂ­nimas alteraÃƒÂ§ÃƒÂµes) no Linux!  Ainda nÃƒÂ£o

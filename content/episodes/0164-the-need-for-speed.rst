@@ -21,11 +21,9 @@ above it), you calmly ask the attendant which train will take you to
 your next destination. The lady, always with the dry smile on her lips,
 promptly replies:
 
-| *[Attendant]:* “Grkn hwher hawomns?”
-| *[You]*: “…uh… I said: Do you know which train would take me to
-[insert city name here]?”
-| *[Attendant]*: “Pkrt hg Grkn hwher hawomns?” (with a puzzled look on
-her face)
+*[Attendant]:* “Grkn hwher hawomns?”
+*[You]*: “…uh… I said: Do you know which train would take me to [insert city name here]?”
+*[Attendant]*: “Pkrt hg Grkn hwher hawomns?” (with a puzzled look on her face)
 
 It turns out you slept through your stop and ended up going across
 several territorial boundaries and arriving at some small country where

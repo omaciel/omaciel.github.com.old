@@ -5,13 +5,13 @@ Gnome Developer Hat Required
 :category:
 :tags: english
 
-| |image0|
-| 
-`cowboy\_hats\_20050411 <http://www.flickr.com/photos/25563799@N00/9415432/>`__
-|  Originally uploaded by
-`omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+|image0|
 
-| When not cranking out code for the `Gnome <http://www.gnome.org>`__ or
+`cowboy\_hats\_20050411 <http://www.flickr.com/photos/25563799@N00/9415432/>`__
+
+Originally uploaded by `omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+
+When not cranking out code for the `Gnome <http://www.gnome.org>`__ or
 `Mono <http://www.mono-project.com>`__ projects, these guys like to do
 what every normal Open Source developer does when they have some free
 time: Hang out at the `OK Corral <http://www.ok-corral.com/>`__.

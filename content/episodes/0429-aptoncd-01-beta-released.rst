@@ -44,12 +44,12 @@ Download
 `Download the APTonCD 0.1beta at download
 page! <https://sourceforge.net/project/showfiles.php?group_id=174934>`__
 
-However, if you’re a developer and is interested in following the
+However, if you're a developer and is interested in following the
 project, you can take a peek at our
 `subversion <http://sourceforge.net/svn/?group_id=174934>`__ repository
 and `browsing <http://svn.sourceforge.net/aptoncd>`__ in to the code. It
 is very simple to get the very latest version:
-``$ svn co https://svn.sourceforge.net/svnroot/aptoncd aptoncd ``
+``$ svn co https://svn.sourceforge.net/svnroot/aptoncd aptoncd``
 
 Development
 ===========

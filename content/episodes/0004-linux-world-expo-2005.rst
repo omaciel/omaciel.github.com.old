@@ -5,13 +5,15 @@ Linux World Expo 2005
 :category:
 :tags: english
 
-| |image0|
-|  `Linux World Expo
+|image0|
+
+`Linux World Expo
 2005 <http://www.flickr.com/photos/25563799@N00/4973307/>`__
-|  Originally uploaded by
+
+Originally uploaded by
 `omaciel <http://www.flickr.com/people/25563799@N00/>`__.
 
-| So here I am standing in front of the Gnome booth. Vinny and I got
+So here I am standing in front of the Gnome booth. Vinny and I got
 here around 1-1:30pm thanks to his awsome navigational skills but were
 able to see every single booth. The environment was very laid back and
 not as “corporate” as last year’s event in NYC. We managed to ask a few

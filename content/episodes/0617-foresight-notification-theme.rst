@@ -5,13 +5,13 @@ Foresight Notification Theme
 :category:
 :tags: english
 
-| |image0|
-| 
-`foresight-notification-theme <http://www.flickr.com/photos/kenvandine/1196043909/>`__
-|  Originally uploaded by
-`kenvandine <http://www.flickr.com/people/kenvandine/>`__
+|image0|
 
-| This one goes to Jonh Wendell who made the suggestion last night!
+`foresight-notification-theme <http://www.flickr.com/photos/kenvandine/1196043909/>`__
+
+Originally uploaded by `kenvandine <http://www.flickr.com/people/kenvandine/>`__
+
+This one goes to Jonh Wendell who made the suggestion last night!
 Critical level notifications will have a red band on the left; Normal
 will sport the light green you see on this screenshot, and Low will have
 a light tan color.

@@ -30,7 +30,7 @@ Here you can see the real Tasks app:
 Sure enough, without making any code change, I was able to run my own
 code as shown below:
 
-|My hacked |
+|My hacked|
 
 Oh, the possibilities!!! Unfortunately that was the last time I touched
 it (due to the reasons already mentioned above), but am very much
@@ -45,5 +45,5 @@ coding, but the N800 will be along… just in case… ;)
 
 .. |Tasks running on the N800| image:: http://farm2.static.flickr.com/1328/838881864_39f72b9083.jpg
    :target: http://www.flickr.com/photos/ogmaciel/838881864/
-.. |My hacked | image:: http://farm2.static.flickr.com/1395/838881844_9b4b1cacfb.jpg
+.. |My hacked| image:: http://farm2.static.flickr.com/1395/838881844_9b4b1cacfb.jpg
    :target: http://www.flickr.com/photos/ogmaciel/838881844/

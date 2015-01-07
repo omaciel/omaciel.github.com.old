@@ -65,7 +65,7 @@ Vamos dar uma olhada no primeiro documento chamado GNOME Control Center.
 Clique no link acima, e salve este arquivo, mantendo seu nome original.
 Agora, abra o seu editor de texto favorito e olhe as seguintes linhas:
 
-.. code:: â€prettyprintâ€
+.. code::
 
     #: C/control-center.xml:11(para)
 
@@ -85,7 +85,7 @@ sua traduÃ§Ã£o deve ser feita. EntÃ£o, no caso da frase acima, vocÃª
 adicionaria sua traduÃ§Ã£o dentro das aspas logo apÃ³s o marcador
 **msgstr**, ficando assim:
 
-.. code:: â€prettyprintâ€
+.. code::
 
     #: C/control-center.xml:11(para)
 

@@ -36,16 +36,13 @@ being hacked and original author of the comments, who is talking here,
 is known as Elch. 127.0.0.1 is always the IP-adress of the computer
 you’re currently using, any request there will return to your computer.
 
-    \* bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) Quit (Ping
-    timeout#)
-     \* bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net) has joined
-    #stopHipHop
+    \* bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) Quit (Ping timeout#)
+    \* bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net) has joined #stopHipHop
     **bitchchecker**: why do you kick me
     **bitchchecker**: can’t you discus normally
     **bitchchecker**: answer!
     **elch**: we didn’t kick you
-    **elch**: you had a ping timeout: \* bitchchecker
-    (~java@euirc-a97f9137.dip.t-dialin.net) Quit (Ping timeout#)
+    **elch**: you had a ping timeout: \* bitchchecker (~java@euirc-a97f9137.dip.t-dialin.net) Quit (Ping timeout#)
     **bitchchecker**: what ping man
     **bitchchecker**: the timing of my pc is right
     **bitchchecker**: i even have dst
@@ -55,47 +52,38 @@ you’re currently using, any request there will return to your computer.
     **hopperhunter \|afk**: shit you’re stupid, DST^^
     **bitchchecker**: shut your mouth WE HAVE DST!
     **bitchchecker**: for two weaks already
-    **bitchchecker**: when you start your pc there is a message from
-    windows that DST is applied.
+    **bitchchecker**: when you start your pc there is a message from windows that DST is applied.
     **elch**: You’re a real computer expert
     **bitchchecker**: shut up i hack you
-    **elch**: ok, i’m quiet, hope you don’t show us how good a hacker
-    you are ^^
+    **elch**: ok, i’m quiet, hope you don’t show us how good a hacker you are ^^
     **bitchchecker**: tell me your network number man then you’re dead
     **elch**: Eh, it’s 129.0.0.1
-    **elch**: or maybe 127.0.0.1v **elch**: yes exactly that’s it:
-    127.0.0.1 I’m waiting for you great attack
+    **elch**: or maybe 127.0.0.1v **elch**: yes exactly that’s it: 127.0.0.1 I’m waiting for you great attack
     **bitchchecker**: in five minutes your hard drive is deleted
     **elch**: Now I’m frightened
     **bitchchecker**: shut up you’ll be gone
-    **bitchchecker**: i have a program where i enter your ip and you’re
-    dead
+    **bitchchecker**: i have a program where i enter your ip and you’re dead
     **bitchchecker**: say goodbye
     **elch**: to whom?
     **bitchchecker**: to you man
     **bitchchecker**: buy buy
     **elch**: I’m shivering thinking about such great Hack0rs like you
-     \* bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net) Quit (Ping
-    timeout#)
+    \* bitchchecker (~java@euirc-61a2169c.dip.t-dialin.net) Quit (Ping timeout#)
 
 What happened is clear: That guy entered his own IP-Adress in his mighty
 Hack-Tool and crashed his own PC. This way, the attack on my PC was a
 failure. I was already starting to think that I did not have to worry,
 but a good hacker never calls it a day. Two minutes later he returned.
 
-    \* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) has joined
-    #stopHipHop
-    **bitchchecker**: dude be happy my pc crashed otherwise you’d be
-    gone
+    \* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) has joined #stopHipHop
+    **bitchchecker**: dude be happy my pc crashed otherwise you’d be gone
     **metanot**: lol
-    **elch**: bitchchecker: Then try hacking me again… I still have the
-    same IP: 127.0.0.1
+    **elch**: bitchchecker: Then try hacking me again… I still have the same IP: 127.0.0.1
     **bitchchecker**: you’re so stupid man
     **bitchchecker**: say buy buy
     **metanot**: ah, [Please control your cussing] off
     **bitchchecker**: buy buy elch
-     \* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) Quit (Ping
-    timeout#)
+    \* bitchchecker (~java@euirc-b5cd558e.dip.t-dialin.net) Quit (Ping timeout#)
 
 There was a tension in the room… Would he manage, after these two
 failures, to crash my PC? I waited. Nothing happened. I felt relieve…

@@ -5,11 +5,11 @@ Yankees Vocabulary
 :category:
 :tags: english
 
-| |Yankees Vocabulary|
-|  Originally uploaded by
-`omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+|Yankees Vocabulary|
 
-| I just had to post this one… Apparently Jim Caple, ESPN.com senior
+Originally uploaded by `omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+
+I just had to post this one… Apparently Jim Caple, ESPN.com senior
 writer, took the time to explain why so many people hate the Yankees
 (I’m actually a Yankees fan). Read an except from his latest book `"The
 Devil Wears

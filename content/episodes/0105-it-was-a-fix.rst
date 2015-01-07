@@ -5,10 +5,10 @@ It Was A Fix
 :category:
 :tags: english
 
-`|You are Windows 95. You look better than your older brother, but your
-communication skills are still lacking. You start well, but often zone
-out.|
-Which OS are You? <http://bbspot.com/News/2003/01/os_quiz.php>`__
- Someone will pay for this! =)
+.. image:: http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/windows_95.jpg
 
-.. |You are Windows 95. You look better than your older brother, but your communication skills are still lacking. You start well, but often zone out.| image:: http://www.bbspot.com/Images/News_Features/2003/01/os_quiz/windows_95.jpg
+You are Windows 95. You look better than your older brother, but your communication skills are still lacking. You start well, but often zone out. `Which OS are You`_?
+
+.. _Which OS are You: http://bbspot.com/News/2003/01/os_quiz.php
+
+ Someone will pay for this! =)

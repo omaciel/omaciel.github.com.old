@@ -5,7 +5,9 @@ Castálio Podcast - Ivan Brasil Fuzzer: Ubuntero
 :category:
 :tags: portuguese, castálio, podcast, ubuntu
 
-|Ivan Brasil Fuzzer: Ubuntero| Olá pessoal e sejam bem-vindos ao segundo
+|Ivan Brasil Fuzzer: Ubuntero|
+
+Olá pessoal e sejam bem-vindos ao segundo
 episódio de 2012! Esta última semana tive a oportunidade de conversar
 com o **Ivan Brasil Fuzzer**, criador e mantenedor do web site de dicas
 e tutoriais  Ubuntero! Junto com uma equipe de colaboradores, o Ivan

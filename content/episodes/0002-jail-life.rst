@@ -5,8 +5,9 @@ Jail Life
 :category:
 :tags: english
 
-| |image0| `Jail
-Life <http://www.flickr.com/photos/25563799@N00/4852540/>`__ Originally
+|image0|
+
+`Jail Life <http://www.flickr.com/photos/25563799@N00/4852540/>`__ Originally
 uploaded by `omaciel <http://www.flickr.com/people/25563799@N00/>`__. No
 word about getting a copy of my database backup yet… In the meantime,
 here’s a (mug) shot of my at my so called “prison cell.” Been here for

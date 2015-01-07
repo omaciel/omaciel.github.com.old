@@ -5,7 +5,7 @@ Linux World Expo - Boston 2006
 :category:
 :tags: portuguese
 
-| O `Linux World
+O `Linux World
 Expo <http://www.linuxworldexpo.com/live/12/events/12BOS06A>`__
 estarÃƒÂ¡ indo para Boston mais uma vez, e este ano tenho o grande
 orgulho de anunciar que eu estarei organizando o estande do Ubuntu

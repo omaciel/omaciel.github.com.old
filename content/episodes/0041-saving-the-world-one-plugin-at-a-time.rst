@@ -5,7 +5,7 @@ Saving The World, One Plugin AT A Time
 :category:
 :tags: english
 
-| Today I added the `Dynamic Text
+Today I added the `Dynamic Text
 Replace <http://www.coffee2code.com/archives/2005/03/29/plugin-dynamic-text-replace/>`__
 plugin for WordPress to my blog. I’m a bit lazy when it comes to writing
 and hate when I cannot do something by using the keyboard only. Or when
@@ -18,7 +18,8 @@ word), all I have to do is use the proper short syntax and the plugin
 will dynamically enter all the necessary html tags and render it to the
 viewer. It has definitely helped me speed up my blog writing and
 elliminates the use of the mouse.
-|  Now, after writing 2 posts today I noticed something peculiar: There
+
+Now, after writing 2 posts today I noticed something peculiar: There
 were new lines inserted into my posts for every time I used a shortcut
 (pseudo-function). I decided to check the developer’s site and leave
 some feedback, when I also noticed that some other people were having

@@ -37,8 +37,8 @@ translating open source software! The only difference is that we usually
 work on a much higher scale… So for those of us working on translations,
 what is your **500**? :)
 
-***My 500**:
-`518005 <http://bugzilla.gnome.org/show_bug.cgi?id=518005>`__ -
-`518006 <http://bugzilla.gnome.org/show_bug.cgi?id=518006>`__ -
-`518007 <http://bugzilla.gnome.org/show_bug.cgi?id=518007>`__ -
-`518008 <http://bugzilla.gnome.org/show_bug.cgi?id=518008>`__*
+**My 500**:
+- `518005 <http://bugzilla.gnome.org/show_bug.cgi?id=518005>`__
+- `518006 <http://bugzilla.gnome.org/show_bug.cgi?id=518006>`__
+- `518007 <http://bugzilla.gnome.org/show_bug.cgi?id=518007>`__
+- `518008 <http://bugzilla.gnome.org/show_bug.cgi?id=518008>`__

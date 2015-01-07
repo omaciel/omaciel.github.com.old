@@ -10,7 +10,7 @@ genericlist I just published? So I chose the
 `Tasks <http://pimlico-project.org/tasks.html>`__ application, written
 in C/C++, as my target. A few minutes later, my “port” was born:
 
-|Tasks |
+|Tasks|
 
 Bigger picture
 `here <http://farm2.static.flickr.com/1004/557214660_9bdbe1a237_o.png>`__.
@@ -20,5 +20,5 @@ right is the real deal! Obviously I didn’t bother writing up the code to
 actually store information, and this exercise was meant to be like the
 penguins in the movie “\ **The Wild**"… to look cute and cuddly. :)
 
-.. |Tasks | image:: http://farm2.static.flickr.com/1004/557214660_75edca1a82.jpg
+.. |Tasks| image:: http://farm2.static.flickr.com/1004/557214660_75edca1a82.jpg
    :target: http://www.flickr.com/photos/25563799@N00/557214660/

@@ -5,8 +5,9 @@ College Diplomacy
 :category:
 :tags: english
 
-| |College diplomacy|
-|  Hehehe… Great strip from
+|College diplomacy|
+
+Hehehe… Great strip from
 `phdcomics.com <http://www.phdcomics.com>`__. Reminded me of my college
 years!
 

@@ -5,7 +5,9 @@ Django Developer Kit 1.2 Release Candidate 1
 :category:
 :tags: english
 
-|Django| I’m really excited to announce the release of my `Django
+|Django|
+
+I’m really excited to announce the release of my `Django
 Developer Kit <http://www.rpath.org/web/project/djangodevkit>`__ 1.2
 RC1! The highlights for this release include the first **Release
 Candidate** for the upcoming **Django 1.2**, as well as a switch of the

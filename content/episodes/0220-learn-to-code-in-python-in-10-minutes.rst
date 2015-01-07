@@ -5,7 +5,7 @@ Learn to code in Python in 10 minutes
 :category:
 :tags: english
 
-| Short and quick 10-minutes
+Short and quick 10-minutes
 `tutorial <http://www.poromenos.org/tutorials/python>`__ about basic
 Python programming syntax that should get you going with this popular
 programming language!

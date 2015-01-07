@@ -1,5 +1,5 @@
-glade_xml_build_interface: assertion `wid != NULL' failed
-#########################################################
+Glade XML Build_interface: assertion failed
+###########################################
 :slug: glade-xml-build-interface-assertion-wid-null-failed
 :date: 2006-01-04 04:05
 :category:

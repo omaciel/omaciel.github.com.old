@@ -5,13 +5,12 @@ Enemy Territory Night
 :category:
 :tags: english
 
-| |image0|
-|  `Enemy Territory
-Night <http://www.flickr.com/photos/25563799@N00/5302784/>`__
-|  Originally uploaded by
-`omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+|image0|
 
-| Every Wednesday night has been “Enemy Territory Night” for Vinny and I
+`Enemy Territory Night <http://www.flickr.com/photos/25563799@N00/5302784/>`__
+Originally uploaded by `omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+
+Every Wednesday night has been “Enemy Territory Night” for Vinny and I
 for quite some time now. I’m a confessed
 `E.T. <http://www.enemy-territory.com>`__ addict and have been known for
 taking just any free second I can squeeze out of my tight daily agenda

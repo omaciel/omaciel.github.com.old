@@ -54,7 +54,7 @@ digerindo todo o primeiro catÃ¡logo de mensagens do GNOME Control Center
 e tenho um grande orgulho de mostrar aqui um pouco do seu trabalho. O
 arquivo original era assim:
 
-.. code:: â€prettyprintâ€
+.. code::
 
     #: C/control-center.xml:27(publishername)
     msgid "GNOME Documentation Project"
@@ -80,7 +80,7 @@ arquivo original era assim:
 
 E o resultado ficou assim:
 
-.. code:: â€prettyprintâ€
+.. code::
 
     #: C/control-center.xml:27(publishername)
     msgid "GNOME Documentation Project"

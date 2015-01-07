@@ -9,8 +9,9 @@ Red Hat: 366 days later (and counting)
 
 Woke up to the following email this morning:
 
-    | Dear Og Maciel,
-    | Congratulations on your one-year anniversary with Red Hat! Thank
+    Dear Og Maciel,
+
+    Congratulations on your one-year anniversary with Red Hat! Thank
     you for your commitment and work over the past year. We hope that it
     has been everything you expected it to be and look forward to
     celebrating your future success with the company.

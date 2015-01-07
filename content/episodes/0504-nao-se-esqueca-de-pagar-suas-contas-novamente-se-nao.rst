@@ -5,7 +5,7 @@ NÃ£o se esqueÃ§a de pagar suas contas novamente, se nÃ£o...
 :category:
 :tags: portuguese
 
-|BillReminder|
+|BillReminder1|
 
 JÃ¡ faz um bom tempo que nÃ£o escrevo nada sobre o meu programa para
 notificaÃ§Ã£o de contas, o
@@ -23,7 +23,7 @@ demorou para aparecer. Como se nÃ£o fosse suficiente, ele decidiu
 trabalhar no sistema de notificaÃ§Ã£o, separado da aplicaÃ§Ã£o principal
 (que jÃ¡ pode ser visto abaixo).
 
-|BillReminder|
+|BillReminder2|
 
 O cÃ³digo Ã© agora tambÃ©m melhor dividido (MVC) para facilitar a
 manutenÃ§Ã£o, o que permitirÃ¡ mais flexibilidade na hora de associar
@@ -39,15 +39,15 @@ especÃ­fica) por seu envolvimento com o projeto atÃ© agora:
 -  Led Style
 -  Vinicius Depizzol
 
-|BillReminder|
+|BillReminder3|
 
 Se alguÃ©m estiver interessado em colaborar com o projeto, seja na
 documentaÃ§Ã£o, traduÃ§Ã£o, web site, etc, Ã© sÃ³ me enviar um e-mail ou
 me procurar no IRC no canal #billreminder da Freenode.
 
-.. |BillReminder| image:: http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg
+.. |BillReminder1| image:: http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg
    :target: http://www.flickr.com/photos/25563799@N00/426001389/
-.. |BillReminder| image:: http://farm1.static.flickr.com/147/425950335_8dabe3ed84.jpg
+.. |BillReminder2| image:: http://farm1.static.flickr.com/147/425950335_8dabe3ed84.jpg
    :target: http://www.flickr.com/photos/25563799@N00/425950335/
-.. |BillReminder| image:: http://farm1.static.flickr.com/163/425950328_95c8541535.jpg
+.. |BillReminder3| image:: http://farm1.static.flickr.com/163/425950328_95c8541535.jpg
    :target: http://www.flickr.com/photos/25563799@N00/425950328/

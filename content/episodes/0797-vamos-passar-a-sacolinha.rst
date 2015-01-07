@@ -5,9 +5,10 @@ Vamos passar a sacolinha!
 :category:
 :tags: portuguese
 
-| **Ajude a sustentar a Wikipédia e outros projetos, sem colocar a mão
+**Ajude a sustentar a Wikipédia e outros projetos, sem colocar a mão
 no bolso, e concorra a um Eee PC!**
-| …e também a pen drives, card drives, camisetas geeks, livros e mais! O
+
+...e também a pen drives, card drives, camisetas geeks, livros e mais! O
 `BR-Linux <http://br-linux.org/>`__ e o
 `Efetividade <http://efetividade.net/>`__ lançaram uma
 `campanha <http://br-linux.org/2008/campanha-wikipedia/>`__ para ajudar

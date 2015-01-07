@@ -5,11 +5,11 @@ Windows Security
 :category:
 :tags: english
 
-| |Windows Security|
-|  Originally uploaded by
-`omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+|Windows Security|
 
-| This goes to say that a picture is worth a thousand words!
+Originally uploaded by `omaciel <http://www.flickr.com/people/25563799@N00/>`__.
+
+This goes to say that a picture is worth a thousand words!
 
 .. |Windows Security| image:: http://photos5.flickr.com/9494745_afc34823fa.jpg
    :target: http://www.flickr.com/photos/25563799@N00/9494745/

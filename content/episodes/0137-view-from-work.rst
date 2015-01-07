@@ -5,8 +5,9 @@ View From Work
 :category:
 :tags: english
 
-| |image0|
-|  Took this picture the day before my surgery. Laptop running Ubuntu
+|image0|
+
+Took this picture the day before my surgery. Laptop running Ubuntu
 Linux allows me to browse with more freedom…
 
 .. |image0| image:: http://photos22.flickr.com/31966817_aaa3bb1898_m.jpg

@@ -13,15 +13,15 @@ an error message: **Oracle[blah blah blah].dll not found**!!!
 
     "So this program you wrote is trying to connect to an Oracle
     database?", I asked.
-     “Yes”.
-     “And what technology are you using to connect?”
-     “Huh???”
-     “Are you using ODP.NET?”
-     “HUH???”
-     “Are you using Oracle Data Provider for .NET?”
-     “Yes.”
-     “Does the client also have it OR have you included it with your
+    “Yes”.
+    “And what technology are you using to connect?”
+    “Huh???”
+    “Are you using ODP.NET?”
+    “HUH???”
+    “Are you using Oracle Data Provider for .NET?”
+    “Yes.”
+    “Does the client also have it OR have you included it with your
     application?”
-     “HUH???”
+    “HUH???”
 
 And on and on it goes…

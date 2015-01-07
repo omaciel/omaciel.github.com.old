@@ -5,10 +5,10 @@ Dia do Pi?  Quero ver o dia do Mol!
 :category:
 :tags: portuguese
 
-| Hoje foi “celebrado” o dia do
+Hoje foi “celebrado” o dia do
 `Pi <http://en.wikipedia.org/wiki/Pi_Day>`__ (sim, pi… aquela constante
-de matemÃƒÂ¡tica Ã?â‚¬ = 3.14 e trocentos nÃƒÂºmeros depois)…  tudo isso
+de matemática Ã?â‚¬ = 3.14 e trocentos nÃƒÂºmeros depois)…  tudo isso
 porque hoje sÃƒÂ£o 14 de marÃƒÂ§o, ou seja: 3.14…
-| Eu quero mesmo ÃƒÂ© celebrar o dia do
+| Eu quero mesmo é celebrar o dia do
 `mol <http://en.wikipedia.org/wiki/Mole_Day>`__:  6:02 10/23! (23 de
 outubro)!  ;)

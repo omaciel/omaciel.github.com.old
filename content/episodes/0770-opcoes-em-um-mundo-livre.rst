@@ -23,9 +23,8 @@ O problema, de acordo com alguns dos autores que se manifestaram na
 lista de discussão reservada somente para os autores do Planeta, foi
 duplo:
 
-• Criticas que poderiam afastar potenciais usuários deste distro; • O
-fato que outra distribuição, Foresight Linux, foi mencionado em um
-terreno obviamente focado no Ubuntu;
+• Criticas que poderiam afastar potenciais usuários deste distro; 
+• O fato que outra distribuição, Foresight Linux, foi mencionado em um terreno obviamente focado no Ubuntu;
 
 A discussão que rolou não foi nada sadia para os envolvidos, e como todo
 flamewar que rola nos bastidores do mundo de software livre, entre
@@ -75,7 +74,7 @@ Então quero aproveitar a oportunidade para fazer a minha sugestão sobre
 qual distribuição, você leitor deste blog, deveria usar segundo a minha
 opinião. Mas opinião é igual… nariz; cada um tem o seu!
 
-• **Ubuntu**: Para quem quer um sistema fácil de instalar e que não
+**Ubuntu**: Para quem quer um sistema fácil de instalar e que não
 requere conhecimento nenhum de sistemas operacionais OU para aqueles que
 não se preoculpam mais com compilar seu sistema para deixá-lo enxuto.
 Este seria o sistema que eu recomendaria ao meu pai! • **Mandriva**:

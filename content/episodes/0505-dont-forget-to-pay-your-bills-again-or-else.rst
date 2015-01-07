@@ -5,7 +5,7 @@ Don't forget to pay your bills again... or else!
 :category:
 :tags: english
 
-|BillReminder|
+|BillReminder1|
 
 It’s been a while since I last wrote about my pet project,
 `BillReminder <http://billreminder.sourceforge.net/>`__, a late and due
@@ -23,7 +23,7 @@ show! As if that wasn’t enough, he took upon himself to write a new
 notification mechanism, detached from the main application (shown
 below).
 
-|BillReminder|
+|BillReminder2|
 
 The code is now better divided (using MVC) to facilitate the assignment
 of new tasks and modules among the developers. Speaking of developers
@@ -38,15 +38,15 @@ people (in no particular order) for their involvement in the project:
 -  Led Style
 -  Vinicius Depizzol
 
-|BillReminder|
+|BillReminder3|
 
 If anyone is interested in giving us a hand, be that documenting,
 translating, re-designing the web site, etc, etc, just send me an email
 or ping me on #billreminder at Freenode.
 
-.. |BillReminder| image:: http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg
+.. |BillReminder1| image:: http://farm1.static.flickr.com/155/426001389_82fe3885b7_m.jpg
    :target: http://www.flickr.com/photos/25563799@N00/426001389/
-.. |BillReminder| image:: http://farm1.static.flickr.com/147/425950335_8dabe3ed84.jpg
+.. |BillReminder2| image:: http://farm1.static.flickr.com/147/425950335_8dabe3ed84.jpg
    :target: http://www.flickr.com/photos/25563799@N00/425950335/
-.. |BillReminder| image:: http://farm1.static.flickr.com/163/425950328_95c8541535.jpg
+.. |BillReminder3| image:: http://farm1.static.flickr.com/163/425950328_95c8541535.jpg
    :target: http://www.flickr.com/photos/25563799@N00/425950328/

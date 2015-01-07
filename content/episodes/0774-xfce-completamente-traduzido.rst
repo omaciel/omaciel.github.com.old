@@ -10,7 +10,7 @@ XFCE Completamente Traduzido
 conhecido por ser uma alternativa mais leve ao **GNOME** ou **KDE**,
 está completamente traduzido para o Português do Brasil!
 
-|xfce\_logo|
+|xfce_logo|
 
 Formado por mais de 80 programas e componentes diferentes, totalizando
 mais de 6000 mensagens, o XFCE deve ser o primeiro ambiente de desktop
@@ -26,5 +26,5 @@ Nos próximos dias estarei trabalhando no processo de importação destas
 traduções nos repositórios do Ubuntu para que os usuários do XFCE possam
 usufruir de um sistema 100% Tupiniquin!
 
-.. |xfce\_logo| image:: http://farm4.static.flickr.com/3045/2496286662_4d79db0dd3_o.png
+.. |xfce_logo| image:: http://farm4.static.flickr.com/3045/2496286662_4d79db0dd3_o.png
    :target: http://www.flickr.com/photos/ogmaciel/2496286662/

@@ -12,7 +12,7 @@ immediately attracted to a picture of the game `World of
 Padman <http://www.worldofpadman.com/>`__, which at first glance seemed
 to be a game for children, but don’t let it fool you.
 
-|World of Padman|
+|World of Padman1|
 
 The first thing I did was watch this
 `video <http://padworld.myexp.de/index.php?news&update_id=55>`__. That
@@ -25,7 +25,7 @@ it yet.
 Well, I downloaded the ~500 MB Linux installer (there’s also installers
 for Windows and Mac) and had it running in only a few minutes.
 
-|World of Padman|
+|World of Padman2|
 
 This is a very fun game and it gives you the impression you’re inside a
 cartoon. Though I only managed to play it for 10 minutes since I had
@@ -34,7 +34,7 @@ their free access point), I can tell you this game has the potential to
 be a very addict game. You may want to consider whether you want your
 child to play it though.
 
-.. |World of Padman| image:: http://farm1.static.flickr.com/220/514976275_e1ae9df8f7_o.jpg
+.. |World of Padman1| image:: http://farm1.static.flickr.com/220/514976275_e1ae9df8f7_o.jpg
    :target: http://www.flickr.com/photos/25563799@N00/514976275/
-.. |World of Padman| image:: http://farm1.static.flickr.com/201/514976269_1c73cf982f_o.jpg
+.. |World of Padman2| image:: http://farm1.static.flickr.com/201/514976269_1c73cf982f_o.jpg
    :target: http://www.flickr.com/photos/25563799@N00/514976269/

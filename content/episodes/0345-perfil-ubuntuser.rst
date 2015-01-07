@@ -30,30 +30,30 @@ Bahia - Brasil **Web site**:
 -  Como vocÃƒÂª participa e quanto horas por dia passa na frente do
    computador?
 
-    - Participo o mÃƒÂ¡ximo que posso… Sei que ÃƒÂ© assim que a
-    comunidade cresce.. com participaÃƒÂ§ÃƒÂ£o! Para quem trabalha com
-    informÃƒÂ¡tica, passo mais de 14 horas na frente de um computer.
+   - Participo o mÃƒÂ¡ximo que posso… Sei que ÃƒÂ© assim que a
+     comunidade cresce.. com participaÃƒÂ§ÃƒÂ£o! Para quem trabalha com
+     informÃƒÂ¡tica, passo mais de 14 horas na frente de um computer.
 
 -  O que vocÃƒÂª espera da prÃƒÂ³xima versÃƒÂ£o do Ubuntu Linux?
 
-    - Espero sempre o melhor.. e como a mesma vem crescendo cada vez
-    mais em nÃƒÂºmero de fÃƒÂ£s, suas novidades sÃƒÂ£o
-    consequÃƒÂªncias.. ;)
+   - Espero sempre o melhor.. e como a mesma vem crescendo cada vez
+     mais em nÃƒÂºmero de fÃƒÂ£s, suas novidades sÃƒÂ£o
+     consequÃƒÂªncias.. ;)
 
 -  Alguma dica para quem estÃƒÂ¡ iniciando na comunidade?
 
-    -Ã‚Â  Acredite em vocÃƒÂª mesmo (sempre), nunca tenha medo de
-    perguntar. (Lembre-se, ninguÃƒÂ©m nasce sabendo) e ajude no que
-    puder (Seu trabalho ÃƒÂ© essencial)
+   - Ã‚Â  Acredite em vocÃƒÂª mesmo (sempre), nunca tenha medo de
+     perguntar. (Lembre-se, ninguÃƒÂ©m nasce sabendo) e ajude no que
+     puder (Seu trabalho ÃƒÂ© essencial)
 
 -  Quais sÃƒÂ£o as aplicaÃƒÂ§ÃƒÂµes que eu encontraria sempre abertas em
    seu PC?
 
-    - Browser, CHAT, Editor de texto e o velho Terminal
+   - Browser, CHAT, Editor de texto e o velho Terminal
 
 -  O que vocÃƒÂª geralmente bebe quando trabalha no computador?
 
-    - CafÃƒÂ© /Ã‚Â  Suco
+   - CafÃƒÂ© /Ã‚Â  Suco
 
 -  Screenshot:
 
@@ -61,21 +61,20 @@ Bahia - Brasil **Web site**:
 
 -  Qual o seu ambiente de ÃƒÂ¡rea de trabalho?
 
-    - Gnome e XFCE
+   - Gnome e XFCE
 
 -  VocÃƒÂª sÃƒÂ³ pode checar uma pÃƒÂ¡gina na web… Qual seria esta
    pÃƒÂ¡gina?
 
-    -
-    `http://planeta.ubuntubrasil.org <http://planeta.ubuntubrasil.org/>`__
+   - `http://planeta.ubuntubrasil.org <http://planeta.ubuntubrasil.org/>`__
 
 -  O que o mundo realmente precisa ÃƒÂ©…?
 
-    - pessoas verdadeiras (em todos os sentidos)
+   - pessoas verdadeiras (em todos os sentidos)
 
 -  Se vocÃƒÂª tivesse de passar um ano em uma ilha deserta e fosse
    permitidolevar um membro da nossa comunidade, quem vocÃƒÂª levaria?
 
-    -Ã‚Â  Existe alguma mulher no grupo? Ã‚Â Ã‚Â  hehehehe
+   - Ã‚Â  Existe alguma mulher no grupo? Ã‚Â Ã‚Â  hehehehe
 
 .. |image0| image:: http://static.flickr.com/75/177413325_3d406d4d20.jpg

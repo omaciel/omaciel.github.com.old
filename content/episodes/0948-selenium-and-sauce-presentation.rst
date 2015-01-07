@@ -5,8 +5,9 @@ Selenium and Sauce presentation
 :category:
 :tags: english
 
-[caption id=”” align=”alignleft” width=”450” caption=”Crayon Test by
-*PauS*\ ”]\ |Crayon Test by \_PauS\_|\ [/caption]
+|Crayon Test by PauS|
+
+Crayon Test by *PauS*
 
 It was with great anticipation that I headed down to Duke University
 North Pavillion to listen to `Frank
@@ -37,5 +38,5 @@ made me want to try Selenium again! And again!
 This was the first time I saw him speak but I sure hope it won’t be the
 last!
 
-.. |Crayon Test by \_PauS\_| image:: http://farm1.static.flickr.com/95/274808215_51854b0261_d.jpg
+.. |Crayon Test by PauS| image:: http://farm1.static.flickr.com/95/274808215_51854b0261_d.jpg
    :target: http://www.flickr.com/photos/kapkap/274808215/
