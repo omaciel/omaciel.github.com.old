@@ -1,0 +1,20 @@
+GUADEC 2007
+###########
+:slug: guadec-2007
+:date: 2007-03-14 22:52
+:category:
+:tags: english
+
+After being harassed by **Mario Danic** for several days to submit a
+paper to this year’s **GUADEC**, I caved in and did it. I had problems
+completing my registration but was rescued in the last minute by `Thomas
+Wood <http://blogs.gnome.org/portal/thos>`__!
+
+If my `paper <http://www.guadec.org/node/601>`__ gets selecte, my talk
+will be titled “Where the streets have no name: Getting more done with
+different localizations teams!”, and it will be based on my personal
+experience in coordinating the joint effort by the Brazilian GNOME and
+Ubuntu Localization teams during our race toward a 100% GNOME 2.18
+Desktop in Brazilian Portuguese.
+
+I’ll keep my fingers crossed! ;)

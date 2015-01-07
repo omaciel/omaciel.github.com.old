@@ -1,0 +1,41 @@
+LWE 2006 - Day 1
+################
+:slug: lwe-2006-day-1
+:date: 2006-04-05 01:50
+:category:
+:tags: english
+
+Pheeeew!Ã‚Â  What an amazing day I had today!Ã‚Â  Got up really early
+and after grabbing a quick breakfast, drove down to South Boston to the
+Linux World Expo at the “new convention center” as it is called around
+here.Ã‚Â  Together with my buddy Vinny, we quickly set things up and got
+it all started by playing some Swing music… the Fedora guys appreciated
+it!Ã‚Â  ;)Ã‚Â  Shortly after people started to come in… at first as a
+slow trickle with a handfull of people stopping by to thank us (in
+behalf of the Ubuntu community) for the great work we’ve done and to
+grab a free copy of the 600 CDs I brought in with me… and then, as a
+stream ravaging stream!Ã‚Â  Holy cow!!!Ã‚Â  We were completely
+surrounded by great people who wanted to tell us how much they liked the
+distribution!Ã‚Â  We had a guy from BitDefender tell us how we were
+“responsible” for him ending a 6 year “relationship” with FreeBSD in
+favor of Ubuntu… or this really nice guy from Novell who proclaimed his
+love for our distro, even though he had access to Suse and Novell’s own
+flavor of Linux!Ã‚Â  Around 1 pm we had already given out most of the
+CDs and were down to the last box of 50!Ã‚Â 
+`Mako <http://mako.cc/copyrighteous/>`__ who happened to be talking to
+people about his upcoming book “The Official Ubuntu Book”, suggested we
+started charging $1 per CD so to make them last a little longer…Ã‚Â  in
+less than 40 minutes those were gone too!
+
+Around 4 pm I finally managed to find some free time to walk around the
+exposition floor and managed to strike a sponsorship deal with `Apress
+Books <http://www.apress.com/>`__ and `Linux Journal
+Magazine <http://linuxjournal.com/>`__, who pledged to provide me with
+free books and subscriptions to some events I’m planning for the near
+future!
+
+Got home late (after stopping by a restaurant on our way back) and
+realized I left my USB cable for my camera at the convention center…
+will have to upload them tomorrow…
+
+Anyone in the Boston area with some spare Breezy CDs please contact me…

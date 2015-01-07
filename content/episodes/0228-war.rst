@@ -1,0 +1,72 @@
+War
+###
+:slug: war
+:date: 2006-02-09 18:42
+:category:
+:tags: portuguese
+
+Quando eu era “pequeno lÃƒÂ¡ em Barbacena,” eu passava horas e horas
+brincando com meus amigos de “war,” um jogo de tabuleiro super divertido
+onde vocÃƒÂª “luta” contra seus adversÃƒÂ¡rios pela conquista de um
+objetivo. Objetivos variam, e podem ser algo como conquistar um certo
+nÃƒÂºmero de paÃƒÂ­ses ou liquidar o exÃƒÂ©rcito de um adversÃƒÂ¡rio.
+Bem, tenho certeza que vocÃƒÂªs sabem o que eu estou falando.
+
+Hoje me deu uma saudade daqueles tempos e resolvi procurar uma
+alternativa do mesmo jogo para o Linux. Como eu jÃƒÂ¡ sabia que o jogo
+em inglÃƒÂªs chama-se Risk, foi Ã…â€ºo olhar no synaptic:
+
+|procurando por risk| A instalaÃƒÂ§ÃƒÂ£o foi super simples, e depois que
+a poeira abaixou, procurei por alguma informaÃƒÂ§ÃƒÂ£o online. Acabei
+encontrando o `site oficial <http://www.tuxick.net/xfrisk>`__ com uma
+documentaÃƒÂ§ÃƒÂ£o bem pobrezinha… Mas fazer o que, nÃƒÂ©? Para jogar
+xfrisk, ÃƒÂ© necessÃƒÂ¡rio primeiramente iniciar um servidor para o
+jogo. Para isso podemos invocÃƒÂ¡-lo pelo console com o comando:
+
+    friskserver
+
+Como o servidor nÃƒÂ£o inicia seu prÃƒÂ³prio thread, vocÃƒÂª pode optar
+por iniciÃƒÂ¡-lo e redirecionar a saÃƒÂ­da para um arquivo, assim:
+
+    friskserver >& log-friskserver &
+
+O servidor fica entÃƒÂ£o aguardando conexÃƒÂµes pela porta 5324/TCP. O
+prÃƒÂ³ximo passo seria entÃƒÂ£o iniciar umas sessÃƒÂµes para
+adversÃƒÂ¡rios controlados pelo programa, para que vocÃƒÂª nÃƒÂ£o jogue
+sozinho. A documentaÃƒÂ§ÃƒÂ£o nÃƒÂ£o deixa bem claro quantos
+adversÃƒÂ¡rios computadorizados vocÃƒÂª pode jogar contra, mas pelo o
+que eu vÃƒÂ­ existem pelo menos 3, que podem ser inicializados assim:
+
+    aiColson localhost >& log-aiColson & aiConway localhost >&
+    log-aiConway & aiDummy localhost >& log-aiDummy &
+
+Pronto, agora podemos conectar no servidor tambÃƒÂ©m para jogar contra
+os 3 adversÃƒÂ¡rios:
+
+    xfrisk localhost
+
+A tela inicial mostra o mapa do mundo e uma janela popup de
+configuraÃƒÂ§ÃƒÂ£o permite que vocÃƒÂª adicione jogadores humanos.
+
+|tela inicial|
+
+Aparentemente, existe a possibilidade de escolher sua “raÃƒÂ§a” mas a
+ÃƒÂºnica opÃƒÂ§ÃƒÂ£o presente foi humana. Caso vocÃƒÂª queira conectar
+ao servidor de outra pessoa (ou algum servidor pÃƒÂºblico), nÃƒÂ£o
+precisamos iniciar o servidor ou conectar os adversÃƒÂ¡rios
+computadorizados, e simplesmente conectamos diretamente:
+
+    xfrisk [servidor]
+
+Agora, basta clicar no botÃƒÂ£o de iniciar:
+
+|image2|
+
+e prepare-se para se defender de seus inimigos!!!
+
+|image3|
+
+.. |procurando por risk| image:: http://static.flickr.com/40/97602148_f53c0b8aaf.jpg
+.. |tela inicial| image:: http://static.flickr.com/28/97602161_5bc54f7237.jpg
+.. |image2| image:: http://static.flickr.com/30/97602164_1b00ad8924.jpg
+.. |image3| image:: http://static.flickr.com/21/97603271_38a23286e0.jpg

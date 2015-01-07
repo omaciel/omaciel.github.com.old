@@ -1,0 +1,125 @@
+FossCamp 2007
+#############
+:slug: fosscamp-2007
+:date: 2007-11-05 16:12
+:category:
+:tags: portuguese
+
+Para aqueles que notaram o meu sumiÃ§o na semana passada, o motivo foi
+que eu estava atendendo a evento
+`FossCamp <http://www.fosscamp.org/HowToAttend>`__ em Boston como um
+representante do `Foresight Linux <http://www.foresightlinux.org/>`__
+(assim como tambÃ©m representando meus prÃ³prios interesses na Ã¡rea de
+localizaÃ§Ã£o e traduÃ§Ã£o. Infelizmente meu amigo
+`Ken <http://ken.vandine.org/>`__ nÃ£o pode ir e eu fiquei encarregado
+da enorme tarefa de conversar com os desenvolvedores sobre o gerente de
+pacotes
+`conary <http://en.wikipedia.org/wiki/Conary_%28package_manager%29>`__.
+
+Meu voo foi super tranquilo com uma parada em NYC onde encontrei com
+minha irmÃ£ mais velha. Depois de comer algo e tomar umas geladas,
+pegamos o aviÃ£o para Boston onde chegamos depois das 17:00. O tempo
+nÃ£o estava nada bom com a temperature bem perto de zero graus quando
+chegamos no hotel.
+
+|My sister and I enjoying some cold ones|
+
+Meu plano era jantar e depois me trancar no quarto para preparar o
+material das minhas duas apresentaÃ§Ãµes (eu queria falar sobre
+traduÃ§Ãµes tambÃ©m alÃ©m de Conary). Para minha surpresa, toda a Ã¡rea
+de Revere (onde ficava o hotel) perdeu energia por mais ou menos 2
+horas, nos deixando sem forma de ficar no quarto ou comer no restaurante
+local. A soluÃ§Ã£o foi pedir uma pizza que chegou perto de 21:00 (hora
+que a energia voltou). NÃ£o preciso nem dizer que depois de um dia cheio
+como esses, eu acabei desmaiando na cama e sÃ³ acordei no dia seguinte.
+
+|Session at FossCamp: Vinny, Jono and I|
+
+A viagem para o Hilton @ MIT onde o FossCamp estava acontecendo demorou
+mais que esperÃ¡vamos, com o nosso taxi se perdendo por uns 20 minutos.
+NÃ³s terÃ­amos demorado mais tempo ainda se nÃ£o fosse por meu amigo
+Vinny que nos resgatou depois que eu o chamei pelo celular pedindi
+direÃ§Ãµes. Alguns minutos depois eu estava no terceiro andar olhando a
+grade de eventos. Sem nenhuma apresentaÃ§Ã£o pronta e com somente uma
+sala disponÃ­vel Ã s 14:30, eu me inscrevi para uma apresentaÃ§Ã£o sobre
+como melhor integrar traduÃ§oes feitas upstream com o sistema Rosetta.
+No lobby do hotel encontrei com um monte de gente que conheci em outros
+eventos como `Jorge <http://stompbox.typepad.com/blog/>`__ e
+`Mirco <http://macslow.thepimp.net/>`__ entre outros.
+
+Eu participei de uma sessÃ£o muito interessante sobre a “construÃ§Ã£o”
+de comunidades do `Jono <http://www.jonobacon.org/>`__ onde eu coloquei
+na mesa algumas de minhas idÃ©ias sobre como melhor integrar as equipes
+de traduÃ§Ãµes e evitar a duplicidade de trabalho. Outro assunto que
+apareceu vÃ¡rias vezes foi o potencial que o programa
+`PackageKit <http://www.packagekit.org/>`__ tem a oferecer nas Ã¡reas de
+“look and feel” e gerenciamento de pacotes em vÃ¡rias distribuiÃ§Ãµes.
+Para falar a verdade, eu escutei o nome do PackageKit sendo usada em
+quase todas as sessÃµes que participei. :)
+
+|My presentation at FossCamp|
+
+No intervalo das sessÃµes eu consegui criar uns 9 slides a tempo da
+minha sessÃ£o. De inÃ­cio eu tinha somente umas 4 pessoas na sala mas
+isso mudou logo e mais pessoas apareceram. Eu fiquei muito feliz em ver
+o `Troy <http://troy-at-kde.livejournal.com/10417.html>`__ Unrau (da
+equipe do KDE) e `Mark
+Shuttleworth <http://www.markshuttleworth.com/>`__ (vocÃªs conhecem esse
+cara? hehehe) entre as pessoas na sala, jÃ¡ que o Troy foi super
+receptivo das minhas idÃ©ias sobre como fazer as equipes traduzindo
+upstream trabalharem juntas, e o Mark ficou bem interessado nas minhas
+idÃ©ias sobre como melhorar o Rosetta (e o relacionamento com as equipes
+upstream). Existe uma discussÃ£o inicial
+`aqui <https://lists.ubuntu.com/archives/launchpad-users/2007-October/002601.html>`__
+e eu vou escrever mais sobre o assunto em breve. Eu tambÃ©m achei um
+tempinho para conversar com o Jorge sobre a criaÃ§Ã£o de uma equipe de
+localizaÃ§Ã£o para ajudar na orientaÃ§Ã£o e organizaÃ§Ã£o das muitas
+equipes de traduÃ§Ã£o atualmente trabalhando nas traduÃ§Ãµes do Ubuntu.
+Minha idÃ©ia Ã© a criaÃ§Ã£o de uma sÃ©rie de documentos e road maps para
+qualquer pessoa fazendo traduÃ§Ãµes e como manter um canal de
+comunicaÃ§Ã£o sempre aberto com as equipes upstream.
+
+|Jorge Castro and Og Maciel|
+
+O resto do dia foi aproveitado assistindo as sessÃµes e conhecendo novas
+pessoas super interessantes, como o `Leo Franchi, Jeff
+Mitchell <http://amarok.kde.org/blog/>`__, e `Robert
+Knight <http://kdemonkey.blogspot.com/>`__ da galera do KDE. NÃ³s
+conversamos um pouco e foi muito gratificante quando fui convidado para
+atender o evento do **LanÃ§amento do KDE 4.0** que vai acontecer no QG
+da Google em Mountain View, CA neste prÃ³ximo janeiro. Ah, eu fui muito
+bom finalmente conhecer o **Adilson Oliveira** ao vivo e a cores
+(jÃ¡ que nos conhecÃ­amos somente via irc)!
+
+|My sister and I enjoying a well deserved lunch|
+
+O segundo dia foi bem mais calmo e eu passei a grande parte do dia
+conversando com pessoas e tentando decidir se eu apresentava ou nÃ£o
+sobre Conary. Mas logo apÃ³s a sessÃ£o sobre o PackageKit pelo Jorge e
+Troy, eu cheguei Ã  conclusÃ£o que eu ainda nÃ£o estava preparado para
+representar (e apresentar) o material de forma apropriada. E jÃ¡ que eu
+tinha meu voo de volta para North Carolina marcado para as 18:35, peguei
+um taxi e cheguei no aeroporto perto das 15:30. Aproveitei o intervalo
+para comer no Legal SeaFoods com minha irmÃ£. Depois de deixÃ¡-la em NYC
+e 1 hora de atraso, acabei chegando em casa pela meia-noite. Perdi mais
+1 hora procurando minha mala mas neste ponto eu jÃ¡ estava muito cansado
+e com sono para me preoculpar. Peguei meu carro e cheguei em casa onde
+desmaiei na cama perto das 2:00.
+
+A viagem definitivamente valeu cada minuto e fui muito bacana
+representar o Foresight no meio dos heavy weights. Um monte de gente
+escutou sobre o Foresight pela primeira vez no fim de semana e alguns
+deles ficaram bem curiosos sobre este “tal” de Conary. Eu realmente
+espero poder fazer este tipo de evento em breve… e na prÃ³xima vez eu
+vou estar preparado para falar mais sobre o conary! :)
+
+.. |My sister and I enjoying some cold ones| image:: http://farm3.static.flickr.com/2211/1806893718_55d3b741fd_o.jpg
+   :target: http://www.flickr.com/photos/ogmaciel/1806893718/
+.. |Session at FossCamp: Vinny, Jono and I| image:: http://farm3.static.flickr.com/2180/1806043089_4f479ddae1_o.jpg
+   :target: http://www.flickr.com/photos/ogmaciel/1806043089/
+.. |My presentation at FossCamp| image:: http://farm3.static.flickr.com/2302/1806043403_29acf063fc_o.jpg
+   :target: http://www.flickr.com/photos/ogmaciel/1806043403/
+.. |Jorge Castro and Og Maciel| image:: http://farm3.static.flickr.com/2030/1806894028_91b7e519a6_o.jpg
+   :target: http://www.flickr.com/photos/ogmaciel/1806894028/
+.. |My sister and I enjoying a well deserved lunch| image:: http://farm3.static.flickr.com/2189/1806044877_0746ea7eaa_o.jpg
+   :target: http://www.flickr.com/photos/ogmaciel/1806044877/

@@ -1,0 +1,22 @@
+0wn3d???
+########
+:slug: 0wn3d
+:date: 2005-08-11 15:42
+:category:
+:tags: english
+
+Today Firefox gave me a major scare when, instead of logging me to my
+website so I could write a post, it took me to
+`http://meta.wikipedia.org <http://meta.wikipedia.org>`__!!! WTF??? I
+then fired up IE and tried it with success! I fugured something was up
+with Firefox but decided to do some more detective work. I successfully
+logged to my web host’s control panel and checked the internet stats for
+the last few days… Boy, was I shocked when I saw this:
+
+|0wn3d|
+
+Id really like to believe that many requests had been performed this
+Wednesday but I highly doubt it. Have emailed my host and asked them to
+investigate.
+
+.. |0wn3d| image:: http://photos22.flickr.com/33178072_f5b383f81f_o.jpg

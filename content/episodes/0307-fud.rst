@@ -1,0 +1,76 @@
+F.U.D.
+######
+:slug: fud
+:date: 2006-05-25 18:56
+:category:
+:tags: portuguese
+
+… ou, como “Duda” Teixeira pecou em seu artigo sobre Software Livre.
+
+Neste ÃƒÂºltimo dia 17 de maio foi publicado pela revista Veja
+(`http://vejaonline.abril.com.br <http://vejaonline.abril.com.br>`__) um
+artigo que gerou bastante controvÃƒÂ©rsia, sobre como a adoÃƒÂ§ÃƒÂ£o de
+alternativas de Software Livre pelo governo brasileiro levou o paÃƒÂ­s
+ÃƒÂ  um declÃƒÂ­nio em seus avanÃƒÂ§os tecnolÃƒÂ³gicos, como tambÃƒÂ©m
+ao gasto desnecessÃƒÂ¡rio com suporte.Ã‚Â  Apesar de pequeno, a mensagem
+enviada pelo artigo do Sr. “Duda” Teixeira foi super clara para o leitor
+brasileiro:Ã‚Â  Software Livre ÃƒÂ© um grande engano!Ã‚Â  Citando
+mÃƒÂºltiplos estudos (fonte nÃƒÂ£o publicada) para suportar suas
+declaraÃƒÂ§ÃƒÂµes, ele continua sua saga em mostrar os “erros” da
+administraÃƒÂ§ÃƒÂ£o do paÃƒÂ­s ao adotar esta polÃƒÂ­tica, proclamando-a
+como “anti-Microsoft” e completamente privada de lÃƒÂ³gica!
+
+Baseado em suas fontes estatÃƒÂ­sticas, vÃƒÂ¡rias companhias que
+trabalhan na ÃƒÂ¡rea de suporte tecnolÃƒÂ³gico foram extremamente
+afetas, jÃƒÂ¡ que seus clientes, agora usando software nÃƒÂ£o
+proprietÃƒÂ¡rio, nÃƒÂ£o precisavam do mesmo nÃƒÂ­vel (ou frequÃƒÂªncia)
+de suporte.Ã‚Â  Hummm, isso nÃƒÂ£o seria visto como uma vantagem para um
+pais onde existem uma separaÃƒÂ§ÃƒÂ£o gritante entre as camadas sociais
+e um “ZÃƒÂ©” da vida mal pode pagar por suas necessidades diÃƒÂ¡rias com
+um ridÃƒÂ­culo salÃƒÂ¡rio mÃƒÂ­nimo???Ã‚Â  Ele tambÃƒÂ©m menciona que
+2000 novos trabalhos foram gerados para suportar a nova “safra” de
+software que foram criados e implementados por todo o paÃƒÂ­s.Ã‚Â 
+EntÃƒÂ£o… gerar novos trabalhos ÃƒÂ© uma coisa ruim???Ã‚Â  Uma outra
+coisa que ele menciona foi que as novas alternativas criadas nÃƒÂ£o eram
+tÃƒÂ£o estÃƒÂ¡veis como as “opÃƒÂ§ÃƒÂµes” proprietÃƒÂ¡rias (leia
+pagas).Ã‚Â  Mais uma vez, nenhuma fonte especÃƒÂ­fica foi fornecida e no
+final o leitor ÃƒÂ© confrontado com uma visÃƒÂ£o super preconceituosa
+sobre o que o mundo de Software Livre tem a oferecer.Ã‚Â  Obviamente,
+qualquer pessoa que possa ler entre as linhas de preconceito e falta de
+conhecimento do assunto, poderÃƒÂ¡ ver que seu objetivo final ÃƒÂ©
+criticar o governo e o presidente, principalmente devido ao circo
+polÃƒÂ­tico que o pais foi exposto depois do fiasco BolÃƒÂ­via-Brasil de
+algumas semanas atrÃƒÂ¡s
+
+Mas eu sou uma pessoa bem tolerÃƒÂ¡vel (quem me conhece sabe disso) e
+vou dar ao Sr. “Duda” o benefÃƒÂ­cio da dÃƒÂºvida.Ã‚Â  InvÃƒÂ©s de
+entrar em um jogo de acusaÃƒÂ§ÃƒÂµes (bem, talves sÃƒÂ³ um pouquinho),
+eu aqui ofereÃƒÂ§o a ele uma oportunidade para defender o seu ponto de
+vista fornecendo um pequeno questionÃƒÂ¡rio, o qual poderÃƒÂ¡ ser
+respondido com toda a paciÃƒÂªncia do mundo, da privacidade de seu lar:
+
+#. O Sr. jÃƒÂ¡ usou o Linux?Ã‚Â  No caso positivo, quando e qual a
+   distribuiÃƒÂ§ÃƒÂ£o?
+#. O Sr. continua usando-o?Ã‚Â  Caso contrÃƒÂ¡rio, por que?
+#. No caso de ter respondido “NÃƒÂ£o” para a pergunta anterior, e
+   assumindo que tenha parado de usar devido a algum problema de
+   suporte, que medidas foram tomadas para tentar resolver o mesmo?
+#. Quais foram as fontes mencionadas em seu artigo?
+#. Quais foram os programas que nÃƒÂ£o estavam estÃƒÂ¡veis (em
+   comparaÃƒÂ§ÃƒÂ£o com suas “alternativas” proprietÃƒÂ¡rias)?Ã‚Â  O Sr.
+   realmente os usou ou aceitou o depoimento de alguÃƒÂ©m?
+#. Se eliminarmos a situaÃƒÂ§ÃƒÂ£o atual da polÃƒÂ­tica brasileira da
+   equaÃƒÂ§ÃƒÂ£o, o Sr. acha que talvez o problema (se houver um) seria
+   no mÃƒÂ©todo de implementaÃƒÂ§ÃƒÂ£o e nÃƒÂ£o necessariamente com o
+   Software Livre?
+#. Lembrando que a Veja ÃƒÂ© uma publicaÃƒÂ§ÃƒÂ£o conhecida por todo o
+   paÃƒÂ­s, e considerando a influÃƒÂªncia que mÃƒÂ­dia exerce sobre as
+   pessoas, se o Sr. fosse aconselhar o leitor de classe mÃƒÂ©dia/baixa
+   que finalmente conseguiu comprar um computador, a comprar um sistema
+   operacional… vocÃƒÂª se sente na posiÃƒÂ§ÃƒÂ£o de fazer uma escolha
+   lÃƒÂ³gica e educada?
+#. O Sr. jÃƒÂ¡ ouviu do programa “US $100 Laptop por CrianÃƒÂ§a”?Ã‚Â 
+   VocÃƒÂª pensa que todos os seus apoiadores estÃƒÂ£o destinados ao
+   fracasso por ter escolhido Software Livre?
+
+Tenho certeza que outras perguntas vÃƒÂ£o aparecer…

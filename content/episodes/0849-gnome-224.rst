@@ -1,0 +1,13 @@
+GNOME 2.24
+##########
+:slug: gnome-224
+:date: 2008-09-24 19:30
+:category:
+:tags: english
+
+|image0|
+
+Congratulations to all parties involved!!! As always, you can count on a
+100% translated Brazilian Portuguese edition!
+
+.. |image0| image:: http://www.gnome.org/img/flash/two-twenty-four.png

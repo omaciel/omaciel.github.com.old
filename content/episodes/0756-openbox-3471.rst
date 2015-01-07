@@ -1,0 +1,15 @@
+Openbox 3.4.7.1
+###############
+:slug: openbox-3471
+:date: 2008-04-18 10:14
+:category:
+:tags: english
+
+|image0|
+
+Openbox just keeps getting better and better! The new support for XDG
+files is just what the doctor recommended. See the full changelog
+`here <http://http//icculus.org/openbox/index.php/Openbox:Changelog>`__.
+
+.. |image0| image:: http://www.ogmaciel.com/wp-content/uploads/2008/04/openbox-300x225.png
+   :target: http://www.ogmaciel.com/wp-content/uploads/2008/04/openbox.png
