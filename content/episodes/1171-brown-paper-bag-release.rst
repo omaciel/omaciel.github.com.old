@@ -1,6 +1,7 @@
 FauxFactory 0.2.1
 #################
 :date:   2014-05-09 17:00:00
+:category: English
 :tags: python, testing, qe
 
 .. figure:: https://farm4.staticflickr.com/3373/3204502310_f8025dbd75_m.jpg

@@ -1,6 +1,7 @@
 FauxFactory 0.3.0
 #################
 :date:   2014-06-30 19:00:00
+:category: English
 :tags: python, testing, qe
 
 Took some time from my vacation and released **FauxFactory 0.3.0** to

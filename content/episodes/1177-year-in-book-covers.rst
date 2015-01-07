@@ -1,6 +1,7 @@
 2014 in Book Covers
 ###################
 :date:   2014-12-31 13:26:00
+:category: English
 :tags: books, goodreads, 2014
 
 For my last post of 2014 I wanted to show, with pictures, the books I

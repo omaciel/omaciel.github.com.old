@@ -1,6 +1,7 @@
 The End For Pylyglot
 ####################
 :date:   2014-07-12 11:20:00
+:category: English
 :tags: translations, life
 
 Background

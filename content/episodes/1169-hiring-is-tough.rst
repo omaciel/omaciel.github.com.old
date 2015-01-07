@@ -1,6 +1,7 @@
 Hiring is Tough!
 ################
 :date:   2014-05-01 18:05:45
+:category: English
 :tags: python, hiring
 
 So I've been trying to hire two python developers to join my automation

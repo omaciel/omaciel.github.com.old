@@ -1,6 +1,7 @@
 FauxFactory 0.2.0
 #################
 :date:   2014-05-08 19:12:00
+:category: English
 :tags: python, testing, qe
 
 Today I'm releasing **FauxFactory 0.2.0** with a new feature, a "Lorem

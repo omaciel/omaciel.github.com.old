@@ -35,5 +35,36 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+STATIC_PATHS = [
+    'extra',
+    'images',
+]
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+}
+
+THEME = './pelican-themes/pelican-bootstrap3'
+PLUGIN_PATHS = ['./pelican-plugins', ]
+PLUGINS = [
+    'summary',
+    'feed_summary',
+    'sitemap',
+]
+SUMMARY_END_MARKER = "<!-- more -->"
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
 # Disqus configuration
 DISQUS_SITENAME = 'journalofanopensourcee'
