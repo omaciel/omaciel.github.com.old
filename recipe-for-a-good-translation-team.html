@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>Recipe for a good translation team - Journal of an Open Sourcee</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://omaciel.github.io/recipe-for-a-good-translation-team.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="english" />
+        <meta name="description" content="A while back I was asked by a member of a Ubuntu translation team (who shall remain anonymous) about how the Brazilian team’s workflow worked and how we managed to maintain our position among the top translated teams in Rosetta. What follows was my reply to this person. I ..." />
+
+    <!-- Enable latex plugin -->
+
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://omaciel.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://omaciel.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://omaciel.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://omaciel.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://omaciel.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Journal of an Open Sourcee ATOM Feed"/>
+        <link href="https://omaciel.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Journal of an Open Sourcee RSS Feed"/>
+
+
+        <link href="https://omaciel.github.io/feeds/english.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Journal of an Open Sourcee English ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://omaciel.github.io/" class="navbar-brand">
+Journal of an Open Sourcee            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="https://omaciel.github.io/category/english.html">English</a>
+                        </li>
+                        <li >
+                            <a href="https://omaciel.github.io/category/portuguese.html">Portuguese</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://omaciel.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://omaciel.github.io/recipe-for-a-good-translation-team.html"
+                       rel="bookmark"
+                       title="Permalink to Recipe for a good translation team">
+                        Recipe for a good translation team
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2008-08-11T18:06:00-04:00"> Mon 11 August 2008</time>
+    </span>
+
+
+
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="https://omaciel.github.io/tag/english.html">english</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>A while back I was asked by a member of a Ubuntu translation team (who
+shall remain anonymous) about how the Brazilian team’s workflow worked
+and how we managed to maintain our position among the top translated
+teams in Rosetta. What follows was my reply to this person. I hope it
+will prove to be useful to any other team out there who may be
+struggling with the same issues. I’m also interested to learn how other
+teams managed to keep their members involved and/or how others can
+benefit from their experience.</p>
+<p>|&gt; Now, the LOCALE translators have some organisation problems and some
+|&gt; problems to find good guys for translating ubuntu. When I saw, how
+|&gt; complete is the brasilian translation i get an idea. Maybe you or
+some |&gt; of the other translators may help us.</p>
+<p>Hi there Anonymous! The translation process of free software has been
+the reason why I joined the masses of the free software world. It is a
+very rewarding experience when you see people being able to take
+advantage of open source software in their native tongue.</p>
+<p>The Brazilian team has proved to be an interesting experience for me. I
+was the second person to take on the lidership of the team, and I’d like
+to offer your my opinion and insight as for why we have managed to grow
+and maintain a pretty decent track of quantity and quality.</p>
+<p>I think that anyone who participates in open source communities likes to
+have a sense of direction and ownership. By that I mean that people like
+to know what is going on, what they can do (but not in generic terms;
+they need specifics) and what the roadmap is. When people see an
+organized team and specific goals set out, it makes them want to
+participate too.</p>
+<p>How can you do this? Simple. Start simple… Schedule IRC meetings on a
+regular basis so people can “update” their status as well as discuss
+priorities and give feedback on what is working and what is not.Â
+Speaking of priority, create a list with the software packages the
+translators should focus on during the period (a weekly sprint?Â
+monthly?) so that once you reach that mark people will have a feeling of
+accomplishment! They will like that feeling, I can guarantee you… and
+they’ll comeback for more!</p>
+<p>Also, set up a wiki where people can put their names next to the
+packages they’re currently working on, so that new collaboratores don’t
+work on the same packages as other people. Set up a program where
+current team members would have to “adopt” a new translator and show
+him/her how everything works, as well as be responsible for reviewing
+and providing feedback. The current member will feel that he he/she has
+ownership of the process and team as a whole, and that is very
+rewarding. The new translator will have a feeling of direction… and that
+is very rewarding as well! It is a very good cycle that can strengthen
+the entire team, no matter if they’re “veterans” or “newbies”.</p>
+<p>Lastly, let everyone know that their word counts! Assign a current
+member as your right hand and share the responsibility of the
+administration of the team (ownership, remember?) It is the job of the
+administrator to make decisions on behalf of the team, but it is just as
+important to heed to the team’s members interests and ideas. Having
+someone who you trust to bounce off ideas is a sure way to make sure you
+stay on track as well.</p>
+<p>As far as how we keep the quality of our translations? Many of our
+members, myself included, work with the upstream teams for GNOME, KDE,
+XFCE, etc and try to stick to their translation standards. I suggest you
+take a look at the following web site:
+<a class="reference external" href="http://www.open-tran.eu">www.open-tran.eu</a>. It is a great service
+that allows you to see what terms the upstream teams are using in their
+translations and allows you to also follow the same pattern.</p>
+<p>Well, these were the things I did back when I was the leader for the
+team. I’m sure the other guys will be able to provide you with some more
+tips.</p>
+
+            </div>
+            <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'journalofanopensourcee'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'recipe-for-a-good-translation-team';
+                var disqus_url = 'https://omaciel.github.io/recipe-for-a-good-translation-team.html';
+
+            var disqus_config = function () {
+                this.language = "en";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3 well well-sm" id="sidebar">
+
+<aside>
+    <section>
+        <ul class="list-group list-group-flush">
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+                  <ul class="list-group" id="social">
+                    <li class="list-group-item"><a href="https://github.com/omaciel"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                    <li class="list-group-item"><a href="https://twitter.com/OgMaciel"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                    <li class="list-group-item"><a href="http://www.linkedin.com/pub/og-maciel/7/425/257/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
+                    <li class="list-group-item"><a href="https://www.goodreads.com/user/show/12048315-og-maciel"><i class="fa fa-goodreads-square fa-lg"></i> GoodReads</a></li>
+                    <li class="list-group-item"><a href="http://instagram.com/ogmaciel"><i class="fa fa-instagram-square fa-lg"></i> Instagram</a></li>
+                  </ul>
+                </li>
+
+
+
+                <li class="list-group-item"><a href="https://omaciel.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                    <ul class="list-group " id="tags">
+                        <li class="list-group-item tag-1">
+                            <a href="https://omaciel.github.io/tag/portuguese.html">
+                                portuguese
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="https://omaciel.github.io/tag/english.html">
+                                english
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/mandriva.html">
+                                mandriva
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/podcast.html">
+                                podcast
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/castalio.html">
+                                castalio
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/python.html">
+                                python
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/ubuntu.html">
+                                ubuntu
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/redhat.html">
+                                redhat
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/books.html">
+                                books
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/clojure.html">
+                                clojure
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/grooveshark.html">
+                                Grooveshark
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/rpath.html">
+                                rpath
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/ec2.html">
+                                EC2
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/wordpress.html">
+                                wordpress
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/translations.html">
+                                translations
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/yum.html">
+                                YUM
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/red-hat.html">
+                                Red Hat
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/testing.html">
+                                testing
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/rpm.html">
+                                RPM
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/emacs.html">
+                                Emacs
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/katello.html">
+                                katello
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/pandora.html">
+                                Pandora
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/cloudforms.html">
+                                CloudForms
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/life.html">
+                                life
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/qe.html">
+                                qe
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/tumblr.html">
+                                Tumblr
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/optparse.html">
+                                optparse
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/after-seeing-there-was-a-spanish-guy-in-the-crowd.html">
+                                after
+seeing there was a Spanish guy in the crowd
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/kindle.html">
+                                kindle
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/eclipse.html">
+                                Eclipse
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/uploaded-it-to-the-repository-for-folks-to-get.html">
+                                uploaded it to the repository for
+folks to get
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-life-is-never-more-fun-than-when-youre-the-underdog-competing-against-the-giants.html">
+                                english
+
+"Life is never more fun than when you’re the underdog competing
+against the giants."
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/hiring.html">
+                                hiring
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-gwibber-is-an-open-source-microblogging-client-for-gnome-developed-with-python-and-gtk-it-supports-twitter.html">
+                                english
+
+Gwibber is an open source
+microblogging client for GNOME developed with Python and GTK. It
+supports Twitter
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/chicks-dig-unix-evilaptop-everyone-knows-that-evilaptop-right-jasonf-thats-almost-as-unattractive-as-someone-who-scripts-festival-to-sing-99-bottles-of-beer-on-the-wall-at-a-party.html">
+                                CHICKS DIG UNIX evilaptop: Everyone knows
+that evilaptop: Right?? JasonF: that’s almost as
+unattractive as someone who scripts festival to sing “99 bottles of
+beer on the wall” at a party
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pesquisador-em-engenharia-de-software-einteligencia-artificial.html">
+                                pesquisador em engenharia de software einteligência
+artificial
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/qa.html">
+                                QA
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/lxml.html">
+                                lxml
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/work.html">
+                                work
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/identica.html">
+                                Identi.ca
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-going-into-physics-was-the-biggest-mistake-of-my-life-i-shouldve-declared-cs-i-still-wouldnt-have-any-women.html">
+                                english
+
+Going into physics was the biggest mistake of my life. I should’ve
+declared CS. I still wouldn’t have any women
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/unc.html">
+                                unc
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/family.html">
+                                family
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/goodreads.html">
+                                goodreads
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/music.html">
+                                Music
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/gnome.html">
+                                gnome
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/but-at-least-id-be-rolling-in-cash.html">
+                                but at least I’d be
+rolling in cash.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/some-spanish-omelettes.html">
+                                some Spanish
+omelettes."
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/brazil-has-also-become-the-first-country-to-require-any-company-or-research-institute-that-receives-government-financing-to-develop-software-to-license-it-as-open-source.html">
+                                Brazil has also become the first country to
+require any company or research institute that receives government
+financing to develop software to license it as open-source
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-looking-to-save-millions-of-dollars-in-royalties-and-licensing-fees.html">
+                                english
+
+Looking to save millions of dollars in royalties and licensing fees
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-struggling-for-self-assurance-over-hidden-angst.html">
+                                english
+
+Struggling for self-assurance over hidden angst
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pypi.html">
+                                PyPi
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/before-the-meeting-is-over-one-of-the-foresight-people-will-have-downloaded-the-source.html">
+                                before the meeting is over
+one of the Foresight people will have downloaded the source
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pylyglot.html">
+                                pylyglot
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/android.html">
+                                Android
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/zite.html">
+                                zite
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/ebook.html">
+                                ebook
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/quotes.html">
+                                quotes
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/fedora.html">
+                                fedora
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/e-criador-de-varios-projetos-feitos-com-software-livre.html">
+                                e criador de vários projetos feitos com software
+livre.”
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/spotify.html">
+                                Spotify
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/vim.html">
+                                vim
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/lein.html">
+                                lein
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/mobi.html">
+                                mobi
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/facebook.html">
+                                Facebook
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/university-of-north-carolina.html">
+                                university of north carolina
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/nc.html">
+                                NC
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/anniversary.html">
+                                anniversary
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/and-it-will-be-available-for-anyone-to-use-its-explicitly-designed-as-a-package-management-system-with-very-little-overhead-to-creating-new-packages.html">
+                                and it will be available for anyone to use. It’s
+explicitly designed as a package management system with very little
+overhead to creating new packages.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/carolina.html">
+                                carolina
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-evilaptop-dude.html">
+                                english
+
+evilaptop: Dude
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pymacs.html">
+                                Pymacs
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/rope.html">
+                                Rope
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/foresight-linux.html">
+                                foresight linux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/fedora-17.html">
+                                Fedora 17
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/professor-do-ifpb.html">
+                                professor do IFPB
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pessoal.html">
+                                pessoal
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/lastfm.html">
+                                Last.fm
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/1-is-fun-and-213-is-star-a-namber-address-is-an-internet-address-that-uses-nambers-for-example.html">
+                                1
+is fun and 213 is star. A namber address is an internet address that
+uses nambers. For example
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/xml.html">
+                                xml
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/nytimes.html">
+                                nytimes
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-patriotism-can-flourish-only-where-racism-and-nationalism-are-given-no-quarter-we-should-never-mistake-patriotism-for-nationalism-a-patriot-is-one-who-loves-his-homeland-a-nationalist-is-one-who-scorns-the-homelands-of-others-johannes-rau.html">
+                                english
+
+"Patriotism can flourish only where racism and nationalism are given
+no quarter. We should never mistake patriotism for nationalism. A
+patriot is one who loves his homeland. A nationalist is one who
+scorns the homelands of others."  Johannes
+Rau
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/who-cooked-delicious-crafaapes-every-morning-he-even-cooked.html">
+                                who
+cooked delicious crÃƒÂªpes every morning. He even cooked
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/portuguese-desta-vez-o-convidado-deste-episodio-nao-e-de-belo-horizonte-durante-uma-quinta-feira-nublada-em-north-carolina.html">
+                                portuguese
+
+"Desta vez o convidado deste episódio não é de Belo Horizonte! :)
+Durante uma quinta-feira nublada em North Carolina
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-those-who-cannot-learn-from-history-are-doomed-to-repeat-it-george-santayana.html">
+                                english
+
+"Those who cannot learn from history are doomed to repeat it."
+George Santayana
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/repl.html">
+                                repl
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/mr-da-silva-has-instructed-government-ministries-and-state-run-companies-to-gradually-switch-from-costly-operating-systems-made-by-microsoft-and-others-to-free-operating-systems.html">
+                                Mr. da Silva has instructed government ministries and state-run
+companies to gradually switch from costly operating systems made by
+Microsoft and others to free operating systems
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/rdio.html">
+                                Rdio
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/stream.html">
+                                Stream
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/tive-uma-chance-de-conversar-com-o-yuri-malheiros.html">
+                                tive uma chance
+de conversar com o Yuri Malheiros
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/politics.html">
+                                politics
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/you-are-highly-adept-and-full-of-surprises-i-find-your-lack-of-faith-disturbing.html">
+                                you are highly
+adept and full of surprises. I find your lack of faith disturbing.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-but-the-best-thing-was-the-chef-nat-had-hired-for-the-week.html">
+                                english
+
+"But the best thing was the chef Nat had hired for the week
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/meaning-the-underlying-software-code-must-be-free-to-all.html">
+                                meaning
+the underlying software code must be free to all.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/2014.html">
+                                2014
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-ive-heard-that-when-the-redhat-developers-present-new-open-source-packages-to-their-local-linux-user-group.html">
+                                english
+
+I’ve heard that when the RedHat developers present new open-source
+packages to their local Linux User-Group
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/created-a-foresight-package.html">
+                                created a Foresight package
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/and-digg.html">
+                                and Digg.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/heroku.html">
+                                Heroku
+                            </a>
+                        </li>
+                    </ul>
+                </li>    
+
+
+
+        </ul>
+    </section>
+
+</aside>        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Og Maciel
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://omaciel.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://omaciel.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://omaciel.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'journalofanopensourcee'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+</body>
+</html>

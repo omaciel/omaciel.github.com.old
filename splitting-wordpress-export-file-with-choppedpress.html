@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>Splitting WordPress Export File with ChoppedPress - Journal of an Open Sourcee</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="https://omaciel.github.io/splitting-wordpress-export-file-with-choppedpress.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="english,lxml,python,optparse,wordpress" />
+        <meta name="description" content="You’re all probably tired of hearing me talking about my script to split the XML-like file that WordPress generates when you use the Export feature. Tonight I have finally added the final touches to it and can now share it here with you. If you don’t remember, I ..." />
+
+    <!-- Enable latex plugin -->
+
+
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://omaciel.github.io/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="https://omaciel.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://omaciel.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://omaciel.github.io/theme/css/style.css" type="text/css"/>
+
+        <link href="https://omaciel.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Journal of an Open Sourcee ATOM Feed"/>
+        <link href="https://omaciel.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Journal of an Open Sourcee RSS Feed"/>
+
+
+        <link href="https://omaciel.github.io/feeds/english.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Journal of an Open Sourcee English ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://omaciel.github.io/" class="navbar-brand">
+Journal of an Open Sourcee            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="https://omaciel.github.io/category/english.html">English</a>
+                        </li>
+                        <li >
+                            <a href="https://omaciel.github.io/category/portuguese.html">Portuguese</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://omaciel.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="https://omaciel.github.io/splitting-wordpress-export-file-with-choppedpress.html"
+                       rel="bookmark"
+                       title="Permalink to Splitting WordPress Export File with ChoppedPress">
+                        Splitting WordPress Export File with ChoppedPress
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2010-04-29T15:00:00-04:00"> Thu 29 April 2010</time>
+    </span>
+
+
+
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="https://omaciel.github.io/tag/english.html">english</a>
+        /
+	<a href="https://omaciel.github.io/tag/lxml.html">lxml</a>
+        /
+	<a href="https://omaciel.github.io/tag/python.html">python</a>
+        /
+	<a href="https://omaciel.github.io/tag/optparse.html">optparse</a>
+        /
+	<a href="https://omaciel.github.io/tag/wordpress.html">wordpress</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p><a class="reference external" href="http://www.flickr.com/photos/802/85806375/"><img alt="Four Views of a Book Press by 802" src="http://bit.ly/aFbsJG" /></a></p>
+<p>You’re all probably tired of hearing me talking about my script to split
+the XML-like file that <strong>WordPress</strong> generates when you use the
+<strong>Export</strong> feature. Tonight I have finally added the final touches to it
+and can now share it here with you.</p>
+<p>If you don’t remember, I wrote it because my good friend <strong>Evandro</strong>
+from <a class="reference external" href="http://www.quartoestudio.com/en/">QuartoEstudio.com</a> is always
+getting asked by some of his clients to migrate an existing web blog to
+a new host/domain and hands him a tarball containing the exported
+content of a <strong>WordPress</strong> blog in <strong>XML</strong> format. The problem resides
+on the issue that some web hosting providers will limit how big a file
+can be uploaded via a POST method, and depending on how big this XML
+file is, you may have to manually break it into smaller files first.</p>
+<p>Along the way I learned a bit more about
+<a class="reference external" href="http://bit.ly/amtEtM">OptParse</a>,
+<a class="reference external" href="http://codespeak.net/lxml/">LXML</a> and <a class="reference external" href="http://www.crummy.com/software/BeautifulSoup/">Beautiful
+Soup</a>, so the entire
+experience was very productive and fun. In the end, I solved my issue by
+simple using the <strong>*strip_cdata=False*</strong> argument to the <strong>XMLParser</strong>
+class. Got to love when the solution is that simple!</p>
+<p>So, without further ado, I present you
+<strong>ChoppedPress</strong>(<a class="reference external" href="https://bitbucket.org/omaciel/playground/raw/2e2a4cef1bac/choppedpress">download</a>)!
+In the next few days (or weeks, depending on what my schedule looks
+like) I will make it more robust and add more error handling, etc. In
+the meantime, I hope you will find it useful.</p>
+<pre class="code python literal-block">
+<span class="c"># -*- coding: utf-8 -*-</span>
+
+<span class="sd">&quot;&quot;&quot;
+Copyright (c) 2010, Og Maciel
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted
+provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+    * Neither the name of the Og Maciel nor the names of its contributors may be used to
+      endorse or promote products derived from this software without specific prior written
+      permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+â€œAS ISâ€ AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+&quot;&quot;&quot;</span>
+
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">sys</span>
+
+<span class="k">try</span><span class="p">:</span>
+    <span class="kn">from</span> <span class="nn">lxml</span> <span class="kn">import</span> <span class="n">etree</span>
+<span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+    <span class="k">print</span> <span class="s">&quot;Please install lxml and try again: http://codespeak.net/lxml/&quot;</span>
+    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="kn">from</span> <span class="nn">optparse</span> <span class="kn">import</span> <span class="n">OptionParser</span>
+
+<span class="c"># This is the default xml tag for wordpress</span>
+<span class="n">WP_TAG</span> <span class="o">=</span> <span class="s">&quot;/rss/channel/item&quot;</span>
+<span class="n">OUTFILE</span> <span class="o">=</span> <span class="s">&quot;outfile&quot;</span>
+<span class="n">CHUNKSIZE</span> <span class="o">=</span> <span class="mi">2</span>
+<span class="n">TMPFILE</span> <span class="o">=</span> <span class="s">&quot;/tmp/template.xml&quot;</span>
+
+<span class="c"># Function found on ActiveState Code</span>
+<span class="c"># Licensed under the PSF license</span>
+<span class="c"># http://code.activestate.com/recipes/425397-split-a-list-into-roughly-equal-sized-pieces/</span>
+<span class="k">def</span> <span class="nf">split_seq</span><span class="p">(</span><span class="n">seq</span><span class="p">,</span> <span class="n">size</span><span class="p">):</span>
+    <span class="n">newseq</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="n">splitsize</span> <span class="o">=</span> <span class="mf">1.0</span><span class="o">/</span><span class="n">size</span><span class="o">*</span><span class="nb">len</span><span class="p">(</span><span class="n">seq</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">size</span><span class="p">):</span>
+            <span class="n">newseq</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">seq</span><span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="n">i</span><span class="o">*</span><span class="n">splitsize</span><span class="p">)):</span><span class="nb">int</span><span class="p">(</span><span class="nb">round</span><span class="p">((</span><span class="n">i</span><span class="o">+</span><span class="mi">1</span><span class="p">)</span><span class="o">*</span><span class="n">splitsize</span><span class="p">))])</span>
+
+    <span class="k">return</span> <span class="n">newseq</span>
+
+<span class="k">def</span> <span class="nf">chopit</span><span class="p">(</span><span class="n">xmlfile</span><span class="p">,</span> <span class="n">outfile</span><span class="o">=</span><span class="n">OUTFILE</span><span class="p">,</span> <span class="n">xmltag</span><span class="o">=</span><span class="n">WP_TAG</span><span class="p">,</span> <span class="n">chunksize</span><span class="o">=</span><span class="n">CHUNKSIZE</span><span class="p">):</span>
+    <span class="n">parser</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">XMLParser</span><span class="p">(</span><span class="n">resolve_entities</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">,</span> <span class="n">strip_cdata</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+    <span class="n">doc</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="n">xmlfile</span><span class="p">,</span> <span class="n">parser</span><span class="p">)</span>
+
+    <span class="n">matches</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="n">xmltag</span><span class="p">)</span>
+    <span class="k">print</span> <span class="s">&quot;Found </span><span class="si">%s</span><span class="s"> blog posts!&quot;</span> <span class="o">%</span> <span class="nb">len</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span>
+    <span class="n">matcheslist</span> <span class="o">=</span> <span class="n">split_seq</span><span class="p">(</span><span class="n">matches</span><span class="p">,</span> <span class="n">chunksize</span><span class="p">)</span>
+
+    <span class="n">channel</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">getroot</span><span class="p">()</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">'channel'</span><span class="p">)</span>
+
+    <span class="c"># Create an empty wordpress xml file</span>
+    <span class="k">for</span> <span class="n">e</span> <span class="ow">in</span> <span class="n">matches</span><span class="p">:</span>
+        <span class="n">channel</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">e</span><span class="p">)</span>
+    <span class="n">doc</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">TMPFILE</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s">&quot;xml&quot;</span><span class="p">,</span> <span class="n">pretty_print</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+
+    <span class="c"># Now, create smaller wordpress xml files</span>
+    <span class="n">ctr</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">matcheslist</span><span class="p">)</span>
+    <span class="k">print</span> <span class="s">&quot;Breaking WordPress XML into </span><span class="si">%s</span><span class="s"> smaller files.&quot;</span> <span class="o">%</span> <span class="n">ctr</span>
+    <span class="k">for</span> <span class="n">entities</span> <span class="ow">in</span> <span class="n">matcheslist</span><span class="p">:</span>
+        <span class="n">doc</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="n">TMPFILE</span><span class="p">)</span>
+        <span class="n">channel</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">getroot</span><span class="p">()</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">'channel'</span><span class="p">)</span>
+        <span class="k">for</span> <span class="n">entity</span> <span class="ow">in</span> <span class="n">entities</span><span class="p">:</span>
+            <span class="n">channel</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">entity</span><span class="p">)</span>
+
+        <span class="n">output</span> <span class="o">=</span> <span class="s">'</span><span class="si">%s%03d</span><span class="s">.xml'</span> <span class="o">%</span> <span class="p">(</span><span class="n">outfile</span><span class="p">,</span> <span class="n">ctr</span><span class="p">)</span>
+        <span class="n">doc</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">output</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">'utf-8'</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s">&quot;xml&quot;</span><span class="p">,</span> <span class="n">pretty_print</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+        <span class="k">print</span> <span class="s">&quot; - File </span><span class="si">%s</span><span class="s"> has </span><span class="si">%s</span><span class="s"> posts.&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">output</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">entities</span><span class="p">))</span>
+        <span class="n">ctr</span> <span class="o">-=</span> <span class="mi">1</span>
+    <span class="k">print</span> <span class="s">&quot;Done!&quot;</span>
+
+<span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+
+    <span class="n">description</span> <span class="o">=</span> <span class="s">&quot;ChoppedPress lets you split the WordPress XML export file &quot;</span>
+    <span class="s">&quot;into smaller files that can be used to import your posts, comments, tags&quot;</span>
+    <span class="s">&quot; and categories into a new WordPress installation.&quot;</span>
+
+    <span class="n">usage</span> <span class="o">=</span> <span class="s">&quot;Usage:  %prog  [[] [] []]&quot;</span>
+    <span class="n">epilog</span> <span class="o">=</span> <span class="s">&quot;Constructive comments and feedback can be sent to ogmaciel at gnome dot org.&quot;</span>
+    <span class="n">version</span> <span class="o">=</span> <span class="s">&quot;%prog version 0.1&quot;</span>
+
+    <span class="n">parser</span> <span class="o">=</span> <span class="n">OptionParser</span><span class="p">(</span><span class="n">usage</span><span class="o">=</span><span class="n">usage</span><span class="p">,</span> <span class="n">description</span><span class="o">=</span><span class="n">description</span><span class="p">,</span> <span class="n">epilog</span><span class="o">=</span><span class="n">epilog</span><span class="p">,</span> <span class="n">version</span><span class="o">=</span><span class="n">version</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-i'</span><span class="p">,</span> <span class="s">'--infile'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'infile'</span><span class="p">,</span> <span class="n">metavar</span><span class="o">=</span><span class="s">''</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'The XML file generated by WordPress'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-o'</span><span class="p">,</span> <span class="s">'--outfile'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'outfile'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="s">'out'</span><span class="p">,</span> <span class="n">metavar</span><span class="o">=</span><span class="s">''</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'The name for the smaller XML files. [default: </span><span class="si">%d</span><span class="s">efault]'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-t'</span><span class="p">,</span> <span class="s">'--tag'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'tag'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="s">'/rss/channel/item'</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'The XML tag that represents your data. [default: </span><span class="si">%d</span><span class="s">efault]'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-n'</span><span class="p">,</span> <span class="s">'--number'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'number'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="nb">type</span><span class="o">=</span><span class="nb">int</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'How many new files should be generated. [default: </span><span class="si">%d</span><span class="s">efault]'</span><span class="p">)</span>
+
+    <span class="c"># Verify arguments</span>
+    <span class="p">(</span><span class="n">opts</span><span class="p">,</span> <span class="n">args</span><span class="p">)</span> <span class="o">=</span> <span class="n">parser</span><span class="o">.</span><span class="n">parse_args</span><span class="p">()</span>
+
+    <span class="k">if</span> <span class="ow">not</span> <span class="n">opts</span><span class="o">.</span><span class="n">infile</span><span class="p">:</span>
+        <span class="n">parser</span><span class="o">.</span><span class="n">print_help</span><span class="p">()</span>
+        <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+
+    <span class="n">chopit</span><span class="p">(</span><span class="n">opts</span><span class="o">.</span><span class="n">infile</span><span class="p">,</span> <span class="n">opts</span><span class="o">.</span><span class="n">outfile</span><span class="p">,</span> <span class="n">opts</span><span class="o">.</span><span class="n">tag</span><span class="p">,</span> <span class="n">opts</span><span class="o">.</span><span class="n">number</span><span class="p">)</span>
+
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;__main__&quot;</span><span class="p">:</span>
+    <span class="n">main</span><span class="p">()</span>
+</pre>
+<p>The usage should be pretty straight forward too:</p>
+<pre class="code python literal-block">
+<span class="err">$</span> <span class="n">python</span> <span class="n">choppedpress</span>
+<span class="n">Usage</span><span class="p">:</span>  <span class="n">choppedpress</span>  <span class="o">&lt;</span><span class="n">INFILE</span><span class="o">&gt;</span> <span class="p">[[</span><span class="o">&lt;</span><span class="n">OUTFILE</span><span class="o">&gt;</span><span class="p">]</span> <span class="p">[</span><span class="o">&lt;</span><span class="n">TAG</span><span class="o">&gt;</span><span class="p">]</span> <span class="p">[</span><span class="o">&lt;</span><span class="n">NUMBER</span><span class="o">&gt;</span><span class="p">]]</span>
+
+<span class="n">ChoppedPress</span> <span class="n">lets</span> <span class="n">you</span> <span class="n">split</span> <span class="n">the</span> <span class="n">WordPress</span> <span class="n">XML</span> <span class="n">export</span> <span class="nb">file</span> <span class="n">into</span> <span class="n">smaller</span> <span class="n">files</span>
+<span class="n">that</span> <span class="n">can</span> <span class="n">be</span> <span class="n">used</span> <span class="n">to</span> <span class="kn">import</span> <span class="nn">your</span> <span class="nn">posts</span><span class="o">,</span> <span class="nn">comments</span><span class="o">,</span> <span class="nn">tags</span> <span class="nn">and</span> <span class="nn">categories</span> <span class="nn">into</span> <span class="nn">a</span>
+<span class="n">new</span> <span class="n">WordPress</span> <span class="n">installation</span><span class="o">.</span>
+
+<span class="n">Options</span><span class="p">:</span>
+  <span class="o">--</span><span class="n">version</span>             <span class="n">show</span> <span class="n">program</span><span class="s">'s version number and exit</span>
+  <span class="o">-</span><span class="n">h</span><span class="p">,</span> <span class="o">--</span><span class="n">help</span>            <span class="n">show</span> <span class="n">this</span> <span class="n">help</span> <span class="n">message</span> <span class="ow">and</span> <span class="nb">exit</span>
+  <span class="o">-</span><span class="n">i</span> <span class="p">,</span> <span class="o">--</span><span class="n">infile</span><span class="o">=</span>
+                        <span class="n">The</span> <span class="n">XML</span> <span class="nb">file</span> <span class="n">generated</span> <span class="n">by</span> <span class="n">WordPress</span>
+  <span class="o">-</span><span class="n">o</span> <span class="p">,</span> <span class="o">--</span><span class="n">outfile</span><span class="o">=</span>
+                        <span class="n">The</span> <span class="n">name</span> <span class="k">for</span> <span class="n">the</span> <span class="n">smaller</span> <span class="n">XML</span> <span class="n">files</span><span class="o">.</span> <span class="p">[</span><span class="n">default</span><span class="p">:</span> <span class="n">out</span><span class="p">]</span>
+  <span class="o">-</span><span class="n">t</span> <span class="n">TAG</span><span class="p">,</span> <span class="o">--</span><span class="n">tag</span><span class="o">=</span><span class="n">TAG</span>     <span class="n">The</span> <span class="n">XML</span> <span class="n">tag</span> <span class="n">that</span> <span class="n">represents</span> <span class="n">your</span> <span class="n">data</span><span class="o">.</span> <span class="p">[</span><span class="n">default</span><span class="p">:</span>
+                        <span class="o">/</span><span class="n">rss</span><span class="o">/</span><span class="n">channel</span><span class="o">/</span><span class="n">item</span><span class="p">]</span>
+  <span class="o">-</span><span class="n">n</span> <span class="n">NUMBER</span><span class="p">,</span> <span class="o">--</span><span class="n">number</span><span class="o">=</span><span class="n">NUMBER</span>
+                        <span class="n">How</span> <span class="n">many</span> <span class="n">new</span> <span class="n">files</span> <span class="n">should</span> <span class="n">be</span> <span class="n">generated</span><span class="o">.</span> <span class="p">[</span><span class="n">default</span><span class="p">:</span> <span class="mi">2</span><span class="p">]</span>
+
+<span class="n">Constructive</span> <span class="n">comments</span> <span class="ow">and</span> <span class="n">feedback</span> <span class="n">can</span> <span class="n">be</span> <span class="n">sent</span> <span class="n">to</span> <span class="n">ogmaciel</span> <span class="n">at</span> <span class="n">gnome</span> <span class="n">dot</span> <span class="n">org</span><span class="o">.</span>
+</pre>
+<p>If you have any constructive comment or suggestion, please drop me a
+line or comment here.</p>
+
+            </div>
+            <!-- /.entry-content -->
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'journalofanopensourcee'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'splitting-wordpress-export-file-with-choppedpress';
+                var disqus_url = 'https://omaciel.github.io/splitting-wordpress-export-file-with-choppedpress.html';
+
+            var disqus_config = function () {
+                this.language = "en";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3 well well-sm" id="sidebar">
+
+<aside>
+    <section>
+        <ul class="list-group list-group-flush">
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+                  <ul class="list-group" id="social">
+                    <li class="list-group-item"><a href="https://github.com/omaciel"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                    <li class="list-group-item"><a href="https://twitter.com/OgMaciel"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                    <li class="list-group-item"><a href="http://www.linkedin.com/pub/og-maciel/7/425/257/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
+                    <li class="list-group-item"><a href="https://www.goodreads.com/user/show/12048315-og-maciel"><i class="fa fa-goodreads-square fa-lg"></i> GoodReads</a></li>
+                    <li class="list-group-item"><a href="http://instagram.com/ogmaciel"><i class="fa fa-instagram-square fa-lg"></i> Instagram</a></li>
+                  </ul>
+                </li>
+
+
+
+                <li class="list-group-item"><a href="https://omaciel.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                    <ul class="list-group " id="tags">
+                        <li class="list-group-item tag-1">
+                            <a href="https://omaciel.github.io/tag/portuguese.html">
+                                portuguese
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="https://omaciel.github.io/tag/english.html">
+                                english
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/mandriva.html">
+                                mandriva
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/podcast.html">
+                                podcast
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/castalio.html">
+                                castalio
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/python.html">
+                                python
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="https://omaciel.github.io/tag/ubuntu.html">
+                                ubuntu
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/redhat.html">
+                                redhat
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/books.html">
+                                books
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/clojure.html">
+                                clojure
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/grooveshark.html">
+                                Grooveshark
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/rpath.html">
+                                rpath
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/ec2.html">
+                                EC2
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/wordpress.html">
+                                wordpress
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/translations.html">
+                                translations
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/yum.html">
+                                YUM
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/red-hat.html">
+                                Red Hat
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/.html">
+                                
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/testing.html">
+                                testing
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/rpm.html">
+                                RPM
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/emacs.html">
+                                Emacs
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/katello.html">
+                                katello
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/pandora.html">
+                                Pandora
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/cloudforms.html">
+                                CloudForms
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/life.html">
+                                life
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/qe.html">
+                                qe
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/tumblr.html">
+                                Tumblr
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-3">
+                            <a href="https://omaciel.github.io/tag/optparse.html">
+                                optparse
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/after-seeing-there-was-a-spanish-guy-in-the-crowd.html">
+                                after
+seeing there was a Spanish guy in the crowd
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/kindle.html">
+                                kindle
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/eclipse.html">
+                                Eclipse
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/uploaded-it-to-the-repository-for-folks-to-get.html">
+                                uploaded it to the repository for
+folks to get
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-life-is-never-more-fun-than-when-youre-the-underdog-competing-against-the-giants.html">
+                                english
+
+"Life is never more fun than when you’re the underdog competing
+against the giants."
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/hiring.html">
+                                hiring
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-gwibber-is-an-open-source-microblogging-client-for-gnome-developed-with-python-and-gtk-it-supports-twitter.html">
+                                english
+
+Gwibber is an open source
+microblogging client for GNOME developed with Python and GTK. It
+supports Twitter
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/chicks-dig-unix-evilaptop-everyone-knows-that-evilaptop-right-jasonf-thats-almost-as-unattractive-as-someone-who-scripts-festival-to-sing-99-bottles-of-beer-on-the-wall-at-a-party.html">
+                                CHICKS DIG UNIX evilaptop: Everyone knows
+that evilaptop: Right?? JasonF: that’s almost as
+unattractive as someone who scripts festival to sing “99 bottles of
+beer on the wall” at a party
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pesquisador-em-engenharia-de-software-einteligencia-artificial.html">
+                                pesquisador em engenharia de software einteligência
+artificial
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/qa.html">
+                                QA
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/lxml.html">
+                                lxml
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/work.html">
+                                work
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/identica.html">
+                                Identi.ca
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-going-into-physics-was-the-biggest-mistake-of-my-life-i-shouldve-declared-cs-i-still-wouldnt-have-any-women.html">
+                                english
+
+Going into physics was the biggest mistake of my life. I should’ve
+declared CS. I still wouldn’t have any women
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/unc.html">
+                                unc
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/family.html">
+                                family
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/goodreads.html">
+                                goodreads
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/music.html">
+                                Music
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/gnome.html">
+                                gnome
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/but-at-least-id-be-rolling-in-cash.html">
+                                but at least I’d be
+rolling in cash.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/some-spanish-omelettes.html">
+                                some Spanish
+omelettes."
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/brazil-has-also-become-the-first-country-to-require-any-company-or-research-institute-that-receives-government-financing-to-develop-software-to-license-it-as-open-source.html">
+                                Brazil has also become the first country to
+require any company or research institute that receives government
+financing to develop software to license it as open-source
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-looking-to-save-millions-of-dollars-in-royalties-and-licensing-fees.html">
+                                english
+
+Looking to save millions of dollars in royalties and licensing fees
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-struggling-for-self-assurance-over-hidden-angst.html">
+                                english
+
+Struggling for self-assurance over hidden angst
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pypi.html">
+                                PyPi
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/before-the-meeting-is-over-one-of-the-foresight-people-will-have-downloaded-the-source.html">
+                                before the meeting is over
+one of the Foresight people will have downloaded the source
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pylyglot.html">
+                                pylyglot
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/android.html">
+                                Android
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/zite.html">
+                                zite
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/ebook.html">
+                                ebook
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/quotes.html">
+                                quotes
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/fedora.html">
+                                fedora
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/e-criador-de-varios-projetos-feitos-com-software-livre.html">
+                                e criador de vários projetos feitos com software
+livre.”
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/spotify.html">
+                                Spotify
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/vim.html">
+                                vim
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/lein.html">
+                                lein
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/mobi.html">
+                                mobi
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/facebook.html">
+                                Facebook
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/university-of-north-carolina.html">
+                                university of north carolina
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/nc.html">
+                                NC
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/anniversary.html">
+                                anniversary
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/and-it-will-be-available-for-anyone-to-use-its-explicitly-designed-as-a-package-management-system-with-very-little-overhead-to-creating-new-packages.html">
+                                and it will be available for anyone to use. It’s
+explicitly designed as a package management system with very little
+overhead to creating new packages.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/carolina.html">
+                                carolina
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-evilaptop-dude.html">
+                                english
+
+evilaptop: Dude
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pymacs.html">
+                                Pymacs
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/rope.html">
+                                Rope
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/foresight-linux.html">
+                                foresight linux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/fedora-17.html">
+                                Fedora 17
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/professor-do-ifpb.html">
+                                professor do IFPB
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/pessoal.html">
+                                pessoal
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/lastfm.html">
+                                Last.fm
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/1-is-fun-and-213-is-star-a-namber-address-is-an-internet-address-that-uses-nambers-for-example.html">
+                                1
+is fun and 213 is star. A namber address is an internet address that
+uses nambers. For example
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/xml.html">
+                                xml
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/nytimes.html">
+                                nytimes
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-patriotism-can-flourish-only-where-racism-and-nationalism-are-given-no-quarter-we-should-never-mistake-patriotism-for-nationalism-a-patriot-is-one-who-loves-his-homeland-a-nationalist-is-one-who-scorns-the-homelands-of-others-johannes-rau.html">
+                                english
+
+"Patriotism can flourish only where racism and nationalism are given
+no quarter. We should never mistake patriotism for nationalism. A
+patriot is one who loves his homeland. A nationalist is one who
+scorns the homelands of others."  Johannes
+Rau
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/who-cooked-delicious-crafaapes-every-morning-he-even-cooked.html">
+                                who
+cooked delicious crÃƒÂªpes every morning. He even cooked
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/portuguese-desta-vez-o-convidado-deste-episodio-nao-e-de-belo-horizonte-durante-uma-quinta-feira-nublada-em-north-carolina.html">
+                                portuguese
+
+"Desta vez o convidado deste episódio não é de Belo Horizonte! :)
+Durante uma quinta-feira nublada em North Carolina
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-those-who-cannot-learn-from-history-are-doomed-to-repeat-it-george-santayana.html">
+                                english
+
+"Those who cannot learn from history are doomed to repeat it."
+George Santayana
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/repl.html">
+                                repl
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/mr-da-silva-has-instructed-government-ministries-and-state-run-companies-to-gradually-switch-from-costly-operating-systems-made-by-microsoft-and-others-to-free-operating-systems.html">
+                                Mr. da Silva has instructed government ministries and state-run
+companies to gradually switch from costly operating systems made by
+Microsoft and others to free operating systems
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/rdio.html">
+                                Rdio
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/stream.html">
+                                Stream
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/tive-uma-chance-de-conversar-com-o-yuri-malheiros.html">
+                                tive uma chance
+de conversar com o Yuri Malheiros
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/politics.html">
+                                politics
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/you-are-highly-adept-and-full-of-surprises-i-find-your-lack-of-faith-disturbing.html">
+                                you are highly
+adept and full of surprises. I find your lack of faith disturbing.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-but-the-best-thing-was-the-chef-nat-had-hired-for-the-week.html">
+                                english
+
+"But the best thing was the chef Nat had hired for the week
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/meaning-the-underlying-software-code-must-be-free-to-all.html">
+                                meaning
+the underlying software code must be free to all.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/2014.html">
+                                2014
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/english-ive-heard-that-when-the-redhat-developers-present-new-open-source-packages-to-their-local-linux-user-group.html">
+                                english
+
+I’ve heard that when the RedHat developers present new open-source
+packages to their local Linux User-Group
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/created-a-foresight-package.html">
+                                created a Foresight package
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/and-digg.html">
+                                and Digg.
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="https://omaciel.github.io/tag/heroku.html">
+                                Heroku
+                            </a>
+                        </li>
+                    </ul>
+                </li>    
+
+
+
+        </ul>
+    </section>
+
+</aside>        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 Og Maciel
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://omaciel.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://omaciel.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://omaciel.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'journalofanopensourcee'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+</body>
+</html>
