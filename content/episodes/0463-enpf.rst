@@ -1,0 +1,21 @@
+ENPF
+####
+:slug: enpf
+:date: 2007-01-22 20:02
+:category:
+:tags: portuguese
+
+Meu amigo SuperToadman me indicou este `Myer-Briggs Test For
+Programmers <http://eggheadcafe.com/articles/mb/default.asp>`__ online
+hoje e eu fiquei adimirado com a exatidao dos resultados!!! O teste
+descreveu de forma bem apurada como que eu me vejo. Pensando bem, eu
+agora posso ver como que estas caracteristicas moldaram a grande maioria
+das minhas decisoes.
+
+De qualquer forma, aqui estao alguns links explicando um pouco melhor
+sobre a “personalidade” ENFP … Alguem que me conhece mais a fundo
+concorda/discorda?
+
+-  `http://eggheadcafe.com/articles/mb/ENFPext.asp <http://eggheadcafe.com/articles/mb/ENFPext.asp>`__
+-  `http://en.wikipedia.org/wiki/ENFP <http://en.wikipedia.org/wiki/ENFP>`__
+

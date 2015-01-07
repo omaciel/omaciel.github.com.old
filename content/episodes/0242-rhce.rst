@@ -1,0 +1,18 @@
+RHCE!!!
+#######
+:slug: rhce
+:date: 2006-03-04 14:28
+:category:
+:tags: portuguese
+
+|RHCE Certificate|
+
+Ufa!!! Finalmente, jÃƒÂ¡ de volta em casa, recebi por email a resposta
+que eu mais queria escutar! Meu certificado ÃƒÂ© **804006215019278** e
+pode ser verificado
+`aqui <https://www.redhat.com/training/certification/verify/?rhce_cert_display:certno=804006215019278&rhce_cert_display:verify_cb=Verify>`__!
+
+Agora, responder um monte de emails que acumularam nos ÃƒÂºltimos 3
+dias! ;)
+
+.. |RHCE Certificate| image:: http://static.flickr.com/37/107602760_cc8a44b32c_o.jpg

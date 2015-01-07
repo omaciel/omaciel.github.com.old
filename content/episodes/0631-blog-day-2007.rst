@@ -1,0 +1,38 @@
+Blog Day 2007
+#############
+:slug: blog-day-2007
+:date: 2007-08-31 16:18
+:category:
+:tags: english
+
+`| |\ BlogDay2007 <http://technorati.com/tag/BlogDay2007>`__
+
+I have just received the news from `Walter
+Cruz <http://devlog.waltercruz.com/>`__ that he chose the Brazilian
+Portuguese version of my blog as one of his favorites for this year’s
+`Blog Day 2007 <http://www.blogday.org/>`__! I was very pleased and
+honored for being selected by such a great guy! ;)
+
+So I’ll join in the fun and will announce a couple of my favorite
+Brazilian blogs. Just a little display that Brazilians have much more to
+offer than Carnaval, beautifull women, and soccer players:
+
+#. `Blog AurÃƒÂ©lio Verde <http://aurelio.wordpress.com/>`__: I really
+   enjoy AurÃƒÂ©lio’s laid back style and stories!
+#. `Fudeblog <http://zyakannazio.eti.br/fudeblog/>`__: Yet another
+   diverse and fun blog by CÃƒÂ©sar Cardoso!
+#. `Simples IdÃƒÂ©ias, por Nando
+   Vieira <http://simplesideias.com.br/>`__ is one of my favorite blogs
+   to catch up on programming tips, with the right amount of tips and
+   code.
+#. `Nerdson nÃƒÂ£o vai ÃƒÂ  escola <http://www.nerdson.com/blog/>`__ is
+   a Brazilian comic strip that always makes me laugh!
+#. `SÃƒÂ©rgio Rafael Lemke <http://sergiorafael.wordpress.com/>`__'s
+   blog has served as a valuable reference for those times someone asks
+   me how to get Ubuntu to perform tricks !
+
+Unfortunately I don’t know their emails right off the top of my head
+(you’re supposed to let them know about your selection, but I’m sure
+they’ll “bump” into this post somehow. :)
+
+.. | | image:: http://static.technorati.com/static/img/pub/icon-utag-16x13.png?tag=BlogDay2007

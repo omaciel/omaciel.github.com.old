@@ -1,0 +1,18 @@
+I Hacked 127.0.0.1
+##################
+:slug: i-hacked-127001
+:date: 2005-04-28 13:39
+:category:
+:tags: english
+
+`Pedro <mailto:ronronchan@9online.fr>`__ has commented on my “A (Not)
+Hacker’s Tale” post that the original web site where the story was
+posted has started selling “I Hacked 127.0.0.1” t-shirts!!! Can anyone
+confirm this??? I haven’t been able to browse the site for it seems
+they’ve been “\ *slashdotted*\ ”. Someone drop me a line…
+
+**Update:** Finally found it!
+
+|I hacked 127.0.0.1 t-shirt|
+
+.. |I hacked 127.0.0.1 t-shirt| image:: http://photos8.flickr.com/11369029_94479b1a03_o.jpg

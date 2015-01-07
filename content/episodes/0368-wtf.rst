@@ -1,0 +1,38 @@
+WTF?
+####
+:slug: wtf
+:date: 2006-08-01 19:54
+:category:
+:tags: portuguese
+
+Ando super atarefado no meu trabalho desde que meu chefe se demitiu
+hÃƒÂ¡ 3 semanas. Para piorar a situaÃƒÂ§ÃƒÂ£o, outro programador
+tambÃƒÂ©m foi embora, me deixando como “herdeiro” de um “programa”
+escrito em Java, agindo como um “wrapper” para chamadas de rotinas em
+Oracle e Sybase, escritas em PL/SQL e T-SQL respectivamente.
+
+Acontece que a cada 3 meses ÃƒÂ© necessÃƒÂ¡rio modificar o cÃƒÂ³digo
+para atender os caprichos dos usuÃƒÂ¡rios principais, e com o passar do
+tempo, o programa virou uma grande “cebola”, com camadas e camadas de
+patches sem documentaÃƒÂ§ÃƒÂ£o nenhuma.
+
+Bem, agora chegou a minha vez de prestar suporte ÃƒÂ  esta danada
+cebola. Existe tanto cÃƒÂ³digo inÃƒÂºtil e sem nexo, que eu poderia
+atÃƒÂ© mesmo escrever um livro de como nÃƒÂ£o escrever um programa.
+Hoje, descobri mais uma “pÃƒÂ©rola” e nÃƒÂ£o pude resistir a chance de
+compartilhar com o mundo! ;) Caso vocÃƒÂª nÃƒÂ£o reconheÃƒÂ§a a “beleza”
+do cÃƒÂ³digo, ignore este post.
+
+**Line 34:**
+
+    update costactual\_cip set phase = ‘\ **FandE**' where phase in
+    ('Cm', 'Scope', 'Design', 'Construction', 'Contingency') and
+    llwnumber in (select llwnumber from projectcip where llw\_type =
+    '**RESOAP**\ ’);
+
+**Line 570:**
+
+    update costactual\_cip set phase = ‘Construction’ where phase in
+    (‘Scope’, ‘Design’, ‘Cm’, ‘Contingency’, ‘\ **FandE**\ ’,
+    ‘Unspecified’) and llwnumber in (select llwnumber from projectcip
+    where llw\_type = ‘\ **RESOAP**\ ’);

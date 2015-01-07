@@ -1,0 +1,24 @@
+VersÃƒÂ£o 3.2
+#################
+:slug: versao-32
+:date: 2006-06-08 14:07
+:category:
+:tags: portuguese
+
+Hoje completo mais um aniversÃƒÂ¡rio, versÃƒÂ£o 3.2!Ã‚Â  Alguns bugs
+foram consertados e o “programa” parece estar um pouco mais robusto.Ã‚Â 
+Novos bugs com certeza irÃƒÂ£o aparecer, e atÃƒÂ© mesmo um “fork” foi
+criado hÃƒÂ¡ quase 5 anos atrÃƒÂ¡s, na forma da minha filha!Ã‚Â  ;)
+
+Este ÃƒÂºltimo ano marcou a minha entrada definitiva ao mundo do
+software livre! Junto a outras pessoas, fundamos o `Planeta Ubuntu
+Brasil <http://planeta.ubuntubrasil.org/>`__ e ajudamos a colocar a
+comunidade `Ubuntu Brasil <http://www.ubuntubrasil.org/>`__ no mapa.Ã‚Â 
+TambÃƒÂ©m fui nomeado administrador da
+`equipe <https://launchpad.net/people/ubuntu-l10n-pt-br>`__ de
+traduÃƒÂ§ÃƒÂµes do Ubuntu Brasil, cargo que tenho extremo orgulho de
+manter!Ã‚Â  Fiz muitos amigos, e entrei em alguns atritos devido ÃƒÂ 
+atitudes administrativas, mas creio que nÃƒÂ£o nenhuma dÃƒÂºvida sobre o
+meu entusiasmo e dedicaÃƒÂ§ÃƒÂ£o pela comunidade.Ã‚Â  Tenho muitos
+planos e aventuras planejados para o prÃƒÂ³ximo ano e espero poder
+relatar aqui os sucessos e fracassos deste sonhador!
