@@ -43,7 +43,7 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
 }
 
-THEME = './pelican-themes/pelican-bootstrap3'
+THEME = './themes/pelican-bootstrap3'
 PLUGIN_PATHS = ['./pelican-plugins', ]
 PLUGINS = [
     'summary',
@@ -68,3 +68,6 @@ SITEMAP = {
 
 # Disqus configuration
 DISQUS_SITENAME = 'journalofanopensourcee'
+
+# Theme serttings
+BOOTSTRAP_THEME = 'united'
