@@ -1,6 +1,6 @@
 Tar Heel Wanna Be
 #################
-:slug: tar-hill-wanna-be
+:slug: tar-heel-wanna-be
 :date: 2005-02-28 04:38
 :category: English
 :tags: tar heel, life, unc

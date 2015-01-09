@@ -1,9 +1,9 @@
 Tar Heel Dreaming
 #################
-:slug: tar-hill-dreaming
+:slug: tar-heel-dreaming
 :date: 2005-03-04 04:25
 :category: English
-:tags: english
+:tags: tar heel, life, unc
 
 Arrived here in North Carolina last night at the Raleigh-Durham airport.
 My younger sister was waiting for me and as soon as we picked up my
