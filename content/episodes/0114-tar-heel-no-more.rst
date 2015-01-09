@@ -3,7 +3,7 @@ Tar Heel No More
 :slug: tar-heel-no-more
 :date: 2005-07-06 15:01
 :category: English
-:tags: english
+:tags: tar heel, life, unc
 
 Once again I avoided mentioning about a very serious job lead I had with
 the `University of North Carolina <http://www.unc.edu>`__ at the Chappel

@@ -3,7 +3,7 @@ Going back to school
 :slug: going-back-to-school
 :date: 2008-07-22 02:56
 :category: English
-:tags: english
+:tags: tar heel, life, school, unc
 
 I can finally talk about my great news: **I’m going back to school this
 Fall**! Everyone who knows me well knows how much I’ve wanted to be a
@@ -18,8 +18,9 @@ setting up interviews with several departments to find out what would
 take for me to go back to school and pursue a higher education (I
 currently hold a BS in Biochemistry from Pace University). Had a great
 meeting with Dr. Blake (I blogged about it
-`here <http://www.ogmaciel.com/?p=16>`__) and started my plan to move my
-family to North Carolina. Back then there were only 3 of us…
+`here <https://omaciel.github.io/tar-heel-dreaming.html>`__) and
+started my plan to move my family to North Carolina. Back then there
+were only 3 of us…
 
 Fast forward 3 years… Chapel Hill has been my home for almost 2 years
 now! In April I was approved into the Continuing Education program and
