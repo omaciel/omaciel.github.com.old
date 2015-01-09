@@ -3,7 +3,7 @@ Tar Heel Wanna Be
 :slug: tar-hill-wanna-be
 :date: 2005-02-28 04:38
 :category: English
-:tags: english
+:tags: tar heel, life, unc
 
 This Wednesday I embark on what may be the most important trip of my
 life: I’ll be visiting and interviewing with the chairs of several
@@ -27,4 +27,4 @@ born with some type of disability and cannot fully enjoy a “normal”
 life. I strongly believe that everyone is *here* for a reason and I want
 to do my best so that the meaning of my being here is to make someone
 else’s life better! Hopefully I will be able to acchieve my goal as a
-Tar Hill!
+Tar Heel!
