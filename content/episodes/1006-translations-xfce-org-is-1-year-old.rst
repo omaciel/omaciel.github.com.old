@@ -3,7 +3,7 @@ Translations.xfce.org is 1 year old
 :slug: translations-xfce-org-is-1-year-old
 :date: 2010-08-17 12:54
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”attachment\_1176” align=”aligncenter” width=”300”
 caption=”Happy Birthday”]\ |Happy Birthday|\ [/caption]

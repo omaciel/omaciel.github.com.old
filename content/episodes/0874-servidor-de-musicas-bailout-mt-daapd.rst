@@ -2,8 +2,8 @@ Servidor de músicas Bailout MT-Daapd
 #####################################
 :slug: servidor-de-musicas-bailout-mt-daapd
 :date: 2009-01-02 17:35
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 No finalzinho do ano passado eu passei alguns dias trabalhando para
 configurar um servidor de músicas bem simples para usar em casa. Como eu

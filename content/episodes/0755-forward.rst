@@ -3,7 +3,7 @@ Forward
 :slug: forward
 :date: 2008-04-17 14:50
 :category: English
-:tags: english
+:tags: rpath
 
 Yesterday’s news about the Suse Appliance Program had me grinning all
 morning long… and I just had to forward what my co-worker

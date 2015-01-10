@@ -3,7 +3,7 @@ Get your oven mittens on because Transifex Pyro is out!
 :slug: get-your-oven-mittens-on-because-transifex-pyro-is-out
 :date: 2009-08-30 17:44
 :category: English
-:tags: english
+:tags: rpath
 
 Last weekend the `Indifex <http://www.indifex.com/>`__ developers
 released the new version of `Transifex <http://www.transifex.org/>`__,

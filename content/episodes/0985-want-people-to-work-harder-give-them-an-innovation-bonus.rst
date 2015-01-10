@@ -3,7 +3,7 @@ Want people to work harder? Give them an innovation bonus!
 :slug: want-people-to-work-harder-give-them-an-innovation-bonus
 :date: 2010-05-21 15:00
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”” align=”alignleft” width=”240” caption=”Can Money Buy Your
 Productivity?”]\ |Money|\ [/caption]

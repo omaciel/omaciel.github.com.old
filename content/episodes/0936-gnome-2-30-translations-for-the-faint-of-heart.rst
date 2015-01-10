@@ -3,7 +3,7 @@ GNOME 2.30 Translations for the Faint of Heart
 :slug: gnome-2-30-translations-for-the-faint-of-heart
 :date: 2010-03-02 03:23
 :category: English
-:tags: english
+:tags: rpath
 
 With the **GNOME 2.30** release just around the corner, translators are
 feverishly working hard to get the desktop completely translated into a

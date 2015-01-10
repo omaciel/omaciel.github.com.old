@@ -3,7 +3,7 @@ Google Highly Open Participation Contest and Translations
 :slug: google-highly-open-participation-contest-and-translation
 :date: 2007-12-19 18:03
 :category: English
-:tags: english
+:tags: rpath
 
 If you’re participating in the `Google Highly Open Participation
 Contest <http://code.google.com/opensource/ghop/2007-8>`__ and is

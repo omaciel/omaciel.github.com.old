@@ -3,7 +3,7 @@ Let the good times roll!
 :slug: let-the-good-times-roll
 :date: 2006-10-03 20:26
 :category: English
-:tags: english
+:tags: rpath, ubuntu
 
 Just a quick note since I still have no internet at home and have been
 busy trying to catch up at my new job:

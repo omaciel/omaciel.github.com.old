@@ -2,8 +2,8 @@ Google Highly Open Participation Contest e TraduÃ§Ãµes
 ##########################################################
 :slug: google-highly-open-participation-contest-e-traducoes-2
 :date: 2007-12-29 22:35
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Se vocÃª estÃ¡ participando do `Google Highly Open Participation
 Contest <http://code.google.com/opensource/ghop/2007-8>`__ e

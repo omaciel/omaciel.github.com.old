@@ -3,7 +3,7 @@ Try the upcoming Openbox 3.4.8
 :slug: try-the-upcoming-openbox-348
 :date: 2008-11-23 17:45
 :category: English
-:tags: english
+:tags: rpath
 
 if you like `Openbox <http://icculus.org/openbox>`__ and want to play
 with the upcoming 3.4.8 version, download the release candidate 1 here:

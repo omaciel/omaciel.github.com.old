@@ -2,8 +2,8 @@ Apresentando o Windmill Appliance
 #################################
 :slug: apresentando-o-windmill-appliance
 :date: 2008-04-14 12:35
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Tenho um grande orgulho em apresentar o lançamento do `Windmill
 Appliance <http://www.rpath.org/rbuilder/project/windmill/releases>`__!

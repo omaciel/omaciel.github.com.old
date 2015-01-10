@@ -3,7 +3,7 @@ My first conary package
 :slug: my-first-conary-package
 :date: 2006-10-05 17:56
 :category: English
-:tags: english
+:tags: rpath, conary
 
 W00t!!! With the help (and lots of patience) from
 `Ken <http://ken.vandine.org/>`__, I was able to cook up my very first

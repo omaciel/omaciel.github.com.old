@@ -3,7 +3,7 @@ Because Your Distro Should Be Cool!
 :slug: because-your-distro-should-be-cool
 :date: 2011-01-24 05:00
 :category: English
-:tags: english
+:tags: rpath
 
 It is with my **Community Manager** hat and as a **Linux enthusiast**
 that I bring you this post about the \ `Foresight

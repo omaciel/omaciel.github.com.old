@@ -3,7 +3,7 @@ A Few Good People
 :slug: a-few-good-people
 :date: 2007-08-19 00:56
 :category: English
-:tags: english
+:tags: rpath
 
 <shameless\_plug>We here at `rPath <http://www.rpath.com/corp>`__ are
 looking for a few good people to join our company. There are a few

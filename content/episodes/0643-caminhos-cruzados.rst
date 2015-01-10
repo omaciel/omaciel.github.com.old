@@ -2,8 +2,8 @@ Caminhos Cruzados
 #################
 :slug: caminhos-cruzados
 :date: 2007-09-12 16:17
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Foi bem interessante ver um
 `artigo <http://www.vnunet.com/vnunet/news/2198483/ubuntu-expands-virtual>`__

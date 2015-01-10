@@ -2,8 +2,8 @@ Veni, Vidi, Vici
 ################
 :slug: veni-vidi-vici
 :date: 2006-09-28 14:26
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath, north carolina, new jersey
 
 Gracas a uma conexao de wireless perto de minha casa, posso escrever uma
 mensagem curta e breve sobre o que tem acontecido com minha vida pessoal

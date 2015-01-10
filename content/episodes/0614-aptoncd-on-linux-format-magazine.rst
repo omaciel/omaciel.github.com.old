@@ -3,7 +3,7 @@ APTonCD on Linux Format Magazine
 :slug: aptoncd-on-linux-format-magazine
 :date: 2007-08-13 02:50
 :category: English
-:tags: english
+:tags: rpath
 
 I was pleasantly surprised to see (as far as I know) the very first
 article written about `APTonCD <http://aptoncd.sourceforge.net/>`__ on

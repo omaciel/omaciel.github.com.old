@@ -3,7 +3,7 @@ Foresight and Conary Updates
 :slug: foresight-and-conary-updates
 :date: 2007-12-13 04:14
 :category: English
-:tags: english
+:tags: rpath
 
 -  First off, for those participating of the `Google Highly Open
    Participation

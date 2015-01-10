@@ -3,7 +3,7 @@ Help sponsor Mercurial development!
 :slug: help-sponsor-mercurial-development
 :date: 2010-04-21 15:00
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”” align=”alignright” width=”240” caption=”Mercurial is the
 bee’s knees”]\ |Buzzy Bee by Louise - Paisley|\ [/caption]

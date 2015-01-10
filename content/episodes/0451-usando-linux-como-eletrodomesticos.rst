@@ -2,8 +2,8 @@ Usando Linux como eletrodomesticos
 ##################################
 :slug: usando-linux-como-eletrodomesticos
 :date: 2006-12-11 17:08
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath, appliance
 
 Hoje um dos meus amigos no trabalho
 `anunciou <http://www.rpath.org/rbuilder/project/login-appliance/release?id=5224>`__

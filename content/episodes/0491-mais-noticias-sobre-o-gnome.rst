@@ -2,8 +2,8 @@ Mais noticias sobre o GNOME!
 ############################
 :slug: mais-noticias-sobre-o-gnome
 :date: 2007-03-07 22:15
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Ok, agora ja’ temos `Live
 CDs <http://www.rpath.org/rbuilder/project/foresight/release?id=5402>`__

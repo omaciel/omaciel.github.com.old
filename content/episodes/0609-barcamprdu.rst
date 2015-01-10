@@ -3,7 +3,7 @@ BarCampRDU
 :slug: barcamprdu
 :date: 2007-08-04 13:24
 :category: English
-:tags: english
+:tags: rpath
 
 So here I am at `BarCampRDU <http://barcamp.org/BarCampRDU>`__, together
 with the `rPath <http://www.rpath.org>`__ crew. Got to meet a few new

@@ -2,8 +2,8 @@ BR-Office empacotado para o Foresight Linux
 ###########################################
 :slug: br-office-packaged-for-foresight-linux
 :date: 2006-10-13 19:25
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath, foresight linux, conary, br-office
 
 Aproveitei o dia hoje para empacotar o
 `Br-Office <http://openoffice.org.br/>`__ para o `Foresight

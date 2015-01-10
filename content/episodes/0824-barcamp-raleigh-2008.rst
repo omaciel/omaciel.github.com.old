@@ -3,7 +3,7 @@ BarCamp Raleigh 2008
 :slug: barcamp-raleigh-2008
 :date: 2008-07-31 20:03
 :category: English
-:tags: english
+:tags: rpath
 
 This weekend I’ll be attending `BarCamp
 Raleigh <http://barcamp.org/BarCampRDU>`__ for the second year in a row.

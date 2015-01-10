@@ -3,7 +3,7 @@ GNOME Developer Kit, follow up
 :slug: gnome-developer-kit-follow-up
 :date: 2010-03-10 05:24
 :category: English
-:tags: english
+:tags: rpath
 
 Just wanted to update everyone who showed interest in the new release of
 `GNOME Developer Kit <http://bit.ly;GNOMEDevKit>`__ I announced

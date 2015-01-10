@@ -3,7 +3,7 @@ Transifex Appliance 1.0 (Proteus) Release
 :slug: transifex-appliance-1-0-proteus-release
 :date: 2010-10-15 23:05
 :category: English
-:tags: english
+:tags: rpath
 
 |Transifex|\ A newer version of the `Transifex
 Appliance <http://bit.ly/Transifex>`__ has been released with all the

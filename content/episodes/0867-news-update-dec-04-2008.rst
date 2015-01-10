@@ -3,7 +3,7 @@ News Update - Dec. 04, 2008
 :slug: news-update-dec-04-2008
 :date: 2008-12-05 06:16
 :category: English
-:tags: english
+:tags: rpath
 
 -  Built a MT-Daapd Linux appliance to share my music at home. Installed
    it in a machine with 1GB of RAM and am now as happy as I can be. The

@@ -3,7 +3,7 @@ Pastebin as a Linux Appliance
 :slug: pastebin-as-a-linux-appliance
 :date: 2006-12-11 16:26
 :category: English
-:tags: english
+:tags: rpath, appliance
 
 My co-worker `Elliot Peele <http://blogs.conary.com/index.php/elliot>`__
 just released the `Pastebin

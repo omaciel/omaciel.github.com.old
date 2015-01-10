@@ -3,7 +3,7 @@ Monoglotism in TurboGears...
 :slug: monoglotism-in-turbogears
 :date: 2006-12-08 04:32
 :category: English
-:tags: english
+:tags: rpath, turbogears, raa
 
 or how the support for localization in `Turbo
 Gears <http://www.turbogears.org/>`__ seems to be borked!

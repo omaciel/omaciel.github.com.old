@@ -3,7 +3,7 @@ Foresight Linux quickie
 :slug: foresight-linux-quickie
 :date: 2009-10-22 13:05
 :category: English
-:tags: english
+:tags: rpath
 
 For those of you out there who are `Foresight
 Linux <http://www.foresightlinux.org>`__ users wondering when the next

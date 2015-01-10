@@ -3,7 +3,8 @@
 :slug: 2006-in-pictures
 :date: 2007-01-01 08:08
 :category: English
-:tags: english
+:tags: rpath, life, 206, books, rhce, billreminder, ubuntu, linux
+       world, united nations
 
 Well, after going almost 2 weeks with a very nasty cold, I got better
 just in time for the new year! This has proven to be a rather eventfull

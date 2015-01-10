@@ -3,7 +3,7 @@ O ano de 2006 em fotos!
 :slug: o-ano-de-2006-em-fotos
 :date: 2007-01-02 19:47
 :category: English
-:tags: portuguese
+:tags: rpath
 
 Bem, depois de quase 2 semanas doente com um resfriado horrÃ­vel, eu
 melhorei em tempo para o ano novo! Este ano (passado) de 2006 provou ter

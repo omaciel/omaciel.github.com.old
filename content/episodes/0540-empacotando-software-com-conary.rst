@@ -2,8 +2,8 @@ Empacotando software com Conary
 ###############################
 :slug: empacotando-software-com-conary
 :date: 2007-04-26 01:49
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Muitas pessoas jÃ¡ tinham me pedido para escrever um pequeno tutorial
 sobre como empacotar software para o `Foresight

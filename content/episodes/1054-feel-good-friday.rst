@@ -3,7 +3,7 @@ Feel Good Friday
 :slug: feel-good-friday
 :date: 2011-03-25 15:13
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”attachment\_1379” align=”alignleft” width=”180”
 caption=”Feel Good”]\ |Feel Good|\ [/caption]

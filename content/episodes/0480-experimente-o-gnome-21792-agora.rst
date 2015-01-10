@@ -2,8 +2,8 @@ Experimente o GNOME 2.17.92 agora!
 ##################################
 :slug: experimente-o-gnome-21792-agora
 :date: 2007-03-02 15:01
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Quer ver como esta’ o GNOME 2.18 agora mas nao quer esperar ate’ o dia
 de lancamento? So’ de pensar em compilar codigo direto da fonte te deixa

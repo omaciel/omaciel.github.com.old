@@ -3,7 +3,7 @@ You know you're using too much Vi when...
 :slug: you-know-youre-using-too-much-vi-when
 :date: 2007-07-19 19:55
 :category: English
-:tags: english
+:tags: rpath
 
 … you press ESC after filling out web forms!
 

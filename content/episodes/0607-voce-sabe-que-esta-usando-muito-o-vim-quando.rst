@@ -2,8 +2,8 @@ VocÃª sabe que estÃ¡ usando muito o Vim quando...
 #####################################################
 :slug: voce-sabe-que-esta-usando-muito-o-vim-quando
 :date: 2007-07-20 02:56
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 … vocÃª aperta a tecla ESC depois de preencher um formulÃ¡rio na web!
 

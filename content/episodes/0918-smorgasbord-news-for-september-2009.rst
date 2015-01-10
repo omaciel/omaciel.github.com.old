@@ -3,7 +3,7 @@ SmÃ¶rgÃ¥sbord News for September 2009
 :slug: smorgasbord-news-for-september-2009
 :date: 2009-09-30 03:00
 :category: English
-:tags: english
+:tags: rpath
 
 It’s been a while since I last wrote anything on my blog so here are
 some interesting nuggets:

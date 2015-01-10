@@ -3,7 +3,7 @@ Adding Vinagre to Conary
 :slug: adding-vinagre-to-conary
 :date: 2007-09-14 01:14
 :category: English
-:tags: english
+:tags: rpath
 
 Tonight during our `TriLUG <http://www.trilug.org/>`__ meeting,
 `Ken <http://ken.vandine.org/>`__ packaged

@@ -3,7 +3,7 @@ Red Hat: The First 3 Months
 :slug: red-hat-the-first-3-months
 :date: 2012-03-08 17:15
 :category: English
-:tags: english, redhat, rPath, CloudForms, YUM, RPM
+:tags: rpath
 
 |Picture wearing my Red Hat fedora hat.|\ This past Feb. 5th I was
 greeted early in the morning with the following email:

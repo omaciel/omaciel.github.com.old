@@ -3,7 +3,7 @@ Foresight Linux KDE Edition: The start of the odyssey!
 :slug: foresight-linux-kde-edition-the-start-of-the-odyssey
 :date: 2007-11-14 02:56
 :category: English
-:tags: english
+:tags: rpath
 
 As I mentioned in my previous post, I decided to give KDE a chance on my
 home system. For the last 5 days I’ve been neck deep in KDE land, with

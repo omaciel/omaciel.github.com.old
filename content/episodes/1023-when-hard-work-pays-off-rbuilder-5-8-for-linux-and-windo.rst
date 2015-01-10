@@ -3,7 +3,7 @@ When Hard Work Pays Off: rBuilder 5.8 for Linux and Windows
 :slug: when-hard-work-pays-off-rbuilder-5-8-for-linux-and-windo
 :date: 2010-11-30 20:33
 :category: English
-:tags: english
+:tags: rpath
 
 It’s been a while since I last wrote anything here, mainly because I
 have been working very hard on a very cool project for work that I can

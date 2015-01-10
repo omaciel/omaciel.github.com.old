@@ -3,7 +3,7 @@ Milestones and Events
 :slug: milestones-and-events
 :date: 2007-10-03 13:20
 :category: English
-:tags: english
+:tags: rpath
 
 Quick post to mention a couple of personal milestones and events:
 

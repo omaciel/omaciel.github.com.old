@@ -3,10 +3,9 @@ Life at rPath: 4+ Years And Counting
 :slug: life-at-rpath-4-years-and-counting
 :date: 2011-03-07 06:37
 :category: English
-:tags: english
+:tags: rpath, north carolina, chapel hill, weaver street market, conary
 
-[caption id=”attachment\_1358” align=”alignleft” width=”467”
-caption=”The Road”]\ |The Road|\ [/caption]
+|The Road|
 
 It was around the end of 2006. Having spent most of my life living in
 the New Jersey - New York axis and close to my family, I bought a

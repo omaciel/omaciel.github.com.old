@@ -2,8 +2,8 @@ Usando o Dropbox com o Openbox
 ##############################
 :slug: usando-o-dropbox-com-o-openbox
 :date: 2009-01-03 18:32
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Dando continuidade ao
 `post <http://vladimirmelo.wordpress.com/2009/01/03/dropbox-simples-e-eficiente/>`__

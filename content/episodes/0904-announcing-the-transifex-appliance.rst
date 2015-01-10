@@ -3,7 +3,7 @@ Announcing the Transifex Appliance
 :slug: announcing-the-transifex-appliance
 :date: 2009-05-20 17:11
 :category: English
-:tags: english
+:tags: rpath
 
 Does your role within a project have you asking the following questions?
 

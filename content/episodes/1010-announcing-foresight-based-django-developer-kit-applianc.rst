@@ -3,7 +3,7 @@ Announcing: Foresight based Django Developer Kit Appliance RC1
 :slug: announcing-foresight-based-django-developer-kit-applianc
 :date: 2010-09-15 02:03
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”attachment\_1194” align=”alignleft” width=”300”
 caption=”Foresight Linux based Django Developer Kit

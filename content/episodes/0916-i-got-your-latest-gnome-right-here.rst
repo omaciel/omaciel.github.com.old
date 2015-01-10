@@ -3,7 +3,7 @@ I got your latest GNOME right here!
 :slug: i-got-your-latest-gnome-right-here
 :date: 2009-07-30 21:22
 :category: English
-:tags: english
+:tags: rpath
 
 Just wanted to re-enforce what
 `Zhang <http://blog.zhangsen.org/2009/07/release-gnome-developer-kit-22720090727.html>`__

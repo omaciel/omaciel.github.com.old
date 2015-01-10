@@ -3,7 +3,7 @@ Django Devel Kit Appliance 1.2.3
 :slug: django-devel-kit-appliance-1-2-3
 :date: 2010-09-11 19:24
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”attachment\_1191” align=”alignleft” width=”300”
 caption=”Oops!”]\ |Oops!|\ [/caption]

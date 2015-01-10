@@ -3,7 +3,7 @@ Crossing Paths
 :slug: crossing-paths
 :date: 2007-09-12 16:07
 :category: English
-:tags: english
+:tags: rpath
 
 It was interesting to see an
 `article <http://www.vnunet.com/vnunet/news/2198483/ubuntu-expands-virtual>`__

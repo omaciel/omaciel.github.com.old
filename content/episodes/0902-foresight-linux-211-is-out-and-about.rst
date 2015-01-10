@@ -3,7 +3,7 @@ Foresight Linux 2.1.1 is out and about!
 :slug: foresight-linux-211-is-out-and-about
 :date: 2009-05-15 16:48
 :category: English
-:tags: english
+:tags: rpath
 
 It is with great pleasure that I announce the release of `Foresight
 2.1.1 <http://www.foresightlinux.org>`__. Well known for being a desktop

@@ -3,7 +3,7 @@ Churning away
 :slug: churning-away
 :date: 2007-03-07 22:11
 :category: English
-:tags: english
+:tags: rpath
 
 Ok, so we now have `Live
 CDs <http://www.rpath.org/rbuilder/project/foresight/release?id=5402>`__

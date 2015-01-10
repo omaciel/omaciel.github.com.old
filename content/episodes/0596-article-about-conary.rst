@@ -3,7 +3,7 @@ Article about Conary
 :slug: article-about-conary
 :date: 2007-06-27 15:51
 :category: English
-:tags: english
+:tags: rpath
 
 Had a really nice surprise waiting for me today at work in the form of
 an envelope covered with Brazilian postal stamps.

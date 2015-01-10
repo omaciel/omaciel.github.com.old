@@ -3,7 +3,7 @@ Django Developer Kit 1.2.1
 :slug: django-developer-kit-1-2-1
 :date: 2010-05-25 15:09
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”attachment\_1038” align=”alignleft” width=”117”
 caption=”Django”]\ |Django|\ [/caption]

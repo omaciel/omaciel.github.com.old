@@ -3,7 +3,7 @@ Django Developer Kit Appliance: First Steps
 :slug: django-developer-kit-appliance-first-steps
 :date: 2010-03-17 02:15
 :category: English
-:tags: english
+:tags: rpath
 
 I’ll make it quick so I can go back to watching TV:
 

@@ -3,7 +3,7 @@ Django Developer Kit Appliance 1.2.2
 :slug: django-developer-kit-appliance-1-2-2
 :date: 2010-09-10 20:58
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”attachment\_1188” align=”alignleft” width=”300”
 caption=”Foresight Django Pony”]\ |Foresight Django Pony|\ [/caption]

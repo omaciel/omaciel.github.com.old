@@ -3,7 +3,7 @@ Ditching MySQL for PostgreSQL
 :slug: ditching-mysql-for-postgresql
 :date: 2009-12-12 05:27
 :category: English
-:tags: english
+:tags: rpath
 
 In order to better follow what the
 `Transifex <http://www.transifex.org>`__ guys are doing with their

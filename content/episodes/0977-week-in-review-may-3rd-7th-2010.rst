@@ -3,7 +3,7 @@ Week in Review: May 3rd - 7th, 2010
 :slug: week-in-review-may-3rd-7th-2010
 :date: 2010-05-08 15:00
 :category: English
-:tags: english
+:tags: rpath
 
 [caption id=”” align=”aligncenter” width=”286” caption=”Week in
 Review”]\ |Week in Review|\ [/caption]

@@ -2,8 +2,8 @@ ApresentaÃ§Ã£o ao Planeta Mandriva Brasil
 #############################################
 :slug: apresentacao-ao-planeta-mandriva-brasil
 :date: 2008-01-12 22:14
-:category: English
-:tags: portuguese
+:category: Portuguese
+:tags: rpath
 
 Fui gentilmente convidado a participar do `Planeta Mandriva
 Brasil <http://planeta.mandriva-br.org/>`__, e pensei: Por que nÃ£o me

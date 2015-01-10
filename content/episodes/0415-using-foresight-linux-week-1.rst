@@ -3,7 +3,7 @@ Using Foresight Linux:  Week 1
 :slug: using-foresight-linux-week-1
 :date: 2006-10-11 20:56
 :category: English
-:tags: english
+:tags: rpath, foresight linux, conary
 
 Been using `Foresight Linux <http://foresightlinux.com/>`__ at work for
 the last 8 days and am pretty impressed with the stability and community

@@ -3,7 +3,7 @@ MIA / POW
 :slug: mia-pow
 :date: 2007-07-17 15:50
 :category: English
-:tags: english
+:tags: rpath
 
 That is, Missing In Action / Prisoner Of **WORK**! Here at
 `rPath <http://www.rpath.com/corp/>`__ we work based on iteration

@@ -3,7 +3,7 @@ My Own Personal Translation Portal in the Cloud
 :slug: my-own-personal-translation-portal-in-the-cloud
 :date: 2009-12-04 21:43
 :category: English
-:tags: english
+:tags: rpath
 
 Had some time today during lunch to work on the `Transifex
 Appliance <https://www.rpath.org/ui/#/appliances?id=https://www.rpath.org/api/products/transifex>`__

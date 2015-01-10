@@ -3,7 +3,7 @@ What do Moblin, Xfce, Fedora plus a few other projects have in common?
 :slug: what-do-moblin-xfce-fedora-plus-a-few-other-projects-hav
 :date: 2009-11-10 18:57
 :category: English
-:tags: english
+:tags: rpath
 
 Just to follow up on one of my earlier messages to
 `Twitter <http://twitter.com/OgMaciel>`__/`Identi.ca <http://identi.ca/ogmaciel>`__

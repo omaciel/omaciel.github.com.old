@@ -3,7 +3,7 @@ rPath Appliance Agent 1.0.9 in the wild!
 :slug: rpath-appliance-agent-109-in-the-wild
 :date: 2006-12-08 19:47
 :category: English
-:tags: english
+:tags: rpath, raa, aptoncd
 
 Today we have released `rPath Appliance
 Agent <http://wiki.rpath.com/wiki/rPath_Appliance_Agent>`__ (rAA)

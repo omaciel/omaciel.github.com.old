@@ -3,7 +3,7 @@ Week in Review: May 24th â€“ May 28th, 2010
 :slug: week-in-review-may-24th-e2-80-93-may-28th-2010
 :date: 2010-05-29 15:00
 :category: English
-:tags: english
+:tags: rpath
 
 |Week in Review|
 
