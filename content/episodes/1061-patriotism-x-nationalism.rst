@@ -3,7 +3,9 @@ Patriotism x Nationalism
 :slug: patriotism-x-nationalism
 :date: 2011-04-15 18:40
 :category: English
-:tags: english
+:tags: quote
+
+Quote:
 
     "Patriotism can flourish only where racism and nationalism are given
     no quarter. We should never mistake patriotism for nationalism. A

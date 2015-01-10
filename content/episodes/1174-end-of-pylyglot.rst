@@ -26,6 +26,8 @@ different applications, none of it bringing me any monetary of financial
 advantage, but all done for the simple pleasure of knowing that I was
 helping make FOSS applications "speak" Brazilian Portuguese.
 
+.. more
+
 I certainly learned a lot though the experience of working on these many
 projects... some times I made mistakes, other times I "fought" alone to
 make sure that standards and procedures were complied with. All in all,

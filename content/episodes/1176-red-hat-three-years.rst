@@ -16,6 +16,8 @@ few months had me swimming way out in the deepest part of the pool,
 trying to learn all 'Red Hat-things' and **Clojure** for the existing
 automation framework (now we are fully using **Python**).
 
+.. more
+
 I did a lot of swimming for sure, and through the next months, through
 many long days and weekends and hard work, tears and sweat (you know,
 your typical life for a **Quality Engineer** worth his/her salt), I

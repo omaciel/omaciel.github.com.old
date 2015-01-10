@@ -3,7 +3,9 @@ Namber
 :slug: namber
 :date: 2005-03-29 16:33
 :category: English
-:tags: english
+:tags: namber, meme
+
+Interesting:
 
     A `namber <http://mysteryrobot.com/>`__ is part name and part
     number. Each number between 0 and 255 has a namber. For example, 1

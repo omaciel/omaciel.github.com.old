@@ -3,9 +3,11 @@ Heard it through the grapevine
 :slug: heard-it-through-the-grapevine
 :date: 2009-11-13 22:27
 :category: English
-:tags: english
+:tags: conary, foresight linux, red hat
 
-    I’ve heard that when the RedHat developers present new open-source
+Interesting:
+
+    I’ve heard that when the Red Hat developers present new open-source
     packages to their local Linux User-Group, before the meeting is over
     one of the **Foresight** people will have downloaded the source,
     **created a Foresight package, uploaded it to the repository for

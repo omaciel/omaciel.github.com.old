@@ -18,6 +18,8 @@ younger.
 .. figure:: http://c1.staticflickr.com/9/8561/15972365217_fa019a4c47_n.jpg
    :alt: books 1
 
+.. more
+
 I took advantage that **UNC** has a vast books collection with a very
 decent section on Brazilian authors and I was able to read some really
 awesome books by `Erico

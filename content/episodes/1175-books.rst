@@ -27,6 +27,8 @@ Currently I have the following books waiting for me:
    Gables <https://www.goodreads.com/book/show/90192.The_House_of_the_Seven_Gables?ac=1>`__
 -  `Lolita <Lolita>`__
 
+.. more
+
 Anyhow, while drinking my coffee this morning I realized just how much I
 enjoy reading and (what I like to call) catching up with all the books I
 either read when I was younger but took for granted or finally getting
