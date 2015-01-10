@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/</loc>
-<lastmod>2015-01-10T17:56:08-00:00</lastmod>
+<lastmod>2015-01-10T18:33:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2015-01-10T17:56:08-00:00</lastmod>
+<lastmod>2015-01-10T18:33:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2015-01-10T17:56:08-00:00</lastmod>
+<lastmod>2015-01-10T18:33:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2015-01-10T17:56:08-00:00</lastmod>
+<lastmod>2015-01-10T18:33:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8299,13 +8299,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/professor-do-ifpb.html</loc>
-<lastmod>2011-05-30T00:48:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/xml.html</loc>
 <lastmod>2010-04-15T20:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8334,8 +8327,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/you-are-highly-adept-and-full-of-surprises-i-find-your-lack-of-faith-disturbing.html</loc>
-<lastmod>2005-10-20T12:51:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/namber.html</loc>
+<lastmod>2005-03-29T16:33:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8376,36 +8369,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/pypi.html</loc>
-<lastmod>2012-04-23T20:59:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/university-of-north-carolina.html</loc>
-<lastmod>2013-03-28T02:28:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/repl.html</loc>
-<lastmod>2012-05-16T20:41:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/facebook.html</loc>
-<lastmod>2008-07-28T13:15:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/wordpress.html</loc>
-<lastmod>2012-04-23T20:59:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/translations.html</loc>
+<lastmod>2014-07-12T11:20:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8418,8 +8383,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/linux-world.html</loc>
-<lastmod>2007-01-01T08:08:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/repl.html</loc>
+<lastmod>2012-05-16T20:41:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/wordpress.html</loc>
+<lastmod>2012-04-23T20:59:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/university-of-north-carolina.html</loc>
+<lastmod>2013-03-28T02:28:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8467,22 +8446,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/computer-science.html</loc>
+<lastmod>2005-08-18T13:01:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/portuguese.html</loc>
 <lastmod>2013-09-09T15:17:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/english-ive-heard-that-when-the-redhat-developers-present-new-open-source-packages-to-their-local-linux-user-group.html</loc>
-<lastmod>2009-11-13T22:27:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/english-but-the-best-thing-was-the-chef-nat-had-hired-for-the-week.html</loc>
-<lastmod>2005-04-22T12:17:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8530,15 +8502,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/english-evilaptop-dude.html</loc>
-<lastmod>2006-09-14T22:38:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/but-at-least-id-be-rolling-in-cash.html</loc>
-<lastmod>2005-08-18T13:01:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/brazil.html</loc>
+<lastmod>2005-03-29T16:58:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8546,13 +8511,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/castalio.html</loc>
 <lastmod>2013-09-03T01:25:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/brazil-has-also-become-the-first-country-to-require-any-company-or-research-institute-that-receives-government-financing-to-develop-software-to-license-it-as-open-source.html</loc>
-<lastmod>2005-03-29T16:58:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8572,13 +8530,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/created-a-foresight-package.html</loc>
-<lastmod>2009-11-13T22:27:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/lein.html</loc>
 <lastmod>2012-05-16T20:41:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8593,13 +8544,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/english-life-is-never-more-fun-than-when-youre-the-underdog-competing-against-the-giants.html</loc>
-<lastmod>2009-01-10T20:47:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/billreminder.html</loc>
 <lastmod>2007-01-01T08:08:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8609,6 +8553,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/optparse.html</loc>
 <lastmod>2010-04-29T15:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/gwibber.html</loc>
+<lastmod>2008-07-28T13:15:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/pypi.html</loc>
+<lastmod>2012-04-23T20:59:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8642,8 +8600,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/english-patriotism-can-flourish-only-where-racism-and-nationalism-are-given-no-quarter-we-should-never-mistake-patriotism-for-nationalism-a-patriot-is-one-who-loves-his-homeland-a-nationalist-is-one-who-scorns-the-homelands-of-others-johannes-rau.html</loc>
-<lastmod>2011-04-15T18:40:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/article.html</loc>
+<lastmod>2005-03-29T16:58:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8658,13 +8616,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/gnome.html</loc>
 <lastmod>2013-12-09T19:30:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/1-is-fun-and-213-is-star-a-namber-address-is-an-internet-address-that-uses-nambers-for-example.html</loc>
-<lastmod>2005-03-29T16:33:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8691,20 +8642,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/mr-da-silva-has-instructed-government-ministries-and-state-run-companies-to-gradually-switch-from-costly-operating-systems-made-by-microsoft-and-others-to-free-operating-systems.html</loc>
-<lastmod>2005-03-29T16:58:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/english-struggling-for-self-assurance-over-hidden-angst.html</loc>
-<lastmod>2005-10-20T12:51:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/redhat.html</loc>
 <lastmod>2014-12-05T10:49:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8721,13 +8658,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/pessoal.html</loc>
 <lastmod>2011-12-31T00:43:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/meaning-the-underlying-software-code-must-be-free-to-all.html</loc>
-<lastmod>2005-03-29T16:58:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8754,6 +8684,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/meme.html</loc>
+<lastmod>2005-10-20T12:51:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/life.html</loc>
 <lastmod>2014-09-21T12:07:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8768,20 +8705,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/chicks-dig-unix-evilaptop-everyone-knows-that-evilaptop-right-jasonf-thats-almost-as-unattractive-as-someone-who-scripts-festival-to-sing-99-bottles-of-beer-on-the-wall-at-a-party.html</loc>
-<lastmod>2006-09-14T22:38:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/tive-uma-chance-de-conversar-com-o-yuri-malheiros.html</loc>
-<lastmod>2011-05-30T00:48:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/podcast.html</loc>
 <lastmod>2013-09-03T01:25:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8789,22 +8712,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/english-going-into-physics-was-the-biggest-mistake-of-my-life-i-shouldve-declared-cs-i-still-wouldnt-have-any-women.html</loc>
-<lastmod>2005-08-18T13:01:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/uploaded-it-to-the-repository-for-folks-to-get.html</loc>
-<lastmod>2009-11-13T22:27:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/english-looking-to-save-millions-of-dollars-in-royalties-and-licensing-fees.html</loc>
-<lastmod>2005-03-29T16:58:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/linux-world.html</loc>
+<lastmod>2007-01-01T08:08:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8824,22 +8733,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/english-those-who-cannot-learn-from-history-are-doomed-to-repeat-it-george-santayana.html</loc>
-<lastmod>2005-09-20T17:17:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/rope.html</loc>
 <lastmod>2013-12-09T19:30:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/portuguese-desta-vez-o-convidado-deste-episodio-nao-e-de-belo-horizonte-durante-uma-quinta-feira-nublada-em-north-carolina.html</loc>
-<lastmod>2011-05-30T00:48:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8852,8 +8747,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/identica.html</loc>
-<lastmod>2008-07-28T13:15:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/history.html</loc>
+<lastmod>2005-09-20T17:17:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8880,13 +8775,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/english-gwibber-is-an-open-source-microblogging-client-for-gnome-developed-with-python-and-gtk-it-supports-twitter.html</loc>
-<lastmod>2008-07-28T13:15:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/rpath.html</loc>
 <lastmod>2013-02-19T09:01:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8896,20 +8784,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/pylyglot.html</loc>
 <lastmod>2012-08-17T15:04:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/after-seeing-there-was-a-spanish-guy-in-the-crowd.html</loc>
-<lastmod>2005-04-22T12:17:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/e-criador-de-varios-projetos-feitos-com-software-livre.html</loc>
-<lastmod>2011-05-30T00:48:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8936,13 +8810,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/before-the-meeting-is-over-one-of-the-foresight-people-will-have-downloaded-the-source.html</loc>
-<lastmod>2009-11-13T22:27:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/lxml.html</loc>
 <lastmod>2010-04-29T15:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8952,13 +8819,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/fedora.html</loc>
 <lastmod>2012-07-16T02:47:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/and-it-will-be-available-for-anyone-to-use-its-explicitly-designed-as-a-package-management-system-with-very-little-overhead-to-creating-new-packages.html</loc>
-<lastmod>2009-11-13T22:27:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8978,13 +8838,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/and-digg.html</loc>
-<lastmod>2008-07-28T13:15:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/lastfm.html</loc>
 <lastmod>2013-04-23T23:19:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8994,20 +8847,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/android.html</loc>
 <lastmod>2013-04-23T23:19:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/pesquisador-em-engenharia-de-software-einteligencia-artificial.html</loc>
-<lastmod>2011-05-30T00:48:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/who-cooked-delicious-crafaapes-every-morning-he-even-cooked.html</loc>
-<lastmod>2005-04-22T12:17:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9034,13 +8873,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/some-spanish-omelettes.html</loc>
-<lastmod>2005-04-22T12:17:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/206.html</loc>
 <lastmod>2007-01-01T08:08:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -9048,8 +8880,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/translations.html</loc>
-<lastmod>2014-07-12T11:20:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/quote.html</loc>
+<lastmod>2011-04-15T18:40:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9076,6 +8908,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/trilug.html</loc>
+<lastmod>2006-09-14T22:38:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/mandriva.html</loc>
+<lastmod>2013-09-09T15:17:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/flipboard.html</loc>
 <lastmod>2012-07-16T02:47:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -9083,22 +8929,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/jaiku.html</loc>
-<lastmod>2008-07-28T13:15:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/dropbox.html</loc>
 <lastmod>2012-05-16T20:41:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/tag/english-a-namber-is-part-name-and-part-number-each-number-between-0-and-255-has-a-namber-for-example.html</loc>
-<lastmod>2005-03-29T16:33:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9118,13 +8950,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/like-linux-on-mr-da-silvas-watch.html</loc>
-<lastmod>2005-03-29T16:58:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/django.html</loc>
 <lastmod>2012-08-17T15:04:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -9132,8 +8957,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/mysteryrobotcoms-namber-is-drumstartorangehopemysteryrobotcom.html</loc>
-<lastmod>2005-03-29T16:33:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/ximian.html</loc>
+<lastmod>2005-04-22T12:17:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9153,8 +8978,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/mandriva.html</loc>
-<lastmod>2013-09-09T15:17:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/yuri-malheiros.html</loc>
+<lastmod>2011-05-30T00:48:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
