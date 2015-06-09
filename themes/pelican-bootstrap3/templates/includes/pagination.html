@@ -1,3 +1,7 @@
+{% if MAX_PAGES_IN_PAGINATION is not defined %}
+    {% set MAX_PAGES_IN_PAGINATION = 15 %}
+{% endif %}
+
 {% if articles_page and articles_paginator.num_pages > 1 %}
     {% if USE_PAGER %}
         <ul class="pager">
@@ -22,9 +26,14 @@
             {% else %}
                 <li class="prev disabled"><a href="#">&laquo;</a></li>
             {% endif %}
-            {% for num in range( 1, 1 + articles_paginator.num_pages ) %}
+            {% set repaginated = REPAGINATE(range(1, 1 + articles_paginator.num_pages), articles_page.number, MAX_PAGES_IN_PAGINATION) %}
+            {% for num in repaginated %}
+                {% if num == '...' %}
+                    <li class="disabled"><a href="#">...</a></li>
+                {% else %}
                     <li class="{{ 'active' if num == articles_page.number else '' }}"><a
                             href="{{ SITEURL }}/{{ page_name }}{{ num if num > 1 else '' }}.html">{{ num }}</a></li>
+                {% endif %}
                 {% endfor %}
             {% if articles_page.has_next() %}
                 <li class="next"><a
