@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
+import sys
+sys.path.append(os.curdir)
+from functions import *
 
 AUTHOR = u'Og Maciel'
 SITENAME = u'Journal of an Open Sourcee'
