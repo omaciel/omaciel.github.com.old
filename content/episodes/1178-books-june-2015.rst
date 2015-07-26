@@ -21,6 +21,8 @@ Well, this passion and appetite for reading has only gotten bigger, and with tim
 
 These last few months I decided that I wanted to start tracking all the books that I read, buy or receive as a gift every month (see my reading progress on `GoodReads`_ and add me as a friend), and jot down some of my impressions and motives for reading or buying them. Those familiar with `Nick Hornby`_ will probably associate this post (and hopefully others that will surely come) with the work he has done writing for the `Believer Magazine`_ ... and this would be correct. My intention is not to copy his style or anything like that, but I thought that the format he chose to report on his own reading 'adventures' would fit in quite nicely with what I wanted to get across to my readers... and I'm sticking with the format as long as it works for me :)
 
+.. more
+
 Since June was a very busy book buying/getting month for me (mostly because it was my birthday and I used that as an excuse to go overboard and get lots of books), here is my summary for everything that happened on the reading front. By the way, if you want to get me a book from my **Amazon** `Wish List`_, by all means, do so :)
 
 Read
