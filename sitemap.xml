@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/index.html</loc>
-<lastmod>2015-07-26T19:27:20-00:00</lastmod>
+<lastmod>2015-07-29T11:44:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2015-07-26T19:27:20-00:00</lastmod>
+<lastmod>2015-07-29T11:44:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2015-07-26T19:27:20-00:00</lastmod>
+<lastmod>2015-07-29T11:44:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2015-07-26T19:27:20-00:00</lastmod>
+<lastmod>2015-07-29T11:44:32-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/books-july-2015.html</loc>
+<lastmod>2015-07-29T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -8279,7 +8286,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/category/english.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8301,6 +8308,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/hiring.html</loc>
 <lastmod>2014-05-01T18:05:45-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/junot-diaz.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8334,6 +8348,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/ernest-cline.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/namber.html</loc>
 <lastmod>2005-03-29T16:33:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8355,8 +8376,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/2014.html</loc>
-<lastmod>2014-12-31T13:26:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/mario-vargas-llosa.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8404,8 +8425,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/school.html</loc>
-<lastmod>2008-07-22T02:56:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/raymond-chandler.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8488,6 +8509,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/school.html</loc>
+<lastmod>2008-07-22T02:56:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/turbogears.html</loc>
 <lastmod>2006-12-08T04:32:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8551,8 +8579,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/michael-lopp.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/j-j-abrams.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8581,6 +8616,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/lein.html</loc>
 <lastmod>2012-05-16T20:41:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/c-s-lewis.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8643,7 +8685,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/neal-stephenson.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8705,6 +8747,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/azar-nafisi.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/robert-m-pirsig.html</loc>
 <lastmod>2015-06-30T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8735,6 +8784,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/tar-heel.html</loc>
 <lastmod>2008-07-22T02:56:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/erich-maria-remarque.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8817,6 +8873,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/2014.html</loc>
+<lastmod>2014-12-31T13:26:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/nick-hornby.html</loc>
 <lastmod>2015-06-30T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8826,6 +8889,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/podcast.html</loc>
 <lastmod>2013-09-03T01:25:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/harper-lee.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8853,7 +8923,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/arthur-conan-doyle.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9042,7 +9112,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/ray-bradbury.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9126,7 +9196,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/luciano-ramalho.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9168,7 +9238,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/author/og-maciel.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
