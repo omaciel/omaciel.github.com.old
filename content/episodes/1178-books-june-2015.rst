@@ -3,7 +3,7 @@ Books - June 2015
 :date: 2015-06-30
 :authors: Og Maciel
 :category: English
-:tags: Anton Chekhov, Arthur Conan Doyle, Luciano Ramalho, Henry David Thoreau, Marcel Proust, Fyodor Dostoyevsky, Sophocles, Ray Bradbury, Herman Melville, Robert M. Pirsig, J. J. Abrams, Neal Stephenson, Jim Whitehurst, Graciliano Ramod, Machado de Assis, Nick Hornby, Edgar Rice Burroughs, Isaac Asimov, Flannery O'Connor, Jack London, John Steinbeck, Howard Mittelmark, Michael Kelahan, John Cheever, Camus, Jorge Amado
+:tags: Anton Chekhov, Arthur Conan Doyle, Luciano Ramalho, Henry David Thoreau, Marcel Proust, Fyodor Dostoyevsky, Sophocles, Ray Bradbury, Herman Melville, Robert M. Pirsig, J. J. Abrams, Neal Stephenson, Jim Whitehurst, Graciliano Ramos, Machado de Assis, Nick Hornby, Edgar Rice Burroughs, Isaac Asimov, Flannery O'Connor, Jack London, John Steinbeck, Howard Mittelmark, Michael Kelahan, John Cheever, Camus, Jorge Amado
 :description: A post about the books I read this June 2015
 
 .. figure:: https://omaciel.fedorapeople.org/book_review.png
@@ -58,7 +58,7 @@ Gift
 ----
 
 * `John Carter of Mars`_ by `Edgar Rice Burroughs`_
-* `Vidas Secas`_ by `Graciliano Ramod`_
+* `Vidas Secas`_ by `Graciliano Ramos`_
 * `Walden`_ by `Henry David Thoreau`_
 * `Read This Next\: 500 of the Best Books You'll Ever Read`_ by `Howard Mittelmark`_
 * `The Foundation Trilogy`_ by `Isaac Asimov`_
@@ -100,7 +100,7 @@ Well, once again I hope you weathered this monthly report and once again I ask, 
 .. _Edgar Rice Burroughs: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Edgar+Rice+Burroughs
 .. _Flannery O'Connor: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Flannery+O'Connor
 .. _Fyodor Dostoyevsky: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Fyodor+Dostoyevsky
-.. _Graciliano Ramod: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Graciliano+Ramod
+.. _Graciliano Ramos: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Graciliano+Ramos
 .. _Henry David Thoreau: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Henry+David+Thoreau
 .. _Herman Melville: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Herman+Melville
 .. _Howard Mittelmark: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Howard+Mittelmark

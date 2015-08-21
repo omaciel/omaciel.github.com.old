@@ -26,7 +26,7 @@ Read
 * `Managing Humans\: Biting and Humorous Tales of a Software Engineering Manager`_ by `Michael Lopp`_
 * `Cryptonomicon`_ by `Neal Stephenson`_
 * `The October Country`_ by `Ray Bradbury`_
-* `The Lion`_ by `C. S. Lewis`_
+* `The Lion, the Witch and the Wardrobe`_ por `C. S. Lewis`_
 
 Out of all the books I read this month, I feel that `All Quiet on the Western Front`_ and `The October Country`_ were the ones I enjoyed reading the most, closely followed by `Cryptonomicon`_, which took me a while to get through. The other books, with the exception of `The Memoirs of Sherlock Holmes`_, helped me pass the time when I only wanted to be entertained.
 
@@ -93,7 +93,7 @@ What about you? What kind of interesting books have you read this past month???
 .. _Ready Player One: https://www.goodreads.com/search?utf8=%E2%9C%93&query=Ready+Player+One
 .. _S: https://www.goodreads.com/search?utf8=%E2%9C%93&query=S
 .. _The Horse and His Boy: https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Horse+and+His+Boy
-.. _The Lion: https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Lion
+.. _The Lion, the Witch and the Wardrobe: https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Lion,+the+Witch+and+the+Wardrobe
 .. _The Little Sister: https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Little+Sister
 .. _The Magician's Nephew: https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Magician's+Nephew
 .. _The Memoirs of Sherlock Holmes: https://www.goodreads.com/search?utf8=%E2%9C%93&query=The+Memoirs+of+Sherlock+Holmes
