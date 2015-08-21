@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/index.html</loc>
-<lastmod>2015-07-29T11:48:26-00:00</lastmod>
+<lastmod>2015-08-21T16:58:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2015-07-29T11:48:26-00:00</lastmod>
+<lastmod>2015-08-21T16:58:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2015-07-29T11:48:26-00:00</lastmod>
+<lastmod>2015-08-21T16:58:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2015-07-29T11:48:26-00:00</lastmod>
+<lastmod>2015-08-21T16:58:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8712,13 +8712,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/graciliano-ramod.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://omaciel.github.io/tag/katello.html</loc>
 <lastmod>2013-09-13T00:36:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8769,6 +8762,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/michael-kelahan.html</loc>
+<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/graciliano-ramos.html</loc>
 <lastmod>2015-06-30T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
