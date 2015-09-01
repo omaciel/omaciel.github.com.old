@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/index.html</loc>
-<lastmod>2015-08-31T19:48:19-00:00</lastmod>
+<lastmod>2015-09-01T17:31:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2015-08-31T19:48:19-00:00</lastmod>
+<lastmod>2015-09-01T17:31:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2015-08-31T19:48:19-00:00</lastmod>
+<lastmod>2015-09-01T17:31:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2015-08-31T19:48:19-00:00</lastmod>
+<lastmod>2015-09-01T17:31:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8293,13 +8293,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/category/english.html</loc>
-<lastmod>2015-07-29T00:00:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://omaciel.github.io/category/episodes.html</loc>
 <lastmod>2015-08-31T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
