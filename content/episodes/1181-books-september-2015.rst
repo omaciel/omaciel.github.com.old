@@ -9,7 +9,7 @@ Books - September 2015
 
 .. figure:: https://omaciel.fedorapeople.org/book_review.png
    :alt: Books - September 2015
-   :align: center
+   :align: left
    :figwidth: 40 %
 
 
