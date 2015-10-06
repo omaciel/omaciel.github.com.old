@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/index.html</loc>
-<lastmod>2015-09-01T17:31:53-00:00</lastmod>
+<lastmod>2015-10-06T13:33:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2015-09-01T17:31:53-00:00</lastmod>
+<lastmod>2015-10-06T13:33:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2015-09-01T17:31:53-00:00</lastmod>
+<lastmod>2015-10-06T13:33:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2015-09-01T17:31:53-00:00</lastmod>
+<lastmod>2015-10-06T13:33:22-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/books-september-2015.html</loc>
+<lastmod>2015-10-06T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -8293,7 +8300,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/category/english.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8314,7 +8321,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/jane-austen.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8335,7 +8342,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/nick-hornby.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8376,8 +8383,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/ernest-cline.html</loc>
-<lastmod>2015-07-29T00:00:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/neil-gaiman.html</loc>
+<lastmod>2015-08-31T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8399,6 +8406,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/br-office.html</loc>
 <lastmod>2006-10-13T19:25:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/rubem-fonseca.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8462,6 +8476,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/university-of-north-carolina.html</loc>
 <lastmod>2013-03-28T02:28:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/leo-tolstoy.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8663,6 +8684,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/osamu-tezuka.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/anniversary.html</loc>
 <lastmod>2014-12-05T10:49:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -8698,8 +8726,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/quote.html</loc>
-<lastmod>2011-04-15T18:40:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/jose-de-alencar.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8720,7 +8748,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/machado-de-assis.html</loc>
-<lastmod>2015-06-30T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8728,6 +8756,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/henry-miller.html</loc>
 <lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/joaquim-manuel-de-macedo.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8770,6 +8805,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/ubuntu.html</loc>
 <lastmod>2013-09-09T15:17:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/jose-saramago.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8880,15 +8922,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/neil-gaiman.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/ernest-cline.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tag/saul-bellow.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8902,7 +8944,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/franz-kafka.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8915,15 +8957,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/music.html</loc>
-<lastmod>2013-04-23T23:19:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/emacs.html</loc>
+<lastmod>2013-12-09T19:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/emacs.html</loc>
-<lastmod>2013-12-09T19:30:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/music.html</loc>
+<lastmod>2013-04-23T23:19:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8938,6 +8980,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/life.html</loc>
 <lastmod>2014-09-21T12:07:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/ariano-suassuma.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9048,6 +9097,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/william-faulkner.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/lewis-carrol.html</loc>
 <lastmod>2015-08-31T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -9092,6 +9148,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/pylyglot.html</loc>
 <lastmod>2012-08-17T15:04:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/dias-gomes.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9146,6 +9209,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/quote.html</loc>
+<lastmod>2011-04-15T18:40:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/rhce.html</loc>
 <lastmod>2007-01-01T08:08:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -9188,8 +9258,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/paolo-bacigalupi.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/goodreads.html</loc>
 <lastmod>2014-12-31T13:26:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/clarice-lispector.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9217,7 +9301,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/herman-melville.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9321,6 +9405,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://omaciel.github.io/tag/gilberto-freire.html</loc>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://omaciel.github.io/tag/django.html</loc>
 <lastmod>2012-08-17T15:04:00-04:56</lastmod>
 <changefreq>daily</changefreq>
@@ -9364,7 +9455,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/author/og-maciel.html</loc>
-<lastmod>2015-08-31T00:00:00-04:56</lastmod>
+<lastmod>2015-10-06T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
