@@ -39,6 +39,8 @@ If you want to see what I'm reading or want to recommend a book which
 you think I might enjoy reading, please feel free to add me on
 `GoodReads`_.
 
+.. more
+
 Write a Book
 ------------
 Grade: **FAIL**
