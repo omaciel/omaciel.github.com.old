@@ -4,30 +4,37 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://omaciel.github.io/index.html</loc>
-<lastmod>2015-12-31T19:22:53-00:00</lastmod>
+<loc>https://omaciel.github.io/</loc>
+<lastmod>2016-09-13T18:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2015-12-31T19:22:53-00:00</lastmod>
+<lastmod>2016-09-13T18:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2015-12-31T19:22:53-00:00</lastmod>
+<lastmod>2016-09-13T18:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2015-12-31T19:22:53-00:00</lastmod>
+<lastmod>2016-09-13T18:05:51-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/podcasts-ive-been-listening-to-lately.html</loc>
+<lastmod>2016-09-13T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -8307,7 +8314,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/category/english.html</loc>
-<lastmod>2015-12-31T00:00:00-04:56</lastmod>
+<lastmod>2016-09-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8845,8 +8852,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/gnome.html</loc>
-<lastmod>2013-12-09T19:30:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/harper-lee.html</loc>
+<lastmod>2015-07-29T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9069,8 +9076,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://omaciel.github.io/tag/harper-lee.html</loc>
-<lastmod>2015-07-29T00:00:00-04:56</lastmod>
+<loc>https://omaciel.github.io/tag/gnome.html</loc>
+<lastmod>2013-12-09T19:30:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9099,6 +9106,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://omaciel.github.io/tag/arthur-conan-doyle.html</loc>
 <lastmod>2015-07-29T00:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/tag/podcasts.html</loc>
+<lastmod>2016-09-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9497,7 +9511,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/author/og-maciel.html</loc>
-<lastmod>2015-12-31T00:00:00-04:56</lastmod>
+<lastmod>2016-09-13T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

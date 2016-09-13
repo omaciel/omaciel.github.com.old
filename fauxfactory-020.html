@@ -118,44 +118,44 @@ idea was to create a method that would:</p>
 <span class="n">In</span> <span class="p">[</span><span class="mi">1</span><span class="p">]:</span> <span class="kn">from</span> <span class="nn">fauxfactory</span> <span class="kn">import</span> <span class="n">FauxFactory</span>
 
 <span class="n">In</span> <span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">()</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">2</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
 <span class="n">sed</span> <span class="n">do</span> <span class="n">eiusmod</span> <span class="n">tempor</span> <span class="n">incididunt</span> <span class="n">ut</span> <span class="n">labore</span> <span class="n">et</span> <span class="n">dolore</span> <span class="n">magna</span> <span class="n">aliqua</span><span class="o">.</span> <span class="n">Ut</span>
 <span class="n">enim</span> <span class="n">ad</span> <span class="n">minim</span> <span class="n">veniam</span><span class="p">,</span> <span class="n">quis</span> <span class="n">nostrud</span> <span class="n">exercitation</span> <span class="n">ullamco</span> <span class="n">laboris</span> <span class="n">nisi</span>
 <span class="n">ut</span> <span class="n">aliquip</span> <span class="n">ex</span> <span class="n">ea</span> <span class="n">commodo</span> <span class="n">consequat</span><span class="o">.</span> <span class="n">Duis</span> <span class="n">aute</span> <span class="n">irure</span> <span class="n">dolor</span> <span class="ow">in</span>
 <span class="n">reprehenderit</span> <span class="ow">in</span> <span class="n">voluptate</span> <span class="n">velit</span> <span class="n">esse</span> <span class="n">cillum</span> <span class="n">dolore</span> <span class="n">eu</span> <span class="n">fugiat</span> <span class="n">nulla</span>
 <span class="n">pariatur</span><span class="o">.</span> <span class="n">Excepteur</span> <span class="n">sint</span> <span class="n">occaecat</span> <span class="n">cupidatat</span> <span class="n">non</span> <span class="n">proident</span><span class="p">,</span> <span class="n">sunt</span> <span class="ow">in</span>
-<span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span> <span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s">'</span>
+<span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span> <span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s1">'</span>
 </pre>
 <p>Return a single paragraph with a fixed number of words if I passed a
 numeric <strong>words=x</strong> argument. If <strong>words</strong> was a large number, the text
 would 'wrap around' as many times as needed:</p>
 <pre class="code python literal-block">
 <span class="n">In</span> <span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">(</span><span class="n">words</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">3</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'</span>
 
 <span class="n">In</span> <span class="p">[</span><span class="mi">4</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">(</span><span class="n">words</span><span class="o">=</span><span class="mi">80</span><span class="p">)</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">4</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">4</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
 <span class="n">sed</span> <span class="n">do</span> <span class="n">eiusmod</span> <span class="n">tempor</span> <span class="n">incididunt</span> <span class="n">ut</span> <span class="n">labore</span> <span class="n">et</span> <span class="n">dolore</span> <span class="n">magna</span> <span class="n">aliqua</span><span class="o">.</span> <span class="n">Ut</span>
 <span class="n">enim</span> <span class="n">ad</span> <span class="n">minim</span> <span class="n">veniam</span><span class="p">,</span> <span class="n">quis</span> <span class="n">nostrud</span> <span class="n">exercitation</span> <span class="n">ullamco</span> <span class="n">laboris</span> <span class="n">nisi</span>
 <span class="n">ut</span> <span class="n">aliquip</span> <span class="n">ex</span> <span class="n">ea</span> <span class="n">commodo</span> <span class="n">consequat</span><span class="o">.</span> <span class="n">Duis</span> <span class="n">aute</span> <span class="n">irure</span> <span class="n">dolor</span> <span class="ow">in</span>
 <span class="n">reprehenderit</span> <span class="ow">in</span> <span class="n">voluptate</span> <span class="n">velit</span> <span class="n">esse</span> <span class="n">cillum</span> <span class="n">dolore</span> <span class="n">eu</span> <span class="n">fugiat</span> <span class="n">nulla</span>
 <span class="n">pariatur</span><span class="o">.</span> <span class="n">Excepteur</span> <span class="n">sint</span> <span class="n">occaecat</span> <span class="n">cupidatat</span> <span class="n">non</span> <span class="n">proident</span><span class="p">,</span> <span class="n">sunt</span> <span class="ow">in</span>
-<span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span> <span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s">'</span>
+<span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span> <span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s1">'</span>
 </pre>
 <p>If <strong>paragraphs=x</strong> was used, then a given number of paragraphs
 containing the entire &quot;Lorem Ipsum&quot; string is returned:</p>
 <pre class="code python literal-block">
 <span class="n">In</span> <span class="p">[</span><span class="mi">5</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">(</span><span class="n">paragraphs</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">5</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">5</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
 <span class="n">sed</span> <span class="n">do</span> <span class="n">eiusmod</span> <span class="n">tempor</span> <span class="n">incididunt</span> <span class="n">ut</span> <span class="n">labore</span> <span class="n">et</span> <span class="n">dolore</span> <span class="n">magna</span> <span class="n">aliqua</span><span class="o">.</span> <span class="n">Ut</span>
 <span class="n">enim</span> <span class="n">ad</span> <span class="n">minim</span> <span class="n">veniam</span><span class="p">,</span> <span class="n">quis</span> <span class="n">nostrud</span> <span class="n">exercitation</span> <span class="n">ullamco</span> <span class="n">laboris</span> <span class="n">nisi</span>
 <span class="n">ut</span> <span class="n">aliquip</span> <span class="n">ex</span> <span class="n">ea</span> <span class="n">commodo</span> <span class="n">consequat</span><span class="o">.</span> <span class="n">Duis</span> <span class="n">aute</span> <span class="n">irure</span> <span class="n">dolor</span> <span class="ow">in</span>
 <span class="n">reprehenderit</span> <span class="ow">in</span> <span class="n">voluptate</span> <span class="n">velit</span> <span class="n">esse</span> <span class="n">cillum</span> <span class="n">dolore</span> <span class="n">eu</span> <span class="n">fugiat</span> <span class="n">nulla</span>
 <span class="n">pariatur</span><span class="o">.</span> <span class="n">Excepteur</span> <span class="n">sint</span> <span class="n">occaecat</span> <span class="n">cupidatat</span> <span class="n">non</span> <span class="n">proident</span><span class="p">,</span> <span class="n">sunt</span> <span class="ow">in</span>
-<span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span> <span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s">'</span>
+<span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span> <span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s1">'</span>
 
 <span class="n">In</span> <span class="p">[</span><span class="mi">6</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">(</span><span class="n">paragraphs</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">6</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">6</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing elit,</span>
 <span class="n">sed</span> <span class="n">do</span> <span class="n">eiusmod</span> <span class="n">tempor</span> <span class="n">incididunt</span> <span class="n">ut</span> <span class="n">labore</span> <span class="n">et</span> <span class="n">dolore</span> <span class="n">magna</span> <span class="n">aliqua</span><span class="o">.</span> <span class="n">Ut</span>
 <span class="n">enim</span> <span class="n">ad</span> <span class="n">minim</span> <span class="n">veniam</span><span class="p">,</span> <span class="n">quis</span> <span class="n">nostrud</span> <span class="n">exercitation</span> <span class="n">ullamco</span> <span class="n">laboris</span> <span class="n">nisi</span>
 <span class="n">ut</span> <span class="n">aliquip</span> <span class="n">ex</span> <span class="n">ea</span> <span class="n">commodo</span> <span class="n">consequat</span><span class="o">.</span> <span class="n">Duis</span> <span class="n">aute</span> <span class="n">irure</span> <span class="n">dolor</span> <span class="ow">in</span>
@@ -168,19 +168,19 @@ containing the entire &quot;Lorem Ipsum&quot; string is returned:</p>
 <span class="n">commodo</span> <span class="n">consequat</span><span class="o">.</span> <span class="n">Duis</span> <span class="n">aute</span> <span class="n">irure</span> <span class="n">dolor</span> <span class="ow">in</span> <span class="n">reprehenderit</span> <span class="ow">in</span> <span class="n">voluptate</span>
 <span class="n">velit</span> <span class="n">esse</span> <span class="n">cillum</span> <span class="n">dolore</span> <span class="n">eu</span> <span class="n">fugiat</span> <span class="n">nulla</span> <span class="n">pariatur</span><span class="o">.</span> <span class="n">Excepteur</span> <span class="n">sint</span>
 <span class="n">occaecat</span> <span class="n">cupidatat</span> <span class="n">non</span> <span class="n">proident</span><span class="p">,</span> <span class="n">sunt</span> <span class="ow">in</span> <span class="n">culpa</span> <span class="n">qui</span> <span class="n">officia</span> <span class="n">deserunt</span>
-<span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s">'</span>
+<span class="n">mollit</span> <span class="n">anim</span> <span class="nb">id</span> <span class="n">est</span> <span class="n">laborum</span><span class="o">.</span><span class="s1">'</span>
 </pre>
 <p>Finally, if both <strong>words</strong> and <strong>paragraphs</strong> are used, then a given
 number of paragraphs with the specified number of words is returned,
 with the text 'flowing' and 'wrapping around' as needed:</p>
 <pre class="code python literal-block">
 <span class="n">In</span> <span class="p">[</span><span class="mi">7</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">(</span><span class="n">paragraphs</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">words</span><span class="o">=</span><span class="mi">7</span><span class="p">)</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">7</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing.'</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">7</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing.'</span>
 
 <span class="n">In</span> <span class="p">[</span><span class="mi">8</span><span class="p">]:</span> <span class="n">FauxFactory</span><span class="o">.</span><span class="n">generate_iplum</span><span class="p">(</span><span class="n">paragraphs</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">words</span><span class="o">=</span><span class="mi">7</span><span class="p">)</span>
-<span class="n">Out</span><span class="p">[</span><span class="mi">8</span><span class="p">]:</span> <span class="s">u'Lorem ipsum dolor sit amet, consectetur adipisicing.</span><span class="se">\n</span><span class="s">Elit,</span>
+<span class="n">Out</span><span class="p">[</span><span class="mi">8</span><span class="p">]:</span> <span class="s1">u'Lorem ipsum dolor sit amet, consectetur adipisicing.</span><span class="se">\n</span><span class="s1">Elit,</span>
 <span class="n">sed</span> <span class="n">do</span> <span class="n">eiusmod</span> <span class="n">tempor</span> <span class="n">incididunt</span> <span class="n">ut</span><span class="o">.</span>\<span class="n">nLabore</span> <span class="n">et</span> <span class="n">dolore</span> <span class="n">magna</span> <span class="n">aliqua</span><span class="o">.</span>
-<span class="n">Ut</span> <span class="n">enim</span><span class="o">.</span><span class="s">'</span>
+<span class="n">Ut</span> <span class="n">enim</span><span class="o">.</span><span class="s1">'</span>
 </pre>
 <p>The package is available on
 <a class="reference external" href="https://pypi.python.org/pypi/fauxfactory/0.2.0">Pypi</a> (sadly the
@@ -257,7 +257,7 @@ or feature request, please use the
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2015 Og Maciel
+         <div class="col-xs-10">&copy; 2016 Og Maciel
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>

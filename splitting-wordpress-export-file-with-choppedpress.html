@@ -141,7 +141,7 @@ In the next few days (or weeks, depending on what my schedule looks
 like) I will make it more robust and add more error handling, etc. In
 the meantime, I hope you will find it useful.</p>
 <pre class="code python literal-block">
-<span class="c"># -*- coding: utf-8 -*-</span>
+<span class="c1"># -*- coding: utf-8 -*-</span>
 
 <span class="sd">&quot;&quot;&quot;
 Copyright (c) 2010, Og Maciel
@@ -179,20 +179,20 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <span class="k">try</span><span class="p">:</span>
     <span class="kn">from</span> <span class="nn">lxml</span> <span class="kn">import</span> <span class="n">etree</span>
 <span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
-    <span class="k">print</span> <span class="s">&quot;Please install lxml and try again: http://codespeak.net/lxml/&quot;</span>
+    <span class="k">print</span> <span class="s2">&quot;Please install lxml and try again: http://codespeak.net/lxml/&quot;</span>
     <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
 
 <span class="kn">from</span> <span class="nn">optparse</span> <span class="kn">import</span> <span class="n">OptionParser</span>
 
-<span class="c"># This is the default xml tag for wordpress</span>
-<span class="n">WP_TAG</span> <span class="o">=</span> <span class="s">&quot;/rss/channel/item&quot;</span>
-<span class="n">OUTFILE</span> <span class="o">=</span> <span class="s">&quot;outfile&quot;</span>
+<span class="c1"># This is the default xml tag for wordpress</span>
+<span class="n">WP_TAG</span> <span class="o">=</span> <span class="s2">&quot;/rss/channel/item&quot;</span>
+<span class="n">OUTFILE</span> <span class="o">=</span> <span class="s2">&quot;outfile&quot;</span>
 <span class="n">CHUNKSIZE</span> <span class="o">=</span> <span class="mi">2</span>
-<span class="n">TMPFILE</span> <span class="o">=</span> <span class="s">&quot;/tmp/template.xml&quot;</span>
+<span class="n">TMPFILE</span> <span class="o">=</span> <span class="s2">&quot;/tmp/template.xml&quot;</span>
 
-<span class="c"># Function found on ActiveState Code</span>
-<span class="c"># Licensed under the PSF license</span>
-<span class="c"># http://code.activestate.com/recipes/425397-split-a-list-into-roughly-equal-sized-pieces/</span>
+<span class="c1"># Function found on ActiveState Code</span>
+<span class="c1"># Licensed under the PSF license</span>
+<span class="c1"># http://code.activestate.com/recipes/425397-split-a-list-into-roughly-equal-sized-pieces/</span>
 <span class="k">def</span> <span class="nf">split_seq</span><span class="p">(</span><span class="n">seq</span><span class="p">,</span> <span class="n">size</span><span class="p">):</span>
     <span class="n">newseq</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="n">splitsize</span> <span class="o">=</span> <span class="mf">1.0</span><span class="o">/</span><span class="n">size</span><span class="o">*</span><span class="nb">len</span><span class="p">(</span><span class="n">seq</span><span class="p">)</span>
@@ -202,52 +202,52 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <span class="k">return</span> <span class="n">newseq</span>
 
 <span class="k">def</span> <span class="nf">chopit</span><span class="p">(</span><span class="n">xmlfile</span><span class="p">,</span> <span class="n">outfile</span><span class="o">=</span><span class="n">OUTFILE</span><span class="p">,</span> <span class="n">xmltag</span><span class="o">=</span><span class="n">WP_TAG</span><span class="p">,</span> <span class="n">chunksize</span><span class="o">=</span><span class="n">CHUNKSIZE</span><span class="p">):</span>
-    <span class="n">parser</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">XMLParser</span><span class="p">(</span><span class="n">resolve_entities</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">,</span> <span class="n">strip_cdata</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+    <span class="n">parser</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">XMLParser</span><span class="p">(</span><span class="n">resolve_entities</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s2">&quot;utf-8&quot;</span><span class="p">,</span> <span class="n">strip_cdata</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
     <span class="n">doc</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="n">xmlfile</span><span class="p">,</span> <span class="n">parser</span><span class="p">)</span>
 
     <span class="n">matches</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="n">xmltag</span><span class="p">)</span>
-    <span class="k">print</span> <span class="s">&quot;Found </span><span class="si">%s</span><span class="s"> blog posts!&quot;</span> <span class="o">%</span> <span class="nb">len</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span>
+    <span class="k">print</span> <span class="s2">&quot;Found </span><span class="si">%s</span><span class="s2"> blog posts!&quot;</span> <span class="o">%</span> <span class="nb">len</span><span class="p">(</span><span class="n">matches</span><span class="p">)</span>
     <span class="n">matcheslist</span> <span class="o">=</span> <span class="n">split_seq</span><span class="p">(</span><span class="n">matches</span><span class="p">,</span> <span class="n">chunksize</span><span class="p">)</span>
 
-    <span class="n">channel</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">getroot</span><span class="p">()</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">'channel'</span><span class="p">)</span>
+    <span class="n">channel</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">getroot</span><span class="p">()</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">'channel'</span><span class="p">)</span>
 
-    <span class="c"># Create an empty wordpress xml file</span>
+    <span class="c1"># Create an empty wordpress xml file</span>
     <span class="k">for</span> <span class="n">e</span> <span class="ow">in</span> <span class="n">matches</span><span class="p">:</span>
         <span class="n">channel</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">e</span><span class="p">)</span>
-    <span class="n">doc</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">TMPFILE</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s">&quot;xml&quot;</span><span class="p">,</span> <span class="n">pretty_print</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+    <span class="n">doc</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">TMPFILE</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s2">&quot;utf-8&quot;</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s2">&quot;xml&quot;</span><span class="p">,</span> <span class="n">pretty_print</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
 
-    <span class="c"># Now, create smaller wordpress xml files</span>
+    <span class="c1"># Now, create smaller wordpress xml files</span>
     <span class="n">ctr</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">matcheslist</span><span class="p">)</span>
-    <span class="k">print</span> <span class="s">&quot;Breaking WordPress XML into </span><span class="si">%s</span><span class="s"> smaller files.&quot;</span> <span class="o">%</span> <span class="n">ctr</span>
+    <span class="k">print</span> <span class="s2">&quot;Breaking WordPress XML into </span><span class="si">%s</span><span class="s2"> smaller files.&quot;</span> <span class="o">%</span> <span class="n">ctr</span>
     <span class="k">for</span> <span class="n">entities</span> <span class="ow">in</span> <span class="n">matcheslist</span><span class="p">:</span>
         <span class="n">doc</span> <span class="o">=</span> <span class="n">etree</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="n">TMPFILE</span><span class="p">)</span>
-        <span class="n">channel</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">getroot</span><span class="p">()</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s">'channel'</span><span class="p">)</span>
+        <span class="n">channel</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="n">getroot</span><span class="p">()</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">'channel'</span><span class="p">)</span>
         <span class="k">for</span> <span class="n">entity</span> <span class="ow">in</span> <span class="n">entities</span><span class="p">:</span>
             <span class="n">channel</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">entity</span><span class="p">)</span>
 
-        <span class="n">output</span> <span class="o">=</span> <span class="s">'</span><span class="si">%s%03d</span><span class="s">.xml'</span> <span class="o">%</span> <span class="p">(</span><span class="n">outfile</span><span class="p">,</span> <span class="n">ctr</span><span class="p">)</span>
-        <span class="n">doc</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">output</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">'utf-8'</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s">&quot;xml&quot;</span><span class="p">,</span> <span class="n">pretty_print</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
-        <span class="k">print</span> <span class="s">&quot; - File </span><span class="si">%s</span><span class="s"> has </span><span class="si">%s</span><span class="s"> posts.&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">output</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">entities</span><span class="p">))</span>
+        <span class="n">output</span> <span class="o">=</span> <span class="s1">'</span><span class="si">%s%03d</span><span class="s1">.xml'</span> <span class="o">%</span> <span class="p">(</span><span class="n">outfile</span><span class="p">,</span> <span class="n">ctr</span><span class="p">)</span>
+        <span class="n">doc</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">output</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">'utf-8'</span><span class="p">,</span> <span class="n">method</span><span class="o">=</span><span class="s2">&quot;xml&quot;</span><span class="p">,</span> <span class="n">pretty_print</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+        <span class="k">print</span> <span class="s2">&quot; - File </span><span class="si">%s</span><span class="s2"> has </span><span class="si">%s</span><span class="s2"> posts.&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">output</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">entities</span><span class="p">))</span>
         <span class="n">ctr</span> <span class="o">-=</span> <span class="mi">1</span>
-    <span class="k">print</span> <span class="s">&quot;Done!&quot;</span>
+    <span class="k">print</span> <span class="s2">&quot;Done!&quot;</span>
 
 <span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
 
-    <span class="n">description</span> <span class="o">=</span> <span class="s">&quot;ChoppedPress lets you split the WordPress XML export file &quot;</span>
-    <span class="s">&quot;into smaller files that can be used to import your posts, comments, tags&quot;</span>
-    <span class="s">&quot; and categories into a new WordPress installation.&quot;</span>
+    <span class="n">description</span> <span class="o">=</span> <span class="s2">&quot;ChoppedPress lets you split the WordPress XML export file &quot;</span>
+    <span class="s2">&quot;into smaller files that can be used to import your posts, comments, tags&quot;</span>
+    <span class="s2">&quot; and categories into a new WordPress installation.&quot;</span>
 
-    <span class="n">usage</span> <span class="o">=</span> <span class="s">&quot;Usage:  %prog  [[] [] []]&quot;</span>
-    <span class="n">epilog</span> <span class="o">=</span> <span class="s">&quot;Constructive comments and feedback can be sent to ogmaciel at gnome dot org.&quot;</span>
-    <span class="n">version</span> <span class="o">=</span> <span class="s">&quot;%prog version 0.1&quot;</span>
+    <span class="n">usage</span> <span class="o">=</span> <span class="s2">&quot;Usage:  %prog  [[] [] []]&quot;</span>
+    <span class="n">epilog</span> <span class="o">=</span> <span class="s2">&quot;Constructive comments and feedback can be sent to ogmaciel at gnome dot org.&quot;</span>
+    <span class="n">version</span> <span class="o">=</span> <span class="s2">&quot;%prog version 0.1&quot;</span>
 
     <span class="n">parser</span> <span class="o">=</span> <span class="n">OptionParser</span><span class="p">(</span><span class="n">usage</span><span class="o">=</span><span class="n">usage</span><span class="p">,</span> <span class="n">description</span><span class="o">=</span><span class="n">description</span><span class="p">,</span> <span class="n">epilog</span><span class="o">=</span><span class="n">epilog</span><span class="p">,</span> <span class="n">version</span><span class="o">=</span><span class="n">version</span><span class="p">)</span>
-    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-i'</span><span class="p">,</span> <span class="s">'--infile'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'infile'</span><span class="p">,</span> <span class="n">metavar</span><span class="o">=</span><span class="s">''</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'The XML file generated by WordPress'</span><span class="p">)</span>
-    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-o'</span><span class="p">,</span> <span class="s">'--outfile'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'outfile'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="s">'out'</span><span class="p">,</span> <span class="n">metavar</span><span class="o">=</span><span class="s">''</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'The name for the smaller XML files. [default: </span><span class="si">%d</span><span class="s">efault]'</span><span class="p">)</span>
-    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-t'</span><span class="p">,</span> <span class="s">'--tag'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'tag'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="s">'/rss/channel/item'</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'The XML tag that represents your data. [default: </span><span class="si">%d</span><span class="s">efault]'</span><span class="p">)</span>
-    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s">'-n'</span><span class="p">,</span> <span class="s">'--number'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s">'number'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="nb">type</span><span class="o">=</span><span class="nb">int</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s">'How many new files should be generated. [default: </span><span class="si">%d</span><span class="s">efault]'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s1">'-i'</span><span class="p">,</span> <span class="s1">'--infile'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s1">'infile'</span><span class="p">,</span> <span class="n">metavar</span><span class="o">=</span><span class="s1">''</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s1">'The XML file generated by WordPress'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s1">'-o'</span><span class="p">,</span> <span class="s1">'--outfile'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s1">'outfile'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="s1">'out'</span><span class="p">,</span> <span class="n">metavar</span><span class="o">=</span><span class="s1">''</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s1">'The name for the smaller XML files. [default: </span><span class="si">%d</span><span class="s1">efault]'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s1">'-t'</span><span class="p">,</span> <span class="s1">'--tag'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s1">'tag'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="s1">'/rss/channel/item'</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s1">'The XML tag that represents your data. [default: </span><span class="si">%d</span><span class="s1">efault]'</span><span class="p">)</span>
+    <span class="n">parser</span><span class="o">.</span><span class="n">add_option</span><span class="p">(</span><span class="s1">'-n'</span><span class="p">,</span> <span class="s1">'--number'</span><span class="p">,</span> <span class="n">dest</span><span class="o">=</span><span class="s1">'number'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="nb">type</span><span class="o">=</span><span class="nb">int</span><span class="p">,</span> <span class="n">help</span><span class="o">=</span><span class="s1">'How many new files should be generated. [default: </span><span class="si">%d</span><span class="s1">efault]'</span><span class="p">)</span>
 
-    <span class="c"># Verify arguments</span>
+    <span class="c1"># Verify arguments</span>
     <span class="p">(</span><span class="n">opts</span><span class="p">,</span> <span class="n">args</span><span class="p">)</span> <span class="o">=</span> <span class="n">parser</span><span class="o">.</span><span class="n">parse_args</span><span class="p">()</span>
 
     <span class="k">if</span> <span class="ow">not</span> <span class="n">opts</span><span class="o">.</span><span class="n">infile</span><span class="p">:</span>
@@ -256,7 +256,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
     <span class="n">chopit</span><span class="p">(</span><span class="n">opts</span><span class="o">.</span><span class="n">infile</span><span class="p">,</span> <span class="n">opts</span><span class="o">.</span><span class="n">outfile</span><span class="p">,</span> <span class="n">opts</span><span class="o">.</span><span class="n">tag</span><span class="p">,</span> <span class="n">opts</span><span class="o">.</span><span class="n">number</span><span class="p">)</span>
 
-<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;__main__&quot;</span><span class="p">:</span>
+<span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
     <span class="n">main</span><span class="p">()</span>
 </pre>
 <p>The usage should be pretty straight forward too:</p>
@@ -269,7 +269,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <span class="n">new</span> <span class="n">WordPress</span> <span class="n">installation</span><span class="o">.</span>
 
 <span class="n">Options</span><span class="p">:</span>
-  <span class="o">--</span><span class="n">version</span>             <span class="n">show</span> <span class="n">program</span><span class="s">'s version number and exit</span>
+  <span class="o">--</span><span class="n">version</span>             <span class="n">show</span> <span class="n">program</span><span class="s1">'s version number and exit</span>
   <span class="o">-</span><span class="n">h</span><span class="p">,</span> <span class="o">--</span><span class="n">help</span>            <span class="n">show</span> <span class="n">this</span> <span class="n">help</span> <span class="n">message</span> <span class="ow">and</span> <span class="nb">exit</span>
   <span class="o">-</span><span class="n">i</span> <span class="p">,</span> <span class="o">--</span><span class="n">infile</span><span class="o">=</span>
                         <span class="n">The</span> <span class="n">XML</span> <span class="nb">file</span> <span class="n">generated</span> <span class="n">by</span> <span class="n">WordPress</span>
@@ -352,7 +352,7 @@ line or comment here.</p>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2015 Og Maciel
+         <div class="col-xs-10">&copy; 2016 Og Maciel
             &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
