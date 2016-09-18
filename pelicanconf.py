@@ -70,6 +70,8 @@ SITEMAP = {
     }
 }
 
+FEED_MAX_ITEMS = 100
+
 # Disqus configuration
 DISQUS_SITENAME = 'journalofanopensourcee'
 
