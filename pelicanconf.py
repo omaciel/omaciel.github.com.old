@@ -42,9 +42,11 @@ RELATIVE_URLS = True
 STATIC_PATHS = [
     'extra',
     'images',
+    'extra/custom.css'
 ]
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/custom.css': {'path': 'static/custom.css'}
 }
 
 THEME = './themes/pelican-bootstrap3'
@@ -77,3 +79,4 @@ DISQUS_SITENAME = 'journalofanopensourcee'
 
 # Theme serttings
 BOOTSTRAP_THEME = 'united'
+CUSTOM_CSS = 'static/custom.css'
