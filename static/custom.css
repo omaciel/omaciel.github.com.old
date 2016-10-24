@@ -1,0 +1,19 @@
+article div.figure.align-right {
+  margin-left: 20px;
+}
+article div.figure.align-left {
+  margin-right: 20px;
+}
+article div.figure > img {
+  border-radius: 1%;
+}
+article ul.simple {
+  padding-left: 0px;
+}
+article ul.simple li {
+  left: 40px;
+  position: relative;
+}
+.summary img {
+  width: 100%;
+}
