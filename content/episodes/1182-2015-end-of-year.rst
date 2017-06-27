@@ -69,6 +69,7 @@ already have a couple of trips planned for the new year!
   and hang out with my fellow Red Hatters.
 
   .. image:: https://photos-4.dropbox.com/t/2/AABWqCX-YXi5QB4nFRGrIbEHiTLkzW5pRppen8aeuMqsxQ/12/102224/jpeg/32x32/3/1451620800/0/2/2015-02-08%2012.38.14.jpg/EMutJxjF6ozdBCACKAI/9f9ZtckqDadXsKolbkor5J16LSIA4jQpHlV8Dk9s6Fo?size_mode=3&size=1024x768
+     :alt: Feb
 
 * **May**: This time I went to Israel for the first time. It was a very
   long flight and when I finally arrived at `Ben Gurion`_ airport I
@@ -91,6 +92,7 @@ already have a couple of trips planned for the new year!
   the new features that we were working on.
 
   .. image:: https://photos-6.dropbox.com/t/2/AAB4e0nWWSoPTroflxZ4c-DirAJ1bi0z83tNzG5JIUb7Og/12/102224/jpeg/32x32/3/1451620800/0/2/pavel_og_israel_2015.jpg/EMutJxjF6ozdBCACKAI/KZsuflf14H5ZKHN4hVR1RuSgNNQyhGZcInq4bdyl2_o?size_mode=3&size=1024x768
+     :alt: May
 
   Lastly, I got to meet some
   of the `The Foreman`_ developers in person and it is always great to
@@ -107,10 +109,12 @@ already have a couple of trips planned for the new year!
   sightseeing.
 
   .. image:: https://photos-5.dropbox.com/t/2/AADDN3oAIeZ-3SRcIhfiiaBKtNXtsoDcqkSd6AdYUEh0yQ/12/102224/jpeg/32x32/3/1451620800/0/2/2015-07-16%2017.44.48.jpg/EMutJxjF6ozdBCACKAI/8eaPbviOw1vqHDtp3wjDTpjTFVvlmYthCLyXtjdTdrg?size_mode=3&size=1024x768
+     :alt: July
 
 * August: Took some time off from work and took the family to `Carolina Beach`_ for a few days. Got a lot reading done and enjoyed a much needed rest watching the kids running around on the beach.
 
   .. image:: https://photos-4.dropbox.com/t/2/AAC7a4q4B-1VXc0b6aovCtuK9BXoR2D-JaHi1cIrXA-ZXw/12/102224/jpeg/32x32/3/1451620800/0/2/2015-08-01%2015.26.31.jpg/EMutJxjF6ozdBCACKAI/rNRNleyOfijr1kUgPYSBx2t5nZ6DUqE5vgdqQcBPLb4?size_mode=3&size=1024x768
+     :alt: Aug
 
 I also had an opportunity to visit my teammates in `Pune`_, India, but decided that I had enough traveling for this year and postponed my trip for next year. :)
 
