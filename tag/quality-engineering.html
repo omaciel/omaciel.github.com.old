@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>quality engineering - Journal of an Open Sourcee</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+    <meta name="author" content="Og Maciel" />
+    <meta name="keywords" content="quality engineering" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Journal of an Open Sourcee" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Journal of an Open Sourcee"/>
+        <meta property="og:url" content="https://omaciel.github.io"/>
+        <meta property="og:description" content="Journal of an Open Sourcee"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://omaciel.github.io/theme/css/bootstrap.united.min.css" type="text/css"/>
+    <link href="https://omaciel.github.io/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://omaciel.github.io/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://omaciel.github.io/theme/css/style.css" type="text/css"/>
+        <link href="https://omaciel.github.io/static/custom.css" rel="stylesheet">
+
+        <link href="https://omaciel.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Journal of an Open Sourcee ATOM Feed"/>
+        <link href="https://omaciel.github.io/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Journal of an Open Sourcee RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://omaciel.github.io/" class="navbar-brand">
+Journal of an Open Sourcee            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li >
+                            <a href="https://omaciel.github.io/category/english.html">English</a>
+                        </li>
+                        <li >
+                            <a href="https://omaciel.github.io/category/portuguese.html">Portuguese</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://omaciel.github.io/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+            <article>
+                <h2><a href="https://omaciel.github.io/just-what-is-a-quality-engineer-part-1.html">Just What Is A Quality Engineer? Part 1</a></h2>
+                <div class="summary"><img alt="Picture of `Batman`_" class="align-left" src="images/batman-is-qe.jpeg" style="width: 25pc; height: 25pc;" />
+<p>Whenever I meet someone for the first time, after we get past the initial niceties typically involved when you meet someone for the first time, eventually the conversation shifts to work and what one does for a living. Inevitably I'm faced with what, at a first glance, may sound like a simple question and the conversation goes like this:</p>
+<ul class="simple">
+<li>New acquaintance: &quot;What do you do at Red Hat?&quot;</li>
+<li>Me: &quot;I manage a team of quality engineers for a couple of different products.&quot;</li>
+<li>New acquaintance: &quot;Oh, you mean quality assurance, right? QA?&quot;</li>
+<li>Me: &quot;No, quality <strong>engineers</strong>. QE.&quot;</li>
+</ul>
+<p>What usually followed then was a lengthy monologue whereby I spent usually around ten to fifteen minutes explaining what the difference between QA and QE is and what, in my opinion, sets these two professions apart. Now, before I get too deep into this topic, I have to add a disclaimer here so not to give folks the impression that what I'm talking about is backed by any official definition or some type of professional trade organization! The following are my own definitions and conclusions, none of which were pulled out of thin air, but backed by (so far) 10 years of experience working on the field of delivering quality products. If there are formal definitions out there, and they match with my own, it is by pure coincidence.</p>
+<p>Why the term 'Quality Engineer' is not well known I'm not sure, but I have a hunch that it may be related to something I noticed throughout the 10 years that I have spent on this field. In my personal experience, 'quality' is something that is not always considered as part of the creation of a new company, product or project. Furthermore, the term 'quality' is also not well defined or understood by those involved in actually attempting to 'get more' of it.</p>
+<p>In my experience, folks usually forget about the word 'quality', whatever that may be, happily start planning and developing their new ideas/products and eventually ship it to their customers. If the customer complains that something is not working or performing as advertised or it doesn't meet their expectations, no problem. Someone will convey the feedback back to the developers, a fix will eventually be provided and off it goes to the customer. Have you ever seen this before? I have!</p>
+<p>Eventually, assuming that the business is doing well and is attracting more paying customers, it is highly likely that support requests or requests for new features will increase. After all, who wants to pay for something that doesn't work as expected? Also, who doesn't want a new feature of their own either? Depending on the size of the company and the number of new requests going into their backlog, I'd expect that either one of the following events would then take place:</p>
+<ul class="simple">
+<li>More tasks from the backlog would be added to individual's 'plates', or</li>
+<li>New associates would be hired to handle the volume of tasks</li>
+</ul>
+<p>I guess one could also stop accepting new requests for support or new features, but that would not make your customers happy, would it?</p>
+<p>Regardless of the outcome, the influx of new tasks is dealt with and if things get out of control again, one could always try to get an intern or distribute tasks more evenly. Now, notice how the word 'quality' has not been mentioned yet? It is no accident that to solve an increase of more work, most often than not the number one solution used is to throw more resources at it. There's even a name for this type of 'solution': <a class="reference external" href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">The Mythical Man-Month</a>.</p>
+<p>You see, sadly, 'quality' is something that usually only becomes important as an afterthought. It is the last piece added to the puzzle that comprises the machinery of delivering something to an end user. It is only when enough angry and unsatisfied paying customers make enough noise about the unreliability or usability of the product that folks start asking: &quot;Was this even tested before being put on the market?&quot;</p>
+<p>If the pain being inflicted by customer feedback is sharp enough, a <strong>Quality Assurance</strong> (QA) team is hastily put together. Most of the time in my experience, this is a Team of One usually made up of one of the developers who after being dragged kicking and screaming from his cubicle, eventually is beat into accepting his new role as a button pusher, text field filler, testing guy. Issues are then assigned to him and a general sense of relief is experienced by all. Have you also seen this before? I have! I'm 2 for 2 so far!</p>
+<p>The idea is that by creating a team of one to sit in the receiving end of the product release cycle, nothing would get shipped until some level of 'quality' is achieved. The fallacy with this statement, however, is that no matter how agile your team may be, the assurance of the quality for a product somehow is still part of a <a class="reference external" href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>. Wouldn't it be better if problems were caught as early as possible in the process instead of waiting until the very end? To me that is a no brainer but somehow the process of testing a product is still relegated to the very end, usually when the date for the release is just around the corner.</p>
+<p>Why is the term <strong>Quality Engineer</strong> not well known then? I feel that the answer is comprised of several parts:</p>
+<ul class="simple">
+<li>'Quality' doesn't come into the picture, if ever, until the very end of the game;</li>
+<li>If there is a QA team, nobody outside of that team really knows what they do. It has something to do with testing...</li>
+<li>Engineering is usually identified with skills related to writing code and designing algorithms, usually by a developer and not by QA;</li>
+</ul>
+<p>No surprise that quality engineering is something foreign to most!</p>
+<p>OK, so what <strong>is</strong> a <strong>Quality Engineer</strong> then? Glad you asked! The answer to that I shall provide in a subsequent post, as I still need to cover some more ground and talk about what 'quality' is, what someone in QA does and finally what is a QE!</p>
+<p>My next article will continue this journey through the land of Quality and Engineering, and in the meantime, please let me know what you think about this subject.</p>
+
+                    <a class="btn btn-default btn-xs" href="https://omaciel.github.io/just-what-is-a-quality-engineer-part-1.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://github.com/omaciel"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                <li class="list-group-item"><a href="https://twitter.com/OgMaciel"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="http://www.linkedin.com/pub/og-maciel/7/425/257/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
+                <li class="list-group-item"><a href="https://www.goodreads.com/user/show/12048315-og-maciel"><i class="fa fa-goodreads-square fa-lg"></i> GoodReads</a></li>
+                <li class="list-group-item"><a href="http://instagram.com/ogmaciel"><i class="fa fa-instagram-square fa-lg"></i> Instagram</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="https://omaciel.github.io/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                </ul>
+            </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2017 Og Maciel
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="https://omaciel.github.io/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://omaciel.github.io/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="https://omaciel.github.io/theme/js/respond.min.js"></script>
+
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'journalofanopensourcee'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+
+</body>
+</html>
