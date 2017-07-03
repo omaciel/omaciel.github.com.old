@@ -13,7 +13,7 @@ Just What Is A Quality Engineer? Part 2
    :width: 25pc
 
 
-The `last time`_ I wrote about **Quality Engineering**, I mentioned that some of the reasons why people are not familiar with this term are:
+The `last time`_ I wrote about **Quality Engineering**, I mentioned that some of the reasons why people are not familiar with this term are, in no particular order:
 
 * 'Quality' is usually something that is added as an after thought and doesn't really come into the picture, if ever, until the very end of the release process
 * Nobody outside of a QA team really knows what they do. It has something to do with testing...
