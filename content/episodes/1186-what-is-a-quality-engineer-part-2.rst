@@ -17,7 +17,7 @@ The `last time`_ I wrote about **Quality Engineering**, I mentioned that some of
 
 * 'Quality' is usually something that is added as an after thought and doesn't really come into the picture, if ever, until the very end of the release process
 * Nobody outside of a QA team really knows what they do. It has something to do with testing...
-* Engineering is usually identified with skills related to writing code and designing algorithms, usually by a developer and not by QA;
+* Engineering is usually identified with skills related to writing code and designing algorithms, usually by a developer and not by QA
 
 A quick search on Google shows the following results:
 
@@ -38,11 +38,11 @@ Furthermore,
 That is quite a mouth full (the emphasized words are mine), but I feel that it does a good job at stating the following ideas:
 
 * Quality Assurance and/or Quality Control is used to assure the quality of a product, but there is no clear distinction as to when in the release process it should be used. In my experience, it usually happens when the product is close to being shipped!
-* It is also used to make sure that **requirements** (the what) are **fulfilled** (the how)
+* Used to make sure that **requirements** (the what) are **fulfilled** (the how)
 * Used to measure, monitor and compare results against a standard
-* Used for error preventions (which to me denotes a reactive mode)
+* Used for error preventions (which to me denotes a reactive mode compared to a proactive mode)
 
-In other words, those who do quality assurance for a living are involved in verifying that the final version of the product being tested delivers exactly what was designed with the expected behavior and outcome. It requires that the QA person fully understand what is being added to or changed in the product and, most importantly, what the end result should be.
+In other words, those who do quality assurance for a living are involved in verifying that the final version of the product being tested delivers exactly what was designed with the expected behavior and outcome. It requires that the QA person fully understand what is being added to or changed in the product and, most importantly, what the end result should be. Testing is definitely a big part of the 'day to day' activities for someone in QA, which does provide useful information to create a positive feedback loop and hopefully increase error prevention.
 
 Here's what I don't like about this whole business though:
 
@@ -54,13 +54,17 @@ Monitoring and measuring how a product compares against some set of standardized
 
 Lastly, if your job is to make sure that no product 'goes out the door' without a thorough validation, that it works as expected and that all known issues have been fixed, aren't you forgetting something? What about the issues that are not known yet? You may be thinking that I'm joking, but seriously. If all you do is prevent errors from being shipped to your customers, how about detecting them as early as possible to give all major stake-holders enough time to make a decision as to what should be done with them? Again, if you're catching them at the end of the release cycle, it could be too late.
 
-If your company has a QA team, then you're already ahead of the game, since it is only when customer dissatisfaction is very high and threats to affect the final numbers in the quarter that people start paying attention to delivering quality and put together a team to deal with it. But it is not enough if you're constantly reacting to issues with the product at the very end of the release process! Quality, good quality, is what everyone in your team should be striving for... not some times, but all the time!
+If your company has a QA team, then you're already ahead of the game, since it is only when customer dissatisfaction is very high and the final numbers for the quarter start to look gloomy that people start paying attention to delivering quality. But it is not enough if you're only kicking the can down the road only to find yourself facing the same scenario later on! Quality, good quality, is what everyone in your team should be striving for... not some times, but all the time!
 
 If you are in a QA team, do you ever feel like you're ahead of the game or feel like you're constantly playing catch up? Do you wish you could have a chance to catch issues as early as possible? Wouldn't you want to stop racing against the clock to get issues verified and have a shot at doing more exploratory testing and identify problems early on? Would you say 'no' to an opportunity to provide some insight into how the product could be improved and perhaps how some work-flows could be simplified to increase the usability?
 
-Next time I'd like to talk about **quality engineering** (QE), what it is, what it isn't, and how you should be either hiring more QE or, if you're in QA, how you should be working to become a QE!
+It should be clear by now that quality is something that should be something systemic for any project or company who takes their customer satisfaction as their top priority! Sure you can test the product as much as you (or your QA team) can handle, but you'd be only treating the symptoms. Maintaining a 'quality first' mentality and improving existing processes to make sure that quality is an integral part of everyone's day to day activities is primordial if you really want to make a bigger impact!
 
-As always, please let know what your thoughts are on this topic as I'd live to get some constructive feedback!
+This is when a Quality Engineer comes in! A Quality Engineer is someone who can actively and continuously keep driving improvements to the release cycle process and are in the unique position to help the entire team adopt these improvements so that everyone is using the same methodologies.
+
+Next time I will then talk about **quality engineering** (QE), what it is, what it isn't, and how you should be either hiring more QE or, if you're in QA, how you should be working to become a QE!
+
+As always, please let me know what your thoughts are on this topic as I'd live to get some constructive feedback!
 
     Disclaimer: The opinions contained within this article are mine alone and do not necessarily represent the opinions of any entity whatsoever with which I have been, am now or will be affiliated.
 
