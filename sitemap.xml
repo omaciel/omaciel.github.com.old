@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/</loc>
-<lastmod>2017-06-30T18:56:59-00:00</lastmod>
+<lastmod>2017-07-03T13:27:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/archives.html</loc>
-<lastmod>2017-06-30T18:56:59-00:00</lastmod>
+<lastmod>2017-07-03T13:27:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/tags.html</loc>
-<lastmod>2017-06-30T18:56:59-00:00</lastmod>
+<lastmod>2017-07-03T13:27:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://omaciel.github.io/categories.html</loc>
-<lastmod>2017-06-30T18:56:59-00:00</lastmod>
+<lastmod>2017-07-03T13:27:10-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://omaciel.github.io/just-what-is-a-quality-engineer-part-2.html</loc>
+<lastmod>2017-07-03T00:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -8328,7 +8335,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/category/english.html</loc>
-<lastmod>2017-06-30T00:00:00-04:56</lastmod>
+<lastmod>2017-07-03T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8587,7 +8594,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/qa.html</loc>
-<lastmod>2017-06-30T00:00:00-04:56</lastmod>
+<lastmod>2017-07-03T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8601,7 +8608,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/qe.html</loc>
-<lastmod>2017-06-30T00:00:00-04:56</lastmod>
+<lastmod>2017-07-03T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -8615,7 +8622,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/quality-engineering.html</loc>
-<lastmod>2017-06-30T00:00:00-04:56</lastmod>
+<lastmod>2017-07-03T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9133,7 +9140,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/tag/work.html</loc>
-<lastmod>2017-06-30T00:00:00-04:56</lastmod>
+<lastmod>2017-07-03T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -9553,7 +9560,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://omaciel.github.io/author/og-maciel.html</loc>
-<lastmod>2017-06-30T00:00:00-04:56</lastmod>
+<lastmod>2017-07-03T00:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
